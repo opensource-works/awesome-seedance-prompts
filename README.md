@@ -10,7 +10,7 @@
 
 ### ▶ [Open the video gallery](https://opensource-works.github.io/awesome-seedance-prompts/)
 
-Every preview below is a **silent 3-second loop that plays right here on GitHub** — GitHub's Markdown strips `<video>`, so an animated image is as close to playback as this page can get. Click any of them for the full clip with sound, or open the gallery, where the videos play in-page, prompts have a copy button, and you can filter by model, category or creator.
+**Every clip below plays right here on GitHub** — full length, with sound, no click-through. Open the gallery instead if you want to search across prompts, filter by model or category, or copy a prompt in one click.
 
 ## What's in here
 
@@ -51,43 +51,43 @@ Every preview below is a **silent 3-second loop that plays right here on GitHub*
 
 ### Seedance 2.0 is insane
 
-<a href="https://x.com/AngryTomtweets/status/2020192635936469110"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AngryTomtweets_2020053177555644418.webp" width="460" alt="Seedance 2.0 is insane"></a>
+https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
 **[Angry Tom](https://x.com/AngryTomtweets)** · [@AngryTomtweets](https://x.com/AngryTomtweets) · Seedance 2.0 · 2026-02-07 · 526.8K views · [▶ Watch on X](https://x.com/AngryTomtweets/status/2020192635936469110)
 
 ### Seedance 2.5 is mythos moment of Video Models
 
-<a href="https://x.com/chetaslua/status/2069304088177848479"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chetaslua_2069303610572410880.webp" width="460" alt="Seedance 2.5 is mythos moment of Video Models"></a>
+https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
 **[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 206.7K views · [▶ Watch on X](https://x.com/chetaslua/status/2069304088177848479)
 
 ### Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot
 
-<a href="https://x.com/testingcatalog/status/2076043332472463471"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/testingcatalog_2076043046462857216.webp" width="460" alt="Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot"></a>
+https://github.com/user-attachments/assets/837b684c-8845-4c65-bcbe-47c384c80c3e
 
 **[🚨 AI News | TestingCatalog](https://x.com/testingcatalog)** · [@testingcatalog](https://x.com/testingcatalog) · Seedance 2.5 · 2026-07-11 · 77.5K views · [▶ Watch on X](https://x.com/testingcatalog/status/2076043332472463471)
 
 ### FIRST TEST Seedance 2.0!
 
-<a href="https://x.com/heydin_ai/status/2021204908909945287"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021202450619957250.webp" width="460" alt="FIRST TEST Seedance 2.0!"></a>
+https://github.com/user-attachments/assets/3b17e346-3569-4a9d-817e-0f4d85129fd3
 
 **[Dinda Prasetyo](https://x.com/heydin_ai)** · [@heydin_ai](https://x.com/heydin_ai) · Seedance 2.0 · 2026-02-10 · 48.3K views · [▶ Watch on X](https://x.com/heydin_ai/status/2021204908909945287)
 
 ### Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt
 
-<a href="https://x.com/arikuschnir/status/2083209950231220403"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/arikuschnir_2083209566615900160.webp" width="460" alt="Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt"></a>
+https://github.com/user-attachments/assets/255c9b4b-ec01-4de4-9b56-50a64c37a011
 
 **[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 40.1K views · [▶ Watch on X](https://x.com/arikuschnir/status/2083209950231220403)
 
 ### Seedance 2.5 first test — 30 seconds in one go, with some morphing
 
-<a href="https://x.com/aimikoda/status/2083182758407307605"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2083181242929790976.webp" width="460" alt="Seedance 2.5 first test — 30 seconds in one go, with some morphing"></a>
+https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
 **[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 32.4K views · [▶ Watch on X](https://x.com/aimikoda/status/2083182758407307605)
 
 ### Made with Seedance 2.0 + GPT image 2
 
-<a href="https://x.com/itsshara_ai/status/2072645939639243253"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2072645882378657793.webp" width="460" alt="Made with Seedance 2.0 + GPT image 2"></a>
+https://github.com/user-attachments/assets/06008686-59cb-40c0-8ff6-2f77312a077a
 
 **[Shara I Ai Video Creator](https://x.com/itsshara_ai)** · [@itsshara_ai](https://x.com/itsshara_ai) · Seedance 2.0 · 2026-07-02 · 11.1K views · [▶ Watch on X](https://x.com/itsshara_ai/status/2072645939639243253)
 
@@ -95,7 +95,7 @@ Every preview below is a **silent 3-second loop that plays right here on GitHub*
 
 ### Made with Seedance 2.0 + GPT image 2
 
-<a href="https://x.com/itsshara_ai/status/2076845440214196529"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2076845386845847552.webp" width="460" alt="Made with Seedance 2.0 + GPT image 2"></a>
+https://github.com/user-attachments/assets/b51a87ef-1724-4afe-ac01-8476fc74e383
 
 **[Shara I Ai Video Creator](https://x.com/itsshara_ai)** · [@itsshara_ai](https://x.com/itsshara_ai) · Seedance 2.0 · 2026-07-14 · 8.7K views · [▶ Watch on X](https://x.com/itsshara_ai/status/2076845440214196529)
 
@@ -103,7 +103,7 @@ Every preview below is a **silent 3-second loop that plays right here on GitHub*
 
 ### 100% AI — how far video generation moved since Will Smith eating spaghetti
 
-<a href="https://x.com/amit0xic/status/2021604487111024994"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/amit0xic_2021604292168146944.webp" width="460" alt="100% AI — how far video generation moved since Will Smith eating spaghetti"></a>
+https://github.com/user-attachments/assets/8e2c746e-ddde-44db-a434-7f3706f5f419
 
 **[t0xic 🧪](https://x.com/amit0xic)** · [@amit0xic](https://x.com/amit0xic) · Seedance 2.0 · 2026-02-11 · 3.9K views · [▶ Watch on X](https://x.com/amit0xic/status/2021604487111024994)
 
@@ -112,7 +112,7 @@ Every preview below is a **silent 3-second loop that plays right here on GitHub*
 
 ### A 1-minute cinematic video in 5 minutes — 4 shots, 15 seconds each
 
-<a href="https://x.com/minchoi/status/2020878278475518152"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/minchoi_2020875492115816448.webp" width="460" alt="A 1-minute cinematic video in 5 minutes — 4 shots, 15 seconds each"></a>
+https://github.com/user-attachments/assets/fae053df-f5ff-49b7-8e1a-87d22b1c22b1
 
 **[Min Choi](https://x.com/minchoi)** · [@minchoi](https://x.com/minchoi) · Seedance 2.0 · 2026-02-09 · 391K views · [▶ Watch on X](https://x.com/minchoi/status/2020878278475518152)
 
@@ -120,19 +120,19 @@ Every preview below is a **silent 3-second loop that plays right here on GitHub*
 
 ### Video Agent takes you from a single prompt to a finished video
 
-<a href="https://x.com/HeyGen/status/2041212383205716436"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/HeyGen_2041212275802152960.webp" width="460" alt="Video Agent takes you from a single prompt to a finished video"></a>
+https://github.com/user-attachments/assets/fda67ba1-5cf4-4362-b6a0-d8edf803abc1
 
 **[HeyGen](https://x.com/HeyGen)** · [@HeyGen](https://x.com/HeyGen) · Seedance 2.0 · 2026-04-06 · 231K views · [▶ Watch on X](https://x.com/HeyGen/status/2041212383205716436)
 
 ### Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…
 
-<a href="https://x.com/heydin_ai/status/2021496696115736746"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021475954321915910.webp" width="460" alt="Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…"></a>
+https://github.com/user-attachments/assets/69f23cf2-da42-49e4-a2f9-7b7d1ce3b131
 
 **[Dinda Prasetyo](https://x.com/heydin_ai)** · [@heydin_ai](https://x.com/heydin_ai) · Seedance 2.0 · 2026-02-11 · 23.8K views · [▶ Watch on X](https://x.com/heydin_ai/status/2021496696115736746)
 
 ### Golden-hour slice-of-life alley scene, visual only
 
-<a href="https://x.com/HeyAbhishek/status/2073676993875575170"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/HeyAbhishek_2073676936552034304.webp" width="460" alt="Golden-hour slice-of-life alley scene, visual only"></a>
+https://github.com/user-attachments/assets/675c3def-c9dd-46af-aa20-b27f5ecd37fe
 
 **[Abhishek](https://x.com/HeyAbhishek)** · [@HeyAbhishek](https://x.com/HeyAbhishek) · Seedance 2.0 · 2026-07-05 · 15.3K views · [▶ Watch on X](https://x.com/HeyAbhishek/status/2073676993875575170)
 
@@ -174,13 +174,13 @@ Final close shot. The cat brushes against her leg. She looks toward the camera w
 
 ### Seedance 2.5 is the ultimate video SOTA
 
-<a href="https://x.com/dr_cintas/status/2083283266451169431"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dr_cintas_2083283134267768832.webp" width="460" alt="Seedance 2.5 is the ultimate video SOTA"></a>
+https://github.com/user-attachments/assets/f3715646-4ea2-4983-8444-6c4c47abcbbc
 
 **[Alvaro Cintas](https://x.com/dr_cintas)** · [@dr_cintas](https://x.com/dr_cintas) · Seedance 2.5 · 2026-07-31 · 6K views · [▶ Watch on X](https://x.com/dr_cintas/status/2083283266451169431)
 
 ### Macro spices collapsing into a cosmos, stop-motion style
 
-<a href="https://x.com/noorwithwifi/status/2051983365688242324"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/noorwithwifi_2051983228416999424.webp" width="460" alt="Macro spices collapsing into a cosmos, stop-motion style"></a>
+https://github.com/user-attachments/assets/dfdf63a1-e228-4ac0-bb9c-68d140cfb89d
 
 **[NoorAI](https://x.com/noorwithwifi)** · [@noorwithwifi](https://x.com/noorwithwifi) · Seedance 2.0 · 2026-05-06 · 4.3K views · [▶ Watch on X](https://x.com/noorwithwifi/status/2051983365688242324)
 
@@ -208,7 +208,7 @@ Ensure smooth, physically believable particle motion even during surreal transfo
 
 ### "The Dream of Billions" — a 15-second football short film
 
-<a href="https://x.com/RizwanAly07/status/2066808313166393432"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/RizwanAly07_2066808206131871744.webp" width="460" alt="&quot;The Dream of Billions&quot; — a 15-second football short film"></a>
+https://github.com/user-attachments/assets/95bd03b2-e520-4540-8ae0-454748490683
 
 **[Maverick | AI](https://x.com/RizwanAly07)** · [@RizwanAly07](https://x.com/RizwanAly07) · Seedance 2.0 · 2026-06-16 · 2.7K views · [▶ Watch on X](https://x.com/RizwanAly07/status/2066808313166393432)
 
@@ -239,7 +239,7 @@ Ultra realistic, emotional storytelling, FIFA World Cup atmosphere, cinematic li
 
 ### Tom and Jerry recreated as photoreal animals in 4K
 
-<a href="https://x.com/oggii_0/status/2075074872351572216"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2075060566352343040.webp" width="460" alt="Tom and Jerry recreated as photoreal animals in 4K"></a>
+https://github.com/user-attachments/assets/620a1bff-2daf-4af2-83e3-8a8b87e6ecd8
 
 **[Oogie](https://x.com/oggii_0)** · [@oggii_0](https://x.com/oggii_0) · Seedance 2.0 · 2026-07-09 · 60.4K views · [▶ Watch on X](https://x.com/oggii_0/status/2075074872351572216)
 
@@ -364,25 +364,25 @@ Maintain perfect temporal consistency and character consistency throughout the e
 
 ### The greatest villain entrance in anime history
 
-<a href="https://x.com/AIFrontliner/status/2024868799632031862"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIFrontliner_2024687799300214785.webp" width="460" alt="The greatest villain entrance in anime history"></a>
+https://github.com/user-attachments/assets/5f18d152-3af2-469f-b44c-5e95c093ee22
 
 **[AI Frontliner](https://x.com/AIFrontliner)** · [@AIFrontliner](https://x.com/AIFrontliner) · Seedance 2.0 · 2026-02-20 · 55.4K views · [▶ Watch on X](https://x.com/AIFrontliner/status/2024868799632031862)
 
 ### This is a Seedance 2.0 interpretation of a manga that has never been adapted into an anime 🤯
 
-<a href="https://x.com/AIWarper/status/2022088105835299208"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIWarper_2022087369974022144.webp" width="460" alt="This is a Seedance 2.0 interpretation of a manga that has never been adapted into an anime 🤯"></a>
+https://github.com/user-attachments/assets/1c40fb8d-3ca8-4c7d-a097-681415cec353
 
 **[A.I.Warper](https://x.com/AIWarper)** · [@AIWarper](https://x.com/AIWarper) · Seedance 2.0 · 2026-02-12 · 55K views · [▶ Watch on X](https://x.com/AIWarper/status/2022088105835299208)
 
 ### Tournament of Power with famous anime characters, from one prompt
 
-<a href="https://x.com/NACHOS2D_/status/2021295886978908547"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/NACHOS2D__2021294949258465280.webp" width="460" alt="Tournament of Power with famous anime characters, from one prompt"></a>
+https://github.com/user-attachments/assets/3e425690-d5a9-4350-9e67-13f224136909
 
 **[nachos2d](https://x.com/NACHOS2D_)** · [@NACHOS2D_](https://x.com/NACHOS2D_) · Seedance 2.0 · 2026-02-10 · 30.1K views · [▶ Watch on X](https://x.com/NACHOS2D_/status/2021295886978908547)
 
 ### Doodle overlay — real objects turning into 2D cartoons
 
-<a href="https://x.com/Naiknelofar788/status/2077382054275436584"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2077381966698278912.webp" width="460" alt="Doodle overlay — real objects turning into 2D cartoons"></a>
+https://github.com/user-attachments/assets/c4bc435f-d48f-436b-a031-b0f5c799afe9
 
 **[simeon-sanai](https://x.com/Naiknelofar788)** · [@Naiknelofar788](https://x.com/Naiknelofar788) · Seedance 2.0 · 2026-07-15 · 13.1K views · [▶ Watch on X](https://x.com/Naiknelofar788/status/2077382054275436584)
 
@@ -413,7 +413,7 @@ If you want to generate the specific static assets or concepts individually, you
 
 ### Haunted interdimensional train, anime style, from one reference image
 
-<a href="https://x.com/chatgptpaglu/status/2054065454193275135"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chatgptpaglu_2054065107253047297.webp" width="460" alt="Haunted interdimensional train, anime style, from one reference image"></a>
+https://github.com/user-attachments/assets/ca8948f4-11af-4ca3-b172-b0d5ee78813c
 
 **[yusra.](https://x.com/chatgptpaglu)** · [@chatgptpaglu](https://x.com/chatgptpaglu) · Seedance 2.0 · 2026-05-12 · 1.6K views · [▶ Watch on X](https://x.com/chatgptpaglu/status/2054065454193275135)
 
@@ -434,7 +434,7 @@ Negative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs,
 
 ### The Storm Emperor Awakening — sakuga-style summoning ritual
 
-<a href="https://x.com/manibuildsAI/status/2062051302499332565"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/manibuildsAI_2062051264285003776.webp" width="460" alt="The Storm Emperor Awakening — sakuga-style summoning ritual"></a>
+https://github.com/user-attachments/assets/166531a0-5753-495a-ac24-867202a62529
 
 **[Mani](https://x.com/manibuildsAI)** · [@manibuildsAI](https://x.com/manibuildsAI) · Seedance 2.0 · 2026-06-03 · 1.5K views · [▶ Watch on X](https://x.com/manibuildsAI/status/2062051302499332565)
 
@@ -467,13 +467,13 @@ Aggressive anime cinematography. Fast push-ins, orbital tracking shots, extreme 
 
 ### Three images and the prompt "2 women fighting"
 
-<a href="https://x.com/EHuanglu/status/2020828503810445785"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2020828440140943360.webp" width="460" alt="Three images and the prompt &quot;2 women fighting&quot;"></a>
+https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4
 
 **[el.cine](https://x.com/EHuanglu)** · [@EHuanglu](https://x.com/EHuanglu) · Seedance 2.0 · 2026-02-09 · 516.2K views · [▶ Watch on X](https://x.com/EHuanglu/status/2020828503810445785)
 
 ### Michael Jackson vs Alan Ritchson, night-time street fight
 
-<a href="https://x.com/Just_sharon7/status/2050798932662321438"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2050798586041192448.webp" width="460" alt="Michael Jackson vs Alan Ritchson, night-time street fight"></a>
+https://github.com/user-attachments/assets/36dcac21-04a5-46f9-84f9-0cc7eec48a5a
 
 **[Sharon Riley](https://x.com/Just_sharon7)** · [@Just_sharon7](https://x.com/Just_sharon7) · Seedance 2.0 · 2026-05-03 · 8.5K views · [▶ Watch on X](https://x.com/Just_sharon7/status/2050798932662321438)
 
@@ -495,7 +495,7 @@ Aggressive anime cinematography. Fast push-ins, orbital tracking shots, extreme 
 
 ### A WW2 motorcycle escape sequence
 
-<a href="https://x.com/pewdenai/status/2021648907915411795"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/pewdenai_2021648863921418240.webp" width="460" alt="A WW2 motorcycle escape sequence"></a>
+https://github.com/user-attachments/assets/f8bc0af2-82fd-4c4b-9615-abb787e7d0f8
 
 **[pewden AI](https://x.com/pewdenai)** · [@pewdenai](https://x.com/pewdenai) · Seedance 2.0 · 2026-02-11 · 893 views · [▶ Watch on X](https://x.com/pewdenai/status/2021648907915411795)
 
@@ -512,7 +512,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 ### 3D dancer animated from a movement instruction sheet
 
-<a href="https://x.com/john_my07/status/2048428389347024922"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john_my07_2048428337945788416.webp" width="460" alt="3D dancer animated from a movement instruction sheet"></a>
+https://github.com/user-attachments/assets/794480cf-6505-4c7a-bdfb-849db361aa3f
 
 **[Johnn](https://x.com/john_my07)** · [@john_my07](https://x.com/john_my07) · Seedance 2.0 · 2026-04-26 · 54.8K views · [▶ Watch on X](https://x.com/john_my07/status/2048428389347024922)
 
@@ -545,13 +545,13 @@ No color, no background scenery, no extra characters, no visual clutter, only th
 
 ### K-pop choreography sheet turned into a dance take
 
-<a href="https://x.com/john_my07/status/2049524601471074422"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john_my07_2049524556721983490.webp" width="460" alt="K-pop choreography sheet turned into a dance take"></a>
+https://github.com/user-attachments/assets/8df2fc90-f032-41a6-b25e-56279f106df8
 
 **[Johnn](https://x.com/john_my07)** · [@john_my07](https://x.com/john_my07) · Seedance 2.0 · 2026-04-29 · 21.6K views · [▶ Watch on X](https://x.com/john_my07/status/2049524601471074422)
 
 ### Asian contemporary dance storyboard turned into a quiet continuous take
 
-<a href="https://x.com/aimikoda/status/2073596755212431768"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2073596683166863360.webp" width="460" alt="Asian contemporary dance storyboard turned into a quiet continuous take"></a>
+https://github.com/user-attachments/assets/519a851f-bccc-42e3-a048-00aad19a62e1
 
 **[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-07-05 · 8K views · [▶ Watch on X](https://x.com/aimikoda/status/2073596755212431768)
 
@@ -593,7 +593,7 @@ And this is the 5s video without storyboard part.
 
 ### Beat-synced outfit swap mid-dance from three reference images
 
-<a href="https://x.com/Kashberg_0/status/2049074008730247669"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Kashberg_0_2049073682732269568.webp" width="460" alt="Beat-synced outfit swap mid-dance from three reference images"></a>
+https://github.com/user-attachments/assets/5e97192f-d6c9-4e95-9e40-a2e741f845c7
 
 **[Kashberg](https://x.com/Kashberg_0)** · [@Kashberg_0](https://x.com/Kashberg_0) · Seedance 2.0 · 2026-04-28 · 4.1K views · [▶ Watch on X](https://x.com/Kashberg_0/status/2049074008730247669)
 
@@ -607,7 +607,7 @@ Have the character from Image 1 perform the dance based on the breakdown in Imag
 
 ### K-pop dance animated from a 16-step choreography sheet
 
-<a href="https://x.com/miilesus/status/2049914543015334243"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/miilesus_2049913700736233472.webp" width="460" alt="K-pop dance animated from a 16-step choreography sheet"></a>
+https://github.com/user-attachments/assets/a61a23c8-ff5d-46dc-a0a5-cd378dc8b343
 
 **[Melis✨](https://x.com/miilesus)** · [@miilesus](https://x.com/miilesus) · Seedance 2.0 · 2026-04-30 · 3.8K views · [▶ Watch on X](https://x.com/miilesus/status/2049914543015334243)
 
@@ -693,19 +693,19 @@ Maintain clean instructional aesthetic
 
 ### Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…
 
-<a href="https://x.com/lepadphone/status/2020728930278531232"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/lepadphone_2020728577675980800.webp" width="460" alt="Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…"></a>
+https://github.com/user-attachments/assets/8c8f5cb5-d633-4332-83ab-e39ebe7b5861
 
 **[padphone](https://x.com/lepadphone)** · [@lepadphone](https://x.com/lepadphone) · Seedance 2.0 · 2026-02-09 · 508.4K views · [▶ Watch on X](https://x.com/lepadphone/status/2020728930278531232)
 
 ### A Claude Cowork skill that generates UGC ads with Seedance 2.0
 
-<a href="https://x.com/mikefutia/status/2046642880522211706"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mikefutia_2046642816470974464.webp" width="460" alt="A Claude Cowork skill that generates UGC ads with Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a9f484ff-34f2-4b06-873d-f8f502b3c67e
 
 **[Mike Futia](https://x.com/mikefutia)** · [@mikefutia](https://x.com/mikefutia) · Seedance 2.0 · 2026-04-21 · 79.8K views · [▶ Watch on X](https://x.com/mikefutia/status/2046642880522211706)
 
 ### Ultra-realistic influencer vlog built from a storyboard
 
-<a href="https://x.com/Just_sharon7/status/2056368955284148524"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2056368583383670784.webp" width="460" alt="Ultra-realistic influencer vlog built from a storyboard"></a>
+https://github.com/user-attachments/assets/201951e5-b7f2-4258-a25c-5f8329989676
 
 **[Sharon Riley](https://x.com/Just_sharon7)** · [@Just_sharon7](https://x.com/Just_sharon7) · Seedance 2.0 · 2026-05-18 · 43.1K views · [▶ Watch on X](https://x.com/Just_sharon7/status/2056368955284148524)
 
@@ -757,19 +757,19 @@ Authentic TikTok draft accidentally turned cinematic. Real-life imperfections, e
 
 ### AI UGC from a single product photo, no script and no start frame
 
-<a href="https://x.com/venturetwins/status/2024885298908594391"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/venturetwins_2024885138153418752.webp" width="460" alt="AI UGC from a single product photo, no script and no start frame"></a>
+https://github.com/user-attachments/assets/e776e3a5-cee5-43e6-a403-cbe20fae133c
 
 **[Justine Moore](https://x.com/venturetwins)** · [@venturetwins](https://x.com/venturetwins) · Seedance 2.0 · 2026-02-20 · 37.1K views · [▶ Watch on X](https://x.com/venturetwins/status/2024885298908594391)
 
 ### Seedance 2.0 generates UGC-style content that actually converts
 
-<a href="https://x.com/magnific/status/2024891921576198278"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/magnific_2024891821474844672.webp" width="460" alt="Seedance 2.0 generates UGC-style content that actually converts"></a>
+https://github.com/user-attachments/assets/4c79fd61-cbd4-4401-8014-f6ca47f43e8f
 
 **[Magnific](https://x.com/magnific)** · [@magnific](https://x.com/magnific) · Seedance 2.0 · 2026-02-20 · 22.6K views · [▶ Watch on X](https://x.com/magnific/status/2024891921576198278)
 
 ### A 10-frame commercial storyboard board, then the film
 
-<a href="https://x.com/Shorelyn_/status/2077345203049148886"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Shorelyn__2077344615058079744.webp" width="460" alt="A 10-frame commercial storyboard board, then the film"></a>
+https://github.com/user-attachments/assets/f4ac8f48-9f03-45ef-b992-d47db5c14c25
 
 **[Shore Lyn](https://x.com/Shorelyn_)** · [@Shorelyn_](https://x.com/Shorelyn_) · Seedance 2.0 · 2026-07-15 · 14.6K views · [▶ Watch on X](https://x.com/Shorelyn_/status/2077345203049148886)
 
@@ -789,7 +789,7 @@ SCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Eleg
 
 ### Luxury face-lotion commercial montage in a studio
 
-<a href="https://x.com/Itswsm105f/status/2053362746469814317"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Itswsm105f_2053362653121449984.webp" width="460" alt="Luxury face-lotion commercial montage in a studio"></a>
+https://github.com/user-attachments/assets/7f9ee825-e1db-4fbb-969f-3d690eb6e37e
 
 **[Zyro](https://x.com/Itswsm105f)** · [@Itswsm105f](https://x.com/Itswsm105f) · Seedance 2.0 · 2026-05-10 · 1.6K views · [▶ Watch on X](https://x.com/Itswsm105f/status/2053362746469814317)
 
@@ -811,13 +811,13 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ### Blender previs pushed through Seedance 2.0 for an ambush scene
 
-<a href="https://x.com/reidhannaford/status/2071595581508563168"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/reidhannaford_2071595269163003904.webp" width="460" alt="Blender previs pushed through Seedance 2.0 for an ambush scene"></a>
+https://github.com/user-attachments/assets/cdebab9f-3553-48e7-a2c7-7cb5be498e68
 
 **[Reid Hannaford](https://x.com/reidhannaford)** · [@reidhannaford](https://x.com/reidhannaford) · Seedance 2.0 · 2026-06-29 · 222.5K views · [▶ Watch on X](https://x.com/reidhannaford/status/2071595581508563168)
 
 ### GPT Image 2 - Character Reference Sheet Prompt
 
-<a href="https://x.com/aimikoda/status/2048654096794538316"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2048653698419884032.webp" width="460" alt="GPT Image 2 - Character Reference Sheet Prompt"></a>
+https://github.com/user-attachments/assets/b8842268-6562-4b20-ab20-80e70e50472d
 
 **[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-04-27 · 161.9K views · [▶ Watch on X](https://x.com/aimikoda/status/2048654096794538316)
 
@@ -825,19 +825,19 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ### A curated Seedance 2.0 prompt collection
 
-<a href="https://x.com/lena_z01/status/2022870879248453900"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/lena_z01_2022870602869264384.webp" width="460" alt="A curated Seedance 2.0 prompt collection"></a>
+https://github.com/user-attachments/assets/45960168-fa18-4f1d-abb6-a0db420f0b9d
 
 **[Lena](https://x.com/lena_z01)** · [@lena_z01](https://x.com/lena_z01) · Seedance 2.0 · 2026-02-15 · 91.2K views · [▶ Watch on X](https://x.com/lena_z01/status/2022870879248453900)
 
 ### Seedance 2.0 works better with JSON prompts — the structure to follow
 
-<a href="https://x.com/EHuanglu/status/2041132328655954201"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2041132247802359809.webp" width="460" alt="Seedance 2.0 works better with JSON prompts — the structure to follow"></a>
+https://github.com/user-attachments/assets/392e8926-71c3-427d-9698-e3268dae9185
 
 **[el.cine](https://x.com/EHuanglu)** · [@EHuanglu](https://x.com/EHuanglu) · Seedance 2.0 · 2026-04-06 · 70.5K views · [▶ Watch on X](https://x.com/EHuanglu/status/2041132328655954201)
 
 ### Depth-tracked rooftop parkour with a swapped character and scene
 
-<a href="https://x.com/MrLarus/status/2080322001722294370"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2080321355707293696.webp" width="460" alt="Depth-tracked rooftop parkour with a swapped character and scene"></a>
+https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
 **[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 21.8K views · [▶ Watch on X](https://x.com/MrLarus/status/2080322001722294370)
 
@@ -845,25 +845,25 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ### Sider + 即梦：快速写 Seedance 2.0 提示词
 
-<a href="https://x.com/Gorden_Sun/status/2022651783726927945"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Gorden_Sun_2022651239364964352.webp" width="460" alt="Sider + 即梦：快速写 Seedance 2.0 提示词"></a>
+https://github.com/user-attachments/assets/b57b8706-007f-4ee7-9f7b-df6ab06042fd
 
 **[Gorden Sun](https://x.com/Gorden_Sun)** · [@Gorden_Sun](https://x.com/Gorden_Sun) · Seedance 2.0 · 2026-02-14 · 12.6K views · [▶ Watch on X](https://x.com/Gorden_Sun/status/2022651783726927945)
 
 ### Character sheet in GPT Image 2, then motion in Seedance 2.0
 
-<a href="https://x.com/D_studioproject/status/2055931547983958247"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/D_studioproject_2055930888769478656.webp" width="460" alt="Character sheet in GPT Image 2, then motion in Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a5aaea75-d5c8-4eaa-8e39-cf2cd064c667
 
 **[DStudioproject](https://x.com/D_studioproject)** · [@D_studioproject](https://x.com/D_studioproject) · Seedance 2.0 · 2026-05-17 · 2.4K views · [▶ Watch on X](https://x.com/D_studioproject/status/2055931547983958247)
 
 ### Rooftop parkour in one continuous shot, driven by a Depth reference video
 
-<a href="https://x.com/MrLarus/status/2080323396865241237"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2080323033139433472.webp" width="460" alt="Rooftop parkour in one continuous shot, driven by a Depth reference video"></a>
+https://github.com/user-attachments/assets/acd3185e-c14c-4109-961b-1064d01c98db
 
 **[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 1.2K views · [▶ Watch on X](https://x.com/MrLarus/status/2080323396865241237)
 
 ### Higgsfield MCP — driving Seedance video generation from Claude
 
-<a href="https://x.com/mhdfaran/status/2081767702188970299"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mhdfaran_2081767650783580160.webp" width="460" alt="Higgsfield MCP — driving Seedance video generation from Claude"></a>
+https://github.com/user-attachments/assets/72d6dc58-905c-4bcc-bc6d-bff1454ecc47
 
 **[Farhan](https://x.com/mhdfaran)** · [@mhdfaran](https://x.com/mhdfaran) · Seedance 2.0 · 2026-07-27 · 548 views · [▶ Watch on X](https://x.com/mhdfaran/status/2081767702188970299)
 
@@ -872,19 +872,19 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ### The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared
 
-<a href="https://x.com/Dheepanratnam/status/2025724576882159876"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Dheepanratnam_2025724262166712321.webp" width="460" alt="The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared"></a>
+https://github.com/user-attachments/assets/bf540e4e-6ddf-4b3c-a2ca-841f96f2418b
 
 **[Dheepan Ratnam](https://x.com/Dheepanratnam)** · [@Dheepanratnam](https://x.com/Dheepanratnam) · Seedance 2.0 · 2026-02-23 · 30.2K views · [▶ Watch on X](https://x.com/Dheepanratnam/status/2025724576882159876)
 
 ### Four frontier video models judged blind by 12 professional editors
 
-<a href="https://x.com/contraben/status/2072707984577184015"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/contraben_2072706954573582336.webp" width="460" alt="Four frontier video models judged blind by 12 professional editors"></a>
+https://github.com/user-attachments/assets/2919bbb6-77d9-4d6b-94f1-a37d43518613
 
 **[ben](https://x.com/contraben)** · [@contraben](https://x.com/contraben) · Seedance 2.0 · 2026-07-02 · 19.4K views · [▶ Watch on X](https://x.com/contraben/status/2072707984577184015)
 
 ### Same prompt, Seedance 2.0 vs Sora 2 — shot breakdown and pacing
 
-<a href="https://x.com/underwoodxie96/status/2020819034426708042"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/underwoodxie96_2020818466299858944.webp" width="460" alt="Same prompt, Seedance 2.0 vs Sora 2 — shot breakdown and pacing"></a>
+https://github.com/user-attachments/assets/5c3b4930-21ce-445a-8482-7063af80080a
 
 **[underwood](https://x.com/underwoodxie96)** · [@underwoodxie96](https://x.com/underwoodxie96) · Seedance 2.0 · 2026-02-09 · 14.4K views · [▶ Watch on X](https://x.com/underwoodxie96/status/2020819034426708042)
 
@@ -893,79 +893,79 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ### Dreamina Seedance 2.5 is now live!
 
-<a href="https://x.com/BytePlusGlobal/status/2083069262969844158"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BytePlusGlobal_2083066957230915584.webp" width="460" alt="Dreamina Seedance 2.5 is now live!"></a>
+https://github.com/user-attachments/assets/ede50a79-7e36-4573-a6df-725df5d2dfec
 
 **[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 9.6M views · [▶ Watch on X](https://x.com/BytePlusGlobal/status/2083069262969844158)
 
 ### 14 days of unlimited Seedance on Higgsfield
 
-<a href="https://x.com/higgsfield/status/2083105837795745797"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_2083105131604963328.webp" width="460" alt="14 days of unlimited Seedance on Higgsfield"></a>
+https://github.com/user-attachments/assets/da3b1914-c62f-4321-a211-7557fa2ad7c6
 
 **[Higgsfield AI 🧩](https://x.com/higgsfield)** · [@higgsfield](https://x.com/higgsfield) · Seedance 2.5 · 2026-07-31 · 1.5M views · [▶ Watch on X](https://x.com/higgsfield/status/2083105837795745797)
 
 ### China's Bytedance just dropped the most advanced video generation model in the world
 
-<a href="https://x.com/deedydas/status/2020911900968767976"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp" width="460" alt="China&#x27;s Bytedance just dropped the most advanced video generation model in the world"></a>
+https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 **[Deedy](https://x.com/deedydas)** · [@deedydas](https://x.com/deedydas) · Seedance 2.0 · 2026-02-09 · 780.7K views · [▶ Watch on X](https://x.com/deedydas/status/2020911900968767976)
 
 ### 🎬 Global Launch: Dreamina Seedance 2.5 is now live!
 
-<a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="460" alt="🎬 Global Launch: Dreamina Seedance 2.5 is now live!"></a>
+https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
 **[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 503.3K views · [▶ Watch on X](https://x.com/dreamina_ai/status/2083056471147958714)
 
 ### Seedance 2.0 from China will be the SOTA
 
-<a href="https://x.com/Dork_sense/status/2020179955511116082"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Dork_sense_2020177471862390784.webp" width="460" alt="Seedance 2.0 from China will be the SOTA"></a>
+https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
 **[Dorksense](https://x.com/Dork_sense)** · [@Dork_sense](https://x.com/Dork_sense) · Seedance 2.0 · 2026-02-07 · 388.9K views · [▶ Watch on X](https://x.com/Dork_sense/status/2020179955511116082)
 
 ### Seedance 2.5 for AI UGC
 
-<a href="https://x.com/higgsfield_ai/status/2083138301083693295"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083138188294705152.webp" width="460" alt="Seedance 2.5 for AI UGC"></a>
+https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
 **[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 272.3K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083138301083693295)
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
-<a href="https://x.com/testingcatalog/status/2069304405740974255"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/testingcatalog_2069304062982356992.webp" width="460" alt="BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0"></a>
+https://github.com/user-attachments/assets/21eca056-25dc-4b3e-b409-e306b56f61f6
 
 **[🚨 AI News | TestingCatalog](https://x.com/testingcatalog)** · [@testingcatalog](https://x.com/testingcatalog) · Seedance 2.5 · 2026-06-23 · 142.1K views · [▶ Watch on X](https://x.com/testingcatalog/status/2069304405740974255)
 
 ### Seedance 2.5 is the Mythos moment for AI video
 
-<a href="https://x.com/shiri_shh/status/2083144487870611828"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/shiri_shh_2083144456501694464.webp" width="460" alt="Seedance 2.5 is the Mythos moment for AI video"></a>
+https://github.com/user-attachments/assets/3ecf7372-0641-4571-8389-2cff79b7c07b
 
 **[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 91.8K views · [▶ Watch on X](https://x.com/shiri_shh/status/2083144487870611828)
 
 ### Seedance 2.5 generates a full 30-second animated scene
 
-<a href="https://x.com/higgsfield_ai/status/2083173622211035222"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083170426151460864.webp" width="460" alt="Seedance 2.5 generates a full 30-second animated scene"></a>
+https://github.com/user-attachments/assets/a21d11f7-fe17-44e5-b908-ce87ec166e2b
 
 **[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 26.1K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083173622211035222)
 
 ### Image-to-video in Seedance 2.5 is production-ready
 
-<a href="https://x.com/higgsfield_ai/status/2083719880059359478"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083711641229950976.webp" width="460" alt="Image-to-video in Seedance 2.5 is production-ready"></a>
+https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
 **[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 22K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083719880059359478)
 
 ### AI video models are gradually moving from prompt-to-clip systems toward more controllable…
 
-<a href="https://x.com/HeyAmit_/status/2082076655963791713"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/HeyAmit__2082075946119823360.webp" width="460" alt="AI video models are gradually moving from prompt-to-clip systems toward more controllable…"></a>
+https://github.com/user-attachments/assets/6e717050-f00c-4de9-ac50-8051118bf128
 
 **[Amit](https://x.com/HeyAmit_)** · [@HeyAmit_](https://x.com/HeyAmit_) · Seedance 2.5 · 2026-07-28 · 20.6K views · [▶ Watch on X](https://x.com/HeyAmit_/status/2082076655963791713)
 
 ### Holy Shit Seedance 2.5 is Insane 😱
 
-<a href="https://x.com/chetaslua/status/2069312765047771270"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chetaslua_2069312271256559616.webp" width="460" alt="Holy Shit Seedance 2.5 is Insane 😱"></a>
+https://github.com/user-attachments/assets/9436dba7-2419-4523-8045-7ddba184cf15
 
 **[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 19.4K views · [▶ Watch on X](https://x.com/chetaslua/status/2069312765047771270)
 
 ### Seedance 2.0 is live on Freepik for all plans
 
-<a href="https://x.com/azed_ai/status/2042602819656798356"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/azed_ai_2042602763784458242.webp" width="460" alt="Seedance 2.0 is live on Freepik for all plans"></a>
+https://github.com/user-attachments/assets/3b47a659-46ba-42e2-bfcb-18d55d206060
 
 **[Amira Zairi](https://x.com/azed_ai)** · [@azed_ai](https://x.com/azed_ai) · Seedance 2.0 · 2026-04-10 · 8.6K views · [▶ Watch on X](https://x.com/azed_ai/status/2042602819656798356)
 
@@ -973,7 +973,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ### 「Seedance 2.5 is COMING SOON on Higgsfield」
 
-<a href="https://x.com/kiAI_stable/status/2083205066501271800"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kiAI_stable_2083204442531491841.webp" width="460" alt="「Seedance 2.5 is COMING SOON on Higgsfield」"></a>
+https://github.com/user-attachments/assets/f6c97fcc-525a-4d22-acb6-38d63947fbbb
 
 **[きー from KiAI](https://x.com/kiAI_stable)** · [@kiAI_stable](https://x.com/kiAI_stable) · Seedance 2.5 · 2026-07-31 · 1.3K views · [▶ Watch on X](https://x.com/kiAI_stable/status/2083205066501271800)
 
@@ -982,7 +982,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 Every video, prompt and name in this repo belongs to the person who posted it on X, and every entry links back to the original post.
 
-Clips are **mirrored to our own storage**, because X rotates its `video.twimg.com` URLs and hotlinking would eventually leave the whole index dead. The mirrored file is the encode X publishes — nothing is re-cut, re-scored or re-worded — plus a 3-second silent loop used as the preview above. Nobody's work is passed off as ours.
+**Copies are kept in two places**: on GitHub, so the clips play inline on this page, and on our own storage, which is what the gallery streams from. Both are needed because X rotates its `video.twimg.com` URLs, and hotlinking alone would eventually leave the whole index dead. What is stored is the encode X publishes — nothing is re-cut, re-scored or re-worded. Nobody's work is passed off as ours.
 
 If you are a creator and want your post edited or removed, [open an issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) and it comes down, no questions asked.
 

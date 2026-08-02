@@ -467,11 +467,9 @@ def readme_en(posts, repo, site, updated):
              "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)\n")
     L.append("**English** | [简体中文](README.zh-CN.md)\n")
     L.append(f"### ▶ [Open the video gallery]({site})\n")
-    L.append("Every preview below is a **silent 3-second loop that plays right here on GitHub** — "
-             "GitHub's Markdown strips `<video>`, so an animated image is as close to playback as this "
-             "page can get. Click any of them for the full clip with sound, or open the gallery, where "
-             "the videos play in-page, prompts have a copy button, and you can filter by model, category "
-             "or creator.\n")
+    L.append("**Every clip below plays right here on GitHub** — full length, with sound, no click-through. "
+             "Open the gallery instead if you want to search across prompts, filter by model or category, "
+             "or copy a prompt in one click.\n")
 
     L.append("## What's in here\n")
     L.append(f"| | |\n|---|---|\n"
@@ -527,10 +525,11 @@ def readme_en(posts, repo, site, updated):
     L.append("## Credit and takedowns\n")
     L.append("Every video, prompt and name in this repo belongs to the person who posted it on X, "
              "and every entry links back to the original post.\n")
-    L.append("Clips are **mirrored to our own storage**, because X rotates its `video.twimg.com` URLs "
-             "and hotlinking would eventually leave the whole index dead. The mirrored file is the "
-             "encode X publishes — nothing is re-cut, re-scored or re-worded — plus a 3-second silent "
-             "loop used as the preview above. Nobody's work is passed off as ours.\n")
+    L.append("**Copies are kept in two places**: on GitHub, so the clips play inline on this page, and "
+             "on our own storage, which is what the gallery streams from. Both are needed because X "
+             "rotates its `video.twimg.com` URLs, and hotlinking alone would eventually leave the whole "
+             "index dead. What is stored is the encode X publishes — nothing is re-cut, re-scored or "
+             "re-worded. Nobody's work is passed off as ours.\n")
     L.append("If you are a creator and want your post edited or removed, "
              f"[open an issue]({repo}/issues/new) and it comes down, no questions asked.\n")
     L.append("## Adding a post\n")
@@ -556,10 +555,8 @@ def readme_zh(posts, repo, site, updated):
              "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)\n")
     L.append("[English](README.md) | **简体中文**\n")
     L.append(f"### ▶ [打开视频画廊]({site})\n")
-    L.append("下面每一张预览都是**在 GitHub 页面上直接循环播放的 3 秒无声动图**——"
-             "GitHub 的 Markdown 会把 `<video>` 标签删掉，动图是这个页面能做到的最接近播放的形式。"
-             "点任意一张看完整带声音的原片；或者打开画廊，那里视频在页面内播放、提示词一键复制、"
-             "还能按模型、分类、作者筛选。\n")
+    L.append("**下面每一条都能在 GitHub 页面上直接播放**——完整时长、有声音、不用跳转。"
+             "如果想跨提示词搜索、按模型或分类筛选、或者一键复制提示词，再去画廊。\n")
 
     L.append("## 收录概况\n")
     L.append(f"| | |\n|---|---|\n"
@@ -602,10 +599,10 @@ def readme_zh(posts, repo, site, updated):
 
     L.append("## 署名与下架\n")
     L.append("这里的每一个视频、提示词和名字都属于在 X 上发布它的人，每一条都链回原帖。\n")
-    L.append("视频**转存在我们自己的存储上**——因为 X 会轮换 `video.twimg.com` 的地址，"
-             "直接外链迟早会让整个索引集体失效。转存的是 X 自己发布的那份编码，"
-             "不二次剪辑、不换配乐、不改写文案，另外附一个 3 秒无声循环用作上面的预览。"
-             "我们不会把任何人的作品说成是自己的。\n")
+    L.append("视频**同时存了两份**：一份在 GitHub 上，让这个页面能内嵌播放；一份在我们自己的存储上，"
+             "供画廊调用。两份都需要，因为 X 会轮换 `video.twimg.com` 的地址，"
+             "只靠外链迟早会让整个索引集体失效。存的是 X 自己发布的那份编码，"
+             "不二次剪辑、不换配乐、不改写文案。我们不会把任何人的作品说成是自己的。\n")
     L.append(f"如果你是作者，希望修改或删除自己的内容，[提一个 issue]({repo}/issues/new) 即可，我们立刻下架。\n")
     L.append("## 投稿\n")
     L.append("把 X 链接加进 `scripts/urls.txt` 提 PR 即可，剩下的交给脚本。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。\n")
