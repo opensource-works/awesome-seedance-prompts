@@ -267,9 +267,10 @@ footer p{margin:0 0 8px;max-width:78ch}
 
 <footer><div class="wrap">
   <p><b>Every video, prompt and name here belongs to the person who posted it on X.</b>
-     Videos stream from X's own CDN and each card links back to the original post — nothing is re-hosted
-     and nothing is edited. If you are a creator and want your post changed or removed,
-     <a href="__REPO__/issues/new">open an issue</a> and it will be taken down.</p>
+     Clips are mirrored to our own storage so playback doesn't break when X rotates its URLs — the file
+     is X's own encode, never re-cut, re-scored or re-worded, and every card links back to the original
+     post. If you are a creator and want your post changed or removed,
+     <a href="__REPO__/issues/new">open an issue</a> and it comes down, no questions asked.</p>
   <p>Seedance is a video model by ByteDance. This is an unaffiliated, community-run index.
      Data refreshed __UPDATED__ · <a href="__REPO__">source on GitHub</a> · MIT licensed.</p>
 </div></footer>
@@ -511,10 +512,14 @@ def readme_en(posts, repo, site, updated):
         L.append("")
 
     L.append("## Credit and takedowns\n")
-    L.append("Every video, prompt and name in this repo belongs to the person who posted it on X. "
-             "Clips stream from X's own CDN and every entry links back to the original post — "
-             "nothing is re-hosted, re-cut or re-worded. If you are a creator and want your post "
-             f"edited or removed, [open an issue]({repo}/issues/new) and it will be taken down, no questions asked.\n")
+    L.append("Every video, prompt and name in this repo belongs to the person who posted it on X, "
+             "and every entry links back to the original post.\n")
+    L.append("Clips are **mirrored to our own storage**, because X rotates its `video.twimg.com` URLs "
+             "and hotlinking would eventually leave the whole index dead. The mirrored file is the "
+             "encode X publishes — nothing is re-cut, re-scored or re-worded — plus a 3-second silent "
+             "loop used as the preview above. Nobody's work is passed off as ours.\n")
+    L.append("If you are a creator and want your post edited or removed, "
+             f"[open an issue]({repo}/issues/new) and it comes down, no questions asked.\n")
     L.append("## Adding a post\n")
     L.append("Drop the X link into `scripts/urls.txt` and open a PR — the pipeline fetches the rest. "
              "See [CONTRIBUTING.md](CONTRIBUTING.md).\n")
@@ -578,9 +583,12 @@ def readme_zh(posts, repo, site, updated):
         L.append("")
 
     L.append("## 署名与下架\n")
-    L.append("这里的每一个视频、提示词和名字都属于在 X 上发布它的人。视频从 X 自己的 CDN 播放，"
-             "每一条都链回原帖——不转存、不二次剪辑、不改写文案。如果你是作者，希望修改或删除自己的内容，"
-             f"[提一个 issue]({repo}/issues/new) 即可，我们会立刻下架。\n")
+    L.append("这里的每一个视频、提示词和名字都属于在 X 上发布它的人，每一条都链回原帖。\n")
+    L.append("视频**转存在我们自己的存储上**——因为 X 会轮换 `video.twimg.com` 的地址，"
+             "直接外链迟早会让整个索引集体失效。转存的是 X 自己发布的那份编码，"
+             "不二次剪辑、不换配乐、不改写文案，另外附一个 3 秒无声循环用作上面的预览。"
+             "我们不会把任何人的作品说成是自己的。\n")
+    L.append(f"如果你是作者，希望修改或删除自己的内容，[提一个 issue]({repo}/issues/new) 即可，我们立刻下架。\n")
     L.append("## 投稿\n")
     L.append("把 X 链接加进 `scripts/urls.txt` 提 PR 即可，剩下的交给脚本。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。\n")
     L.append("Seedance 是字节跳动的视频模型，本仓库为非官方社区索引。"

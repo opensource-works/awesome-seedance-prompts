@@ -980,7 +980,11 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ## Credit and takedowns
 
-Every video, prompt and name in this repo belongs to the person who posted it on X. Clips stream from X's own CDN and every entry links back to the original post — nothing is re-hosted, re-cut or re-worded. If you are a creator and want your post edited or removed, [open an issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) and it will be taken down, no questions asked.
+Every video, prompt and name in this repo belongs to the person who posted it on X, and every entry links back to the original post.
+
+Clips are **mirrored to our own storage**, because X rotates its `video.twimg.com` URLs and hotlinking would eventually leave the whole index dead. The mirrored file is the encode X publishes — nothing is re-cut, re-scored or re-worded — plus a 3-second silent loop used as the preview above. Nobody's work is passed off as ours.
+
+If you are a creator and want your post edited or removed, [open an issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) and it comes down, no questions asked.
 
 ## Adding a post
 

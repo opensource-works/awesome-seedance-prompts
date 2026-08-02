@@ -986,7 +986,11 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ## 署名与下架
 
-这里的每一个视频、提示词和名字都属于在 X 上发布它的人。视频从 X 自己的 CDN 播放，每一条都链回原帖——不转存、不二次剪辑、不改写文案。如果你是作者，希望修改或删除自己的内容，[提一个 issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) 即可，我们会立刻下架。
+这里的每一个视频、提示词和名字都属于在 X 上发布它的人，每一条都链回原帖。
+
+视频**转存在我们自己的存储上**——因为 X 会轮换 `video.twimg.com` 的地址，直接外链迟早会让整个索引集体失效。转存的是 X 自己发布的那份编码，不二次剪辑、不换配乐、不改写文案，另外附一个 3 秒无声循环用作上面的预览。我们不会把任何人的作品说成是自己的。
+
+如果你是作者，希望修改或删除自己的内容，[提一个 issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) 即可，我们立刻下架。
 
 ## 投稿
 
