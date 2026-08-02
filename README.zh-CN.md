@@ -67,7 +67,7 @@
 
 <a href="https://x.com/arikuschnir/status/2083209950231220403"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/arikuschnir_2083209566615900160.webp" width="460" alt="Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt"></a>
 
-**[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 40K 播放 · [▶ 在 X 上观看](https://x.com/arikuschnir/status/2083209950231220403)
+**[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 40.1K 播放 · [▶ 在 X 上观看](https://x.com/arikuschnir/status/2083209950231220403)
 
 ### Seedance 2.5 first test — 30 seconds in one go, with some morphing
 
