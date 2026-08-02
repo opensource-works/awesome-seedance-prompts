@@ -19,7 +19,7 @@
 | 帖子数 | **64** |
 | 署名作者 | **52** |
 | 含完整提示词 | **16** |
-| X 上累计播放 | **17.2M** |
+| X 上累计播放 | **17.3M** |
 | 覆盖模型 | **Seedance 2.0**（46）, **Seedance 2.5**（16）, **Seedance**（2） |
 | 最近更新 | 2026-08-02 |
 
@@ -168,7 +168,7 @@ Final close shot. The cat brushes against her leg. She looks toward the camera w
 
 https://github.com/user-attachments/assets/f3715646-4ea2-4983-8444-6c4c47abcbbc
 
-**[Alvaro Cintas](https://x.com/dr_cintas)** · [@dr_cintas](https://x.com/dr_cintas) · Seedance 2.5 · 2026-07-31 · 6K 播放 · [▶ 在 X 上观看](https://x.com/dr_cintas/status/2083283266451169431)
+**[Alvaro Cintas](https://x.com/dr_cintas)** · [@dr_cintas](https://x.com/dr_cintas) · Seedance 2.5 · 2026-07-31 · 6.1K 播放 · [▶ 在 X 上观看](https://x.com/dr_cintas/status/2083283266451169431)
 
 ### Macro spices collapsing into a cosmos, stop-motion style
 
@@ -901,7 +901,7 @@ https://github.com/user-attachments/assets/5c3b4930-21ce-445a-8482-7063af80080a
 
 https://github.com/user-attachments/assets/ede50a79-7e36-4573-a6df-725df5d2dfec
 
-**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 9.6M 播放 · [▶ 在 X 上观看](https://x.com/BytePlusGlobal/status/2083069262969844158)
+**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 9.7M 播放 · [▶ 在 X 上观看](https://x.com/BytePlusGlobal/status/2083069262969844158)
 
 ### 14 days of unlimited Seedance on Higgsfield
 
@@ -919,7 +919,7 @@ https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 503.3K 播放 · [▶ 在 X 上观看](https://x.com/dreamina_ai/status/2083056471147958714)
+**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 503.6K 播放 · [▶ 在 X 上观看](https://x.com/dreamina_ai/status/2083056471147958714)
 
 ### Seedance 2.0 from China will be the SOTA
 
@@ -931,7 +931,7 @@ https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
 https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 272.3K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083138301083693295)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 272.5K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083138301083693295)
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -943,7 +943,7 @@ https://github.com/user-attachments/assets/21eca056-25dc-4b3e-b409-e306b56f61f6
 
 https://github.com/user-attachments/assets/3ecf7372-0641-4571-8389-2cff79b7c07b
 
-**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 91.8K 播放 · [▶ 在 X 上观看](https://x.com/shiri_shh/status/2083144487870611828)
+**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 92K 播放 · [▶ 在 X 上观看](https://x.com/shiri_shh/status/2083144487870611828)
 
 ### Seedance 2.5 generates a full 30-second animated scene
 
@@ -955,7 +955,7 @@ https://github.com/user-attachments/assets/a21d11f7-fe17-44e5-b908-ce87ec166e2b
 
 https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 22K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083719880059359478)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 22.2K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083719880059359478)
 
 ### AI video models are gradually moving from prompt-to-clip systems toward more controllable…
 
