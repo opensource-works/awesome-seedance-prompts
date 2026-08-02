@@ -19,7 +19,7 @@ GitHub 页面里不能直接播放这些视频，所以上面的画廊才是真�
 | 帖子数 | **64** |
 | 署名作者 | **52** |
 | 含完整提示词 | **16** |
-| X 上累计播放 | **17M** |
+| X 上累计播放 | **17.1M** |
 | 覆盖模型 | **Seedance 2.0**（46）, **Seedance 2.5**（16）, **Seedance**（2） |
 | 最近更新 | 2026-08-02 |
 
@@ -73,7 +73,7 @@ GitHub 页面里不能直接播放这些视频，所以上面的画廊才是真�
 
 <a href="https://x.com/aimikoda/status/2083182758407307605"><img src="https://pbs.twimg.com/amplify_video_thumb/2083181242929790976/img/SGqEMB6sZ2liE3G2.jpg" width="460" alt="Seedance 2.5 first test — 30 seconds in one go, with some morphing"></a>
 
-**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 32.1K 播放 · [▶ 在 X 上观看](https://x.com/aimikoda/status/2083182758407307605)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 32.2K 播放 · [▶ 在 X 上观看](https://x.com/aimikoda/status/2083182758407307605)
 
 ### Made with Seedance 2.0 + GPT image 2
 
@@ -901,7 +901,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/BytePlusGlobal/status/2083069262969844158"><img src="https://pbs.twimg.com/amplify_video_thumb/2083066957230915584/img/Syz3W_c_cQOWDJQ3.jpg" width="460" alt="Dreamina Seedance 2.5 is now live!"></a>
 
-**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 9.4M 播放 · [▶ 在 X 上观看](https://x.com/BytePlusGlobal/status/2083069262969844158)
+**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 9.5M 播放 · [▶ 在 X 上观看](https://x.com/BytePlusGlobal/status/2083069262969844158)
 
 ### 14 days of unlimited Seedance on Higgsfield
 
@@ -919,7 +919,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pbs.twimg.com/amplify_video_thumb/2083005997065633792/img/DCz8qXxHWYq1tA01.jpg" width="460" alt="🎬 Global Launch: Dreamina Seedance 2.5 is now live!"></a>
 
-**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 502.4K 播放 · [▶ 在 X 上观看](https://x.com/dreamina_ai/status/2083056471147958714)
+**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 502.9K 播放 · [▶ 在 X 上观看](https://x.com/dreamina_ai/status/2083056471147958714)
 
 ### Seedance 2.0 from China will be the SOTA
 
@@ -931,7 +931,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/higgsfield_ai/status/2083138301083693295"><img src="https://pbs.twimg.com/amplify_video_thumb/2083138188294705152/img/uhYvsMMsJPZpGSc1.jpg" width="460" alt="Seedance 2.5 for AI UGC"></a>
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 271.7K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083138301083693295)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 272K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083138301083693295)
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -943,7 +943,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/shiri_shh/status/2083144487870611828"><img src="https://pbs.twimg.com/amplify_video_thumb/2083144456501694464/img/O9RTCB4Ho2ng7mP3.jpg" width="460" alt="Seedance 2.5 is the Mythos moment for AI video"></a>
 
-**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 91.4K 播放 · [▶ 在 X 上观看](https://x.com/shiri_shh/status/2083144487870611828)
+**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 91.6K 播放 · [▶ 在 X 上观看](https://x.com/shiri_shh/status/2083144487870611828)
 
 ### Seedance 2.5 generates a full 30-second animated scene
 
@@ -955,7 +955,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/higgsfield_ai/status/2083719880059359478"><img src="https://pbs.twimg.com/amplify_video_thumb/2083711641229950976/img/1qGjy1pUXss1TMix.jpg" width="460" alt="Image-to-video in Seedance 2.5 is production-ready"></a>
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 21.3K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083719880059359478)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 21.7K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083719880059359478)
 
 ### AI video models are gradually moving from prompt-to-clip systems toward more controllable…
 
