@@ -55,8 +55,8 @@
       ]
     },
     "stats": {
-      "views": 9380673,
-      "likes": 2479,
+      "views": 9575228,
+      "likes": 2486,
       "retweets": 868
     }
   },
@@ -110,8 +110,8 @@
       ]
     },
     "stats": {
-      "views": 1534779,
-      "likes": 1287,
+      "views": 1537381,
+      "likes": 1288,
       "retweets": 200
     }
   },
@@ -312,7 +312,7 @@
       ]
     },
     "stats": {
-      "views": 508372,
+      "views": 508373,
       "likes": 2540,
       "retweets": 174
     }
@@ -367,9 +367,9 @@
       ]
     },
     "stats": {
-      "views": 502367,
-      "likes": 3034,
-      "retweets": 809
+      "views": 503170,
+      "likes": 3033,
+      "retweets": 810
     }
   },
   {
@@ -471,7 +471,7 @@
       ]
     },
     "stats": {
-      "views": 388909,
+      "views": 388912,
       "likes": 2732,
       "retweets": 288
     }
@@ -526,7 +526,7 @@
       ]
     },
     "stats": {
-      "views": 271724,
+      "views": 272227,
       "likes": 576,
       "retweets": 57
     }
@@ -587,7 +587,7 @@
       ]
     },
     "stats": {
-      "views": 230949,
+      "views": 230951,
       "likes": 725,
       "retweets": 418
     }
@@ -642,7 +642,7 @@
       ]
     },
     "stats": {
-      "views": 222520,
+      "views": 222526,
       "likes": 1625,
       "retweets": 203
     }
@@ -703,7 +703,7 @@
       ]
     },
     "stats": {
-      "views": 206662,
+      "views": 206666,
       "likes": 1896,
       "retweets": 114
     }
@@ -752,7 +752,7 @@
       ]
     },
     "stats": {
-      "views": 161877,
+      "views": 161886,
       "likes": 2167,
       "retweets": 272
     }
@@ -801,7 +801,7 @@
       ]
     },
     "stats": {
-      "views": 142078,
+      "views": 142079,
       "likes": 1319,
       "retweets": 116
     }
@@ -850,8 +850,8 @@
       ]
     },
     "stats": {
-      "views": 91424,
-      "likes": 845,
+      "views": 91737,
+      "likes": 846,
       "retweets": 63
     }
   },
@@ -1052,7 +1052,7 @@
       ]
     },
     "stats": {
-      "views": 70499,
+      "views": 70500,
       "likes": 672,
       "retweets": 87
     }
@@ -1107,7 +1107,7 @@
       ]
     },
     "stats": {
-      "views": 60439,
+      "views": 60440,
       "likes": 595,
       "retweets": 82
     }
@@ -1260,7 +1260,7 @@
       ]
     },
     "stats": {
-      "views": 54783,
+      "views": 54784,
       "likes": 782,
       "retweets": 112
     }
@@ -1376,7 +1376,7 @@
       ]
     },
     "stats": {
-      "views": 43063,
+      "views": 43064,
       "likes": 473,
       "retweets": 36
     }
@@ -1425,8 +1425,8 @@
       ]
     },
     "stats": {
-      "views": 39980,
-      "likes": 408,
+      "views": 40049,
+      "likes": 409,
       "retweets": 36
     }
   },
@@ -1529,7 +1529,7 @@
       ]
     },
     "stats": {
-      "views": 32067,
+      "views": 32334,
       "likes": 377,
       "retweets": 29
     }
@@ -1633,7 +1633,7 @@
       ]
     },
     "stats": {
-      "views": 30138,
+      "views": 30139,
       "likes": 291,
       "retweets": 27
     }
@@ -1682,7 +1682,7 @@
       ]
     },
     "stats": {
-      "views": 26031,
+      "views": 26052,
       "likes": 273,
       "retweets": 39
     }
@@ -1780,9 +1780,64 @@
       ]
     },
     "stats": {
-      "views": 22589,
+      "views": 22588,
       "likes": 328,
       "retweets": 26
+    }
+  },
+  {
+    "id": "2083719880059359478",
+    "url": "https://x.com/higgsfield_ai/status/2083719880059359478",
+    "title": "Image-to-video in Seedance 2.5 is production-ready",
+    "text": "Image-to-video in Seedance 2.5 is production-ready.\nOne still in, a full scene out.\n\nComing soon to Higgsfield.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Launch & Announcements",
+    "date": "2026-08-02",
+    "author": {
+      "name": "Higgsfield AI 🧩",
+      "handle": "higgsfield_ai",
+      "url": "https://x.com/higgsfield_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/1280x1280/kMnJdIs6doF8oi8l.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083711641229950976/img/1qGjy1pUXss1TMix.jpg",
+      "width": 1280,
+      "height": 1280,
+      "duration": 19.12,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/320x320/xNQ7lFYYILqjloDT.mp4?tag=29",
+          "bitrate": 432000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/540x540/b0zJE_B_oOgF7Gno.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/720x720/iplHcWB1lwGdPSK2.mp4?tag=29",
+          "bitrate": 1280000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/1280x1280/kMnJdIs6doF8oi8l.mp4?tag=29",
+          "bitrate": 8768000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 21899,
+      "likes": 144,
+      "retweets": 30
     }
   },
   {
@@ -1835,7 +1890,7 @@
       ]
     },
     "stats": {
-      "views": 21755,
+      "views": 21810,
       "likes": 112,
       "retweets": 10
     }
@@ -1896,61 +1951,6 @@
     }
   },
   {
-    "id": "2083719880059359478",
-    "url": "https://x.com/higgsfield_ai/status/2083719880059359478",
-    "title": "Image-to-video in Seedance 2.5 is production-ready",
-    "text": "Image-to-video in Seedance 2.5 is production-ready.\nOne still in, a full scene out.\n\nComing soon to Higgsfield.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Launch & Announcements",
-    "date": "2026-08-02",
-    "author": {
-      "name": "Higgsfield AI 🧩",
-      "handle": "higgsfield_ai",
-      "url": "https://x.com/higgsfield_ai",
-      "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/1280x1280/kMnJdIs6doF8oi8l.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083711641229950976/img/1qGjy1pUXss1TMix.jpg",
-      "width": 1280,
-      "height": 1280,
-      "duration": 19.12,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/320x320/xNQ7lFYYILqjloDT.mp4?tag=29",
-          "bitrate": 432000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/540x540/b0zJE_B_oOgF7Gno.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/720x720/iplHcWB1lwGdPSK2.mp4?tag=29",
-          "bitrate": 1280000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/1280x1280/kMnJdIs6doF8oi8l.mp4?tag=29",
-          "bitrate": 8768000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 21333,
-      "likes": 143,
-      "retweets": 30
-    }
-  },
-  {
     "id": "2082076655963791713",
     "url": "https://x.com/HeyAmit_/status/2082076655963791713",
     "title": "AI video models are gradually moving from prompt-to-clip systems toward more controllable…",
@@ -2000,7 +2000,7 @@
       ]
     },
     "stats": {
-      "views": 20568,
+      "views": 20570,
       "likes": 36,
       "retweets": 8
     }
@@ -2214,7 +2214,7 @@
       ]
     },
     "stats": {
-      "views": 14563,
+      "views": 14564,
       "likes": 188,
       "retweets": 21
     }
@@ -2271,7 +2271,7 @@
     "stats": {
       "views": 14410,
       "likes": 242,
-      "retweets": 19
+      "retweets": 20
     }
   },
   {
@@ -2642,7 +2642,7 @@
       ]
     },
     "stats": {
-      "views": 7983,
+      "views": 7985,
       "likes": 48,
       "retweets": 3
     }
@@ -2691,7 +2691,7 @@
       ]
     },
     "stats": {
-      "views": 5985,
+      "views": 6039,
       "likes": 28,
       "retweets": 2
     }
@@ -3107,7 +3107,7 @@
       ]
     },
     "stats": {
-      "views": 1625,
+      "views": 1626,
       "likes": 79,
       "retweets": 5
     }
@@ -3158,7 +3158,7 @@
     "stats": {
       "views": 1473,
       "likes": 29,
-      "retweets": 2
+      "retweets": 3
     }
   },
   {
@@ -3254,7 +3254,7 @@
       ]
     },
     "stats": {
-      "views": 1179,
+      "views": 1180,
       "likes": 2,
       "retweets": 0
     }
