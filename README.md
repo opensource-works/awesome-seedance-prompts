@@ -83,7 +83,7 @@ Every preview below is a **silent 3-second loop that plays right here on GitHub*
 
 <a href="https://x.com/aimikoda/status/2083182758407307605"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2083181242929790976.webp" width="460" alt="Seedance 2.5 first test — 30 seconds in one go, with some morphing"></a>
 
-**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 32.3K views · [▶ Watch on X](https://x.com/aimikoda/status/2083182758407307605)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 32.4K views · [▶ Watch on X](https://x.com/aimikoda/status/2083182758407307605)
 
 ### Made with Seedance 2.0 + GPT image 2
 
@@ -913,7 +913,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="460" alt="🎬 Global Launch: Dreamina Seedance 2.5 is now live!"></a>
 
-**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 503.2K views · [▶ Watch on X](https://x.com/dreamina_ai/status/2083056471147958714)
+**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 503.3K views · [▶ Watch on X](https://x.com/dreamina_ai/status/2083056471147958714)
 
 ### Seedance 2.0 from China will be the SOTA
 
@@ -925,7 +925,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/higgsfield_ai/status/2083138301083693295"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083138188294705152.webp" width="460" alt="Seedance 2.5 for AI UGC"></a>
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 272.2K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083138301083693295)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 272.3K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083138301083693295)
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -937,7 +937,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/shiri_shh/status/2083144487870611828"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/shiri_shh_2083144456501694464.webp" width="460" alt="Seedance 2.5 is the Mythos moment for AI video"></a>
 
-**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 91.7K views · [▶ Watch on X](https://x.com/shiri_shh/status/2083144487870611828)
+**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 91.8K views · [▶ Watch on X](https://x.com/shiri_shh/status/2083144487870611828)
 
 ### Seedance 2.5 generates a full 30-second animated scene
 
@@ -949,7 +949,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 <a href="https://x.com/higgsfield_ai/status/2083719880059359478"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083711641229950976.webp" width="460" alt="Image-to-video in Seedance 2.5 is production-ready"></a>
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 21.9K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083719880059359478)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 22K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083719880059359478)
 
 ### AI video models are gradually moving from prompt-to-clip systems toward more controllable…
 
