@@ -1,14 +1,14 @@
-# Awesome Seedance Posts
+# Awesome Seedance Prompts
 
 **把 X 上大家发的 Seedance 视频集中到一个入口——直接播放、看到完整提示词、并且一键找到作者本人。**
 
-[![观看画廊](https://img.shields.io/badge/▶%20打开视频画廊-opensource--works.github.io-7C5CFF?style=flat-square)](https://opensource-works.github.io/awesome-seedance-posts/)
+[![观看画廊](https://img.shields.io/badge/▶%20打开视频画廊-opensource--works.github.io-7C5CFF?style=flat-square)](https://opensource-works.github.io/awesome-seedance-prompts/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 [English](README.md) | **简体中文**
 
-### ▶ [打开视频画廊](https://opensource-works.github.io/awesome-seedance-posts/)
+### ▶ [打开视频画廊](https://opensource-works.github.io/awesome-seedance-prompts/)
 
 GitHub 页面里不能直接播放这些视频，所以上面的画廊才是真正的入口：视频在页面内播放，提示词一键复制，还能按模型、分类、作者筛选。本 README 是同一份索引的文字版。
 
@@ -986,7 +986,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ## 署名与下架
 
-这里的每一个视频、提示词和名字都属于在 X 上发布它的人。视频从 X 自己的 CDN 播放，每一条都链回原帖——不转存、不二次剪辑、不改写文案。如果你是作者，希望修改或删除自己的内容，[提一个 issue](https://github.com/opensource-works/awesome-seedance-posts/issues/new) 即可，我们会立刻下架。
+这里的每一个视频、提示词和名字都属于在 X 上发布它的人。视频从 X 自己的 CDN 播放，每一条都链回原帖——不转存、不二次剪辑、不改写文案。如果你是作者，希望修改或删除自己的内容，[提一个 issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) 即可，我们会立刻下架。
 
 ## 投稿
 

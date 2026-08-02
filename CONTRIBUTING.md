@@ -55,5 +55,5 @@ generated, and your changes will be overwritten on the next build.
 ## If it's your post
 
 Everything here is credited and links back to you. If you'd still rather not be listed,
-or something is wrong, [open an issue](https://github.com/opensource-works/awesome-seedance-posts/issues/new)
+or something is wrong, [open an issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new)
 and it comes down — no questions asked.

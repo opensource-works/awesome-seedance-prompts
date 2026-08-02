@@ -63,9 +63,9 @@ PAGE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Awesome Seedance Posts — every Seedance clip on X, in one place</title>
+<title>Awesome Seedance Prompts — every Seedance clip on X, in one place</title>
 <meta name="description" content="A community index of Seedance 2.5 and 2.0 videos posted on X. Watch the clip, read the prompt, credit the creator.">
-<meta property="og:title" content="Awesome Seedance Posts">
+<meta property="og:title" content="Awesome Seedance Prompts">
 <meta property="og:description" content="Watch every Seedance clip shared on X, with the prompt and full credit to the creator.">
 <style>
 *,*::before,*::after{box-sizing:border-box}
@@ -205,7 +205,7 @@ footer p{margin:0 0 8px;max-width:78ch}
 
 <header>
   <div class="wrap head">
-    <h1>Awesome <span class="g">Seedance</span> Posts</h1>
+    <h1>Awesome <span class="g">Seedance</span> Prompts</h1>
     <p class="tagline">Every Seedance clip people are posting on X, collected in one place — play the video,
       read the exact prompt, and go straight to the creator who made it.</p>
     <div class="metrics">
@@ -421,7 +421,7 @@ def readme_en(posts, repo, site, updated):
     groups = by_category(posts)
     nprompt = sum(1 for p in posts if p["prompt"])
     L = []
-    L.append("# Awesome Seedance Posts\n")
+    L.append("# Awesome Seedance Prompts\n")
     L.append("**Every Seedance clip people are posting on X, collected in one place — "
              "play the video, read the exact prompt, and go straight to the creator who made it.**\n")
     L.append(f"[![Watch the gallery]({'https://img.shields.io/badge/▶%20Watch%20the%20gallery-'}"
@@ -500,7 +500,7 @@ def readme_zh(posts, repo, site, updated):
     groups = by_category(posts)
     nprompt = sum(1 for p in posts if p["prompt"])
     L = []
-    L.append("# Awesome Seedance Posts\n")
+    L.append("# Awesome Seedance Prompts\n")
     L.append("**把 X 上大家发的 Seedance 视频集中到一个入口——直接播放、看到完整提示词、"
              "并且一键找到作者本人。**\n")
     L.append(f"[![观看画廊](https://img.shields.io/badge/▶%20打开视频画廊-opensource--works.github.io-7C5CFF?style=flat-square)]({site})\n"
@@ -559,8 +559,8 @@ def readme_zh(posts, repo, site, updated):
 def main():
     import subprocess
     posts = load()
-    repo = "https://github.com/opensource-works/awesome-seedance-posts"
-    site = "https://opensource-works.github.io/awesome-seedance-posts/"
+    repo = "https://github.com/opensource-works/awesome-seedance-prompts"
+    site = "https://opensource-works.github.io/awesome-seedance-prompts/"
     updated = subprocess.run(["date", "-u", "+%Y-%m-%d"], capture_output=True, text=True).stdout.strip()
 
     build_site(posts, repo, updated)

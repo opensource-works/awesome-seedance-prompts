@@ -1,14 +1,14 @@
-# Awesome Seedance Posts
+# Awesome Seedance Prompts
 
 **Every Seedance clip people are posting on X, collected in one place — play the video, read the exact prompt, and go straight to the creator who made it.**
 
-[![Watch the gallery](https://img.shields.io/badge/▶%20Watch%20the%20gallery-opensource--works.github.io-7C5CFF?style=flat-square)](https://opensource-works.github.io/awesome-seedance-posts/)
+[![Watch the gallery](https://img.shields.io/badge/▶%20Watch%20the%20gallery-opensource--works.github.io-7C5CFF?style=flat-square)](https://opensource-works.github.io/awesome-seedance-prompts/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 **English** | [简体中文](README.zh-CN.md)
 
-### ▶ [Open the video gallery](https://opensource-works.github.io/awesome-seedance-posts/)
+### ▶ [Open the video gallery](https://opensource-works.github.io/awesome-seedance-prompts/)
 
 GitHub will not play these clips inline, so the gallery above is the real entry point: every video plays in the page, every prompt has a copy button, and you can filter by model, category or creator. This README is the same index in text form.
 
@@ -980,7 +980,7 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 ## Credit and takedowns
 
-Every video, prompt and name in this repo belongs to the person who posted it on X. Clips stream from X's own CDN and every entry links back to the original post — nothing is re-hosted, re-cut or re-worded. If you are a creator and want your post edited or removed, [open an issue](https://github.com/opensource-works/awesome-seedance-posts/issues/new) and it will be taken down, no questions asked.
+Every video, prompt and name in this repo belongs to the person who posted it on X. Clips stream from X's own CDN and every entry links back to the original post — nothing is re-hosted, re-cut or re-worded. If you are a creator and want your post edited or removed, [open an issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) and it will be taken down, no questions asked.
 
 ## Adding a post
 
