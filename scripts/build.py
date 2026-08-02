@@ -29,6 +29,13 @@ def load():
     # the original stays on the record as a fallback and as provenance.
     mpath = os.path.join(ROOT, "data", "mirror.json")
     mirror = json.load(open(mpath)) if os.path.exists(mpath) else {}
+
+    # Clips uploaded to GitHub via scripts/ingest_uploads.py. A bare
+    # user-attachments URL is the one thing GitHub turns into a real player,
+    # so where we have one the README embeds it instead of an animated still.
+    apath = os.path.join(ROOT, "data", "attachments.json")
+    attach = json.load(open(apath)) if os.path.exists(apath) else {}
+
     for p in posts:
         m = mirror.get(p["id"])
         p["video"]["source_url"] = p["video"]["url"]
@@ -37,6 +44,7 @@ def load():
             p["video"]["preview"] = m["webp"]
         else:
             p["video"]["preview"] = None
+        p["video"]["attachment"] = attach.get(p["id"])
     return posts
 
 
@@ -495,8 +503,13 @@ def readme_en(posts, repo, site, updated):
         L.append(f"## {c}\n")
         for p in g:
             L.append(f"### {p['title']}\n")
-            L.append(f'<a href="{p["url"]}"><img src="{still(p)}" '
-                     f'width="460" alt="{html.escape(p["title"])}"></a>\n')
+            if p["video"].get("attachment"):
+                # Must sit bare on its own line — wrapping it in <video> or a
+                # link makes GitHub render it as text instead of a player.
+                L.append(f'{p["video"]["attachment"]}\n')
+            else:
+                L.append(f'<a href="{p["url"]}"><img src="{still(p)}" '
+                         f'width="460" alt="{html.escape(p["title"])}"></a>\n')
             bits = [f"**[{p['author']['name']}](@)** ".replace("(@)", f"({p['author']['url']})"),
                     f"[@{p['author']['handle']}]({p['author']['url']})"]
             L.append(f"{bits[0]}· {bits[1]} · {p['model']} · {p['date']} · "
@@ -567,8 +580,13 @@ def readme_zh(posts, repo, site, updated):
         L.append(f'<a id="{slug(c)}"></a>\n')
         for p in g:
             L.append(f"### {p['title']}\n")
-            L.append(f'<a href="{p["url"]}"><img src="{still(p)}" '
-                     f'width="460" alt="{html.escape(p["title"])}"></a>\n')
+            if p["video"].get("attachment"):
+                # Must sit bare on its own line — wrapping it in <video> or a
+                # link makes GitHub render it as text instead of a player.
+                L.append(f'{p["video"]["attachment"]}\n')
+            else:
+                L.append(f'<a href="{p["url"]}"><img src="{still(p)}" '
+                         f'width="460" alt="{html.escape(p["title"])}"></a>\n')
             L.append(f"**[{p['author']['name']}]({p['author']['url']})** · "
                      f"[@{p['author']['handle']}]({p['author']['url']}) · {p['model']} · {p['date']} · "
                      f"{human(p['stats']['views'])} 播放 · [▶ 在 X 上观看]({p['url']})\n")
