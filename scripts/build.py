@@ -23,6 +23,20 @@ CATEGORY_ZH = {
 def load():
     posts = json.load(open(DATA))
     posts.sort(key=lambda p: -p["stats"]["views"])
+
+    # scripts/mirror.py copies each clip to R2 and renders a short animated
+    # preview. Playback prefers the mirror (twimg rotates its video URLs), and
+    # the original stays on the record as a fallback and as provenance.
+    mpath = os.path.join(ROOT, "data", "mirror.json")
+    mirror = json.load(open(mpath)) if os.path.exists(mpath) else {}
+    for p in posts:
+        m = mirror.get(p["id"])
+        p["video"]["source_url"] = p["video"]["url"]
+        if m:
+            p["video"]["url"] = m["mp4"]
+            p["video"]["preview"] = m["webp"]
+        else:
+            p["video"]["preview"] = None
     return posts
 
 
@@ -54,6 +68,13 @@ def clip(s, n):
     if len(s) <= n:
         return s
     return s[:n].rsplit(" ", 1)[0].rstrip(",;:—-") + "…"
+
+
+def still(p):
+    """What to show in a README. GitHub strips <video> but renders animated
+    WebP through <img>, so the mirrored loop is the only way to show motion
+    without leaving the page; the static thumbnail is the fallback."""
+    return p["video"].get("preview") or p["video"]["thumbnail"]
 
 
 # ============================================================== GitHub Pages site
@@ -358,7 +379,13 @@ $('#grid').addEventListener('click', e => {
     box.innerHTML = `<video src="${esc(p.video.url)}" poster="${esc(p.video.thumbnail)}"
         controls autoplay playsinline preload="auto" referrerpolicy="no-referrer"></video>`;
     const vid = box.querySelector('video');
+    // Mirror first; if that ever fails, fall back to X's own copy, then to the post.
+    let triedSource = false;
     vid.addEventListener('error', () => {
+      if (!triedSource && p.video.source_url && p.video.source_url !== p.video.url) {
+        triedSource = true; vid.src = p.video.source_url; vid.load(); vid.play().catch(()=>{});
+        return;
+      }
       box.innerHTML = `<div style="display:grid;place-items:center;height:100%;padding:20px;
         text-align:center;font-size:13px;color:#9a9ab5">This clip can no longer stream here.<br>
         <a href="${esc(p.url)}" target="_blank" rel="noopener" style="color:#b8a5ff">Watch it on X ↗</a></div>`;
@@ -399,7 +426,8 @@ def build_site(posts, repo, updated):
         "id": p["id"], "url": p["url"], "title": p["title"], "text": p["text"],
         "prompt": p["prompt"], "prompt_in_thread": p["prompt_in_thread"],
         "model": p["model"], "category": p["category"], "date": p["date"],
-        "author": p["author"], "video": p["video"], "stats": p["stats"],
+        "author": p["author"], "stats": p["stats"],
+        "video": {k: v for k, v in p["video"].items() if k != "formats"},
     } for p in posts]
     page = (PAGE
             .replace("__DATA__", json.dumps(slim, ensure_ascii=False).replace("</", "<\\/"))
@@ -430,9 +458,11 @@ def readme_en(posts, repo, site, updated):
              "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)\n")
     L.append("**English** | [简体中文](README.zh-CN.md)\n")
     L.append(f"### ▶ [Open the video gallery]({site})\n")
-    L.append("GitHub will not play these clips inline, so the gallery above is the real entry point: "
-             "every video plays in the page, every prompt has a copy button, and you can filter by model, "
-             "category or creator. This README is the same index in text form.\n")
+    L.append("Every preview below is a **silent 3-second loop that plays right here on GitHub** — "
+             "GitHub's Markdown strips `<video>`, so an animated image is as close to playback as this "
+             "page can get. Click any of them for the full clip with sound, or open the gallery, where "
+             "the videos play in-page, prompts have a copy button, and you can filter by model, category "
+             "or creator.\n")
 
     L.append("## What's in here\n")
     L.append(f"| | |\n|---|---|\n"
@@ -449,7 +479,7 @@ def readme_en(posts, repo, site, updated):
         if i and i % 3 == 0:
             L.append("</tr><tr>")
         L.append(f'<td width="33%" valign="top"><a href="{p["url"]}">'
-                 f'<img src="{p["video"]["thumbnail"]}" width="100%" alt=""></a><br>'
+                 f'<img src="{still(p)}" width="100%" alt=""></a><br>'
                  f'<sub><b>{html.escape(clip(p["title"], 62))}</b><br>'
                  f'<a href="{p["author"]["url"]}">@{p["author"]["handle"]}</a> · '
                  f'{human(p["stats"]["views"])} views</sub></td>')
@@ -464,7 +494,7 @@ def readme_en(posts, repo, site, updated):
         L.append(f"## {c}\n")
         for p in g:
             L.append(f"### {p['title']}\n")
-            L.append(f'<a href="{p["url"]}"><img src="{p["video"]["thumbnail"]}" '
+            L.append(f'<a href="{p["url"]}"><img src="{still(p)}" '
                      f'width="460" alt="{html.escape(p["title"])}"></a>\n')
             bits = [f"**[{p['author']['name']}](@)** ".replace("(@)", f"({p['author']['url']})"),
                     f"[@{p['author']['handle']}]({p['author']['url']})"]
@@ -508,8 +538,10 @@ def readme_zh(posts, repo, site, updated):
              "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)\n")
     L.append("[English](README.md) | **简体中文**\n")
     L.append(f"### ▶ [打开视频画廊]({site})\n")
-    L.append("GitHub 页面里不能直接播放这些视频，所以上面的画廊才是真正的入口："
-             "视频在页面内播放，提示词一键复制，还能按模型、分类、作者筛选。本 README 是同一份索引的文字版。\n")
+    L.append("下面每一张预览都是**在 GitHub 页面上直接循环播放的 3 秒无声动图**——"
+             "GitHub 的 Markdown 会把 `<video>` 标签删掉，动图是这个页面能做到的最接近播放的形式。"
+             "点任意一张看完整带声音的原片；或者打开画廊，那里视频在页面内播放、提示词一键复制、"
+             "还能按模型、分类、作者筛选。\n")
 
     L.append("## 收录概况\n")
     L.append(f"| | |\n|---|---|\n"
@@ -530,7 +562,7 @@ def readme_zh(posts, repo, site, updated):
         L.append(f'<a id="{slug(c)}"></a>\n')
         for p in g:
             L.append(f"### {p['title']}\n")
-            L.append(f'<a href="{p["url"]}"><img src="{p["video"]["thumbnail"]}" '
+            L.append(f'<a href="{p["url"]}"><img src="{still(p)}" '
                      f'width="460" alt="{html.escape(p["title"])}"></a>\n')
             L.append(f"**[{p['author']['name']}]({p['author']['url']})** · "
                      f"[@{p['author']['handle']}]({p['author']['url']}) · {p['model']} · {p['date']} · "

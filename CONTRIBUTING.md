@@ -43,11 +43,23 @@ exactly as posted — if those look wrong, the fix is a bug report, not an overr
 
 ```bash
 python3 scripts/harvest.py          # scripts/urls.txt -> data/posts.json
+python3 scripts/mirror.py           # copy clips to R2 + render animated previews
 python3 scripts/build.py            # data/posts.json  -> docs/ + both READMEs
 ```
 
 `harvest.py --cache` reuses `.cache/` and only fetches URLs it hasn't seen, which is
-much faster while you're iterating. No API key or login is needed.
+much faster while you're iterating. It needs no API key or login.
+
+`mirror.py` is the only step that needs credentials (`R2_ACCOUNT`, `R2_KEY_ID`,
+`R2_SECRET`) and `ffmpeg` on your PATH. You can skip it — `build.py` falls back to
+X's own URLs for anything not in `data/mirror.json`. CI runs it for you on merge,
+so a PR that only adds a URL doesn't need to touch R2 at all.
+
+Why the mirror exists: X rotates its `video.twimg.com` URLs, which would silently
+break playback across the whole gallery. The mirror keeps the largest encode X
+publishes at 1080p or below — its file, not a re-encode — plus a 3-second silent
+WebP loop, because GitHub strips `<video>` and an animated image is the only way
+to show motion in a README.
 
 Please don't hand-edit `data/posts.json`, `docs/index.html` or the READMEs — they are
 generated, and your changes will be overwritten on the next build.

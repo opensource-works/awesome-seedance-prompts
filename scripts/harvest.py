@@ -159,6 +159,9 @@ def build(tweet):
             "width": v.get("width"),
             "height": v.get("height"),
             "duration": round(v.get("duration") or 0, 2),
+            # X publishes several encodes of the same clip; keeping them lets
+            # scripts/mirror.py pick a sane one instead of re-encoding.
+            "formats": [f for f in (v.get("formats") or []) if f.get("container") == "mp4"],
         },
         "stats": {
             "views": tweet.get("views") or 0,
