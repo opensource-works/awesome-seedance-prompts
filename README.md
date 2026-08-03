@@ -21,7 +21,7 @@
 | Posts with the full prompt | **16** |
 | Combined views on X | **17.3M** |
 | Models covered | **Seedance 2.0** (46), **Seedance 2.5** (16), **Seedance** (2) |
-| Last refreshed | 2026-08-02 |
+| Last refreshed | 2026-08-03 |
 
 ## Most watched
 
@@ -981,8 +981,6 @@ https://github.com/user-attachments/assets/f6c97fcc-525a-4d22-acb6-38d63947fbbb
 ## Credit and takedowns
 
 Every video, prompt and name in this repo belongs to the person who posted it on X, and every entry links back to the original post.
-
-**Copies are kept in two places**: on GitHub, so the clips play inline on this page, and on our own storage, which is what the gallery streams from. Both are needed because X rotates its `video.twimg.com` URLs, and hotlinking alone would eventually leave the whole index dead. What is stored is the encode X publishes — nothing is re-cut, re-scored or re-worded. Nobody's work is passed off as ours.
 
 If you are a creator and want your post edited or removed, [open an issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) and it comes down, no questions asked.
 
