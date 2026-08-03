@@ -55,8 +55,8 @@
       ]
     },
     "stats": {
-      "views": 10465276,
-      "likes": 2520,
+      "views": 11563413,
+      "likes": 2562,
       "retweets": 869
     }
   },
@@ -110,9 +110,9 @@
       ]
     },
     "stats": {
-      "views": 1550614,
-      "likes": 1295,
-      "retweets": 199
+      "views": 1564120,
+      "likes": 1296,
+      "retweets": 200
     }
   },
   {
@@ -159,9 +159,9 @@
       ]
     },
     "stats": {
-      "views": 780692,
-      "likes": 4192,
-      "retweets": 564
+      "views": 780698,
+      "likes": 4193,
+      "retweets": 565
     }
   },
   {
@@ -209,7 +209,7 @@
     },
     "stats": {
       "views": 526791,
-      "likes": 2399,
+      "likes": 2398,
       "retweets": 191
     }
   },
@@ -263,58 +263,9 @@
       ]
     },
     "stats": {
-      "views": 516218,
+      "views": 516222,
       "likes": 526,
       "retweets": 60
-    }
-  },
-  {
-    "id": "2020728930278531232",
-    "url": "https://x.com/lepadphone/status/2020728930278531232",
-    "title": "Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…",
-    "text": "Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image, one sentence, a few minutes, and you’ve got a premium, expensive-looking Microsoft Fluent–style animated app ad. That whole pipeline just got compressed into a prompt.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Ads, UGC & Product",
-    "date": "2026-02-09",
-    "author": {
-      "name": "padphone",
-      "handle": "lepadphone",
-      "url": "https://x.com/lepadphone",
-      "avatar": "https://pbs.twimg.com/profile_images/1762527050055942144/N3Z8QwmX_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/1280x720/z24VglcZ8joflKgO.mp4?tag=21",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2020728577675980800/img/m3yQFocbxw0BWLIf.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 15.07,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/480x270/P5-gRnpUB9WTDXwz.mp4?tag=21",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/640x360/OZjz8b0UOs1cVrIG.mp4?tag=21",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/1280x720/z24VglcZ8joflKgO.mp4?tag=21",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 508373,
-      "likes": 2540,
-      "retweets": 174
     }
   },
   {
@@ -367,9 +318,58 @@
       ]
     },
     "stats": {
-      "views": 507154,
-      "likes": 3044,
-      "retweets": 812
+      "views": 514323,
+      "likes": 3059,
+      "retweets": 814
+    }
+  },
+  {
+    "id": "2020728930278531232",
+    "url": "https://x.com/lepadphone/status/2020728930278531232",
+    "title": "Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…",
+    "text": "Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image, one sentence, a few minutes, and you’ve got a premium, expensive-looking Microsoft Fluent–style animated app ad. That whole pipeline just got compressed into a prompt.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Ads, UGC & Product",
+    "date": "2026-02-09",
+    "author": {
+      "name": "padphone",
+      "handle": "lepadphone",
+      "url": "https://x.com/lepadphone",
+      "avatar": "https://pbs.twimg.com/profile_images/1762527050055942144/N3Z8QwmX_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/1280x720/z24VglcZ8joflKgO.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2020728577675980800/img/m3yQFocbxw0BWLIf.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 15.07,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/480x270/P5-gRnpUB9WTDXwz.mp4?tag=21",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/640x360/OZjz8b0UOs1cVrIG.mp4?tag=21",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2020728577675980800/vid/avc1/1280x720/z24VglcZ8joflKgO.mp4?tag=21",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 508379,
+      "likes": 2540,
+      "retweets": 174
     }
   },
   {
@@ -471,7 +471,7 @@
       ]
     },
     "stats": {
-      "views": 388915,
+      "views": 388918,
       "likes": 2731,
       "retweets": 289
     }
@@ -526,8 +526,8 @@
       ]
     },
     "stats": {
-      "views": 275209,
-      "likes": 579,
+      "views": 280337,
+      "likes": 581,
       "retweets": 57
     }
   },
@@ -587,7 +587,7 @@
       ]
     },
     "stats": {
-      "views": 230953,
+      "views": 230959,
       "likes": 725,
       "retweets": 418
     }
@@ -642,7 +642,7 @@
       ]
     },
     "stats": {
-      "views": 222553,
+      "views": 222611,
       "likes": 1626,
       "retweets": 203
     }
@@ -703,9 +703,9 @@
       ]
     },
     "stats": {
-      "views": 206704,
+      "views": 206803,
       "likes": 1897,
-      "retweets": 114
+      "retweets": 113
     }
   },
   {
@@ -752,7 +752,7 @@
       ]
     },
     "stats": {
-      "views": 161941,
+      "views": 161988,
       "likes": 2167,
       "retweets": 272
     }
@@ -801,9 +801,9 @@
       ]
     },
     "stats": {
-      "views": 142084,
+      "views": 142090,
       "likes": 1319,
-      "retweets": 117
+      "retweets": 116
     }
   },
   {
@@ -850,8 +850,8 @@
       ]
     },
     "stats": {
-      "views": 95487,
-      "likes": 847,
+      "views": 99416,
+      "likes": 854,
       "retweets": 64
     }
   },
@@ -905,9 +905,9 @@
       ]
     },
     "stats": {
-      "views": 91224,
+      "views": 91226,
       "likes": 669,
-      "retweets": 78
+      "retweets": 77
     }
   },
   {
@@ -954,7 +954,7 @@
       ]
     },
     "stats": {
-      "views": 79831,
+      "views": 79836,
       "likes": 991,
       "retweets": 64
     }
@@ -1003,7 +1003,7 @@
       ]
     },
     "stats": {
-      "views": 77549,
+      "views": 77550,
       "likes": 602,
       "retweets": 33
     }
@@ -1052,7 +1052,7 @@
       ]
     },
     "stats": {
-      "views": 70502,
+      "views": 70504,
       "likes": 672,
       "retweets": 88
     }
@@ -1107,7 +1107,7 @@
       ]
     },
     "stats": {
-      "views": 60447,
+      "views": 60457,
       "likes": 594,
       "retweets": 81
     }
@@ -1156,9 +1156,9 @@
       ]
     },
     "stats": {
-      "views": 55380,
+      "views": 55384,
       "likes": 396,
-      "retweets": 121
+      "retweets": 122
     }
   },
   {
@@ -1205,7 +1205,7 @@
       ]
     },
     "stats": {
-      "views": 54984,
+      "views": 54986,
       "likes": 805,
       "retweets": 58
     }
@@ -1260,8 +1260,8 @@
       ]
     },
     "stats": {
-      "views": 54787,
-      "likes": 782,
+      "views": 54790,
+      "likes": 781,
       "retweets": 113
     }
   },
@@ -1377,7 +1377,7 @@
     },
     "stats": {
       "views": 43064,
-      "likes": 473,
+      "likes": 472,
       "retweets": 36
     }
   },
@@ -1425,8 +1425,8 @@
       ]
     },
     "stats": {
-      "views": 40428,
-      "likes": 414,
+      "views": 41576,
+      "likes": 416,
       "retweets": 36
     }
   },
@@ -1529,8 +1529,8 @@
       ]
     },
     "stats": {
-      "views": 33743,
-      "likes": 381,
+      "views": 34375,
+      "likes": 383,
       "retweets": 31
     }
   },
@@ -1634,57 +1634,8 @@
     },
     "stats": {
       "views": 30141,
-      "likes": 291,
+      "likes": 290,
       "retweets": 27
-    }
-  },
-  {
-    "id": "2083173622211035222",
-    "url": "https://x.com/higgsfield_ai/status/2083173622211035222",
-    "title": "Seedance 2.5 generates a full 30-second animated scene",
-    "text": "Seedance 2.5 generates a full 30-second animated scene.\n\nIt holds character design, camera movement, and lighting across the entire take, that feels like a shot from an animated feature.\n\nComing soon to Higgsfield. Get 14 days of UNLIMITED Seedance.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Launch & Announcements",
-    "date": "2026-07-31",
-    "author": {
-      "name": "Higgsfield AI 🧩",
-      "handle": "higgsfield_ai",
-      "url": "https://x.com/higgsfield_ai",
-      "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/1280x720/zpfsemXPJ-i1fQAI.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083170426151460864/img/J_0xlkOW7fp5xamo.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 30.04,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/480x270/L5oDZzNvcgA1GtM8.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/640x360/YY7ofJpJgq1ybAHx.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/1280x720/zpfsemXPJ-i1fQAI.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 26180,
-      "likes": 273,
-      "retweets": 39
     }
   },
   {
@@ -1737,9 +1688,58 @@
       ]
     },
     "stats": {
-      "views": 24639,
-      "likes": 171,
-      "retweets": 36
+      "views": 27090,
+      "likes": 191,
+      "retweets": 38
+    }
+  },
+  {
+    "id": "2083173622211035222",
+    "url": "https://x.com/higgsfield_ai/status/2083173622211035222",
+    "title": "Seedance 2.5 generates a full 30-second animated scene",
+    "text": "Seedance 2.5 generates a full 30-second animated scene.\n\nIt holds character design, camera movement, and lighting across the entire take, that feels like a shot from an animated feature.\n\nComing soon to Higgsfield. Get 14 days of UNLIMITED Seedance.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Launch & Announcements",
+    "date": "2026-07-31",
+    "author": {
+      "name": "Higgsfield AI 🧩",
+      "handle": "higgsfield_ai",
+      "url": "https://x.com/higgsfield_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/1280x720/zpfsemXPJ-i1fQAI.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083170426151460864/img/J_0xlkOW7fp5xamo.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 30.04,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/480x270/L5oDZzNvcgA1GtM8.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/640x360/YY7ofJpJgq1ybAHx.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083170426151460864/vid/avc1/1280x720/zpfsemXPJ-i1fQAI.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 26387,
+      "likes": 275,
+      "retweets": 41
     }
   },
   {
@@ -1792,55 +1792,6 @@
     }
   },
   {
-    "id": "2024891921576198278",
-    "url": "https://x.com/magnific/status/2024891921576198278",
-    "title": "Seedance 2.0 generates UGC-style content that actually converts",
-    "text": "Seedance 2.0 generates UGC-style content that actually converts\n\nSoon on Freepik",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Ads, UGC & Product",
-    "date": "2026-02-20",
-    "author": {
-      "name": "Magnific",
-      "handle": "magnific",
-      "url": "https://x.com/magnific",
-      "avatar": "https://pbs.twimg.com/profile_images/2049093558435753984/fmXN11gV_200x200.png"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/1280x720/UWgOm88oZ0Sra4FX.mp4?tag=14",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024891821474844672/img/0z2NTa8H25FY_ESk.jpg",
-      "width": 3840,
-      "height": 2160,
-      "duration": 12.93,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/480x270/zwN1g3OoKSnJmrJJ.mp4?tag=14",
-          "bitrate": 288000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/640x360/iDHOy1uj-jq9051P.mp4?tag=14",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/1280x720/UWgOm88oZ0Sra4FX.mp4?tag=14",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 22590,
-      "likes": 328,
-      "retweets": 26
-    }
-  },
-  {
     "id": "2080322001722294370",
     "url": "https://x.com/MrLarus/status/2080322001722294370",
     "title": "Depth-tracked rooftop parkour with a swapped character and scene",
@@ -1890,9 +1841,58 @@
       ]
     },
     "stats": {
-      "views": 22045,
+      "views": 22615,
       "likes": 112,
       "retweets": 10
+    }
+  },
+  {
+    "id": "2024891921576198278",
+    "url": "https://x.com/magnific/status/2024891921576198278",
+    "title": "Seedance 2.0 generates UGC-style content that actually converts",
+    "text": "Seedance 2.0 generates UGC-style content that actually converts\n\nSoon on Freepik",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Ads, UGC & Product",
+    "date": "2026-02-20",
+    "author": {
+      "name": "Magnific",
+      "handle": "magnific",
+      "url": "https://x.com/magnific",
+      "avatar": "https://pbs.twimg.com/profile_images/2049093558435753984/fmXN11gV_200x200.png"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/1280x720/UWgOm88oZ0Sra4FX.mp4?tag=14",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024891821474844672/img/0z2NTa8H25FY_ESk.jpg",
+      "width": 3840,
+      "height": 2160,
+      "duration": 12.93,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/480x270/zwN1g3OoKSnJmrJJ.mp4?tag=14",
+          "bitrate": 288000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/640x360/iDHOy1uj-jq9051P.mp4?tag=14",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2024891821474844672/vid/avc1/1280x720/UWgOm88oZ0Sra4FX.mp4?tag=14",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 22590,
+      "likes": 328,
+      "retweets": 26
     }
   },
   {
@@ -1945,7 +1945,7 @@
       ]
     },
     "stats": {
-      "views": 21611,
+      "views": 21615,
       "likes": 248,
       "retweets": 33
     }
@@ -2000,7 +2000,7 @@
       ]
     },
     "stats": {
-      "views": 20595,
+      "views": 20611,
       "likes": 36,
       "retweets": 8
     }
@@ -2057,7 +2057,7 @@
     "stats": {
       "views": 19391,
       "likes": 191,
-      "retweets": 14
+      "retweets": 13
     }
   },
   {
@@ -2110,7 +2110,7 @@
       ]
     },
     "stats": {
-      "views": 19384,
+      "views": 19386,
       "likes": 68,
       "retweets": 6
     }
@@ -2159,7 +2159,7 @@
       ]
     },
     "stats": {
-      "views": 15282,
+      "views": 15283,
       "likes": 92,
       "retweets": 18
     }
@@ -2214,7 +2214,7 @@
       ]
     },
     "stats": {
-      "views": 14567,
+      "views": 14571,
       "likes": 187,
       "retweets": 21
     }
@@ -2269,7 +2269,7 @@
       ]
     },
     "stats": {
-      "views": 14410,
+      "views": 14411,
       "likes": 242,
       "retweets": 19
     }
@@ -2324,8 +2324,8 @@
       ]
     },
     "stats": {
-      "views": 13089,
-      "likes": 158,
+      "views": 13100,
+      "likes": 159,
       "retweets": 26
     }
   },
@@ -2385,7 +2385,7 @@
       ]
     },
     "stats": {
-      "views": 12609,
+      "views": 12611,
       "likes": 109,
       "retweets": 34
     }
@@ -2434,7 +2434,7 @@
       ]
     },
     "stats": {
-      "views": 11052,
+      "views": 11054,
       "likes": 123,
       "retweets": 12
     }
@@ -2483,7 +2483,7 @@
       ]
     },
     "stats": {
-      "views": 8700,
+      "views": 8703,
       "likes": 184,
       "retweets": 9
     }
@@ -2642,7 +2642,7 @@
       ]
     },
     "stats": {
-      "views": 7987,
+      "views": 8011,
       "likes": 48,
       "retweets": 3
     }
@@ -2691,7 +2691,7 @@
       ]
     },
     "stats": {
-      "views": 6152,
+      "views": 6200,
       "likes": 28,
       "retweets": 2
     }
@@ -2893,7 +2893,7 @@
       ]
     },
     "stats": {
-      "views": 3813,
+      "views": 3814,
       "likes": 43,
       "retweets": 2
     }
@@ -2942,7 +2942,7 @@
       ]
     },
     "stats": {
-      "views": 2668,
+      "views": 2669,
       "likes": 40,
       "retweets": 2
     }
@@ -3060,7 +3060,7 @@
     "stats": {
       "views": 1637,
       "likes": 124,
-      "retweets": 17
+      "retweets": 16
     }
   },
   {
@@ -3107,7 +3107,7 @@
       ]
     },
     "stats": {
-      "views": 1628,
+      "views": 1629,
       "likes": 79,
       "retweets": 5
     }
@@ -3158,7 +3158,7 @@
     "stats": {
       "views": 1473,
       "likes": 29,
-      "retweets": 3
+      "retweets": 2
     }
   },
   {
@@ -3205,7 +3205,7 @@
       ]
     },
     "stats": {
-      "views": 1273,
+      "views": 1289,
       "likes": 4,
       "retweets": 0
     }
@@ -3254,7 +3254,7 @@
       ]
     },
     "stats": {
-      "views": 1181,
+      "views": 1189,
       "likes": 2,
       "retweets": 0
     }

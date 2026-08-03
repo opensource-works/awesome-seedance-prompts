@@ -19,7 +19,7 @@
 | 帖子数 | **64** |
 | 署名作者 | **52** |
 | 含完整提示词 | **16** |
-| X 上累计播放 | **18.1M** |
+| X 上累计播放 | **19.3M** |
 | 覆盖模型 | **Seedance 2.0**（46）, **Seedance 2.5**（16）, **Seedance**（2） |
 | 最近更新 | 2026-08-03 |
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
 https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
-**[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 206.7K 播放 · [▶ 在 X 上观看](https://x.com/chetaslua/status/2069304088177848479)
+**[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 206.8K 播放 · [▶ 在 X 上观看](https://x.com/chetaslua/status/2069304088177848479)
 
 ### Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot
 
@@ -67,13 +67,13 @@ https://github.com/user-attachments/assets/3b17e346-3569-4a9d-817e-0f4d85129fd3
 
 https://github.com/user-attachments/assets/255c9b4b-ec01-4de4-9b56-50a64c37a011
 
-**[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 40.4K 播放 · [▶ 在 X 上观看](https://x.com/arikuschnir/status/2083209950231220403)
+**[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 41.6K 播放 · [▶ 在 X 上观看](https://x.com/arikuschnir/status/2083209950231220403)
 
 ### Seedance 2.5 first test — 30 seconds in one go, with some morphing
 
 https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
-**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 33.7K 播放 · [▶ 在 X 上观看](https://x.com/aimikoda/status/2083182758407307605)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 34.4K 播放 · [▶ 在 X 上观看](https://x.com/aimikoda/status/2083182758407307605)
 
 ### Made with Seedance 2.0 + GPT image 2
 
@@ -235,7 +235,7 @@ Ultra realistic, emotional storytelling, FIFA World Cup atmosphere, cinematic li
 
 https://github.com/user-attachments/assets/620a1bff-2daf-4af2-83e3-8a8b87e6ecd8
 
-**[Oogie](https://x.com/oggii_0)** · [@oggii_0](https://x.com/oggii_0) · Seedance 2.0 · 2026-07-09 · 60.4K 播放 · [▶ 在 X 上观看](https://x.com/oggii_0/status/2075074872351572216)
+**[Oogie](https://x.com/oggii_0)** · [@oggii_0](https://x.com/oggii_0) · Seedance 2.0 · 2026-07-09 · 60.5K 播放 · [▶ 在 X 上观看](https://x.com/oggii_0/status/2075074872351572216)
 
 <details><summary><b>提示词</b></summary>
 
@@ -821,7 +821,7 @@ https://github.com/user-attachments/assets/cdebab9f-3553-48e7-a2c7-7cb5be498e68
 
 https://github.com/user-attachments/assets/b8842268-6562-4b20-ab20-80e70e50472d
 
-**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-04-27 · 161.9K 播放 · [▶ 在 X 上观看](https://x.com/aimikoda/status/2048654096794538316)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-04-27 · 162K 播放 · [▶ 在 X 上观看](https://x.com/aimikoda/status/2048654096794538316)
 
 > 作者把提示词发在了[原帖的楼中楼](https://x.com/aimikoda/status/2048654096794538316)。
 
@@ -841,7 +841,7 @@ https://github.com/user-attachments/assets/392e8926-71c3-427d-9698-e3268dae9185
 
 https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
-**[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 22K 播放 · [▶ 在 X 上观看](https://x.com/MrLarus/status/2080322001722294370)
+**[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 22.6K 播放 · [▶ 在 X 上观看](https://x.com/MrLarus/status/2080322001722294370)
 
 > 作者把提示词发在了[原帖的楼中楼](https://x.com/MrLarus/status/2080322001722294370)。
 
@@ -901,7 +901,7 @@ https://github.com/user-attachments/assets/5c3b4930-21ce-445a-8482-7063af80080a
 
 https://github.com/user-attachments/assets/ede50a79-7e36-4573-a6df-725df5d2dfec
 
-**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 10.5M 播放 · [▶ 在 X 上观看](https://x.com/BytePlusGlobal/status/2083069262969844158)
+**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 11.6M 播放 · [▶ 在 X 上观看](https://x.com/BytePlusGlobal/status/2083069262969844158)
 
 ### 14 days of unlimited Seedance on Higgsfield
 
@@ -919,7 +919,7 @@ https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 507.2K 播放 · [▶ 在 X 上观看](https://x.com/dreamina_ai/status/2083056471147958714)
+**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 514.3K 播放 · [▶ 在 X 上观看](https://x.com/dreamina_ai/status/2083056471147958714)
 
 ### Seedance 2.0 from China will be the SOTA
 
@@ -931,7 +931,7 @@ https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
 https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 275.2K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083138301083693295)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 280.3K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083138301083693295)
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -943,19 +943,19 @@ https://github.com/user-attachments/assets/21eca056-25dc-4b3e-b409-e306b56f61f6
 
 https://github.com/user-attachments/assets/3ecf7372-0641-4571-8389-2cff79b7c07b
 
-**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 95.5K 播放 · [▶ 在 X 上观看](https://x.com/shiri_shh/status/2083144487870611828)
-
-### Seedance 2.5 generates a full 30-second animated scene
-
-https://github.com/user-attachments/assets/a21d11f7-fe17-44e5-b908-ce87ec166e2b
-
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 26.2K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083173622211035222)
+**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 99.4K 播放 · [▶ 在 X 上观看](https://x.com/shiri_shh/status/2083144487870611828)
 
 ### Image-to-video in Seedance 2.5 is production-ready
 
 https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 24.6K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083719880059359478)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 27.1K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083719880059359478)
+
+### Seedance 2.5 generates a full 30-second animated scene
+
+https://github.com/user-attachments/assets/a21d11f7-fe17-44e5-b908-ce87ec166e2b
+
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 26.4K 播放 · [▶ 在 X 上观看](https://x.com/higgsfield_ai/status/2083173622211035222)
 
 ### AI video models are gradually moving from prompt-to-clip systems toward more controllable…
 
