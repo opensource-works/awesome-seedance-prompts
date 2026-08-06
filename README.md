@@ -24,20 +24,20 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 | Posts | **64** |
 | Creators credited | **52** |
 | Posts with the full prompt | **16** |
-| Combined views on X | **19.3M** |
+| Combined views on X | **23.5M** |
 | Models covered | **Seedance 2.0** (46), **Seedance 2.5** (16), **Seedance** (2) |
 | Last refreshed | 2026-08-06 |
 
 ## Most watched
 
 <table><tr>
-<td width="33%" valign="top"><a href="https://x.com/BytePlusGlobal/status/2083069262969844158"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BytePlusGlobal_2083066957230915584.webp" width="100%" alt=""></a><br><sub><b>Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/BytePlusGlobal">@BytePlusGlobal</a> · 11.6M views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/BytePlusGlobal/status/2083069262969844158"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BytePlusGlobal_2083066957230915584.webp" width="100%" alt=""></a><br><sub><b>Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/BytePlusGlobal">@BytePlusGlobal</a> · 15.6M views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/higgsfield/status/2083105837795745797"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_2083105131604963328.webp" width="100%" alt=""></a><br><sub><b>14 days of unlimited Seedance on Higgsfield</b><br><a href="https://x.com/higgsfield">@higgsfield</a> · 1.6M views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/deedydas/status/2020911900968767976"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp" width="100%" alt=""></a><br><sub><b>China&#x27;s Bytedance just dropped the most advanced video…</b><br><a href="https://x.com/deedydas">@deedydas</a> · 780.7K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/deedydas/status/2020911900968767976"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp" width="100%" alt=""></a><br><sub><b>China&#x27;s Bytedance just dropped the most advanced video…</b><br><a href="https://x.com/deedydas">@deedydas</a> · 780.8K views</sub></td>
 </tr><tr>
+<td width="33%" valign="top"><a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="100%" alt=""></a><br><sub><b>🎬 Global Launch: Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/dreamina_ai">@dreamina_ai</a> · 539.4K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/AngryTomtweets/status/2020192635936469110"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AngryTomtweets_2020053177555644418.webp" width="100%" alt=""></a><br><sub><b>Seedance 2.0 is insane</b><br><a href="https://x.com/AngryTomtweets">@AngryTomtweets</a> · 526.8K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/EHuanglu/status/2020828503810445785"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2020828440140943360.webp" width="100%" alt=""></a><br><sub><b>Three images and the prompt &quot;2 women fighting&quot;</b><br><a href="https://x.com/EHuanglu">@EHuanglu</a> · 516.2K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="100%" alt=""></a><br><sub><b>🎬 Global Launch: Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/dreamina_ai">@dreamina_ai</a> · 514.3K views</sub></td>
 </tr></table>
 
 ## Contents
@@ -64,13 +64,13 @@ https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
 https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
-**[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 206.8K views · [▶ Watch on X](https://x.com/chetaslua/status/2069304088177848479)
+**[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 207K views · [▶ Watch on X](https://x.com/chetaslua/status/2069304088177848479)
 
 ### Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot
 
 https://github.com/user-attachments/assets/837b684c-8845-4c65-bcbe-47c384c80c3e
 
-**[🚨 AI News | TestingCatalog](https://x.com/testingcatalog)** · [@testingcatalog](https://x.com/testingcatalog) · Seedance 2.5 · 2026-07-11 · 77.5K views · [▶ Watch on X](https://x.com/testingcatalog/status/2076043332472463471)
+**[🚨 AI News | TestingCatalog](https://x.com/testingcatalog)** · [@testingcatalog](https://x.com/testingcatalog) · Seedance 2.5 · 2026-07-11 · 77.6K views · [▶ Watch on X](https://x.com/testingcatalog/status/2076043332472463471)
 
 ### FIRST TEST Seedance 2.0!
 
@@ -82,13 +82,13 @@ https://github.com/user-attachments/assets/3b17e346-3569-4a9d-817e-0f4d85129fd3
 
 https://github.com/user-attachments/assets/255c9b4b-ec01-4de4-9b56-50a64c37a011
 
-**[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 41.6K views · [▶ Watch on X](https://x.com/arikuschnir/status/2083209950231220403)
+**[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 42.2K views · [▶ Watch on X](https://x.com/arikuschnir/status/2083209950231220403)
 
 ### Seedance 2.5 first test — 30 seconds in one go, with some morphing
 
 https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
-**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 34.4K views · [▶ Watch on X](https://x.com/aimikoda/status/2083182758407307605)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 36.2K views · [▶ Watch on X](https://x.com/aimikoda/status/2083182758407307605)
 
 ### Made with Seedance 2.0 + GPT image 2
 
@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/8e2c746e-ddde-44db-a434-7f3706f5f419
 
 https://github.com/user-attachments/assets/fae053df-f5ff-49b7-8e1a-87d22b1c22b1
 
-**[Min Choi](https://x.com/minchoi)** · [@minchoi](https://x.com/minchoi) · Seedance 2.0 · 2026-02-09 · 391K views · [▶ Watch on X](https://x.com/minchoi/status/2020878278475518152)
+**[Min Choi](https://x.com/minchoi)** · [@minchoi](https://x.com/minchoi) · Seedance 2.0 · 2026-02-09 · 391.1K views · [▶ Watch on X](https://x.com/minchoi/status/2020878278475518152)
 
 > The creator posted the prompt further down [the thread](https://x.com/minchoi/status/2020878278475518152).
 
@@ -181,7 +181,7 @@ Final close shot. The cat brushes against her leg. She looks toward the camera w
 
 https://github.com/user-attachments/assets/f3715646-4ea2-4983-8444-6c4c47abcbbc
 
-**[Alvaro Cintas](https://x.com/dr_cintas)** · [@dr_cintas](https://x.com/dr_cintas) · Seedance 2.5 · 2026-07-31 · 6.2K views · [▶ Watch on X](https://x.com/dr_cintas/status/2083283266451169431)
+**[Alvaro Cintas](https://x.com/dr_cintas)** · [@dr_cintas](https://x.com/dr_cintas) · Seedance 2.5 · 2026-07-31 · 6.4K views · [▶ Watch on X](https://x.com/dr_cintas/status/2083283266451169431)
 
 ### Macro spices collapsing into a cosmos, stop-motion style
 
@@ -383,13 +383,13 @@ https://github.com/user-attachments/assets/1c40fb8d-3ca8-4c7d-a097-681415cec353
 
 https://github.com/user-attachments/assets/3e425690-d5a9-4350-9e67-13f224136909
 
-**[nachos2d](https://x.com/NACHOS2D_)** · [@NACHOS2D_](https://x.com/NACHOS2D_) · Seedance 2.0 · 2026-02-10 · 30.1K views · [▶ Watch on X](https://x.com/NACHOS2D_/status/2021295886978908547)
+**[nachos2d](https://x.com/NACHOS2D_)** · [@NACHOS2D_](https://x.com/NACHOS2D_) · Seedance 2.0 · 2026-02-10 · 30.2K views · [▶ Watch on X](https://x.com/NACHOS2D_/status/2021295886978908547)
 
 ### Doodle overlay — real objects turning into 2D cartoons
 
 https://github.com/user-attachments/assets/c4bc435f-d48f-436b-a031-b0f5c799afe9
 
-**[simeon-sanai](https://x.com/Naiknelofar788)** · [@Naiknelofar788](https://x.com/Naiknelofar788) · Seedance 2.0 · 2026-07-15 · 13.1K views · [▶ Watch on X](https://x.com/Naiknelofar788/status/2077382054275436584)
+**[simeon-sanai](https://x.com/Naiknelofar788)** · [@Naiknelofar788](https://x.com/Naiknelofar788) · Seedance 2.0 · 2026-07-15 · 13.2K views · [▶ Watch on X](https://x.com/Naiknelofar788/status/2077382054275436584)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -558,7 +558,7 @@ https://github.com/user-attachments/assets/8df2fc90-f032-41a6-b25e-56279f106df8
 
 https://github.com/user-attachments/assets/519a851f-bccc-42e3-a048-00aad19a62e1
 
-**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-07-05 · 8K views · [▶ Watch on X](https://x.com/aimikoda/status/2073596755212431768)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-07-05 · 8.1K views · [▶ Watch on X](https://x.com/aimikoda/status/2073596755212431768)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -706,7 +706,7 @@ https://github.com/user-attachments/assets/8c8f5cb5-d633-4332-83ab-e39ebe7b5861
 
 https://github.com/user-attachments/assets/a9f484ff-34f2-4b06-873d-f8f502b3c67e
 
-**[Mike Futia](https://x.com/mikefutia)** · [@mikefutia](https://x.com/mikefutia) · Seedance 2.0 · 2026-04-21 · 79.8K views · [▶ Watch on X](https://x.com/mikefutia/status/2046642880522211706)
+**[Mike Futia](https://x.com/mikefutia)** · [@mikefutia](https://x.com/mikefutia) · Seedance 2.0 · 2026-04-21 · 79.9K views · [▶ Watch on X](https://x.com/mikefutia/status/2046642880522211706)
 
 ### Ultra-realistic influencer vlog built from a storyboard
 
@@ -818,13 +818,13 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 
 https://github.com/user-attachments/assets/cdebab9f-3553-48e7-a2c7-7cb5be498e68
 
-**[Reid Hannaford](https://x.com/reidhannaford)** · [@reidhannaford](https://x.com/reidhannaford) · Seedance 2.0 · 2026-06-29 · 222.6K views · [▶ Watch on X](https://x.com/reidhannaford/status/2071595581508563168)
+**[Reid Hannaford](https://x.com/reidhannaford)** · [@reidhannaford](https://x.com/reidhannaford) · Seedance 2.0 · 2026-06-29 · 222.9K views · [▶ Watch on X](https://x.com/reidhannaford/status/2071595581508563168)
 
 ### GPT Image 2 - Character Reference Sheet Prompt
 
 https://github.com/user-attachments/assets/b8842268-6562-4b20-ab20-80e70e50472d
 
-**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-04-27 · 162K views · [▶ Watch on X](https://x.com/aimikoda/status/2048654096794538316)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-04-27 · 162.3K views · [▶ Watch on X](https://x.com/aimikoda/status/2048654096794538316)
 
 > The creator posted the prompt further down [the thread](https://x.com/aimikoda/status/2048654096794538316).
 
@@ -844,7 +844,7 @@ https://github.com/user-attachments/assets/392e8926-71c3-427d-9698-e3268dae9185
 
 https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
-**[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 22.6K views · [▶ Watch on X](https://x.com/MrLarus/status/2080322001722294370)
+**[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 23.7K views · [▶ Watch on X](https://x.com/MrLarus/status/2080322001722294370)
 
 > The creator posted the prompt further down [the thread](https://x.com/MrLarus/status/2080322001722294370).
 
@@ -870,7 +870,7 @@ https://github.com/user-attachments/assets/acd3185e-c14c-4109-961b-1064d01c98db
 
 https://github.com/user-attachments/assets/72d6dc58-905c-4bcc-bc6d-bff1454ecc47
 
-**[Farhan](https://x.com/mhdfaran)** · [@mhdfaran](https://x.com/mhdfaran) · Seedance 2.0 · 2026-07-27 · 548 views · [▶ Watch on X](https://x.com/mhdfaran/status/2081767702188970299)
+**[Farhan](https://x.com/mhdfaran)** · [@mhdfaran](https://x.com/mhdfaran) · Seedance 2.0 · 2026-07-27 · 551 views · [▶ Watch on X](https://x.com/mhdfaran/status/2081767702188970299)
 
 
 ## Model Comparisons
@@ -900,7 +900,7 @@ https://github.com/user-attachments/assets/5c3b4930-21ce-445a-8482-7063af80080a
 
 https://github.com/user-attachments/assets/ede50a79-7e36-4573-a6df-725df5d2dfec
 
-**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 11.6M views · [▶ Watch on X](https://x.com/BytePlusGlobal/status/2083069262969844158)
+**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 15.6M views · [▶ Watch on X](https://x.com/BytePlusGlobal/status/2083069262969844158)
 
 ### 14 days of unlimited Seedance on Higgsfield
 
@@ -912,13 +912,13 @@ https://github.com/user-attachments/assets/da3b1914-c62f-4321-a211-7557fa2ad7c6
 
 https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
-**[Deedy](https://x.com/deedydas)** · [@deedydas](https://x.com/deedydas) · Seedance 2.0 · 2026-02-09 · 780.7K views · [▶ Watch on X](https://x.com/deedydas/status/2020911900968767976)
+**[Deedy](https://x.com/deedydas)** · [@deedydas](https://x.com/deedydas) · Seedance 2.0 · 2026-02-09 · 780.8K views · [▶ Watch on X](https://x.com/deedydas/status/2020911900968767976)
 
 ### 🎬 Global Launch: Dreamina Seedance 2.5 is now live!
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 514.3K views · [▶ Watch on X](https://x.com/dreamina_ai/status/2083056471147958714)
+**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 539.4K views · [▶ Watch on X](https://x.com/dreamina_ai/status/2083056471147958714)
 
 ### Seedance 2.0 from China will be the SOTA
 
@@ -930,7 +930,7 @@ https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
 https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 280.3K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083138301083693295)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 310K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083138301083693295)
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -942,25 +942,25 @@ https://github.com/user-attachments/assets/21eca056-25dc-4b3e-b409-e306b56f61f6
 
 https://github.com/user-attachments/assets/3ecf7372-0641-4571-8389-2cff79b7c07b
 
-**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 99.4K views · [▶ Watch on X](https://x.com/shiri_shh/status/2083144487870611828)
+**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 105.2K views · [▶ Watch on X](https://x.com/shiri_shh/status/2083144487870611828)
 
 ### Image-to-video in Seedance 2.5 is production-ready
 
 https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 27.1K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083719880059359478)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 30.4K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083719880059359478)
 
 ### Seedance 2.5 generates a full 30-second animated scene
 
 https://github.com/user-attachments/assets/a21d11f7-fe17-44e5-b908-ce87ec166e2b
 
-**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 26.4K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083173622211035222)
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 27.1K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083173622211035222)
 
 ### AI video models are gradually moving from prompt-to-clip systems toward more controllable…
 
 https://github.com/user-attachments/assets/6e717050-f00c-4de9-ac50-8051118bf128
 
-**[Amit](https://x.com/HeyAmit_)** · [@HeyAmit_](https://x.com/HeyAmit_) · Seedance 2.5 · 2026-07-28 · 20.6K views · [▶ Watch on X](https://x.com/HeyAmit_/status/2082076655963791713)
+**[Amit](https://x.com/HeyAmit_)** · [@HeyAmit_](https://x.com/HeyAmit_) · Seedance 2.5 · 2026-07-28 · 20.7K views · [▶ Watch on X](https://x.com/HeyAmit_/status/2082076655963791713)
 
 ### Holy Shit Seedance 2.5 is Insane 😱
 

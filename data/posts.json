@@ -55,9 +55,9 @@
       ]
     },
     "stats": {
-      "views": 11563413,
-      "likes": 2562,
-      "retweets": 869
+      "views": 15623498,
+      "likes": 2697,
+      "retweets": 864
     }
   },
   {
@@ -110,9 +110,9 @@
       ]
     },
     "stats": {
-      "views": 1564120,
-      "likes": 1296,
-      "retweets": 200
+      "views": 1634014,
+      "likes": 1310,
+      "retweets": 198
     }
   },
   {
@@ -159,113 +159,9 @@
       ]
     },
     "stats": {
-      "views": 780698,
-      "likes": 4193,
-      "retweets": 565
-    }
-  },
-  {
-    "id": "2020192635936469110",
-    "url": "https://x.com/AngryTomtweets/status/2020192635936469110",
-    "title": "Seedance 2.0 is insane",
-    "text": "Seedance 2.0 is insane",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Showcase",
-    "date": "2026-02-07",
-    "author": {
-      "name": "Angry Tom",
-      "handle": "AngryTomtweets",
-      "url": "https://x.com/AngryTomtweets",
-      "avatar": "https://pbs.twimg.com/profile_images/1583586611517919239/iU-EoCz1_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/1120x630/b8GplCUu9HNB2jn7.mp4?tag=21",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2020053177555644418/img/TnkJz3tdJaAkibsS.jpg",
-      "width": 1120,
-      "height": 630,
-      "duration": 32.95,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/480x270/d1RUyCnQx-cAMOfB.mp4?tag=21",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/640x360/dcPifA5fZ1-oF9lr.mp4?tag=21",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/1120x630/b8GplCUu9HNB2jn7.mp4?tag=21",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 526791,
-      "likes": 2398,
-      "retweets": 191
-    }
-  },
-  {
-    "id": "2020828503810445785",
-    "url": "https://x.com/EHuanglu/status/2020828503810445785",
-    "title": "Three images and the prompt \"2 women fighting\"",
-    "text": "seedance 2.0 generates this with 3 images and just prompt: 2 women fighting",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Action & VFX",
-    "date": "2026-02-09",
-    "author": {
-      "name": "el.cine",
-      "handle": "EHuanglu",
-      "url": "https://x.com/EHuanglu",
-      "avatar": "https://pbs.twimg.com/profile_images/1793460098867838976/hoeoWt9M_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/1920x1080/s76RTKpLZZ10hAop.mp4?tag=21",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2020828440140943360/img/R_xG5mtZNeUwzEge.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 31.08,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/480x270/N5Sy-O6sl71aQPm8.mp4?tag=21",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/640x360/26Z6AWg3vxu1un5i.mp4?tag=21",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/1280x720/FDLNfgn-IgfeC4f9.mp4?tag=21",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/1920x1080/s76RTKpLZZ10hAop.mp4?tag=21",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 516222,
-      "likes": 526,
-      "retweets": 60
+      "views": 780758,
+      "likes": 4190,
+      "retweets": 562
     }
   },
   {
@@ -318,9 +214,113 @@
       ]
     },
     "stats": {
-      "views": 514323,
-      "likes": 3059,
-      "retweets": 814
+      "views": 539379,
+      "likes": 3121,
+      "retweets": 818
+    }
+  },
+  {
+    "id": "2020192635936469110",
+    "url": "https://x.com/AngryTomtweets/status/2020192635936469110",
+    "title": "Seedance 2.0 is insane",
+    "text": "Seedance 2.0 is insane",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Showcase",
+    "date": "2026-02-07",
+    "author": {
+      "name": "Angry Tom",
+      "handle": "AngryTomtweets",
+      "url": "https://x.com/AngryTomtweets",
+      "avatar": "https://pbs.twimg.com/profile_images/1583586611517919239/iU-EoCz1_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/1120x630/b8GplCUu9HNB2jn7.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2020053177555644418/img/TnkJz3tdJaAkibsS.jpg",
+      "width": 1120,
+      "height": 630,
+      "duration": 32.95,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/480x270/d1RUyCnQx-cAMOfB.mp4?tag=21",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/640x360/dcPifA5fZ1-oF9lr.mp4?tag=21",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2020053177555644418/vid/avc1/1120x630/b8GplCUu9HNB2jn7.mp4?tag=21",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 526813,
+      "likes": 2395,
+      "retweets": 188
+    }
+  },
+  {
+    "id": "2020828503810445785",
+    "url": "https://x.com/EHuanglu/status/2020828503810445785",
+    "title": "Three images and the prompt \"2 women fighting\"",
+    "text": "seedance 2.0 generates this with 3 images and just prompt: 2 women fighting",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Action & VFX",
+    "date": "2026-02-09",
+    "author": {
+      "name": "el.cine",
+      "handle": "EHuanglu",
+      "url": "https://x.com/EHuanglu",
+      "avatar": "https://pbs.twimg.com/profile_images/1793460098867838976/hoeoWt9M_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/1920x1080/s76RTKpLZZ10hAop.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2020828440140943360/img/R_xG5mtZNeUwzEge.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 31.08,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/480x270/N5Sy-O6sl71aQPm8.mp4?tag=21",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/640x360/26Z6AWg3vxu1un5i.mp4?tag=21",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/1280x720/FDLNfgn-IgfeC4f9.mp4?tag=21",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/1920x1080/s76RTKpLZZ10hAop.mp4?tag=21",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 516242,
+      "likes": 526,
+      "retweets": 60
     }
   },
   {
@@ -367,8 +367,8 @@
       ]
     },
     "stats": {
-      "views": 508379,
-      "likes": 2540,
+      "views": 508409,
+      "likes": 2538,
       "retweets": 174
     }
   },
@@ -416,9 +416,9 @@
       ]
     },
     "stats": {
-      "views": 391047,
-      "likes": 1251,
-      "retweets": 128
+      "views": 391055,
+      "likes": 1252,
+      "retweets": 129
     }
   },
   {
@@ -471,7 +471,7 @@
       ]
     },
     "stats": {
-      "views": 388918,
+      "views": 388947,
       "likes": 2731,
       "retweets": 289
     }
@@ -526,9 +526,9 @@
       ]
     },
     "stats": {
-      "views": 280337,
-      "likes": 581,
-      "retweets": 57
+      "views": 309983,
+      "likes": 592,
+      "retweets": 58
     }
   },
   {
@@ -587,9 +587,9 @@
       ]
     },
     "stats": {
-      "views": 230959,
-      "likes": 725,
-      "retweets": 418
+      "views": 231000,
+      "likes": 723,
+      "retweets": 417
     }
   },
   {
@@ -642,9 +642,9 @@
       ]
     },
     "stats": {
-      "views": 222611,
-      "likes": 1626,
-      "retweets": 203
+      "views": 222937,
+      "likes": 1627,
+      "retweets": 202
     }
   },
   {
@@ -703,9 +703,9 @@
       ]
     },
     "stats": {
-      "views": 206803,
-      "likes": 1897,
-      "retweets": 113
+      "views": 207019,
+      "likes": 1896,
+      "retweets": 114
     }
   },
   {
@@ -752,8 +752,8 @@
       ]
     },
     "stats": {
-      "views": 161988,
-      "likes": 2167,
+      "views": 162293,
+      "likes": 2168,
       "retweets": 272
     }
   },
@@ -801,7 +801,7 @@
       ]
     },
     "stats": {
-      "views": 142090,
+      "views": 142116,
       "likes": 1319,
       "retweets": 116
     }
@@ -850,9 +850,9 @@
       ]
     },
     "stats": {
-      "views": 99416,
-      "likes": 854,
-      "retweets": 64
+      "views": 105189,
+      "likes": 859,
+      "retweets": 62
     }
   },
   {
@@ -905,9 +905,9 @@
       ]
     },
     "stats": {
-      "views": 91226,
+      "views": 91247,
       "likes": 669,
-      "retweets": 77
+      "retweets": 76
     }
   },
   {
@@ -954,7 +954,7 @@
       ]
     },
     "stats": {
-      "views": 79836,
+      "views": 79859,
       "likes": 991,
       "retweets": 64
     }
@@ -1003,9 +1003,9 @@
       ]
     },
     "stats": {
-      "views": 77550,
+      "views": 77556,
       "likes": 602,
-      "retweets": 33
+      "retweets": 34
     }
   },
   {
@@ -1052,8 +1052,8 @@
       ]
     },
     "stats": {
-      "views": 70504,
-      "likes": 672,
+      "views": 70533,
+      "likes": 671,
       "retweets": 88
     }
   },
@@ -1107,9 +1107,9 @@
       ]
     },
     "stats": {
-      "views": 60457,
-      "likes": 594,
-      "retweets": 81
+      "views": 60512,
+      "likes": 591,
+      "retweets": 77
     }
   },
   {
@@ -1156,7 +1156,7 @@
       ]
     },
     "stats": {
-      "views": 55384,
+      "views": 55388,
       "likes": 396,
       "retweets": 122
     }
@@ -1205,9 +1205,9 @@
       ]
     },
     "stats": {
-      "views": 54986,
-      "likes": 805,
-      "retweets": 58
+      "views": 54987,
+      "likes": 806,
+      "retweets": 57
     }
   },
   {
@@ -1260,9 +1260,9 @@
       ]
     },
     "stats": {
-      "views": 54790,
-      "likes": 781,
-      "retweets": 113
+      "views": 54821,
+      "likes": 782,
+      "retweets": 111
     }
   },
   {
@@ -1321,7 +1321,7 @@
       ]
     },
     "stats": {
-      "views": 48341,
+      "views": 48347,
       "likes": 333,
       "retweets": 34
     }
@@ -1376,9 +1376,9 @@
       ]
     },
     "stats": {
-      "views": 43064,
-      "likes": 472,
-      "retweets": 36
+      "views": 43095,
+      "likes": 469,
+      "retweets": 35
     }
   },
   {
@@ -1425,9 +1425,9 @@
       ]
     },
     "stats": {
-      "views": 41576,
-      "likes": 416,
-      "retweets": 36
+      "views": 42168,
+      "likes": 415,
+      "retweets": 37
     }
   },
   {
@@ -1474,7 +1474,7 @@
       ]
     },
     "stats": {
-      "views": 37088,
+      "views": 37091,
       "likes": 304,
       "retweets": 21
     }
@@ -1529,113 +1529,9 @@
       ]
     },
     "stats": {
-      "views": 34375,
-      "likes": 383,
-      "retweets": 31
-    }
-  },
-  {
-    "id": "2025724576882159876",
-    "url": "https://x.com/Dheepanratnam/status/2025724576882159876",
-    "title": "The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared",
-    "text": "I ran the exact same prompt on Sora 2 and Seedance 2.0.\n\nThe difference in physics understanding is actually shocking.\n\nSeedance nailed the fluid dynamics and condensation vortices in one shot. Sora... well, see the reply. 💀\n\nFull prompt and sora video 👇",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Model Comparisons",
-    "date": "2026-02-23",
-    "author": {
-      "name": "Dheepan Ratnam",
-      "handle": "Dheepanratnam",
-      "url": "https://x.com/Dheepanratnam",
-      "avatar": "https://pbs.twimg.com/profile_images/2003752693735604224/vHCLO7Z-_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/2560x1440/BLG_rhU1uaHD_hLQ.mp4?tag=21",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025724262166712321/img/IkRNYyWtEq_NVNSY.jpg",
-      "width": 2560,
-      "height": 1440,
-      "duration": 15.07,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/480x270/BZOFsqDkEaUE6gP0.mp4?tag=21",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/640x360/kd9k7xJALTlDjo-T.mp4?tag=21",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/1280x720/VAThkpxS_klOPxL-.mp4?tag=21",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/2560x1440/BLG_rhU1uaHD_hLQ.mp4?tag=21",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 30201,
-      "likes": 103,
-      "retweets": 7
-    }
-  },
-  {
-    "id": "2021295886978908547",
-    "url": "https://x.com/NACHOS2D_/status/2021295886978908547",
-    "title": "Tournament of Power with famous anime characters, from one prompt",
-    "text": "Just one prompt.\nI created this video using Seedance 2.0: Tournament of Power with famous anime characters.\nIt turned out insane — only one try.\nI used ChatGPT to generate the prompt.\nHere’s the prompt 👇:A massive cosmic arena forms in a blinding void, Tournament-of-Power scale. Crowds from countless universes roar.\nAt the center stands the narrator: Gintoki Sakata, relaxed, wooden sword on his shoulder, bored eyes, sharp tongue.\nHe announces the rules casually, almost mocking fate:\n“This tournament decides the strongest. Winner gets a harem.”\n\nBeat.\nThe crowd explodes. Gintoki sighs. “Yeah, yeah. Don’t look at me like that. I didn’t write the rules.”\nThe camera glides to elevated platforms revealing the women of legend, all clearly unimpressed in different ways:\nBulma adjusts her device, already annoyed.\nAndroid 18 crosses her arms, deadpan.\nHinata watches quietly, composed.\nSakura cracks her knuckles.\nNami smiles like she’s already planning something.\nBoa Hancock looks away, offended by existence itself.\nMikasa doesn’t react. At all.\nErza stands like a judge.\nNico Robin smiles politely—dangerously.\nRukia tilts her head, curious.\n\nGintoki points. “First match. Try not to destroy the universe before lunch.”\nTwo tunnels ignite.\n\nFrom the left: Saitama walks out slowly, hands in pockets, face empty. He looks around. “Huh. This again.”\nFrom the right: Goku steps forward, serious, focused, sensing something deeply wrong. “You’re strong… but you look like you don’t care.”\nClose-ups alternate. Dust rises. Energy crackles.\nGintoki stands between them.\n“Alright. Bald guy who’s bored versus spiky guy who lives for this.”\nLights drop.\nPower surges.\nComedy and catastrophe collide.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Anime & Animation",
-    "date": "2026-02-10",
-    "author": {
-      "name": "nachos2d",
-      "handle": "NACHOS2D_",
-      "url": "https://x.com/NACHOS2D_",
-      "avatar": "https://pbs.twimg.com/profile_images/2018081635816599552/ef5OimmH_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/1470x630/6J2kTtvTNyPVH4be.mp4?tag=21",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2021294949258465280/img/8K1jqsPqMDeE_AFM.jpg",
-      "width": 1470,
-      "height": 630,
-      "duration": 15.07,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/630x270/1pnOWBvZ0DhsONBb.mp4?tag=21",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/840x360/AxH8jNRktzjhaGzD.mp4?tag=21",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/1470x630/6J2kTtvTNyPVH4be.mp4?tag=21",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 30141,
-      "likes": 290,
-      "retweets": 27
+      "views": 36221,
+      "likes": 384,
+      "retweets": 33
     }
   },
   {
@@ -1688,9 +1584,113 @@
       ]
     },
     "stats": {
-      "views": 27090,
-      "likes": 191,
-      "retweets": 38
+      "views": 30370,
+      "likes": 202,
+      "retweets": 37
+    }
+  },
+  {
+    "id": "2025724576882159876",
+    "url": "https://x.com/Dheepanratnam/status/2025724576882159876",
+    "title": "The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared",
+    "text": "I ran the exact same prompt on Sora 2 and Seedance 2.0.\n\nThe difference in physics understanding is actually shocking.\n\nSeedance nailed the fluid dynamics and condensation vortices in one shot. Sora... well, see the reply. 💀\n\nFull prompt and sora video 👇",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Model Comparisons",
+    "date": "2026-02-23",
+    "author": {
+      "name": "Dheepan Ratnam",
+      "handle": "Dheepanratnam",
+      "url": "https://x.com/Dheepanratnam",
+      "avatar": "https://pbs.twimg.com/profile_images/2003752693735604224/vHCLO7Z-_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/2560x1440/BLG_rhU1uaHD_hLQ.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025724262166712321/img/IkRNYyWtEq_NVNSY.jpg",
+      "width": 2560,
+      "height": 1440,
+      "duration": 15.07,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/480x270/BZOFsqDkEaUE6gP0.mp4?tag=21",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/640x360/kd9k7xJALTlDjo-T.mp4?tag=21",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/1280x720/VAThkpxS_klOPxL-.mp4?tag=21",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2025724262166712321/vid/avc1/2560x1440/BLG_rhU1uaHD_hLQ.mp4?tag=21",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 30204,
+      "likes": 103,
+      "retweets": 7
+    }
+  },
+  {
+    "id": "2021295886978908547",
+    "url": "https://x.com/NACHOS2D_/status/2021295886978908547",
+    "title": "Tournament of Power with famous anime characters, from one prompt",
+    "text": "Just one prompt.\nI created this video using Seedance 2.0: Tournament of Power with famous anime characters.\nIt turned out insane — only one try.\nI used ChatGPT to generate the prompt.\nHere’s the prompt 👇:A massive cosmic arena forms in a blinding void, Tournament-of-Power scale. Crowds from countless universes roar.\nAt the center stands the narrator: Gintoki Sakata, relaxed, wooden sword on his shoulder, bored eyes, sharp tongue.\nHe announces the rules casually, almost mocking fate:\n“This tournament decides the strongest. Winner gets a harem.”\n\nBeat.\nThe crowd explodes. Gintoki sighs. “Yeah, yeah. Don’t look at me like that. I didn’t write the rules.”\nThe camera glides to elevated platforms revealing the women of legend, all clearly unimpressed in different ways:\nBulma adjusts her device, already annoyed.\nAndroid 18 crosses her arms, deadpan.\nHinata watches quietly, composed.\nSakura cracks her knuckles.\nNami smiles like she’s already planning something.\nBoa Hancock looks away, offended by existence itself.\nMikasa doesn’t react. At all.\nErza stands like a judge.\nNico Robin smiles politely—dangerously.\nRukia tilts her head, curious.\n\nGintoki points. “First match. Try not to destroy the universe before lunch.”\nTwo tunnels ignite.\n\nFrom the left: Saitama walks out slowly, hands in pockets, face empty. He looks around. “Huh. This again.”\nFrom the right: Goku steps forward, serious, focused, sensing something deeply wrong. “You’re strong… but you look like you don’t care.”\nClose-ups alternate. Dust rises. Energy crackles.\nGintoki stands between them.\n“Alright. Bald guy who’s bored versus spiky guy who lives for this.”\nLights drop.\nPower surges.\nComedy and catastrophe collide.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Anime & Animation",
+    "date": "2026-02-10",
+    "author": {
+      "name": "nachos2d",
+      "handle": "NACHOS2D_",
+      "url": "https://x.com/NACHOS2D_",
+      "avatar": "https://pbs.twimg.com/profile_images/2018081635816599552/ef5OimmH_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/1470x630/6J2kTtvTNyPVH4be.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2021294949258465280/img/8K1jqsPqMDeE_AFM.jpg",
+      "width": 1470,
+      "height": 630,
+      "duration": 15.07,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/630x270/1pnOWBvZ0DhsONBb.mp4?tag=21",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/840x360/AxH8jNRktzjhaGzD.mp4?tag=21",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/1470x630/6J2kTtvTNyPVH4be.mp4?tag=21",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 30155,
+      "likes": 291,
+      "retweets": 27
     }
   },
   {
@@ -1737,8 +1737,8 @@
       ]
     },
     "stats": {
-      "views": 26387,
-      "likes": 275,
+      "views": 27083,
+      "likes": 278,
       "retweets": 41
     }
   },
@@ -1787,7 +1787,7 @@
     },
     "stats": {
       "views": 23833,
-      "likes": 218,
+      "likes": 217,
       "retweets": 16
     }
   },
@@ -1841,9 +1841,9 @@
       ]
     },
     "stats": {
-      "views": 22615,
+      "views": 23685,
       "likes": 112,
-      "retweets": 10
+      "retweets": 9
     }
   },
   {
@@ -1945,9 +1945,9 @@
       ]
     },
     "stats": {
-      "views": 21615,
+      "views": 21624,
       "likes": 248,
-      "retweets": 33
+      "retweets": 34
     }
   },
   {
@@ -2000,64 +2000,9 @@
       ]
     },
     "stats": {
-      "views": 20611,
+      "views": 20667,
       "likes": 36,
       "retweets": 8
-    }
-  },
-  {
-    "id": "2069312765047771270",
-    "url": "https://x.com/chetaslua/status/2069312765047771270",
-    "title": "Holy Shit Seedance 2.5 is Insane 😱",
-    "text": "Holy Shit Seedance 2.5 is Insane 😱\n\n> ByteDance just announced it, general release early July\n> 30 second videos in a single generation\n> references up to 50 inputs — images, video, audio\n> 4K output, edit the whole thing with just text\n> \"make a 30s CM from this product photo + this music\" → done. instantly.\n\nThe gap between idea and finished ciemna just collapsed",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Launch & Announcements",
-    "date": "2026-06-23",
-    "author": {
-      "name": "Chetaslua",
-      "handle": "chetaslua",
-      "url": "https://x.com/chetaslua",
-      "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/2378x1080/YrDe3hkNLzJKBDMz.mp4?tag=28",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069312271256559616/img/o3yM_1ZRUxk9fAk4.jpg",
-      "width": 2378,
-      "height": 1080,
-      "duration": 20.97,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/594x270/aHx97lyD3uAvDsr_.mp4?tag=28",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/792x360/p7rekD-gibe_Wkdl.mp4?tag=28",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/1584x720/0XpN6L-Ri-euk4yH.mp4?tag=28",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/2378x1080/YrDe3hkNLzJKBDMz.mp4?tag=28",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 19391,
-      "likes": 191,
-      "retweets": 13
     }
   },
   {
@@ -2110,9 +2055,64 @@
       ]
     },
     "stats": {
-      "views": 19386,
+      "views": 19404,
       "likes": 68,
       "retweets": 6
+    }
+  },
+  {
+    "id": "2069312765047771270",
+    "url": "https://x.com/chetaslua/status/2069312765047771270",
+    "title": "Holy Shit Seedance 2.5 is Insane 😱",
+    "text": "Holy Shit Seedance 2.5 is Insane 😱\n\n> ByteDance just announced it, general release early July\n> 30 second videos in a single generation\n> references up to 50 inputs — images, video, audio\n> 4K output, edit the whole thing with just text\n> \"make a 30s CM from this product photo + this music\" → done. instantly.\n\nThe gap between idea and finished ciemna just collapsed",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Launch & Announcements",
+    "date": "2026-06-23",
+    "author": {
+      "name": "Chetaslua",
+      "handle": "chetaslua",
+      "url": "https://x.com/chetaslua",
+      "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/2378x1080/YrDe3hkNLzJKBDMz.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069312271256559616/img/o3yM_1ZRUxk9fAk4.jpg",
+      "width": 2378,
+      "height": 1080,
+      "duration": 20.97,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/594x270/aHx97lyD3uAvDsr_.mp4?tag=28",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/792x360/p7rekD-gibe_Wkdl.mp4?tag=28",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/1584x720/0XpN6L-Ri-euk4yH.mp4?tag=28",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/2378x1080/YrDe3hkNLzJKBDMz.mp4?tag=28",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 19392,
+      "likes": 191,
+      "retweets": 14
     }
   },
   {
@@ -2159,7 +2159,7 @@
       ]
     },
     "stats": {
-      "views": 15283,
+      "views": 15307,
       "likes": 92,
       "retweets": 18
     }
@@ -2214,8 +2214,8 @@
       ]
     },
     "stats": {
-      "views": 14571,
-      "likes": 187,
+      "views": 14617,
+      "likes": 189,
       "retweets": 21
     }
   },
@@ -2269,9 +2269,9 @@
       ]
     },
     "stats": {
-      "views": 14411,
+      "views": 14413,
       "likes": 242,
-      "retweets": 19
+      "retweets": 21
     }
   },
   {
@@ -2324,7 +2324,7 @@
       ]
     },
     "stats": {
-      "views": 13100,
+      "views": 13152,
       "likes": 159,
       "retweets": 26
     }
@@ -2434,8 +2434,8 @@
       ]
     },
     "stats": {
-      "views": 11054,
-      "likes": 123,
+      "views": 11071,
+      "likes": 122,
       "retweets": 12
     }
   },
@@ -2483,8 +2483,8 @@
       ]
     },
     "stats": {
-      "views": 8703,
-      "likes": 184,
+      "views": 8725,
+      "likes": 185,
       "retweets": 9
     }
   },
@@ -2587,7 +2587,7 @@
       ]
     },
     "stats": {
-      "views": 8534,
+      "views": 8538,
       "likes": 154,
       "retweets": 9
     }
@@ -2642,7 +2642,7 @@
       ]
     },
     "stats": {
-      "views": 8011,
+      "views": 8107,
       "likes": 48,
       "retweets": 3
     }
@@ -2691,7 +2691,7 @@
       ]
     },
     "stats": {
-      "views": 6200,
+      "views": 6359,
       "likes": 28,
       "retweets": 2
     }
@@ -2740,7 +2740,7 @@
       ]
     },
     "stats": {
-      "views": 4308,
+      "views": 4322,
       "likes": 63,
       "retweets": 1
     }
@@ -2789,7 +2789,7 @@
       ]
     },
     "stats": {
-      "views": 4082,
+      "views": 4083,
       "likes": 60,
       "retweets": 3
     }
@@ -2893,7 +2893,7 @@
       ]
     },
     "stats": {
-      "views": 3814,
+      "views": 3817,
       "likes": 43,
       "retweets": 2
     }
@@ -2942,7 +2942,7 @@
       ]
     },
     "stats": {
-      "views": 2669,
+      "views": 2670,
       "likes": 40,
       "retweets": 2
     }
@@ -3003,9 +3003,58 @@
       ]
     },
     "stats": {
-      "views": 2409,
+      "views": 2414,
       "likes": 36,
       "retweets": 3
+    }
+  },
+  {
+    "id": "2054065454193275135",
+    "url": "https://x.com/chatgptpaglu/status/2054065454193275135",
+    "title": "Haunted interdimensional train, anime style, from one reference image",
+    "text": "Made with Seedance 2.0 on \n@SJinn_Agent \n\nPrompt:\nUse the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
+    "prompt": "Use the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Anime & Animation",
+    "date": "2026-05-12",
+    "author": {
+      "name": "yusra.",
+      "handle": "chatgptpaglu",
+      "url": "https://x.com/chatgptpaglu",
+      "avatar": "https://pbs.twimg.com/profile_images/1997393120204652544/MOSbWk4n_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/1280x720/4WdrW_Wjc2jxti6h.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054065107253047297/pu/img/Y2BBPEhwXN8hadDp.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 15.14,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/480x270/9-NyT9aQNsodgR1d.mp4?tag=25",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/640x360/O75AvcwTSiCuhqY8.mp4?tag=25",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/1280x720/4WdrW_Wjc2jxti6h.mp4?tag=25",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 1638,
+      "likes": 79,
+      "retweets": 5
     }
   },
   {
@@ -3059,57 +3108,8 @@
     },
     "stats": {
       "views": 1637,
-      "likes": 124,
+      "likes": 123,
       "retweets": 16
-    }
-  },
-  {
-    "id": "2054065454193275135",
-    "url": "https://x.com/chatgptpaglu/status/2054065454193275135",
-    "title": "Haunted interdimensional train, anime style, from one reference image",
-    "text": "Made with Seedance 2.0 on \n@SJinn_Agent \n\nPrompt:\nUse the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
-    "prompt": "Use the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Anime & Animation",
-    "date": "2026-05-12",
-    "author": {
-      "name": "yusra.",
-      "handle": "chatgptpaglu",
-      "url": "https://x.com/chatgptpaglu",
-      "avatar": "https://pbs.twimg.com/profile_images/1997393120204652544/MOSbWk4n_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/1280x720/4WdrW_Wjc2jxti6h.mp4?tag=25",
-      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054065107253047297/pu/img/Y2BBPEhwXN8hadDp.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 15.14,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/480x270/9-NyT9aQNsodgR1d.mp4?tag=25",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/640x360/O75AvcwTSiCuhqY8.mp4?tag=25",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/1280x720/4WdrW_Wjc2jxti6h.mp4?tag=25",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 1629,
-      "likes": 79,
-      "retweets": 5
     }
   },
   {
@@ -3158,7 +3158,7 @@
     "stats": {
       "views": 1473,
       "likes": 29,
-      "retweets": 2
+      "retweets": 3
     }
   },
   {
@@ -3205,7 +3205,7 @@
       ]
     },
     "stats": {
-      "views": 1289,
+      "views": 1325,
       "likes": 4,
       "retweets": 0
     }
@@ -3254,7 +3254,7 @@
       ]
     },
     "stats": {
-      "views": 1189,
+      "views": 1233,
       "likes": 2,
       "retweets": 0
     }
@@ -3352,7 +3352,7 @@
       ]
     },
     "stats": {
-      "views": 548,
+      "views": 551,
       "likes": 4,
       "retweets": 0
     }

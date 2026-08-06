@@ -16,9 +16,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2076879408246493184/APDqyR2i_200x200.jpg"
     },
     "stats": {
-      "views": 11563413,
-      "likes": 2562,
-      "retweets": 869
+      "views": 15623498,
+      "likes": 2697,
+      "retweets": 864
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BytePlusGlobal_2083066957230915584.mp4",
@@ -48,9 +48,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2029949430317637632/6qPl4MTS_200x200.jpg"
     },
     "stats": {
-      "views": 1564120,
-      "likes": 1296,
-      "retweets": 200
+      "views": 1634014,
+      "likes": 1310,
+      "retweets": 198
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_2083105131604963328.mp4",
@@ -80,9 +80,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2016718977960120320/a3F0LOz6_200x200.jpg"
     },
     "stats": {
-      "views": 780698,
-      "likes": 4193,
-      "retweets": 565
+      "views": 780758,
+      "likes": 4190,
+      "retweets": 562
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.mp4",
@@ -93,6 +93,38 @@
       "source_url": "https://video.twimg.com/amplify_video/2020911840960880640/vid/avc1/1280x720/4_k7OdYd94m37dv3.mp4?tag=14",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp",
       "attachment": "https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9"
+    }
+  },
+  {
+    "id": "2083056471147958714",
+    "url": "https://x.com/dreamina_ai/status/2083056471147958714",
+    "title": "🎬 Global Launch: Dreamina Seedance 2.5 is now live!",
+    "text": "🎬 Global Launch: Dreamina Seedance 2.5 is now live!\n\nOur most cinematic video model yet has arrived, and Dreamina AI is your official platform. Step into a new era of precision control and long-take storytelling:\n· Native 30s videos in a single generation\n· A new interactive editing experience: reshape any part of the frame\n· Long video mode: up to 3 minutes, with consistency that holds throughout\n· Dreamina AI plugins for Maya and Blender, built for film-grade production pipelines\n· Up to 50 multimodal references, now with support for 3D white models and green-screen footage — bringing AI generation into real production workflows\n· More true-to-life lighting and shadows, richer motion detail, and precise timestamp control down to 1 second\n\nDreamina Seedance 2.5 is more than a model. It's an upgrade to what you can create. Now open to Dreamina AI subscribers.\n\n🕐 Available now across Southeast Asia, the Middle East, Africa, Europe, and South America. More countries and regions coming soon.\n✨ Watch @yingjian355352 in action with the new model\n⏳ Limited time: save up to 32% on credits per generation\n🎁 Repost and comment – first 300 users get 1,000 credits in 12 hours\n\n#DreaminaSeedance25 #DreaminaAI",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Launch & Announcements",
+    "date": "2026-07-31",
+    "author": {
+      "name": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "url": "https://x.com/dreamina_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2036336259707314177/mqRCJ-mH_200x200.jpg"
+    },
+    "stats": {
+      "views": 539379,
+      "likes": 3121,
+      "retweets": 818
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083005997065633792/img/DCz8qXxHWYq1tA01.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 160.06,
+      "source_url": "https://video.twimg.com/amplify_video/2083005997065633792/vid/avc1/1920x1080/DJPkGOnhCKGaIe2-.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp",
+      "attachment": "https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8"
     }
   },
   {
@@ -112,9 +144,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1583586611517919239/iU-EoCz1_200x200.jpg"
     },
     "stats": {
-      "views": 526791,
-      "likes": 2398,
-      "retweets": 191
+      "views": 526813,
+      "likes": 2395,
+      "retweets": 188
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AngryTomtweets_2020053177555644418.mp4",
@@ -144,7 +176,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1793460098867838976/hoeoWt9M_200x200.jpg"
     },
     "stats": {
-      "views": 516222,
+      "views": 516242,
       "likes": 526,
       "retweets": 60
     },
@@ -157,38 +189,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2020828440140943360/vid/avc1/1920x1080/s76RTKpLZZ10hAop.mp4?tag=21",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2020828440140943360.webp",
       "attachment": "https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4"
-    }
-  },
-  {
-    "id": "2083056471147958714",
-    "url": "https://x.com/dreamina_ai/status/2083056471147958714",
-    "title": "🎬 Global Launch: Dreamina Seedance 2.5 is now live!",
-    "text": "🎬 Global Launch: Dreamina Seedance 2.5 is now live!\n\nOur most cinematic video model yet has arrived, and Dreamina AI is your official platform. Step into a new era of precision control and long-take storytelling:\n· Native 30s videos in a single generation\n· A new interactive editing experience: reshape any part of the frame\n· Long video mode: up to 3 minutes, with consistency that holds throughout\n· Dreamina AI plugins for Maya and Blender, built for film-grade production pipelines\n· Up to 50 multimodal references, now with support for 3D white models and green-screen footage — bringing AI generation into real production workflows\n· More true-to-life lighting and shadows, richer motion detail, and precise timestamp control down to 1 second\n\nDreamina Seedance 2.5 is more than a model. It's an upgrade to what you can create. Now open to Dreamina AI subscribers.\n\n🕐 Available now across Southeast Asia, the Middle East, Africa, Europe, and South America. More countries and regions coming soon.\n✨ Watch @yingjian355352 in action with the new model\n⏳ Limited time: save up to 32% on credits per generation\n🎁 Repost and comment – first 300 users get 1,000 credits in 12 hours\n\n#DreaminaSeedance25 #DreaminaAI",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Launch & Announcements",
-    "date": "2026-07-31",
-    "author": {
-      "name": "Dreamina AI",
-      "handle": "dreamina_ai",
-      "url": "https://x.com/dreamina_ai",
-      "avatar": "https://pbs.twimg.com/profile_images/2036336259707314177/mqRCJ-mH_200x200.jpg"
-    },
-    "stats": {
-      "views": 514323,
-      "likes": 3059,
-      "retweets": 814
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083005997065633792/img/DCz8qXxHWYq1tA01.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 160.06,
-      "source_url": "https://video.twimg.com/amplify_video/2083005997065633792/vid/avc1/1920x1080/DJPkGOnhCKGaIe2-.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp",
-      "attachment": "https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8"
     }
   },
   {
@@ -208,8 +208,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1762527050055942144/N3Z8QwmX_200x200.jpg"
     },
     "stats": {
-      "views": 508379,
-      "likes": 2540,
+      "views": 508409,
+      "likes": 2538,
       "retweets": 174
     },
     "video": {
@@ -240,9 +240,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_200x200.jpg"
     },
     "stats": {
-      "views": 391047,
-      "likes": 1251,
-      "retweets": 128
+      "views": 391055,
+      "likes": 1252,
+      "retweets": 129
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/minchoi_2020875492115816448.mp4",
@@ -272,7 +272,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2076432106004283392/KYizS111_200x200.jpg"
     },
     "stats": {
-      "views": 388918,
+      "views": 388947,
       "likes": 2731,
       "retweets": 289
     },
@@ -304,9 +304,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
     },
     "stats": {
-      "views": 280337,
-      "likes": 581,
-      "retweets": 57
+      "views": 309983,
+      "likes": 592,
+      "retweets": 58
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083138188294705152.mp4",
@@ -336,9 +336,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2080749613934682112/RGAD73oR_200x200.jpg"
     },
     "stats": {
-      "views": 230959,
-      "likes": 725,
-      "retweets": 418
+      "views": 231000,
+      "likes": 723,
+      "retweets": 417
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/HeyGen_2041212275802152960.mp4",
@@ -368,9 +368,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1933510938994302977/D0LvT95z_200x200.jpg"
     },
     "stats": {
-      "views": 222611,
-      "likes": 1626,
-      "retweets": 203
+      "views": 222937,
+      "likes": 1627,
+      "retweets": 202
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/reidhannaford_2071595269163003904.mp4",
@@ -400,9 +400,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg"
     },
     "stats": {
-      "views": 206803,
-      "likes": 1897,
-      "retweets": 113
+      "views": 207019,
+      "likes": 1896,
+      "retweets": 114
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chetaslua_2069303610572410880.mp4",
@@ -432,8 +432,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2061369882403352579/-hIIEmvx_200x200.jpg"
     },
     "stats": {
-      "views": 161988,
-      "likes": 2167,
+      "views": 162293,
+      "likes": 2168,
       "retweets": 272
     },
     "video": {
@@ -464,7 +464,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_200x200.jpg"
     },
     "stats": {
-      "views": 142090,
+      "views": 142116,
       "likes": 1319,
       "retweets": 116
     },
@@ -496,9 +496,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1974911302347665408/o7rg01rJ_200x200.jpg"
     },
     "stats": {
-      "views": 99416,
-      "likes": 854,
-      "retweets": 64
+      "views": 105189,
+      "likes": 859,
+      "retweets": 62
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/shiri_shh_2083144456501694464.mp4",
@@ -528,9 +528,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2068056912403542016/cbRcKhfn_200x200.jpg"
     },
     "stats": {
-      "views": 91226,
+      "views": 91247,
       "likes": 669,
-      "retweets": 77
+      "retweets": 76
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/lena_z01_2022870602869264384.mp4",
@@ -560,7 +560,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1923873453498646528/wNZGnvlf_200x200.jpg"
     },
     "stats": {
-      "views": 79836,
+      "views": 79859,
       "likes": 991,
       "retweets": 64
     },
@@ -592,9 +592,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_200x200.jpg"
     },
     "stats": {
-      "views": 77550,
+      "views": 77556,
       "likes": 602,
-      "retweets": 33
+      "retweets": 34
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/testingcatalog_2076043046462857216.mp4",
@@ -624,8 +624,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1793460098867838976/hoeoWt9M_200x200.jpg"
     },
     "stats": {
-      "views": 70504,
-      "likes": 672,
+      "views": 70533,
+      "likes": 671,
       "retweets": 88
     },
     "video": {
@@ -656,9 +656,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
     },
     "stats": {
-      "views": 60457,
-      "likes": 594,
-      "retweets": 81
+      "views": 60512,
+      "likes": 591,
+      "retweets": 77
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2075060566352343040.mp4",
@@ -688,7 +688,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1945430923840745473/ZnVGMAiT_200x200.jpg"
     },
     "stats": {
-      "views": 55384,
+      "views": 55388,
       "likes": 396,
       "retweets": 122
     },
@@ -720,9 +720,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2007130975994875905/1nthcvju_200x200.jpg"
     },
     "stats": {
-      "views": 54986,
-      "likes": 805,
-      "retweets": 58
+      "views": 54987,
+      "likes": 806,
+      "retweets": 57
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIWarper_2022087369974022144.mp4",
@@ -752,9 +752,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1967102770500300803/ylHD6oXM_200x200.jpg"
     },
     "stats": {
-      "views": 54790,
-      "likes": 781,
-      "retweets": 113
+      "views": 54821,
+      "likes": 782,
+      "retweets": 111
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john_my07_2048428337945788416.mp4",
@@ -784,7 +784,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1898412161569005568/JF5_QOaZ_200x200.jpg"
     },
     "stats": {
-      "views": 48341,
+      "views": 48347,
       "likes": 333,
       "retweets": 34
     },
@@ -816,9 +816,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2047582418782306304/JuK3BzZh_200x200.jpg"
     },
     "stats": {
-      "views": 43064,
-      "likes": 472,
-      "retweets": 36
+      "views": 43095,
+      "likes": 469,
+      "retweets": 35
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2056368583383670784.mp4",
@@ -848,9 +848,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2018047433549463552/5a5MBbgX_200x200.jpg"
     },
     "stats": {
-      "views": 41576,
-      "likes": 416,
-      "retweets": 36
+      "views": 42168,
+      "likes": 415,
+      "retweets": 37
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/arikuschnir_2083209566615900160.mp4",
@@ -880,7 +880,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2080756230893838336/q4VqZuw2_200x200.jpg"
     },
     "stats": {
-      "views": 37088,
+      "views": 37091,
       "likes": 304,
       "retweets": 21
     },
@@ -912,9 +912,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2061369882403352579/-hIIEmvx_200x200.jpg"
     },
     "stats": {
-      "views": 34375,
-      "likes": 383,
-      "retweets": 31
+      "views": 36221,
+      "likes": 384,
+      "retweets": 33
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2083181242929790976.mp4",
@@ -925,6 +925,38 @@
       "source_url": "https://video.twimg.com/amplify_video/2083181242929790976/vid/avc1/1920x1080/6MBhifiTwTulMY-c.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2083181242929790976.webp",
       "attachment": "https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4"
+    }
+  },
+  {
+    "id": "2083719880059359478",
+    "url": "https://x.com/higgsfield_ai/status/2083719880059359478",
+    "title": "Image-to-video in Seedance 2.5 is production-ready",
+    "text": "Image-to-video in Seedance 2.5 is production-ready.\nOne still in, a full scene out.\n\nComing soon to Higgsfield.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Launch & Announcements",
+    "date": "2026-08-02",
+    "author": {
+      "name": "Higgsfield AI 🧩",
+      "handle": "higgsfield_ai",
+      "url": "https://x.com/higgsfield_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
+    },
+    "stats": {
+      "views": 30370,
+      "likes": 202,
+      "retweets": 37
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083711641229950976.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083711641229950976/img/1qGjy1pUXss1TMix.jpg",
+      "width": 1280,
+      "height": 1280,
+      "duration": 19.12,
+      "source_url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/1280x1280/kMnJdIs6doF8oi8l.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083711641229950976.webp",
+      "attachment": "https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259"
     }
   },
   {
@@ -944,7 +976,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2003752693735604224/vHCLO7Z-_200x200.jpg"
     },
     "stats": {
-      "views": 30201,
+      "views": 30204,
       "likes": 103,
       "retweets": 7
     },
@@ -976,8 +1008,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2018081635816599552/ef5OimmH_200x200.jpg"
     },
     "stats": {
-      "views": 30141,
-      "likes": 290,
+      "views": 30155,
+      "likes": 291,
       "retweets": 27
     },
     "video": {
@@ -989,38 +1021,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2021294949258465280/vid/avc1/1470x630/6J2kTtvTNyPVH4be.mp4?tag=21",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/NACHOS2D__2021294949258465280.webp",
       "attachment": "https://github.com/user-attachments/assets/3e425690-d5a9-4350-9e67-13f224136909"
-    }
-  },
-  {
-    "id": "2083719880059359478",
-    "url": "https://x.com/higgsfield_ai/status/2083719880059359478",
-    "title": "Image-to-video in Seedance 2.5 is production-ready",
-    "text": "Image-to-video in Seedance 2.5 is production-ready.\nOne still in, a full scene out.\n\nComing soon to Higgsfield.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Launch & Announcements",
-    "date": "2026-08-02",
-    "author": {
-      "name": "Higgsfield AI 🧩",
-      "handle": "higgsfield_ai",
-      "url": "https://x.com/higgsfield_ai",
-      "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
-    },
-    "stats": {
-      "views": 27090,
-      "likes": 191,
-      "retweets": 38
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083711641229950976.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083711641229950976/img/1qGjy1pUXss1TMix.jpg",
-      "width": 1280,
-      "height": 1280,
-      "duration": 19.12,
-      "source_url": "https://video.twimg.com/amplify_video/2083711641229950976/vid/avc1/1280x1280/kMnJdIs6doF8oi8l.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083711641229950976.webp",
-      "attachment": "https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259"
     }
   },
   {
@@ -1040,8 +1040,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
     },
     "stats": {
-      "views": 26387,
-      "likes": 275,
+      "views": 27083,
+      "likes": 278,
       "retweets": 41
     },
     "video": {
@@ -1073,7 +1073,7 @@
     },
     "stats": {
       "views": 23833,
-      "likes": 218,
+      "likes": 217,
       "retweets": 16
     },
     "video": {
@@ -1104,9 +1104,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
     },
     "stats": {
-      "views": 22615,
+      "views": 23685,
       "likes": 112,
-      "retweets": 10
+      "retweets": 9
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2080321355707293696.mp4",
@@ -1168,9 +1168,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1967102770500300803/ylHD6oXM_200x200.jpg"
     },
     "stats": {
-      "views": 21615,
+      "views": 21624,
       "likes": 248,
-      "retweets": 33
+      "retweets": 34
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john_my07_2049524556721983490.mp4",
@@ -1200,7 +1200,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1819754332826537984/v2wuRiV0_200x200.jpg"
     },
     "stats": {
-      "views": 20611,
+      "views": 20667,
       "likes": 36,
       "retweets": 8
     },
@@ -1213,38 +1213,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2082075946119823360/vid/avc1/1920x1080/5Nbfl28B8d_1GvuJ.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/HeyAmit__2082075946119823360.webp",
       "attachment": "https://github.com/user-attachments/assets/6e717050-f00c-4de9-ac50-8051118bf128"
-    }
-  },
-  {
-    "id": "2069312765047771270",
-    "url": "https://x.com/chetaslua/status/2069312765047771270",
-    "title": "Holy Shit Seedance 2.5 is Insane 😱",
-    "text": "Holy Shit Seedance 2.5 is Insane 😱\n\n> ByteDance just announced it, general release early July\n> 30 second videos in a single generation\n> references up to 50 inputs — images, video, audio\n> 4K output, edit the whole thing with just text\n> \"make a 30s CM from this product photo + this music\" → done. instantly.\n\nThe gap between idea and finished ciemna just collapsed",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Launch & Announcements",
-    "date": "2026-06-23",
-    "author": {
-      "name": "Chetaslua",
-      "handle": "chetaslua",
-      "url": "https://x.com/chetaslua",
-      "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg"
-    },
-    "stats": {
-      "views": 19391,
-      "likes": 191,
-      "retweets": 13
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chetaslua_2069312271256559616.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069312271256559616/img/o3yM_1ZRUxk9fAk4.jpg",
-      "width": 2378,
-      "height": 1080,
-      "duration": 20.97,
-      "source_url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/2378x1080/YrDe3hkNLzJKBDMz.mp4?tag=28",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chetaslua_2069312271256559616.webp",
-      "attachment": "https://github.com/user-attachments/assets/9436dba7-2419-4523-8045-7ddba184cf15"
     }
   },
   {
@@ -1264,7 +1232,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1983959171012685824/xEjQL0RW_200x200.jpg"
     },
     "stats": {
-      "views": 19386,
+      "views": 19404,
       "likes": 68,
       "retweets": 6
     },
@@ -1277,6 +1245,38 @@
       "source_url": "https://video.twimg.com/amplify_video/2072706954573582336/vid/avc1/1920x1080/r2_BFeIe4GYxPggO.mp4?tag=28",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/contraben_2072706954573582336.webp",
       "attachment": "https://github.com/user-attachments/assets/2919bbb6-77d9-4d6b-94f1-a37d43518613"
+    }
+  },
+  {
+    "id": "2069312765047771270",
+    "url": "https://x.com/chetaslua/status/2069312765047771270",
+    "title": "Holy Shit Seedance 2.5 is Insane 😱",
+    "text": "Holy Shit Seedance 2.5 is Insane 😱\n\n> ByteDance just announced it, general release early July\n> 30 second videos in a single generation\n> references up to 50 inputs — images, video, audio\n> 4K output, edit the whole thing with just text\n> \"make a 30s CM from this product photo + this music\" → done. instantly.\n\nThe gap between idea and finished ciemna just collapsed",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Launch & Announcements",
+    "date": "2026-06-23",
+    "author": {
+      "name": "Chetaslua",
+      "handle": "chetaslua",
+      "url": "https://x.com/chetaslua",
+      "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg"
+    },
+    "stats": {
+      "views": 19392,
+      "likes": 191,
+      "retweets": 14
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chetaslua_2069312271256559616.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069312271256559616/img/o3yM_1ZRUxk9fAk4.jpg",
+      "width": 2378,
+      "height": 1080,
+      "duration": 20.97,
+      "source_url": "https://video.twimg.com/amplify_video/2069312271256559616/vid/avc1/2378x1080/YrDe3hkNLzJKBDMz.mp4?tag=28",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chetaslua_2069312271256559616.webp",
+      "attachment": "https://github.com/user-attachments/assets/9436dba7-2419-4523-8045-7ddba184cf15"
     }
   },
   {
@@ -1296,7 +1296,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1891147831425298432/5gBAODh1_200x200.jpg"
     },
     "stats": {
-      "views": 15283,
+      "views": 15307,
       "likes": 92,
       "retweets": 18
     },
@@ -1328,8 +1328,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2051642965219819520/jwC-PodZ_200x200.jpg"
     },
     "stats": {
-      "views": 14571,
-      "likes": 187,
+      "views": 14617,
+      "likes": 189,
       "retweets": 21
     },
     "video": {
@@ -1360,9 +1360,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2007792608056311808/ygBYIrQf_200x200.jpg"
     },
     "stats": {
-      "views": 14411,
+      "views": 14413,
       "likes": 242,
-      "retweets": 19
+      "retweets": 21
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/underwoodxie96_2020818466299858944.mp4",
@@ -1392,7 +1392,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
     },
     "stats": {
-      "views": 13100,
+      "views": 13152,
       "likes": 159,
       "retweets": 26
     },
@@ -1456,8 +1456,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075554270972370944/YkJBKGwK_200x200.jpg"
     },
     "stats": {
-      "views": 11054,
-      "likes": 123,
+      "views": 11071,
+      "likes": 122,
       "retweets": 12
     },
     "video": {
@@ -1488,8 +1488,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075554270972370944/YkJBKGwK_200x200.jpg"
     },
     "stats": {
-      "views": 8703,
-      "likes": 184,
+      "views": 8725,
+      "likes": 185,
       "retweets": 9
     },
     "video": {
@@ -1552,7 +1552,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2047582418782306304/JuK3BzZh_200x200.jpg"
     },
     "stats": {
-      "views": 8534,
+      "views": 8538,
       "likes": 154,
       "retweets": 9
     },
@@ -1584,7 +1584,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2061369882403352579/-hIIEmvx_200x200.jpg"
     },
     "stats": {
-      "views": 8011,
+      "views": 8107,
       "likes": 48,
       "retweets": 3
     },
@@ -1616,7 +1616,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1615753720691556375/3IlAzsa0_200x200.jpg"
     },
     "stats": {
-      "views": 6200,
+      "views": 6359,
       "likes": 28,
       "retweets": 2
     },
@@ -1648,7 +1648,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2059064814820098048/vIuxL2R1_200x200.jpg"
     },
     "stats": {
-      "views": 4308,
+      "views": 4322,
       "likes": 63,
       "retweets": 1
     },
@@ -1680,7 +1680,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2045174241474363392/ozrpyPq6_200x200.jpg"
     },
     "stats": {
-      "views": 4082,
+      "views": 4083,
       "likes": 60,
       "retweets": 3
     },
@@ -1744,7 +1744,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2081142217356259328/nepAJg5p_200x200.jpg"
     },
     "stats": {
-      "views": 3814,
+      "views": 3817,
       "likes": 43,
       "retweets": 2
     },
@@ -1776,7 +1776,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2021821952319795200/lJXZcelj_200x200.jpg"
     },
     "stats": {
-      "views": 2669,
+      "views": 2670,
       "likes": 40,
       "retweets": 2
     },
@@ -1808,7 +1808,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2068598256456855552/Ixy7Hpj6_200x200.jpg"
     },
     "stats": {
-      "views": 2409,
+      "views": 2414,
       "likes": 36,
       "retweets": 3
     },
@@ -1821,6 +1821,38 @@
       "source_url": "https://video.twimg.com/amplify_video/2055930888769478656/vid/avc1/2160x2432/xb0bDlhjd5NiI4qV.mp4?tag=27",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/D_studioproject_2055930888769478656.webp",
       "attachment": "https://github.com/user-attachments/assets/a5aaea75-d5c8-4eaa-8e39-cf2cd064c667"
+    }
+  },
+  {
+    "id": "2054065454193275135",
+    "url": "https://x.com/chatgptpaglu/status/2054065454193275135",
+    "title": "Haunted interdimensional train, anime style, from one reference image",
+    "text": "Made with Seedance 2.0 on \n@SJinn_Agent \n\nPrompt:\nUse the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
+    "prompt": "Use the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Anime & Animation",
+    "date": "2026-05-12",
+    "author": {
+      "name": "yusra.",
+      "handle": "chatgptpaglu",
+      "url": "https://x.com/chatgptpaglu",
+      "avatar": "https://pbs.twimg.com/profile_images/1997393120204652544/MOSbWk4n_200x200.jpg"
+    },
+    "stats": {
+      "views": 1638,
+      "likes": 79,
+      "retweets": 5
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chatgptpaglu_2054065107253047297.mp4",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054065107253047297/pu/img/Y2BBPEhwXN8hadDp.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 15.14,
+      "source_url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/1280x720/4WdrW_Wjc2jxti6h.mp4?tag=25",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chatgptpaglu_2054065107253047297.webp",
+      "attachment": "https://github.com/user-attachments/assets/ca8948f4-11af-4ca3-b172-b0d5ee78813c"
     }
   },
   {
@@ -1841,7 +1873,7 @@
     },
     "stats": {
       "views": 1637,
-      "likes": 124,
+      "likes": 123,
       "retweets": 16
     },
     "video": {
@@ -1853,38 +1885,6 @@
       "source_url": "https://video.twimg.com/ext_tw_video/2053362653121449984/pu/vid/avc1/1880x1080/1KoXJ2wZvdQw0vbN.mp4?tag=25",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Itswsm105f_2053362653121449984.webp",
       "attachment": "https://github.com/user-attachments/assets/7f9ee825-e1db-4fbb-969f-3d690eb6e37e"
-    }
-  },
-  {
-    "id": "2054065454193275135",
-    "url": "https://x.com/chatgptpaglu/status/2054065454193275135",
-    "title": "Haunted interdimensional train, anime style, from one reference image",
-    "text": "Made with Seedance 2.0 on \n@SJinn_Agent \n\nPrompt:\nUse the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
-    "prompt": "Use the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.\nA 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.\nOpening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.\nOutside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.\nInclude multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.\nMiddle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.\nFinal moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film aesthetic, 4K cinematic composition.\nNegative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs, duplicate characters, stiff movement, low fps, cartoonish, messy action, broken physics, ugly face, inconsistent character design, oversaturated colors, poor lighting",
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Anime & Animation",
-    "date": "2026-05-12",
-    "author": {
-      "name": "yusra.",
-      "handle": "chatgptpaglu",
-      "url": "https://x.com/chatgptpaglu",
-      "avatar": "https://pbs.twimg.com/profile_images/1997393120204652544/MOSbWk4n_200x200.jpg"
-    },
-    "stats": {
-      "views": 1629,
-      "likes": 79,
-      "retweets": 5
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chatgptpaglu_2054065107253047297.mp4",
-      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054065107253047297/pu/img/Y2BBPEhwXN8hadDp.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 15.14,
-      "source_url": "https://video.twimg.com/ext_tw_video/2054065107253047297/pu/vid/avc1/1280x720/4WdrW_Wjc2jxti6h.mp4?tag=25",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/chatgptpaglu_2054065107253047297.webp",
-      "attachment": "https://github.com/user-attachments/assets/ca8948f4-11af-4ca3-b172-b0d5ee78813c"
     }
   },
   {
@@ -1906,7 +1906,7 @@
     "stats": {
       "views": 1473,
       "likes": 29,
-      "retweets": 2
+      "retweets": 3
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/manibuildsAI_2062051264285003776.mp4",
@@ -1936,7 +1936,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2068327218082893824/u0y8c8tm_200x200.jpg"
     },
     "stats": {
-      "views": 1289,
+      "views": 1325,
       "likes": 4,
       "retweets": 0
     },
@@ -1968,7 +1968,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
     },
     "stats": {
-      "views": 1189,
+      "views": 1233,
       "likes": 2,
       "retweets": 0
     },
@@ -2032,7 +2032,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1685658187825811457/h9QgcNrM_200x200.jpg"
     },
     "stats": {
-      "views": 548,
+      "views": 551,
       "likes": 4,
       "retweets": 0
     },
