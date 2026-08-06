@@ -2,11 +2,16 @@
 
 **把 X 上大家发的 Seedance 视频集中到一个入口——直接播放、看到完整提示词、并且一键找到作者本人。**
 
+[![自己试试](https://img.shields.io/badge/✨%20自己试一试-seadanse.com-C6F24E?style=flat-square&labelColor=0A0B0A)](https://seadanse.com)
 [![观看画廊](https://img.shields.io/badge/▶%20打开视频画廊-opensource--works.github.io-7C5CFF?style=flat-square)](https://opensource-works.github.io/awesome-seedance-prompts/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 [English](README.md) | **简体中文**
+
+### ✨ 想亲手试试？上 **[seadanse.com](https://seadanse.com)** 直接用 Seedance 2.5 生成
+
+把这里任意一条提示词复制到 [seadanse.com](https://seadanse.com)，几分钟就能拿到你自己的片子——免安装、免排队，注册即送免费额度。
 
 ### ▶ [打开视频画廊](https://opensource-works.github.io/awesome-seedance-prompts/)
 
@@ -21,7 +26,7 @@
 | 含完整提示词 | **16** |
 | X 上累计播放 | **19.3M** |
 | 覆盖模型 | **Seedance 2.0**（46）, **Seedance 2.5**（16）, **Seedance**（2） |
-| 最近更新 | 2026-08-03 |
+| 最近更新 | 2026-08-06 |
 
 ## 目录
 
