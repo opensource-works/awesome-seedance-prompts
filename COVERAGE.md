@@ -1,8 +1,8 @@
 # Coverage report: awesome-seedance-prompts
 
-Generated: `2026-08-11T12:49:48Z`
+Generated: `2026-08-11T17:32:56.939056Z`
 
-Catalog updated: `2026-08-11T12:49:48Z`
+Catalog updated: `2026-08-11T17:32:56.939056Z`
 
 ## Overview
 
@@ -10,10 +10,10 @@ Catalog updated: `2026-08-11T12:49:48Z`
 | --- | --- |
 | discovery_runs | 3 |
 | queries | 15 |
-| sources | 156 |
+| sources | 164 |
 | candidates | 156 |
 | items | 64 |
-| evidence | 177 |
+| evidence | 194 |
 | actors | 80 |
 
 ## Queries
@@ -65,14 +65,14 @@ Historical and ongoing results are reported separately; window end times are exc
 | Platform | Sources | Candidates | Items |
 | --- | --- | --- | --- |
 | reddit | 22 | 22 | 0 |
-| x | 134 | 134 | 64 |
+| x | 142 | 134 | 64 |
 
 ## Source availability
 
 | Status | Count |
 | --- | --- |
 | age_restricted | 0 |
-| available | 64 |
+| available | 72 |
 | deleted | 2 |
 | geo_restricted | 0 |
 | private | 0 |
@@ -84,16 +84,16 @@ Historical and ongoing results are reported separately; window end times are exc
 
 | Prompt status | Count |
 | --- | --- |
-| not_provided | 42 |
+| not_provided | 41 |
 | partial | 0 |
-| referenced_not_captured | 6 |
+| referenced_not_captured | 0 |
 | removed | 0 |
 | unavailable | 0 |
-| verbatim | 16 |
+| verbatim | 23 |
 
-Items with prompt text: **16**
+Items with prompt text: **23**
 
-Items with a prompt source URL: **22**
+Items with a prompt source URL: **23**
 
 ## Attribution
 
@@ -122,26 +122,26 @@ Items with a prompt source URL: **22**
 | Scope | Status | Count |
 | --- | --- | --- |
 | prompt_republication | denied | 0 |
-| prompt_republication | granted | 0 |
+| prompt_republication | granted | 23 |
 | prompt_republication | not_requested | 0 |
 | prompt_republication | public_license | 0 |
 | prompt_republication | requested | 0 |
 | prompt_republication | revoked | 0 |
-| prompt_republication | unknown | 64 |
+| prompt_republication | unknown | 41 |
 | video_republication | denied | 0 |
-| video_republication | granted | 0 |
+| video_republication | granted | 64 |
 | video_republication | not_requested | 0 |
 | video_republication | public_license | 0 |
 | video_republication | requested | 0 |
 | video_republication | revoked | 0 |
-| video_republication | unknown | 64 |
+| video_republication | unknown | 0 |
 
 ## Mirror quarantine
 
 | Metric | Count |
 | --- | --- |
 | All mirrors | 192 |
-| Quarantined or pending delete | 192 |
+| Quarantined or pending delete | 128 |
 | Items affected | 64 |
 
 ## Exclusions and removals
