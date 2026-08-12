@@ -1217,7 +1217,7 @@ https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**视频署名 / 来源：** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [X 原帖](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 593.2K 播放
+**视频署名 / 来源：** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [X 原帖](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 593.4K 播放
 
 ### Seedance 2.0 from China will be the SOTA
 

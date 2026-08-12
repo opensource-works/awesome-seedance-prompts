@@ -35,7 +35,7 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 <td width="33%" valign="top"><a href="https://x.com/higgsfield/status/2083105837795745797"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_2083105131604963328.webp" width="100%" alt=""></a><br><sub><b>14 days of unlimited Seedance on Higgsfield</b><br><a href="https://x.com/higgsfield">@higgsfield</a> · 1.7M views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/deedydas/status/2020911900968767976"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp" width="100%" alt=""></a><br><sub><b>China&#x27;s Bytedance just dropped the most advanced video…</b><br><a href="https://x.com/deedydas">@deedydas</a> · 780.9K views</sub></td>
 </tr><tr>
-<td width="33%" valign="top"><a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="100%" alt=""></a><br><sub><b>🎬 Global Launch: Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/dreamina_ai">@dreamina_ai</a> · 593.2K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="100%" alt=""></a><br><sub><b>🎬 Global Launch: Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/dreamina_ai">@dreamina_ai</a> · 593.4K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/AngryTomtweets/status/2020192635936469110"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AngryTomtweets_2020053177555644418.webp" width="100%" alt=""></a><br><sub><b>Seedance 2.0 is insane</b><br><a href="https://x.com/AngryTomtweets">@AngryTomtweets</a> · 526.9K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/EHuanglu/status/2020828503810445785"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2020828440140943360.webp" width="100%" alt=""></a><br><sub><b>Three images and the prompt &quot;2 women fighting&quot;</b><br><a href="https://x.com/EHuanglu">@EHuanglu</a> · 516.3K views</sub></td>
 </tr></table>
@@ -1211,7 +1211,7 @@ https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 593.2K views
+**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 593.4K views
 
 ### Seedance 2.0 from China will be the SOTA
 
