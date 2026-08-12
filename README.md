@@ -1,160 +1,147 @@
 # Awesome Seedance Prompts
 
-**A source-verifiable video-prompt index spanning X and Reddit. Every entry links to its source and keeps the poster, original video creator, and prompt author as separate roles.**
+**Every Seedance clip people are posting on X, collected in one place — play the video, read the exact prompt, and go straight to the creator who made it.**
 
-[Open the gallery](https://opensource-works.github.io/awesome-seedance-prompts/) · [Contribute](CONTRIBUTING.md) · [Rights](RIGHTS.md) · [Takedowns](TAKEDOWN.md) · [Coverage report](COVERAGE.md)
+[![Try it yourself](https://img.shields.io/badge/✨%20Try%20it%20yourself-seadanse.com-C6F24E?style=flat-square&labelColor=0A0B0A)](https://seadanse.com)
+[![Watch the gallery](https://img.shields.io/badge/▶%20Watch%20the%20gallery-opensource--works.github.io-7C5CFF?style=flat-square)](https://opensource-works.github.io/awesome-seedance-prompts/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 **English** | [简体中文](README.zh-CN.md)
 
-## Coverage and status
+### ✨ Want to try it yourself? Generate with Seedance 2.5 at **[seadanse.com](https://seadanse.com)**
 
-“Complete” means publicly discoverable within the documented query matrix and date window; it does not include private, deleted, or search-invisible material. The current historical window is **2026-02-07 through 2026-08-11**, with catalog timestamp **2026-08-11T12:49:48Z**.
+Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.com), and get your own clip back in a couple of minutes — no install, no waitlist, free credits to start.
 
-| Metric | Count |
-|---|---:|
-| Public entries | **64** |
-| Discovered candidates | **156** |
-| Pending human review | **80** |
-| Excluded | **10** |
-| Removed | **2** |
-| Prompt text captured | **16** |
-| Prompt referenced but not captured | **6** |
-| Source link / official embed only | **64** |
-| Authorized media available | **0** |
+### ▶ [Open the video gallery](https://opensource-works.github.io/awesome-seedance-prompts/)
 
-## Reading the attribution
+**Every clip below plays right here on GitHub** — full length, with sound, no click-through. Open the gallery instead if you want to search across prompts, filter by model or category, or copy a prompt in one click.
 
-- **Poster** is the account that published the X/Reddit source. It is not automatically the video creator.
-- **Original video creator** is named only when evidence supports the claim; otherwise it remains explicitly unknown.
-- **Prompt author** is tracked independently from both poster and video creator.
-- **Community annotations** link to the specific commenter and comment; **editorial annotations** identify repository review provenance.
+## What's in here
 
-## Rights and playback
+| | |
+|---|---|
+| Posts | **64** |
+| Creators credited | **52** |
+| Posts with the full prompt | **16** |
+| Combined views on X | **23.6M** |
+| Models covered | **Seedance 2.0** (46), **Seedance 2.5** (16), **Seedance** (2) |
+| Last refreshed | 2026-08-10 |
 
-Without explicit republication permission, an entry uses only its source link or a platform-permitted official embed. A media copy is exposed only when the recorded grant covers downloading and that delivery provider. See [RIGHTS.md](RIGHTS.md); rights holders can request correction or removal through [TAKEDOWN.md](TAKEDOWN.md).
+## Most watched
 
-## Entries
+<table><tr>
+<td width="33%" valign="top"><a href="https://x.com/BytePlusGlobal/status/2083069262969844158"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BytePlusGlobal_2083066957230915584.webp" width="100%" alt=""></a><br><sub><b>Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/BytePlusGlobal">@BytePlusGlobal</a> · 15.7M views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/higgsfield/status/2083105837795745797"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_2083105131604963328.webp" width="100%" alt=""></a><br><sub><b>14 days of unlimited Seedance on Higgsfield</b><br><a href="https://x.com/higgsfield">@higgsfield</a> · 1.7M views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/deedydas/status/2020911900968767976"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp" width="100%" alt=""></a><br><sub><b>China&#x27;s Bytedance just dropped the most advanced video…</b><br><a href="https://x.com/deedydas">@deedydas</a> · 780.9K views</sub></td>
+</tr><tr>
+<td width="33%" valign="top"><a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="100%" alt=""></a><br><sub><b>🎬 Global Launch: Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/dreamina_ai">@dreamina_ai</a> · 587.7K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/AngryTomtweets/status/2020192635936469110"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AngryTomtweets_2020053177555644418.webp" width="100%" alt=""></a><br><sub><b>Seedance 2.0 is insane</b><br><a href="https://x.com/AngryTomtweets">@AngryTomtweets</a> · 526.8K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/EHuanglu/status/2020828503810445785"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2020828440140943360.webp" width="100%" alt=""></a><br><sub><b>Three images and the prompt &quot;2 women fighting&quot;</b><br><a href="https://x.com/EHuanglu">@EHuanglu</a> · 516.3K views</sub></td>
+</tr></table>
 
-### Showcase
+## Contents
 
-#### [Seedance 2.0 is insane](https://x.com/AngryTomtweets/status/2020192635936469110)
+- [Showcase](#showcase) — 9 posts
+- [Cinematic & Film](#cinematic-film) — 7 posts
+- [Anime & Animation](#anime-animation) — 7 posts
+- [Action & VFX](#action-vfx) — 3 posts
+- [Music & Dance](#music-dance) — 5 posts
+- [Ads, UGC & Product](#ads-ugc-product) — 7 posts
+- [Prompting & Workflow](#prompting-workflow) — 9 posts
+- [Model Comparisons](#model-comparisons) — 3 posts
+- [Launch & Announcements](#launch-announcements) — 14 posts
 
-- **Source:** [X](https://x.com/AngryTomtweets/status/2020192635936469110) · Seedance 2.0 · 2026-02-07
-- **Poster:** [Angry Tom (@AngryTomtweets)](https://x.com/AngryTomtweets)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+## Showcase
 
-#### [Seedance 2.5 is mythos moment of Video Models](https://x.com/chetaslua/status/2069304088177848479)
+### Seedance 2.0 is insane
 
-- **Source:** [X](https://x.com/chetaslua/status/2069304088177848479) · Seedance 2.5 · 2026-06-23
-- **Poster:** [Chetaslua](https://x.com/chetaslua)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
-#### [Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot](https://x.com/testingcatalog/status/2076043332472463471)
+**[Angry Tom](https://x.com/AngryTomtweets)** · [@AngryTomtweets](https://x.com/AngryTomtweets) · Seedance 2.0 · 2026-02-07 · 526.8K views · [▶ Watch on X](https://x.com/AngryTomtweets/status/2020192635936469110)
 
-- **Source:** [X](https://x.com/testingcatalog/status/2076043332472463471) · Seedance 2.5 · 2026-07-11
-- **Poster:** [🚨 AI News | TestingCatalog (@testingcatalog)](https://x.com/testingcatalog)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Seedance 2.5 is mythos moment of Video Models
 
-#### [FIRST TEST Seedance 2.0!](https://x.com/heydin_ai/status/2021204908909945287)
+https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
-- **Source:** [X](https://x.com/heydin_ai/status/2021204908909945287) · Seedance 2.0 · 2026-02-10
-- **Poster:** [Dinda Prasetyo (@heydin_ai)](https://x.com/heydin_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 207.4K views · [▶ Watch on X](https://x.com/chetaslua/status/2069304088177848479)
 
-#### [Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt](https://x.com/arikuschnir/status/2083209950231220403)
+### Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot
 
-- **Source:** [X](https://x.com/arikuschnir/status/2083209950231220403) · Seedance 2.5 · 2026-07-31
-- **Poster:** [Ari K (@arikuschnir)](https://x.com/arikuschnir)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/837b684c-8845-4c65-bcbe-47c384c80c3e
 
-#### [Seedance 2.5 first test — 30 seconds in one go, with some morphing](https://x.com/aimikoda/status/2083182758407307605)
+**[🚨 AI News | TestingCatalog](https://x.com/testingcatalog)** · [@testingcatalog](https://x.com/testingcatalog) · Seedance 2.5 · 2026-07-11 · 77.6K views · [▶ Watch on X](https://x.com/testingcatalog/status/2076043332472463471)
 
-- **Source:** [X](https://x.com/aimikoda/status/2083182758407307605) · Seedance 2.5 · 2026-07-31
-- **Poster:** [aimikoda](https://x.com/aimikoda)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### FIRST TEST Seedance 2.0!
 
-#### [Made with Seedance 2.0 + GPT image 2](https://x.com/itsshara_ai/status/2072645939639243253)
+https://github.com/user-attachments/assets/3b17e346-3569-4a9d-817e-0f4d85129fd3
 
-- **Source:** [X](https://x.com/itsshara_ai/status/2072645939639243253) · Seedance 2.0 · 2026-07-02
-- **Poster:** [itsshara_ai](https://x.com/itsshara_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/itsshara_ai/status/2072645939639243253)
+**[Dinda Prasetyo](https://x.com/heydin_ai)** · [@heydin_ai](https://x.com/heydin_ai) · Seedance 2.0 · 2026-02-10 · 48.3K views · [▶ Watch on X](https://x.com/heydin_ai/status/2021204908909945287)
 
-> The source says the prompt is in a reply, but the exact reply has not yet been verified and captured.
+### Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt
 
-#### [Made with Seedance 2.0 + GPT image 2](https://x.com/itsshara_ai/status/2076845440214196529)
+https://github.com/user-attachments/assets/255c9b4b-ec01-4de4-9b56-50a64c37a011
 
-- **Source:** [X](https://x.com/itsshara_ai/status/2076845440214196529) · Seedance 2.0 · 2026-07-14
-- **Poster:** [itsshara_ai](https://x.com/itsshara_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/itsshara_ai/status/2076845440214196529)
+**[Ari K](https://x.com/arikuschnir)** · [@arikuschnir](https://x.com/arikuschnir) · Seedance 2.5 · 2026-07-31 · 42.6K views · [▶ Watch on X](https://x.com/arikuschnir/status/2083209950231220403)
 
-> The source says the prompt is in a reply, but the exact reply has not yet been verified and captured.
+### Seedance 2.5 first test — 30 seconds in one go, with some morphing
 
-#### [100% AI — how far video generation moved since Will Smith eating spaghetti](https://x.com/amit0xic/status/2021604487111024994)
+https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
-- **Source:** [X](https://x.com/amit0xic/status/2021604487111024994) · Seedance 2.0 · 2026-02-11
-- **Poster:** [t0xic 🧪 (@amit0xic)](https://x.com/amit0xic)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.5 · 2026-07-31 · 37.8K views · [▶ Watch on X](https://x.com/aimikoda/status/2083182758407307605)
+
+### Made with Seedance 2.0 + GPT image 2
+
+https://github.com/user-attachments/assets/06008686-59cb-40c0-8ff6-2f77312a077a
+
+**[Shara I Ai Video Creator](https://x.com/itsshara_ai)** · [@itsshara_ai](https://x.com/itsshara_ai) · Seedance 2.0 · 2026-07-02 · 11.1K views · [▶ Watch on X](https://x.com/itsshara_ai/status/2072645939639243253)
+
+> The creator posted the prompt further down [the thread](https://x.com/itsshara_ai/status/2072645939639243253).
+
+### Made with Seedance 2.0 + GPT image 2
+
+https://github.com/user-attachments/assets/b51a87ef-1724-4afe-ac01-8476fc74e383
+
+**[Shara I Ai Video Creator](https://x.com/itsshara_ai)** · [@itsshara_ai](https://x.com/itsshara_ai) · Seedance 2.0 · 2026-07-14 · 8.7K views · [▶ Watch on X](https://x.com/itsshara_ai/status/2076845440214196529)
+
+> The creator posted the prompt further down [the thread](https://x.com/itsshara_ai/status/2076845440214196529).
+
+### 100% AI — how far video generation moved since Will Smith eating spaghetti
+
+https://github.com/user-attachments/assets/8e2c746e-ddde-44db-a434-7f3706f5f419
+
+**[t0xic 🧪](https://x.com/amit0xic)** · [@amit0xic](https://x.com/amit0xic) · Seedance 2.0 · 2026-02-11 · 3.9K views · [▶ Watch on X](https://x.com/amit0xic/status/2021604487111024994)
 
 
-### Cinematic & Film
+## Cinematic & Film
 
-#### [A 1-minute cinematic video in 5 minutes — 4 shots, 15 seconds each](https://x.com/minchoi/status/2020878278475518152)
+### A 1-minute cinematic video in 5 minutes — 4 shots, 15 seconds each
 
-- **Source:** [X](https://x.com/minchoi/status/2020878278475518152) · Seedance 2.0 · 2026-02-09
-- **Poster:** [Min Choi (@minchoi)](https://x.com/minchoi)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/minchoi/status/2020878278475518152)
+https://github.com/user-attachments/assets/fae053df-f5ff-49b7-8e1a-87d22b1c22b1
 
-> The source says the prompt is in a reply, but the exact reply has not yet been verified and captured.
+**[Min Choi](https://x.com/minchoi)** · [@minchoi](https://x.com/minchoi) · Seedance 2.0 · 2026-02-09 · 391.1K views · [▶ Watch on X](https://x.com/minchoi/status/2020878278475518152)
 
-#### [Video Agent takes you from a single prompt to a finished video](https://x.com/HeyGen/status/2041212383205716436)
+> The creator posted the prompt further down [the thread](https://x.com/minchoi/status/2020878278475518152).
 
-- **Source:** [X](https://x.com/HeyGen/status/2041212383205716436) · Seedance 2.0 · 2026-04-06
-- **Poster:** [HeyGen](https://x.com/HeyGen)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Video Agent takes you from a single prompt to a finished video
 
-#### [Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…](https://x.com/heydin_ai/status/2021496696115736746)
+https://github.com/user-attachments/assets/fda67ba1-5cf4-4362-b6a0-d8edf803abc1
 
-- **Source:** [X](https://x.com/heydin_ai/status/2021496696115736746) · Seedance 2.0 · 2026-02-11
-- **Poster:** [Dinda Prasetyo (@heydin_ai)](https://x.com/heydin_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[HeyGen](https://x.com/HeyGen)** · [@HeyGen](https://x.com/HeyGen) · Seedance 2.0 · 2026-04-06 · 231K views · [▶ Watch on X](https://x.com/HeyGen/status/2041212383205716436)
 
-#### [Golden-hour slice-of-life alley scene, visual only](https://x.com/HeyAbhishek/status/2073676993875575170)
+### Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…
 
-- **Source:** [X](https://x.com/HeyAbhishek/status/2073676993875575170) · Seedance 2.0 · 2026-07-05
-- **Poster:** [Abhishek (@HeyAbhishek)](https://x.com/HeyAbhishek)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/HeyAbhishek/status/2073676993875575170)
+https://github.com/user-attachments/assets/69f23cf2-da42-49e4-a2f9-7b7d1ce3b131
 
-<details><summary><b>Prompt text</b></summary>
+**[Dinda Prasetyo](https://x.com/heydin_ai)** · [@heydin_ai](https://x.com/heydin_ai) · Seedance 2.0 · 2026-02-11 · 23.8K views · [▶ Watch on X](https://x.com/heydin_ai/status/2021496696115736746)
+
+### Golden-hour slice-of-life alley scene, visual only
+
+https://github.com/user-attachments/assets/675c3def-c9dd-46af-aa20-b27f5ecd37fe
+
+**[Abhishek](https://x.com/HeyAbhishek)** · [@HeyAbhishek](https://x.com/HeyAbhishek) · Seedance 2.0 · 2026-07-05 · 15.3K views · [▶ Watch on X](https://x.com/HeyAbhishek/status/2073676993875575170)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 "Create a 15-second realistic cinematic slice-of-life video in 16:9, 24fps. Visual-only video, no dialogue, no voice, no music, no sound effects, no subtitles, no text on screen. Warm golden-hour sunlight, soft handheld camera, muted film color grade, slight grain, natural shadows, peaceful nostalgic neighborhood mood. Fully realistic live-action style, not game-like, not animated.
@@ -190,24 +177,19 @@ Final close shot. The cat brushes against her leg. She looks toward the camera w
 
 </details>
 
-#### [Seedance 2.5 is the ultimate video SOTA](https://x.com/dr_cintas/status/2083283266451169431)
+### Seedance 2.5 is the ultimate video SOTA
 
-- **Source:** [X](https://x.com/dr_cintas/status/2083283266451169431) · Seedance 2.5 · 2026-07-31
-- **Poster:** [Alvaro Cintas (@dr_cintas)](https://x.com/dr_cintas)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/f3715646-4ea2-4983-8444-6c4c47abcbbc
 
-#### [Macro spices collapsing into a cosmos, stop-motion style](https://x.com/noorwithwifi/status/2051983365688242324)
+**[Alvaro Cintas](https://x.com/dr_cintas)** · [@dr_cintas](https://x.com/dr_cintas) · Seedance 2.5 · 2026-07-31 · 6.4K views · [▶ Watch on X](https://x.com/dr_cintas/status/2083283266451169431)
 
-- **Source:** [X](https://x.com/noorwithwifi/status/2051983365688242324) · Seedance 2.0 · 2026-05-06
-- **Poster:** [noorwithwifi](https://x.com/noorwithwifi)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/noorwithwifi/status/2051983365688242324)
+### Macro spices collapsing into a cosmos, stop-motion style
 
-<details><summary><b>Prompt text</b></summary>
+https://github.com/user-attachments/assets/dfdf63a1-e228-4ac0-bb9c-68d140cfb89d
+
+**[NoorAI](https://x.com/noorwithwifi)** · [@noorwithwifi](https://x.com/noorwithwifi) · Seedance 2.0 · 2026-05-06 · 4.3K views · [▶ Watch on X](https://x.com/noorwithwifi/status/2051983365688242324)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 Create a 15-second cinematic, ultra-detailed macro stop-motion style video in vertical 9:16 format.
@@ -229,16 +211,13 @@ Ensure smooth, physically believable particle motion even during surreal transfo
 
 </details>
 
-#### ["The Dream of Billions" — a 15-second football short film](https://x.com/RizwanAly07/status/2066808313166393432)
+### "The Dream of Billions" — a 15-second football short film
 
-- **Source:** [X](https://x.com/RizwanAly07/status/2066808313166393432) · Seedance 2.0 · 2026-06-16
-- **Poster:** [Maverick | AI (@RizwanAly07)](https://x.com/RizwanAly07)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/RizwanAly07/status/2066808313166393432)
+https://github.com/user-attachments/assets/95bd03b2-e520-4540-8ae0-454748490683
 
-<details><summary><b>Prompt text</b></summary>
+**[Maverick | AI](https://x.com/RizwanAly07)** · [@RizwanAly07](https://x.com/RizwanAly07) · Seedance 2.0 · 2026-06-16 · 2.7K views · [▶ Watch on X](https://x.com/RizwanAly07/status/2066808313166393432)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 Ultra-realistic cinematic 15-second football short film called "The Dream of Billions".
@@ -261,18 +240,15 @@ Ultra realistic, emotional storytelling, FIFA World Cup atmosphere, cinematic li
 </details>
 
 
-### Anime & Animation
+## Anime & Animation
 
-#### [Tom and Jerry recreated as photoreal animals in 4K](https://x.com/oggii_0/status/2075074872351572216)
+### Tom and Jerry recreated as photoreal animals in 4K
 
-- **Source:** [X](https://x.com/oggii_0/status/2075074872351572216) · Seedance 2.0 · 2026-07-09
-- **Poster:** [Oogie (@oggii_0)](https://x.com/oggii_0)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/oggii_0/status/2075074872351572216)
+https://github.com/user-attachments/assets/620a1bff-2daf-4af2-83e3-8a8b87e6ecd8
 
-<details><summary><b>Prompt text</b></summary>
+**[Oogie](https://x.com/oggii_0)** · [@oggii_0](https://x.com/oggii_0) · Seedance 2.0 · 2026-07-09 · 60.6K views · [▶ Watch on X](https://x.com/oggii_0/status/2075074872351572216)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 Use the uploaded reference video as the master reference.
@@ -391,40 +367,31 @@ Maintain perfect temporal consistency and character consistency throughout the e
 
 </details>
 
-#### [The greatest villain entrance in anime history](https://x.com/AIFrontliner/status/2024868799632031862)
+### The greatest villain entrance in anime history
 
-- **Source:** [X](https://x.com/AIFrontliner/status/2024868799632031862) · Seedance 2.0 · 2026-02-20
-- **Poster:** [AI Frontliner (@AIFrontliner)](https://x.com/AIFrontliner)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/5f18d152-3af2-469f-b44c-5e95c093ee22
 
-#### [This is a Seedance 2.0 interpretation of a manga that has never been adapted into an anime 🤯](https://x.com/AIWarper/status/2022088105835299208)
+**[AI Frontliner](https://x.com/AIFrontliner)** · [@AIFrontliner](https://x.com/AIFrontliner) · Seedance 2.0 · 2026-02-20 · 55.4K views · [▶ Watch on X](https://x.com/AIFrontliner/status/2024868799632031862)
 
-- **Source:** [X](https://x.com/AIWarper/status/2022088105835299208) · Seedance 2.0 · 2026-02-12
-- **Poster:** [A.I.Warper (@AIWarper)](https://x.com/AIWarper)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### This is a Seedance 2.0 interpretation of a manga that has never been adapted into an anime 🤯
 
-#### [Tournament of Power with famous anime characters, from one prompt](https://x.com/NACHOS2D_/status/2021295886978908547)
+https://github.com/user-attachments/assets/1c40fb8d-3ca8-4c7d-a097-681415cec353
 
-- **Source:** [X](https://x.com/NACHOS2D_/status/2021295886978908547) · Seedance 2.0 · 2026-02-10
-- **Poster:** [nachos2d (@NACHOS2D_)](https://x.com/NACHOS2D_)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[A.I.Warper](https://x.com/AIWarper)** · [@AIWarper](https://x.com/AIWarper) · Seedance 2.0 · 2026-02-12 · 55K views · [▶ Watch on X](https://x.com/AIWarper/status/2022088105835299208)
 
-#### [Doodle overlay — real objects turning into 2D cartoons](https://x.com/Naiknelofar788/status/2077382054275436584)
+### Tournament of Power with famous anime characters, from one prompt
 
-- **Source:** [X](https://x.com/Naiknelofar788/status/2077382054275436584) · Seedance 2.0 · 2026-07-15
-- **Poster:** [simeon-sanai (@Naiknelofar788)](https://x.com/Naiknelofar788)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/Naiknelofar788/status/2077382054275436584)
+https://github.com/user-attachments/assets/3e425690-d5a9-4350-9e67-13f224136909
 
-<details><summary><b>Prompt text</b></summary>
+**[nachos2d](https://x.com/NACHOS2D_)** · [@NACHOS2D_](https://x.com/NACHOS2D_) · Seedance 2.0 · 2026-02-10 · 30.2K views · [▶ Watch on X](https://x.com/NACHOS2D_/status/2021295886978908547)
+
+### Doodle overlay — real objects turning into 2D cartoons
+
+https://github.com/user-attachments/assets/c4bc435f-d48f-436b-a031-b0f5c799afe9
+
+**[simeon-sanai](https://x.com/Naiknelofar788)** · [@Naiknelofar788](https://x.com/Naiknelofar788) · Seedance 2.0 · 2026-07-15 · 13.2K views · [▶ Watch on X](https://x.com/Naiknelofar788/status/2077382054275436584)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 {
@@ -449,16 +416,13 @@ If you want to generate the specific static assets or concepts individually, you
 
 </details>
 
-#### [Haunted interdimensional train, anime style, from one reference image](https://x.com/chatgptpaglu/status/2054065454193275135)
+### Haunted interdimensional train, anime style, from one reference image
 
-- **Source:** [X](https://x.com/chatgptpaglu/status/2054065454193275135) · Seedance 2.0 · 2026-05-12
-- **Poster:** [yusra. (@chatgptpaglu)](https://x.com/chatgptpaglu)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/chatgptpaglu/status/2054065454193275135)
+https://github.com/user-attachments/assets/ca8948f4-11af-4ca3-b172-b0d5ee78813c
 
-<details><summary><b>Prompt text</b></summary>
+**[yusra.](https://x.com/chatgptpaglu)** · [@chatgptpaglu](https://x.com/chatgptpaglu) · Seedance 2.0 · 2026-05-12 · 1.7K views · [▶ Watch on X](https://x.com/chatgptpaglu/status/2054065454193275135)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 Use the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.
@@ -473,16 +437,13 @@ Negative prompt: blurry, low quality, distorted anatomy, bad hands, extra limbs,
 
 </details>
 
-#### [The Storm Emperor Awakening — sakuga-style summoning ritual](https://x.com/manibuildsAI/status/2062051302499332565)
+### The Storm Emperor Awakening — sakuga-style summoning ritual
 
-- **Source:** [X](https://x.com/manibuildsAI/status/2062051302499332565) · Seedance 2.0 · 2026-06-03
-- **Poster:** [Mani (@manibuildsAI)](https://x.com/manibuildsAI)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/manibuildsAI/status/2062051302499332565)
+https://github.com/user-attachments/assets/166531a0-5753-495a-ac24-867202a62529
 
-<details><summary><b>Prompt text</b></summary>
+**[Mani](https://x.com/manibuildsAI)** · [@manibuildsAI](https://x.com/manibuildsAI) · Seedance 2.0 · 2026-06-03 · 1.5K views · [▶ Watch on X](https://x.com/manibuildsAI/status/2062051302499332565)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 THE STORM EMPEROR AWAKENING
@@ -507,26 +468,21 @@ Aggressive anime cinematography. Fast push-ins, orbital tracking shots, extreme 
 </details>
 
 
-### Action & VFX
+## Action & VFX
 
-#### [Three images and the prompt "2 women fighting"](https://x.com/EHuanglu/status/2020828503810445785)
+### Three images and the prompt "2 women fighting"
 
-- **Source:** [X](https://x.com/EHuanglu/status/2020828503810445785) · Seedance 2.0 · 2026-02-09
-- **Poster:** [el.cine (@EHuanglu)](https://x.com/EHuanglu)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4
 
-#### [Michael Jackson vs Alan Ritchson, night-time street fight](https://x.com/Just_sharon7/status/2050798932662321438)
+**[el.cine](https://x.com/EHuanglu)** · [@EHuanglu](https://x.com/EHuanglu) · Seedance 2.0 · 2026-02-09 · 516.3K views · [▶ Watch on X](https://x.com/EHuanglu/status/2020828503810445785)
 
-- **Source:** [X](https://x.com/Just_sharon7/status/2050798932662321438) · Seedance 2.0 · 2026-05-03
-- **Poster:** [Sharon Riley (@Just_sharon7)](https://x.com/Just_sharon7)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/Just_sharon7/status/2050798932662321438)
+### Michael Jackson vs Alan Ritchson, night-time street fight
 
-<details><summary><b>Prompt text</b></summary>
+https://github.com/user-attachments/assets/36dcac21-04a5-46f9-84f9-0cc7eec48a5a
+
+**[Sharon Riley](https://x.com/Just_sharon7)** · [@Just_sharon7](https://x.com/Just_sharon7) · Seedance 2.0 · 2026-05-03 · 8.5K views · [▶ Watch on X](https://x.com/Just_sharon7/status/2050798932662321438)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 15-second hyper-realistic cinematic action sequence, night-time destroyed urban street, overturned burning police cars, raging orange flames, thick volumetric smoke, flying sparks and debris, strong teal-orange cinematic color grade, dramatic lens flares, film grain, Michael Bay explosion aesthetic mixed with John Wick choreography and Michael Jackson dance vocabulary. Photorealistic, ultra-detailed textures, 8K, ARRI Alexa lens rendering, 24fps buttery motion.
@@ -542,16 +498,13 @@ Aggressive anime cinematography. Fast push-ins, orbital tracking shots, extreme 
 
 </details>
 
-#### [A WW2 motorcycle escape sequence](https://x.com/pewdenai/status/2021648907915411795)
+### A WW2 motorcycle escape sequence
 
-- **Source:** [X](https://x.com/pewdenai/status/2021648907915411795) · Seedance 2.0 · 2026-02-11
-- **Poster:** [pewden AI (@pewdenai)](https://x.com/pewdenai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/pewdenai/status/2021648907915411795)
+https://github.com/user-attachments/assets/f8bc0af2-82fd-4c4b-9615-abb787e7d0f8
 
-<details><summary><b>Prompt text</b></summary>
+**[pewden AI](https://x.com/pewdenai)** · [@pewdenai](https://x.com/pewdenai) · Seedance 2.0 · 2026-02-11 · 895 views · [▶ Watch on X](https://x.com/pewdenai/status/2021648907915411795)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
@@ -560,18 +513,15 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 </details>
 
 
-### Music & Dance
+## Music & Dance
 
-#### [3D dancer animated from a movement instruction sheet](https://x.com/john_my07/status/2048428389347024922)
+### 3D dancer animated from a movement instruction sheet
 
-- **Source:** [X](https://x.com/john_my07/status/2048428389347024922) · Seedance 2.0 · 2026-04-26
-- **Poster:** [Johnn (@john_my07)](https://x.com/john_my07)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/john_my07/status/2048428389347024922)
+https://github.com/user-attachments/assets/794480cf-6505-4c7a-bdfb-849db361aa3f
 
-<details><summary><b>Prompt text</b></summary>
+**[Johnn](https://x.com/john_my07)** · [@john_my07](https://x.com/john_my07) · Seedance 2.0 · 2026-04-26 · 54.9K views · [▶ Watch on X](https://x.com/john_my07/status/2048428389347024922)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 Dance Sequence Instruction Sheet
@@ -598,24 +548,19 @@ No color, no background scenery, no extra characters, no visual clutter, only th
 
 </details>
 
-#### [K-pop choreography sheet turned into a dance take](https://x.com/john_my07/status/2049524601471074422)
+### K-pop choreography sheet turned into a dance take
 
-- **Source:** [X](https://x.com/john_my07/status/2049524601471074422) · Seedance 2.0 · 2026-04-29
-- **Poster:** [Johnn (@john_my07)](https://x.com/john_my07)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/8df2fc90-f032-41a6-b25e-56279f106df8
 
-#### [Asian contemporary dance storyboard turned into a quiet continuous take](https://x.com/aimikoda/status/2073596755212431768)
+**[Johnn](https://x.com/john_my07)** · [@john_my07](https://x.com/john_my07) · Seedance 2.0 · 2026-04-29 · 21.6K views · [▶ Watch on X](https://x.com/john_my07/status/2049524601471074422)
 
-- **Source:** [X](https://x.com/aimikoda/status/2073596755212431768) · Seedance 2.0 · 2026-07-05
-- **Poster:** [aimikoda](https://x.com/aimikoda)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/aimikoda/status/2073596755212431768)
+### Asian contemporary dance storyboard turned into a quiet continuous take
 
-<details><summary><b>Prompt text</b></summary>
+https://github.com/user-attachments/assets/519a851f-bccc-42e3-a048-00aad19a62e1
+
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-07-05 · 8.2K views · [▶ Watch on X](https://x.com/aimikoda/status/2073596755212431768)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 @[storyboard ref] blueprint: match P01-P12 angle, scale, framing, staging, positions, direction. Ignore layout style, mannequins, stray marks, sheet furniture/borders. Render color/detail from VISUAL MEDIUM/CINEMATOGRAPHY; rebuild ENVIRONMENT; no gray layout duplicates. Panel effects are beat-only and fade. Flat 2D animation only: clean line art and cel shading, no 3D CG, photoreal volume, materials/cloth sim.
@@ -651,16 +596,13 @@ And this is the 5s video without storyboard part.
 
 </details>
 
-#### [Beat-synced outfit swap mid-dance from three reference images](https://x.com/Kashberg_0/status/2049074008730247669)
+### Beat-synced outfit swap mid-dance from three reference images
 
-- **Source:** [X](https://x.com/Kashberg_0/status/2049074008730247669) · Seedance 2.0 · 2026-04-28
-- **Poster:** [Kashberg (@Kashberg_0)](https://x.com/Kashberg_0)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/Kashberg_0/status/2049074008730247669)
+https://github.com/user-attachments/assets/5e97192f-d6c9-4e95-9e40-a2e741f845c7
 
-<details><summary><b>Prompt text</b></summary>
+**[Kashberg](https://x.com/Kashberg_0)** · [@Kashberg_0](https://x.com/Kashberg_0) · Seedance 2.0 · 2026-04-28 · 4.1K views · [▶ Watch on X](https://x.com/Kashberg_0/status/2049074008730247669)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 Have the character from Image 1 perform the dance based on the breakdown in Image 3. During the performance, include a beat-synced transformation into the character from Image 2. After the transformation, the character from Image 2 continues and completes the remaining dance steps from Image 3. Emphasize precise beat matching with the music
@@ -668,16 +610,13 @@ Have the character from Image 1 perform the dance based on the breakdown in Imag
 
 </details>
 
-#### [K-pop dance animated from a 16-step choreography sheet](https://x.com/miilesus/status/2049914543015334243)
+### K-pop dance animated from a 16-step choreography sheet
 
-- **Source:** [X](https://x.com/miilesus/status/2049914543015334243) · Seedance 2.0 · 2026-04-30
-- **Poster:** [Melis✨ (@miilesus)](https://x.com/miilesus)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/miilesus/status/2049914543015334243)
+https://github.com/user-attachments/assets/a61a23c8-ff5d-46dc-a0a5-cd378dc8b343
 
-<details><summary><b>Prompt text</b></summary>
+**[Melis✨](https://x.com/miilesus)** · [@miilesus](https://x.com/miilesus) · Seedance 2.0 · 2026-04-30 · 3.8K views · [▶ Watch on X](https://x.com/miilesus/status/2049914543015334243)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 K-Pop Dance 16-Step Instruction Sheet (4×4 Grid)
@@ -755,34 +694,27 @@ Maintain clean instructional aesthetic
 </details>
 
 
-### Ads, UGC & Product
+## Ads, UGC & Product
 
-#### [Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…](https://x.com/lepadphone/status/2020728930278531232)
+### Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…
 
-- **Source:** [X](https://x.com/lepadphone/status/2020728930278531232) · Seedance 2.0 · 2026-02-09
-- **Poster:** [padphone (@lepadphone)](https://x.com/lepadphone)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/8c8f5cb5-d633-4332-83ab-e39ebe7b5861
 
-#### [A Claude Cowork skill that generates UGC ads with Seedance 2.0](https://x.com/mikefutia/status/2046642880522211706)
+**[padphone](https://x.com/lepadphone)** · [@lepadphone](https://x.com/lepadphone) · Seedance 2.0 · 2026-02-09 · 508.5K views · [▶ Watch on X](https://x.com/lepadphone/status/2020728930278531232)
 
-- **Source:** [X](https://x.com/mikefutia/status/2046642880522211706) · Seedance 2.0 · 2026-04-21
-- **Poster:** [Mike Futia (@mikefutia)](https://x.com/mikefutia)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### A Claude Cowork skill that generates UGC ads with Seedance 2.0
 
-#### [Ultra-realistic influencer vlog built from a storyboard](https://x.com/Just_sharon7/status/2056368955284148524)
+https://github.com/user-attachments/assets/a9f484ff-34f2-4b06-873d-f8f502b3c67e
 
-- **Source:** [X](https://x.com/Just_sharon7/status/2056368955284148524) · Seedance 2.0 · 2026-05-18
-- **Poster:** [Sharon Riley (@Just_sharon7)](https://x.com/Just_sharon7)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/Just_sharon7/status/2056368955284148524)
+**[Mike Futia](https://x.com/mikefutia)** · [@mikefutia](https://x.com/mikefutia) · Seedance 2.0 · 2026-04-21 · 79.9K views · [▶ Watch on X](https://x.com/mikefutia/status/2046642880522211706)
 
-<details><summary><b>Prompt text</b></summary>
+### Ultra-realistic influencer vlog built from a storyboard
+
+https://github.com/user-attachments/assets/201951e5-b7f2-4258-a25c-5f8329989676
+
+**[Sharon Riley](https://x.com/Just_sharon7)** · [@Just_sharon7](https://x.com/Just_sharon7) · Seedance 2.0 · 2026-05-18 · 43.1K views · [▶ Watch on X](https://x.com/Just_sharon7/status/2056368955284148524)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 15-second ultra-realistic cinematic influencer vlog video, strict sequential storytelling, every storyboard panel must be followed exactly in order with the SAME consistent reference character throughout all shots.
@@ -828,32 +760,25 @@ Authentic TikTok draft accidentally turned cinematic. Real-life imperfections, e
 
 </details>
 
-#### [AI UGC from a single product photo, no script and no start frame](https://x.com/venturetwins/status/2024885298908594391)
+### AI UGC from a single product photo, no script and no start frame
 
-- **Source:** [X](https://x.com/venturetwins/status/2024885298908594391) · Seedance 2.0 · 2026-02-20
-- **Poster:** [Justine Moore (@venturetwins)](https://x.com/venturetwins)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/e776e3a5-cee5-43e6-a403-cbe20fae133c
 
-#### [Seedance 2.0 generates UGC-style content that actually converts](https://x.com/magnific/status/2024891921576198278)
+**[Justine Moore](https://x.com/venturetwins)** · [@venturetwins](https://x.com/venturetwins) · Seedance 2.0 · 2026-02-20 · 37.1K views · [▶ Watch on X](https://x.com/venturetwins/status/2024885298908594391)
 
-- **Source:** [X](https://x.com/magnific/status/2024891921576198278) · Seedance 2.0 · 2026-02-20
-- **Poster:** [Magnific](https://x.com/magnific)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Seedance 2.0 generates UGC-style content that actually converts
 
-#### [A 10-frame commercial storyboard board, then the film](https://x.com/Shorelyn_/status/2077345203049148886)
+https://github.com/user-attachments/assets/4c79fd61-cbd4-4401-8014-f6ca47f43e8f
 
-- **Source:** [X](https://x.com/Shorelyn_/status/2077345203049148886) · Seedance 2.0 · 2026-07-15
-- **Poster:** [Shore Lyn (@Shorelyn_)](https://x.com/Shorelyn_)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/Shorelyn_/status/2077345203049148886)
+**[Magnific](https://x.com/magnific)** · [@magnific](https://x.com/magnific) · Seedance 2.0 · 2026-02-20 · 22.6K views · [▶ Watch on X](https://x.com/magnific/status/2024891921576198278)
 
-<details><summary><b>Prompt text</b></summary>
+### A 10-frame commercial storyboard board, then the film
+
+https://github.com/user-attachments/assets/f4ac8f48-9f03-45ef-b992-d47db5c14c25
+
+**[Shore Lyn](https://x.com/Shorelyn_)** · [@Shorelyn_](https://x.com/Shorelyn_) · Seedance 2.0 · 2026-07-15 · 14.7K views · [▶ Watch on X](https://x.com/Shorelyn_/status/2077345203049148886)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 Create one professional commercial storyboard presentation showing 10 cinematic frames arranged in a clean 2×5 grid on a white presentation board. Thin black borders separate each frame. Each panel contains a bold scene number (01–10), timestamp, and a short production caption underneath. The storyboard should look like a real advertising agency pre-production board for a luxury chocolate commercial. TITLE KITKAT "The Art of the Snap" Luxury Commercial Storyboard • 15 Seconds STYLE
@@ -867,16 +792,13 @@ SCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Eleg
 
 </details>
 
-#### [Luxury face-lotion commercial montage in a studio](https://x.com/Itswsm105f/status/2053362746469814317)
+### Luxury face-lotion commercial montage in a studio
 
-- **Source:** [X](https://x.com/Itswsm105f/status/2053362746469814317) · Seedance 2.0 · 2026-05-10
-- **Poster:** [Zyro AI (@Itswsm105f)](https://x.com/Itswsm105f)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/Itswsm105f/status/2053362746469814317)
+https://github.com/user-attachments/assets/7f9ee825-e1db-4fbb-969f-3d690eb6e37e
 
-<details><summary><b>Prompt text</b></summary>
+**[Zyro AI](https://x.com/Itswsm105f)** · [@Itswsm105f](https://x.com/Itswsm105f) · Seedance 2.0 · 2026-05-10 · 1.6K views · [▶ Watch on X](https://x.com/Itswsm105f/status/2053362746469814317)
+
+<details><summary><b>Prompt</b></summary>
 
 ```text
 A high-end cinematic commercial montage featuring a luxury white “Hydrating Face Lotion” bottle in a pristine studio environment. The product is placed on a glossy reflective surface, surrounded by soft diffused lighting and elegant shadows. The camera slowly rotates around the bottle, capturing premium textures, subtle branding details, and smooth reflections.
@@ -890,234 +812,192 @@ Bright airy commercial lighting, ultra-clean skincare aesthetic, cinematic luxur
 </details>
 
 
-### Prompting & Workflow
+## Prompting & Workflow
 
-#### [Blender previs pushed through Seedance 2.0 for an ambush scene](https://x.com/reidhannaford/status/2071595581508563168)
+### Blender previs pushed through Seedance 2.0 for an ambush scene
 
-- **Source:** [X](https://x.com/reidhannaford/status/2071595581508563168) · Seedance 2.0 · 2026-06-29
-- **Poster:** [Reid Hannaford (@reidhannaford)](https://x.com/reidhannaford)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/cdebab9f-3553-48e7-a2c7-7cb5be498e68
 
-#### [GPT Image 2 - Character Reference Sheet Prompt](https://x.com/aimikoda/status/2048654096794538316)
+**[Reid Hannaford](https://x.com/reidhannaford)** · [@reidhannaford](https://x.com/reidhannaford) · Seedance 2.0 · 2026-06-29 · 223.4K views · [▶ Watch on X](https://x.com/reidhannaford/status/2071595581508563168)
 
-- **Source:** [X](https://x.com/aimikoda/status/2048654096794538316) · Seedance 2.0 · 2026-04-27
-- **Poster:** [aimikoda](https://x.com/aimikoda)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/aimikoda/status/2048654096794538316)
+### GPT Image 2 - Character Reference Sheet Prompt
 
-> The source says the prompt is in a reply, but the exact reply has not yet been verified and captured.
+https://github.com/user-attachments/assets/b8842268-6562-4b20-ab20-80e70e50472d
 
-#### [A curated Seedance 2.0 prompt collection](https://x.com/lena_z01/status/2022870879248453900)
+**[Kōda](https://x.com/aimikoda)** · [@aimikoda](https://x.com/aimikoda) · Seedance 2.0 · 2026-04-27 · 162.7K views · [▶ Watch on X](https://x.com/aimikoda/status/2048654096794538316)
 
-- **Source:** [X](https://x.com/lena_z01/status/2022870879248453900) · Seedance 2.0 · 2026-02-15
-- **Poster:** [Lena (@lena_z01)](https://x.com/lena_z01)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+> The creator posted the prompt further down [the thread](https://x.com/aimikoda/status/2048654096794538316).
 
-#### [Seedance 2.0 works better with JSON prompts — the structure to follow](https://x.com/EHuanglu/status/2041132328655954201)
+### A curated Seedance 2.0 prompt collection
 
-- **Source:** [X](https://x.com/EHuanglu/status/2041132328655954201) · Seedance 2.0 · 2026-04-06
-- **Poster:** [el.cine (@EHuanglu)](https://x.com/EHuanglu)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/45960168-fa18-4f1d-abb6-a0db420f0b9d
 
-#### [Depth-tracked rooftop parkour with a swapped character and scene](https://x.com/MrLarus/status/2080322001722294370)
+**[Lena](https://x.com/lena_z01)** · [@lena_z01](https://x.com/lena_z01) · Seedance 2.0 · 2026-02-15 · 91.3K views · [▶ Watch on X](https://x.com/lena_z01/status/2022870879248453900)
 
-- **Source:** [X](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23
-- **Poster:** [MrLarus](https://x.com/MrLarus)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/MrLarus/status/2080322001722294370)
+### Seedance 2.0 works better with JSON prompts — the structure to follow
 
-> The source says the prompt is in a reply, but the exact reply has not yet been verified and captured.
+https://github.com/user-attachments/assets/392e8926-71c3-427d-9698-e3268dae9185
 
-#### [Sider + 即梦：快速写 Seedance 2.0 提示词](https://x.com/Gorden_Sun/status/2022651783726927945)
+**[el.cine](https://x.com/EHuanglu)** · [@EHuanglu](https://x.com/EHuanglu) · Seedance 2.0 · 2026-04-06 · 70.6K views · [▶ Watch on X](https://x.com/EHuanglu/status/2041132328655954201)
 
-- **Source:** [X](https://x.com/Gorden_Sun/status/2022651783726927945) · Seedance 2.0 · 2026-02-14
-- **Poster:** [Gorden Sun (@Gorden_Sun)](https://x.com/Gorden_Sun)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Depth-tracked rooftop parkour with a swapped character and scene
 
-#### [Character sheet in GPT Image 2, then motion in Seedance 2.0](https://x.com/D_studioproject/status/2055931547983958247)
+https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
-- **Source:** [X](https://x.com/D_studioproject/status/2055931547983958247) · Seedance 2.0 · 2026-05-17
-- **Poster:** [DStudioproject (@D_studioproject)](https://x.com/D_studioproject)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 24.5K views · [▶ Watch on X](https://x.com/MrLarus/status/2080322001722294370)
 
-#### [Rooftop parkour in one continuous shot, driven by a Depth reference video](https://x.com/MrLarus/status/2080323396865241237)
+> The creator posted the prompt further down [the thread](https://x.com/MrLarus/status/2080322001722294370).
 
-- **Source:** [X](https://x.com/MrLarus/status/2080323396865241237) · Seedance · 2026-07-23
-- **Poster:** [MrLarus](https://x.com/MrLarus)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Sider + 即梦：快速写 Seedance 2.0 提示词
 
-#### [Higgsfield MCP — driving Seedance video generation from Claude](https://x.com/mhdfaran/status/2081767702188970299)
+https://github.com/user-attachments/assets/b57b8706-007f-4ee7-9f7b-df6ab06042fd
 
-- **Source:** [X](https://x.com/mhdfaran/status/2081767702188970299) · Seedance 2.0 · 2026-07-27
-- **Poster:** [Farhan (@mhdfaran)](https://x.com/mhdfaran)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[Gorden Sun](https://x.com/Gorden_Sun)** · [@Gorden_Sun](https://x.com/Gorden_Sun) · Seedance 2.0 · 2026-02-14 · 12.6K views · [▶ Watch on X](https://x.com/Gorden_Sun/status/2022651783726927945)
+
+### Character sheet in GPT Image 2, then motion in Seedance 2.0
+
+https://github.com/user-attachments/assets/a5aaea75-d5c8-4eaa-8e39-cf2cd064c667
+
+**[DStudioproject](https://x.com/D_studioproject)** · [@D_studioproject](https://x.com/D_studioproject) · Seedance 2.0 · 2026-05-17 · 2.4K views · [▶ Watch on X](https://x.com/D_studioproject/status/2055931547983958247)
+
+### Rooftop parkour in one continuous shot, driven by a Depth reference video
+
+https://github.com/user-attachments/assets/acd3185e-c14c-4109-961b-1064d01c98db
+
+**[Larus Canus](https://x.com/MrLarus)** · [@MrLarus](https://x.com/MrLarus) · Seedance · 2026-07-23 · 1.3K views · [▶ Watch on X](https://x.com/MrLarus/status/2080323396865241237)
+
+### Higgsfield MCP — driving Seedance video generation from Claude
+
+https://github.com/user-attachments/assets/72d6dc58-905c-4bcc-bc6d-bff1454ecc47
+
+**[Farhan](https://x.com/mhdfaran)** · [@mhdfaran](https://x.com/mhdfaran) · Seedance 2.0 · 2026-07-27 · 562 views · [▶ Watch on X](https://x.com/mhdfaran/status/2081767702188970299)
 
 
-### Model Comparisons
+## Model Comparisons
 
-#### [The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared](https://x.com/Dheepanratnam/status/2025724576882159876)
+### The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared
 
-- **Source:** [X](https://x.com/Dheepanratnam/status/2025724576882159876) · Seedance 2.0 · 2026-02-23
-- **Poster:** [Dheepanratnam](https://x.com/Dheepanratnam)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/bf540e4e-6ddf-4b3c-a2ca-841f96f2418b
 
-#### [Four frontier video models judged blind by 12 professional editors](https://x.com/contraben/status/2072707984577184015)
+**[Dheepan Ratnam](https://x.com/Dheepanratnam)** · [@Dheepanratnam](https://x.com/Dheepanratnam) · Seedance 2.0 · 2026-02-23 · 30.2K views · [▶ Watch on X](https://x.com/Dheepanratnam/status/2025724576882159876)
 
-- **Source:** [X](https://x.com/contraben/status/2072707984577184015) · Seedance 2.0 · 2026-07-02
-- **Poster:** [ben (@contraben)](https://x.com/contraben)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Four frontier video models judged blind by 12 professional editors
 
-#### [Same prompt, Seedance 2.0 vs Sora 2 — shot breakdown and pacing](https://x.com/underwoodxie96/status/2020819034426708042)
+https://github.com/user-attachments/assets/2919bbb6-77d9-4d6b-94f1-a37d43518613
 
-- **Source:** [X](https://x.com/underwoodxie96/status/2020819034426708042) · Seedance 2.0 · 2026-02-09
-- **Poster:** [underwood (@underwoodxie96)](https://x.com/underwoodxie96)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[ben](https://x.com/contraben)** · [@contraben](https://x.com/contraben) · Seedance 2.0 · 2026-07-02 · 19.4K views · [▶ Watch on X](https://x.com/contraben/status/2072707984577184015)
+
+### Same prompt, Seedance 2.0 vs Sora 2 — shot breakdown and pacing
+
+https://github.com/user-attachments/assets/5c3b4930-21ce-445a-8482-7063af80080a
+
+**[underwood](https://x.com/underwoodxie96)** · [@underwoodxie96](https://x.com/underwoodxie96) · Seedance 2.0 · 2026-02-09 · 14.4K views · [▶ Watch on X](https://x.com/underwoodxie96/status/2020819034426708042)
 
 
-### Launch & Announcements
+## Launch & Announcements
 
-#### [Dreamina Seedance 2.5 is now live!](https://x.com/BytePlusGlobal/status/2083069262969844158)
+### Dreamina Seedance 2.5 is now live!
 
-- **Source:** [X](https://x.com/BytePlusGlobal/status/2083069262969844158) · Seedance 2.5 · 2026-07-31
-- **Poster:** [BytePlus (@BytePlusGlobal)](https://x.com/BytePlusGlobal)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/ede50a79-7e36-4573-a6df-725df5d2dfec
 
-#### [14 days of unlimited Seedance on Higgsfield](https://x.com/higgsfield/status/2083105837795745797)
+**[BytePlus](https://x.com/BytePlusGlobal)** · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · Seedance 2.5 · 2026-07-31 · 15.7M views · [▶ Watch on X](https://x.com/BytePlusGlobal/status/2083069262969844158)
 
-- **Source:** [X](https://x.com/higgsfield/status/2083105837795745797) · Seedance 2.5 · 2026-07-31
-- **Poster:** [Higgsfield AI 🧩 (@higgsfield)](https://x.com/higgsfield)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### 14 days of unlimited Seedance on Higgsfield
 
-#### [China's Bytedance just dropped the most advanced video generation model in the world](https://x.com/deedydas/status/2020911900968767976)
+https://github.com/user-attachments/assets/da3b1914-c62f-4321-a211-7557fa2ad7c6
 
-- **Source:** [X](https://x.com/deedydas/status/2020911900968767976) · Seedance 2.0 · 2026-02-09
-- **Poster:** [Deedy (@deedydas)](https://x.com/deedydas)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[Higgsfield AI 🧩](https://x.com/higgsfield)** · [@higgsfield](https://x.com/higgsfield) · Seedance 2.5 · 2026-07-31 · 1.7M views · [▶ Watch on X](https://x.com/higgsfield/status/2083105837795745797)
 
-#### [🎬 Global Launch: Dreamina Seedance 2.5 is now live!](https://x.com/dreamina_ai/status/2083056471147958714)
+### China's Bytedance just dropped the most advanced video generation model in the world
 
-- **Source:** [X](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31
-- **Poster:** [Dreamina AI (@dreamina_ai)](https://x.com/dreamina_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
-#### [Seedance 2.0 from China will be the SOTA](https://x.com/Dork_sense/status/2020179955511116082)
+**[Deedy](https://x.com/deedydas)** · [@deedydas](https://x.com/deedydas) · Seedance 2.0 · 2026-02-09 · 780.9K views · [▶ Watch on X](https://x.com/deedydas/status/2020911900968767976)
 
-- **Source:** [X](https://x.com/Dork_sense/status/2020179955511116082) · Seedance 2.0 · 2026-02-07
-- **Poster:** [Dorksense (@Dork_sense)](https://x.com/Dork_sense)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### 🎬 Global Launch: Dreamina Seedance 2.5 is now live!
 
-#### [Seedance 2.5 for AI UGC](https://x.com/higgsfield_ai/status/2083138301083693295)
+https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-- **Source:** [X](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31
-- **Poster:** [Higgsfield AI 🧩 (@higgsfield_ai)](https://x.com/higgsfield_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[Dreamina AI](https://x.com/dreamina_ai)** · [@dreamina_ai](https://x.com/dreamina_ai) · Seedance 2.5 · 2026-07-31 · 587.7K views · [▶ Watch on X](https://x.com/dreamina_ai/status/2083056471147958714)
 
-#### [BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0](https://x.com/testingcatalog/status/2069304405740974255)
+### Seedance 2.0 from China will be the SOTA
 
-- **Source:** [X](https://x.com/testingcatalog/status/2069304405740974255) · Seedance 2.5 · 2026-06-23
-- **Poster:** [🚨 AI News | TestingCatalog (@testingcatalog)](https://x.com/testingcatalog)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
-#### [Seedance 2.5 is the Mythos moment for AI video](https://x.com/shiri_shh/status/2083144487870611828)
+**[Dorksense](https://x.com/Dork_sense)** · [@Dork_sense](https://x.com/Dork_sense) · Seedance 2.0 · 2026-02-07 · 389K views · [▶ Watch on X](https://x.com/Dork_sense/status/2020179955511116082)
 
-- **Source:** [X](https://x.com/shiri_shh/status/2083144487870611828) · Seedance 2.5 · 2026-07-31
-- **Poster:** [shirish (@shiri_shh)](https://x.com/shiri_shh)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Seedance 2.5 for AI UGC
 
-#### [Image-to-video in Seedance 2.5 is production-ready](https://x.com/higgsfield_ai/status/2083719880059359478)
+https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-- **Source:** [X](https://x.com/higgsfield_ai/status/2083719880059359478) · Seedance 2.5 · 2026-08-02
-- **Poster:** [Higgsfield AI 🧩 (@higgsfield_ai)](https://x.com/higgsfield_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 315.9K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083138301083693295)
 
-#### [Seedance 2.5 generates a full 30-second animated scene](https://x.com/higgsfield_ai/status/2083173622211035222)
+### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
-- **Source:** [X](https://x.com/higgsfield_ai/status/2083173622211035222) · Seedance 2.5 · 2026-07-31
-- **Poster:** [Higgsfield AI 🧩 (@higgsfield_ai)](https://x.com/higgsfield_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/21eca056-25dc-4b3e-b409-e306b56f61f6
 
-#### [AI video models are gradually moving from prompt-to-clip systems toward more controllable…](https://x.com/HeyAmit_/status/2082076655963791713)
+**[🚨 AI News | TestingCatalog](https://x.com/testingcatalog)** · [@testingcatalog](https://x.com/testingcatalog) · Seedance 2.5 · 2026-06-23 · 142.2K views · [▶ Watch on X](https://x.com/testingcatalog/status/2069304405740974255)
 
-- **Source:** [X](https://x.com/HeyAmit_/status/2082076655963791713) · Seedance 2.5 · 2026-07-28
-- **Poster:** [Amit (@HeyAmit_)](https://x.com/HeyAmit_)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+### Seedance 2.5 is the Mythos moment for AI video
 
-#### [Holy Shit Seedance 2.5 is Insane 😱](https://x.com/chetaslua/status/2069312765047771270)
+https://github.com/user-attachments/assets/3ecf7372-0641-4571-8389-2cff79b7c07b
 
-- **Source:** [X](https://x.com/chetaslua/status/2069312765047771270) · Seedance 2.5 · 2026-06-23
-- **Poster:** [Chetaslua](https://x.com/chetaslua)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+**[shirish](https://x.com/shiri_shh)** · [@shiri_shh](https://x.com/shiri_shh) · Seedance 2.5 · 2026-07-31 · 107K views · [▶ Watch on X](https://x.com/shiri_shh/status/2083144487870611828)
 
-#### [Seedance 2.0 is live on Freepik for all plans](https://x.com/azed_ai/status/2042602819656798356)
+### Image-to-video in Seedance 2.5 is production-ready
 
-- **Source:** [X](https://x.com/azed_ai/status/2042602819656798356) · Seedance 2.0 · 2026-04-10
-- **Poster:** [Amira Zairi (@azed_ai)](https://x.com/azed_ai)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
-- **Prompt source:** [X](https://x.com/azed_ai/status/2042602819656798356)
+https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
-> The source says the prompt is in a reply, but the exact reply has not yet been verified and captured.
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-08-02 · 31.2K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083719880059359478)
 
-#### [「Seedance 2.5 is COMING SOON on Higgsfield」](https://x.com/kiAI_stable/status/2083205066501271800)
+### Seedance 2.5 generates a full 30-second animated scene
 
-- **Source:** [X](https://x.com/kiAI_stable/status/2083205066501271800) · Seedance 2.5 · 2026-07-31
-- **Poster:** [きー from KiAI (@kiAI_stable)](https://x.com/kiAI_stable)
-- **Original video creator:** Unknown (not inferred from the poster)
-- **Prompt author:** Unknown (not inferred from the poster)
-- **Video delivery:** Source link / official embed only
+https://github.com/user-attachments/assets/a21d11f7-fe17-44e5-b908-ce87ec166e2b
+
+**[Higgsfield AI 🧩](https://x.com/higgsfield_ai)** · [@higgsfield_ai](https://x.com/higgsfield_ai) · Seedance 2.5 · 2026-07-31 · 27.4K views · [▶ Watch on X](https://x.com/higgsfield_ai/status/2083173622211035222)
+
+### AI video models are gradually moving from prompt-to-clip systems toward more controllable…
+
+https://github.com/user-attachments/assets/6e717050-f00c-4de9-ac50-8051118bf128
+
+**[Amit](https://x.com/HeyAmit_)** · [@HeyAmit_](https://x.com/HeyAmit_) · Seedance 2.5 · 2026-07-28 · 20.7K views · [▶ Watch on X](https://x.com/HeyAmit_/status/2082076655963791713)
+
+### Holy Shit Seedance 2.5 is Insane 😱
+
+https://github.com/user-attachments/assets/9436dba7-2419-4523-8045-7ddba184cf15
+
+**[Chetaslua](https://x.com/chetaslua)** · [@chetaslua](https://x.com/chetaslua) · Seedance 2.5 · 2026-06-23 · 19.4K views · [▶ Watch on X](https://x.com/chetaslua/status/2069312765047771270)
+
+### Seedance 2.0 is live on Freepik for all plans
+
+https://github.com/user-attachments/assets/3b47a659-46ba-42e2-bfcb-18d55d206060
+
+**[Amira Zairi](https://x.com/azed_ai)** · [@azed_ai](https://x.com/azed_ai) · Seedance 2.0 · 2026-04-10 · 8.6K views · [▶ Watch on X](https://x.com/azed_ai/status/2042602819656798356)
+
+> The creator posted the prompt further down [the thread](https://x.com/azed_ai/status/2042602819656798356).
+
+### 「Seedance 2.5 is COMING SOON on Higgsfield」
+
+https://github.com/user-attachments/assets/f6c97fcc-525a-4d22-acb6-38d63947fbbb
+
+**[きー from KiAI](https://x.com/kiAI_stable)** · [@kiAI_stable](https://x.com/kiAI_stable) · Seedance 2.5 · 2026-07-31 · 1.4K views · [▶ Watch on X](https://x.com/kiAI_stable/status/2083205066501271800)
 
 
-## Contributing and maintenance
+## Credit and takedowns
 
-New candidates enter discovery and human review before publication or mirroring. Query scope, exclusions, and known gaps are documented in [COVERAGE.md](COVERAGE.md); submission requirements are in [CONTRIBUTING.md](CONTRIBUTING.md).
+Every video, prompt and name in this repo belongs to the person who posted it on X, and every entry links back to the original post.
 
-Repository code and editorial text are MIT licensed. Indexed posts, prompts, and videos retain their own recorded rights status.
+If you are a creator and want your post edited or removed, [open an issue](https://github.com/opensource-works/awesome-seedance-prompts/issues/new) and it comes down, no questions asked.
+
+## Adding a post
+
+Drop the X link into `scripts/urls.txt` and open a PR — the pipeline fetches the rest. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## How the data is built
+
+```bash
+python3 scripts/harvest.py   # X links -> data/posts.json
+python3 scripts/build.py     # data/posts.json -> docs/ + READMEs
+```
+
+Seedance is a video model by ByteDance. This is an unaffiliated, community-run index. Repo content is MIT licensed; the linked posts and videos remain the property of their authors.
