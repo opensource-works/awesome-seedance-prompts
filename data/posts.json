@@ -55,9 +55,9 @@
       ]
     },
     "stats": {
-      "views": 15678146,
-      "likes": 2689,
-      "retweets": 852
+      "views": 15689833,
+      "likes": 2685,
+      "retweets": 837
     }
   },
   {
@@ -110,8 +110,8 @@
       ]
     },
     "stats": {
-      "views": 1677661,
-      "likes": 1315,
+      "views": 1687269,
+      "likes": 1317,
       "retweets": 202
     }
   },
@@ -159,7 +159,7 @@
       ]
     },
     "stats": {
-      "views": 780885,
+      "views": 780926,
       "likes": 4184,
       "retweets": 560
     }
@@ -214,9 +214,9 @@
       ]
     },
     "stats": {
-      "views": 587709,
-      "likes": 3187,
-      "retweets": 831
+      "views": 593171,
+      "likes": 3191,
+      "retweets": 830
     }
   },
   {
@@ -263,9 +263,9 @@
       ]
     },
     "stats": {
-      "views": 526839,
+      "views": 526859,
       "likes": 2395,
-      "retweets": 190
+      "retweets": 189
     }
   },
   {
@@ -318,9 +318,9 @@
       ]
     },
     "stats": {
-      "views": 516274,
-      "likes": 525,
-      "retweets": 59
+      "views": 516288,
+      "likes": 524,
+      "retweets": 58
     }
   },
   {
@@ -367,9 +367,9 @@
       ]
     },
     "stats": {
-      "views": 508489,
-      "likes": 2537,
-      "retweets": 174
+      "views": 508525,
+      "likes": 2536,
+      "retweets": 173
     }
   },
   {
@@ -377,8 +377,8 @@
     "url": "https://x.com/minchoi/status/2020878278475518152",
     "title": "A 1-minute cinematic video in 5 minutes — 4 shots, 15 seconds each",
     "text": "Holy moly...\n\nSeedance 2.0 just generated a 1-minute cinematic video in 5 minutes.\n\n4 shots. 15 seconds each... Insane... 💀\n\nPrompts in comments",
-    "prompt": null,
-    "prompt_in_thread": true,
+    "prompt": "4 Prompts used by user @小气的神 on Douyin\n\nPROMPT:\nConsistent style guideline (applies to all segments):Realistic cinematic war footage; modern Middle Eastern desert village setting; dominant color palette of sandy yellow and gray-brown; intense sunlight with high-contrast shadows; air filled with drifting dust and gunpowder smoke; handheld camera texture with slight shake; primarily low-angle and ground-level perspectives to emphasize oppression and realism; characters equipped as modern light infantry (body armor, helmets, communication gear), without visible national identifiers; overall atmosphere tense, restrained, calm, and cruel.\n\nShot 1: A modern infantry squad slowly advances into the narrow alleys of a Middle Eastern desert village. Low adobe houses and damaged concrete structures cast sharp shadows under harsh sunlight, with scattered rubble and abandoned everyday objects on the ground. The camera stays close to the ground, pushing forward from behind the squad as soldiers hug the walls, assault rifles aimed at the upcoming corner. Fine sand drifts in the air; distant, muffled sounds of wind and faint metallic clinks are audible. The overall rhythm is oppressive and restrained, hinting at imminent conflict.\n\nShot 2: At the corner of the same alley, a brief but intense close-quarters firefight suddenly erupts. Soldiers rapidly drop and press against the wall as bullets strike, kicking up clouds of dust and debris. The camera pans quickly with slight shake, capturing momentary muzzle flashes illuminating the dark shadows. Enemy silhouettes are faintly visible behind dilapidated window openings; fresh bullet impacts appear on building surfaces. The setting remains the confined spaces of the desert village, with heightened sense of claustrophobia; the frame conveys instability and urgency.\n\nShot 3: After the exchange of fire, the squad continues to advance. At the end of the alley appears the entrance to a bombed-out building—walls half-collapsed, rebar exposed. The camera follows from over a soldier’s shoulder into the damaged interior, where light abruptly dims, leaving only strong beams of sunlight piercing through breaches. Dust particles float visibly in the shafts of light; soldiers communicate silently with hand signals, faces tense. Sporadic gunfire echoes from a distance; the atmosphere shifts from chaos to a state of heightened, silent vigilance.\n\nShot 4: The squad successfully secures a high vantage point and overlooks the entire network of village alleys from a damaged rooftop. Low buildings stretch out under intense, sunset-like sunlight. The camera slowly pulls back, silhouetting the soldiers in backlighting, rifle muzzles still trained on unknown threats. Dust swirls in the illuminated air; the distant village remains deceptively quiet yet charged with menace. The shot lingers in a tense equilibrium—no clear resolution of victory or defeat—ending on an open note of ongoing conflict.",
+    "prompt_in_thread": false,
     "model": "Seedance 2.0",
     "category": "Cinematic & Film",
     "date": "2026-02-09",
@@ -416,10 +416,13 @@
       ]
     },
     "stats": {
-      "views": 391071,
-      "likes": 1253,
-      "retweets": 127
-    }
+      "views": 391081,
+      "likes": 1252,
+      "retweets": 126
+    },
+    "prompt_source_urls": [
+      "https://x.com/minchoi/status/2020878281407439191"
+    ]
   },
   {
     "id": "2020179955511116082",
@@ -471,9 +474,9 @@
       ]
     },
     "stats": {
-      "views": 389008,
+      "views": 389023,
       "likes": 2730,
-      "retweets": 288
+      "retweets": 287
     }
   },
   {
@@ -526,8 +529,8 @@
       ]
     },
     "stats": {
-      "views": 315903,
-      "likes": 593,
+      "views": 316721,
+      "likes": 592,
       "retweets": 57
     }
   },
@@ -587,8 +590,8 @@
       ]
     },
     "stats": {
-      "views": 231043,
-      "likes": 723,
+      "views": 231064,
+      "likes": 724,
       "retweets": 416
     }
   },
@@ -642,8 +645,8 @@
       ]
     },
     "stats": {
-      "views": 223398,
-      "likes": 1627,
+      "views": 223610,
+      "likes": 1629,
       "retweets": 202
     }
   },
@@ -703,8 +706,8 @@
       ]
     },
     "stats": {
-      "views": 207392,
-      "likes": 1896,
+      "views": 207480,
+      "likes": 1895,
       "retweets": 114
     }
   },
@@ -713,8 +716,8 @@
     "url": "https://x.com/aimikoda/status/2048654096794538316",
     "title": "GPT Image 2 - Character Reference Sheet Prompt",
     "text": "GPT Image 2 - Character Reference Sheet Prompt\n\nYou can create a character reference sheet in any style you want for use in your Seedance 2.0 videos. All you need to do is either provide a reference image or describe your character. You can also input random values to generate completely random characters.\n\nThis reference sheet provides a clear, structured, and highly readable visual breakdown of the character, helping the model maintain strong identity consistency across different outputs. The layout ensures the model focuses on essential visual information rather than stylistic noise, while the inclusion of expressions, head angles, and performance cues improves the model’s ability to generate believable acting and varied poses without losing character integrity.\n\nAll clips in the demonstration video were generated using the reference sheet image and the same Seedance 2.0 prompt. You can find the prompts in the replies. 👇\n\nGPT Image 2 and Seedance 2.0 are both available on @mitte_ai",
-    "prompt": null,
-    "prompt_in_thread": true,
+    "prompt": "Change style and description as you need. If you want to use a reference image, write \"uploaded reference\" to the [SUBJECT_DESCRIPTION].\n\nGpt Image 2 Prompt:\n\nCreate a single unified MASTER CHARACTER REFERENCE SHEET from these inputs:\n\n[STYLE]: [anime / stylized 3d / realistic 3d / live-action / cinematic realism / noir / stop-motion / any other style]\n[SUBJECT_DESCRIPTION]: [character or person description]\n\nCreate the board in a 4:3 horizontal layout. The board layout, background, typography and spacing must be clean, neutral, minimal and technical, on a pure white or clean off-white background. Use clear section titles, readable English labels, balanced spacing, no clutter, no watermark, no logo. Apply [STYLE] only to the character and visual elements, not to the board layout or UI. All text must be clearly readable at normal viewing size. Avoid tiny or dense text.\n\nInfer all missing details from the subject description, including name, alias if suitable, role, age, personality, core theme, accent, wardrobe details, accessories, key prop if clearly relevant, visual notes and a fitting color palette.\n\nUse this layout:\ntop row = left: title + horizontal info block, right: COLOR PALETTE\ncenter = large MAIN IDENTITY + SCALE SHEET as the biggest section\nright = EXPRESSION PROGRESSION + HEAD DETAIL SHEET + NEUTRAL BASELINE + POSTURE VARIATION + CLOSE-UP POSE\nbottom = WARDROBE / ACCESSORIES DETAILS + PROP + HAND GESTURES\n\nInclude:\n\nTitle: CHARACTER REFERENCE SHEET\n\n1. TOP INFO BLOCK\nName, Alias, Role, Age, Personality, Core Theme, Speech Accent\n\n2. COLOR PALETTE\nPlace this in the top-right header area.\nShow 6 to 8 minimal clean color swatches that match the subject’s style, wardrobe, world and mood. Don't add labels.\n\n3. MAIN IDENTITY + SCALE SHEET\nThis must be the largest and most prominent section.\nShow the subject only, with no prop, no bag, no handheld object, no extra item interaction.\nShow:\nFront, 3/4 View, Side, Back\n\nPlace the character views over subtle measurement guide lines, like a clean model sheet scale background with height marks.\n\nAlso include a small SILHOUETTE GUIDE inside this same section:\n2 small clean silhouette thumbnails, Neutral Stance and Profile Silhouette.\nKeep the silhouettes small and secondary, placed in a corner of the MAIN IDENTITY + SCALE SHEET.\n\nThe subject should appear in a clean neutral presentation focused only on identity, body shape, outfit, silhouette and proportions.\nAdd a few small notes for silhouette, posture, special traits, visual identity.\n\n4. EXPRESSION PROGRESSION\nShow exactly 8 panels of the same subject:\nNeutral, Curious, Worried, Surprised, Afraid, Sad, Determined, Relieved\n\nMICRO EXPRESSIONS\nShow exactly 5 panels of the same subject:\nsubtle eye tension, slight smirk, lip tension, micro fear, controlled breath\n\nThese panels should function as both an expression sheet and a light emotional progression.\n\n5. HEAD DETAIL SHEET\nShow several close-up head references of the same subject from different angles:\n3/4 Headshot, Side Headshot, Top Angle, Low Angle, Diagonal Angle\n\nKeep facial structure, hairstyle, eyes, proportions and identity fully consistent.\n\n6. NEUTRAL BASELINE\n1 panel: fully relaxed, no emotion\n\n7. POSTURE VARIATION\n2–3 panels: relaxed, tense, confident\n\n8. CLOSE-UP POSE\nShow exactly 1 cinematic close-up pose of the same subject from chest-up or shoulder-up.\nUse a natural expressive pose that best fits the subject’s personality and story tone.\nThis close-up should clearly show facial identity, hairstyle, expression, upper wardrobe detail and emotional presence.\n\n9. WARDROBE / ACCESSORIES DETAILS\nShow exactly 4 close-up callouts for important styling details such as hairstyle, outerwear, footwear, accessories, fabric or material detail.\n\n10. PROP\nOnly include this section if a prop is clearly important to the subject.\nShow exactly 1 single clean isolated image of the prop only.\nAdd a small info block:\nObject Name, Type, Traits\n\n11. HAND GESTURES\nrelaxed hand, tense fingers, pointing, gripping, subtle gesture near face\n\nKeep the subject fully consistent across all panels. The MAIN IDENTITY + SCALE SHEET must visually dominate the board. The final image should look like a premium production visual bible / character continuity sheet matching the selected [STYLE].\n\n---\n\nSeedance 2.0 Prompt:\n\nUse the provided character sheet @[image1] as reference.\n\nCreate a cinematic character introduction video.\n\nOpen with the character looking into camera and speaking naturally, introducing herself in her own words.\n\nDo not treat the sheet as a single image. Use its elements as separate shots.\n\nStructure:\ndetail → identity → presence → full reveal\n\nMake the character active:\nshe moves, reacts, interacts with her environment and prop while talking\nshort, natural gestures, small shifts, purposeful motion\n\nShow acting range:\nsubtle emotional shifts while speaking (confidence, hesitation, curiosity, intensity)\nexpress through micro-expressions, eyes, tone, and body language\n\nInclude:\nface close-ups, outfit/material details, prop usage, expressive performance moments\n\nKeep everything grounded and realistic.\n\nCamera:\ncontrolled, minimal movement (soft push-ins, light tracking, subtle handheld)\n\nLighting:\ncinematic and consistent\n\nEnd on a confident mid or full shot, character fully established.",
+    "prompt_in_thread": false,
     "model": "Seedance 2.0",
     "category": "Prompting & Workflow",
     "date": "2026-04-27",
@@ -752,10 +755,14 @@
       ]
     },
     "stats": {
-      "views": 162732,
-      "likes": 2165,
+      "views": 162916,
+      "likes": 2166,
       "retweets": 272
-    }
+    },
+    "prompt_source_urls": [
+      "https://x.com/aimikoda/status/2048654612257816798",
+      "https://x.com/aimikoda/status/2048654878961021197"
+    ]
   },
   {
     "id": "2069304405740974255",
@@ -801,9 +808,9 @@
       ]
     },
     "stats": {
-      "views": 142154,
-      "likes": 1319,
-      "retweets": 116
+      "views": 142173,
+      "likes": 1318,
+      "retweets": 115
     }
   },
   {
@@ -850,9 +857,9 @@
       ]
     },
     "stats": {
-      "views": 107019,
-      "likes": 862,
-      "retweets": 63
+      "views": 107208,
+      "likes": 861,
+      "retweets": 62
     }
   },
   {
@@ -905,9 +912,9 @@
       ]
     },
     "stats": {
-      "views": 91275,
+      "views": 91283,
       "likes": 667,
-      "retweets": 76
+      "retweets": 75
     }
   },
   {
@@ -954,8 +961,8 @@
       ]
     },
     "stats": {
-      "views": 79908,
-      "likes": 991,
+      "views": 79927,
+      "likes": 990,
       "retweets": 64
     }
   },
@@ -1003,9 +1010,9 @@
       ]
     },
     "stats": {
-      "views": 77565,
-      "likes": 602,
-      "retweets": 33
+      "views": 77569,
+      "likes": 601,
+      "retweets": 32
     }
   },
   {
@@ -1052,9 +1059,9 @@
       ]
     },
     "stats": {
-      "views": 70553,
+      "views": 70568,
       "likes": 671,
-      "retweets": 88
+      "retweets": 87
     }
   },
   {
@@ -1107,9 +1114,9 @@
       ]
     },
     "stats": {
-      "views": 60599,
-      "likes": 587,
-      "retweets": 79
+      "views": 60636,
+      "likes": 583,
+      "retweets": 78
     }
   },
   {
@@ -1156,7 +1163,7 @@
       ]
     },
     "stats": {
-      "views": 55400,
+      "views": 55406,
       "likes": 396,
       "retweets": 122
     }
@@ -1205,9 +1212,9 @@
       ]
     },
     "stats": {
-      "views": 54991,
-      "likes": 806,
-      "retweets": 57
+      "views": 54998,
+      "likes": 805,
+      "retweets": 56
     }
   },
   {
@@ -1260,9 +1267,9 @@
       ]
     },
     "stats": {
-      "views": 54873,
+      "views": 54883,
       "likes": 780,
-      "retweets": 112
+      "retweets": 111
     }
   },
   {
@@ -1321,9 +1328,9 @@
       ]
     },
     "stats": {
-      "views": 48348,
+      "views": 48352,
       "likes": 333,
-      "retweets": 34
+      "retweets": 33
     }
   },
   {
@@ -1376,8 +1383,8 @@
       ]
     },
     "stats": {
-      "views": 43113,
-      "likes": 466,
+      "views": 43124,
+      "likes": 463,
       "retweets": 35
     }
   },
@@ -1425,8 +1432,8 @@
       ]
     },
     "stats": {
-      "views": 42634,
-      "likes": 419,
+      "views": 42741,
+      "likes": 418,
       "retweets": 38
     }
   },
@@ -1480,8 +1487,8 @@
       ]
     },
     "stats": {
-      "views": 37771,
-      "likes": 383,
+      "views": 38198,
+      "likes": 384,
       "retweets": 33
     }
   },
@@ -1529,7 +1536,7 @@
       ]
     },
     "stats": {
-      "views": 37099,
+      "views": 37102,
       "likes": 304,
       "retweets": 21
     }
@@ -1584,7 +1591,7 @@
       ]
     },
     "stats": {
-      "views": 31202,
+      "views": 31324,
       "likes": 202,
       "retweets": 38
     }
@@ -1639,7 +1646,7 @@
       ]
     },
     "stats": {
-      "views": 30207,
+      "views": 30208,
       "likes": 103,
       "retweets": 7
     }
@@ -1688,8 +1695,8 @@
       ]
     },
     "stats": {
-      "views": 30179,
-      "likes": 291,
+      "views": 30194,
+      "likes": 292,
       "retweets": 27
     }
   },
@@ -1737,7 +1744,7 @@
       ]
     },
     "stats": {
-      "views": 27371,
+      "views": 27423,
       "likes": 279,
       "retweets": 41
     }
@@ -1747,8 +1754,8 @@
     "url": "https://x.com/MrLarus/status/2080322001722294370",
     "title": "Depth-tracked rooftop parkour with a swapped character and scene",
     "text": "🤯 I didn’t expect Depth to track rooftop parkour this cleanly!\n\nUsed a fast climbing clip as the motion reference, then swapped in a student with twin tails and a backpack on a coastal school rooftop.\n\nThe running path, wall contact, jumps, landings, and full-body continuity all hold together surprisingly well.\n\n🌟 Workflow:\n1. Pick a reference clip under 15 seconds\n2. Convert it to Depth with Depth Anything V2\n3. Generate a new character + scene\n4. Feed everything into Seedance with the prompt below\n\n🌟 Depth video conversion:\nYou can build a local Depth converter with Codex — prompt in the comments.\n\nDepth opens up a lot more possibilities for parkour, climbing, martial arts, dance, and other complex full-body motion.\n\nWorkflow + Prompt below 👇",
-    "prompt": null,
-    "prompt_in_thread": true,
+    "prompt": "3/ Seedance Prompt\n\nCreate a 15-second, 9:16, photorealistic rooftop parkour video in one continuous shot.\n\nUse the Depth video as the main reference for the full timeline, camera, running path, jumps, wall contact, body movement, weight shifts, and landings. Follow the original action order closely without adding, removing, or redesigning movements.\n\nUse the image to lock the character and scene. Keep the same 20-year-old adult East Asian student with twin tails, a school-uniform-inspired outfit, white sneakers, and a dark backpack throughout the video.\n\nCharacter consistency and physical realism are the highest priorities. Keep her face, body proportions, hairstyle, clothing, shoes, and backpack stable from beginning to end. The backpack and both shoulder straps must remain attached.\n\nAll jumps, grips, steps, wall contact, and landings should follow realistic anatomy, gravity, momentum, and support points.\n\nKeep the coastal school rooftop, walls, platforms, pipes, and rooftop structures rigid and unchanged. Do not let them bend, break, melt, move, or disappear.\n\nMaintain the original camera, framing, timing, and motion. The result should feel like a real rooftop parkour recording, not a cinematic action scene.\n\nAvoid deformation, missing limbs, face changes, disappearing objects, broken straps, body–wall fusion, floating, teleporting, clipping, camera cuts, subtitles, logos, and watermarks.",
+    "prompt_in_thread": false,
     "model": "Seedance",
     "category": "Prompting & Workflow",
     "date": "2026-07-23",
@@ -1792,10 +1799,13 @@
       ]
     },
     "stats": {
-      "views": 24510,
+      "views": 24704,
       "likes": 112,
       "retweets": 10
-    }
+    },
+    "prompt_source_urls": [
+      "https://x.com/MrLarus/status/2080323396865241237"
+    ]
   },
   {
     "id": "2021496696115736746",
@@ -1841,9 +1851,9 @@
       ]
     },
     "stats": {
-      "views": 23833,
+      "views": 23835,
       "likes": 217,
-      "retweets": 16
+      "retweets": 15
     }
   },
   {
@@ -1892,7 +1902,7 @@
     "stats": {
       "views": 22592,
       "likes": 328,
-      "retweets": 26
+      "retweets": 25
     }
   },
   {
@@ -1945,7 +1955,7 @@
       ]
     },
     "stats": {
-      "views": 21645,
+      "views": 21649,
       "likes": 248,
       "retweets": 34
     }
@@ -2000,9 +2010,9 @@
       ]
     },
     "stats": {
-      "views": 20688,
+      "views": 20695,
       "likes": 36,
-      "retweets": 8
+      "retweets": 9
     }
   },
   {
@@ -2055,7 +2065,7 @@
       ]
     },
     "stats": {
-      "views": 19412,
+      "views": 19416,
       "likes": 68,
       "retweets": 6
     }
@@ -2112,7 +2122,7 @@
     "stats": {
       "views": 19398,
       "likes": 191,
-      "retweets": 13
+      "retweets": 12
     }
   },
   {
@@ -2159,7 +2169,7 @@
       ]
     },
     "stats": {
-      "views": 15326,
+      "views": 15335,
       "likes": 92,
       "retweets": 18
     }
@@ -2214,8 +2224,8 @@
       ]
     },
     "stats": {
-      "views": 14682,
-      "likes": 189,
+      "views": 14703,
+      "likes": 187,
       "retweets": 20
     }
   },
@@ -2269,7 +2279,7 @@
       ]
     },
     "stats": {
-      "views": 14419,
+      "views": 14420,
       "likes": 242,
       "retweets": 19
     }
@@ -2324,7 +2334,7 @@
       ]
     },
     "stats": {
-      "views": 13201,
+      "views": 13227,
       "likes": 159,
       "retweets": 27
     }
@@ -2395,8 +2405,8 @@
     "url": "https://x.com/itsshara_ai/status/2072645939639243253",
     "title": "Made with Seedance 2.0 + GPT image 2",
     "text": "Made with Seedance 2.0 + GPT image 2\n\nPrompt below:",
-    "prompt": null,
-    "prompt_in_thread": true,
+    "prompt": "GPT image 2\n\nTHE LITTLE THIEF — 15 second 2D animated cartoon short film, 10 rapid scenes, classic hand-drawn animation style with bold clean outlines, flat vibrant colors, smooth 24fps animation, exaggerated squash and stretch, expressive character acting, comedic timing. Warm cozy bakery setting, soft morning light, storybook charm. Not 3D, not realistic, pure 2D cartoon. SCENE 1 (0-1.5s): A chubby little raccoon peeks over a bakery windowsill, only his eyes and tiny paws visible, a giant golden cookie glowing on the counter inside. Camera: locked wide shot. Motion: slow sneaky rise, eyes sparkling with cartoon stars. SCENE 2 (1.5-3s): The raccoon tiptoes across the bakery floor in exaggerated giant sneaky steps, body stretching tall with each step, tail curled up. Camera: side tracking shot. Motion: classic cartoon tiptoe cycle, rhythmic and bouncy. SCENE 3 (3-4.5s): He reaches for the cookie, arm stretching comically long across the counter, fingers wiggling. Camera: close-up on the stretching arm. Motion: rubber-hose stretch, fingertips trembling just short of the cookie. SCENE 4 (4.5-6s): A big grumpy baker cat turns around from the oven, the raccoon instantly freezes mid-reach and disguises himself by holding a baguette like a statue. Camera: quick whip to two-shot. Motion: snap freeze, one nervous eye blink, sweat drop. SCENE 5 (6-7.5s): The baker cat squints suspiciously, leaning in close, giant magnifying glass appearing, the raccoon's fake smile trembling. Camera: dramatic push-in on both faces. Motion: slow suspenseful lean, comedic pause, mustache twitch. SCENE 6 (7.5-9s): A fly lands on the raccoon's nose, his nose twitches, he sneezes with a huge squash and stretch, the baguette flying up in the air. Camera: locked medium shot. Motion: giant anticipation inhale, explosive cartoon sneeze, ears flapping. SCENE 7 (9-10.5s): Chaos, the raccoon grabs the cookie and dashes, legs spinning in a circular blur wheel, flour clouds puffing behind, the baker cat chasing with a rolling pin held high. Camera: side tracking shot. Motion: classic cartoon run cycle, speed lines, bouncy chase rhythm. SCENE 8 (10.5-12s): The raccoon slips on a banana peel, launches into the air in slow motion, the cookie flying out of his paws, his face in comic horror. Camera: slow motion arc following the cookie. Motion: dramatic slow motion tumble, limbs flailing, cookie spinning like a coin. SCENE 9 (12-13.5s): The cookie lands perfectly in the paws of a tiny baby mouse standing at the door, the raccoon and baker cat both frozen mid-chase staring in disbelief. Camera: wide shot, comedic stillness. Motion: total freeze except the mouse's innocent blink. SCENE 10 (13.5-15s): The baby mouse takes one tiny bite, gives a big happy thumbs up, the raccoon and cat sigh and shrug at each other as friends, iris-out circle closing on the mouse's smile. Camera: slow zoom to iris-out. Motion: warm settling, classic cartoon ending, loop-friendly. Movement: exaggerated squash and stretch on every action, snappy anticipation before each movement, smooth follow-through and overlapping action on ears and tail, rhythmic comedic timing with beats and pauses, bouncy energetic pacing throughout Camera: locked wides for comedy staging, side tracking for tiptoe and chase, dramatic push-ins for suspense, slow motion arc for the tumble, iris-out circle ending, all cuts on comedic beats Effects: clean bold outlines, flat vibrant color\n\n---\n\nSeedance 2.0\n\nTHE LITTLE THIEF 15 second 2D animated cartoon short film, 10 rapid scenes, follow the attached storyboard reference exactly for character designs, bakery setting and color palette, classic hand-drawn animation style with bold clean outlines, flat vibrant warm colors, smooth 24fps animation, exaggerated squash and stretch, expressive character acting, comedic timing. Cozy bakery, soft morning light, storybook charm. Not 3D, not realistic, pure 2D cartoon. No text, no words, no letters on screen. SCENE 1 (0-1.5s): A chubby little raccoon peeks over the bakery windowsill, only his sparkling starry eyes and tiny paws visible, a giant glowing chocolate chip cookie on the counter below, slow sneaky rise with eyes widening, locked wide shot. SCENE 2 (1.5-3s): The raccoon tiptoes across the bakery floor in exaggerated giant sneaky steps, body stretching tall with each step, striped tail curled up, mischievous grin, classic bouncy cartoon tiptoe cycle, side tracking shot past bread shelves. SCENE 3 (3-4.5s): His arm stretches comically long across the counter toward the cookie, fingers wiggling and trembling just short of it, rubber-hose cartoon stretch, close-up on the reaching arm and the glowing cookie. SCENE 4 (4.5-6s): The big grumpy baker cat in chef hat turns from the brick oven, the raccoon instantly freezes and hides behind a baguette held like a statue, one nervous eye blink and a sweat drop, snap freeze timing, quick whip to two-shot. SCENE 5 (6-7.5s): The baker cat squints suspiciously through a golden magnifying glass, his giant eye filling the lens, leaning closer while the raccoon's fake grin trembles, slow suspenseful lean with comedic pause and mustache twitch, dramatic push-in on both faces. SCENE 6 (7.5-9s): A little fly lands right on the raccoon's nose while he holds the baguette, his nose twitching, eyes crossing to look at it, giant anticipation inhale building up, locked medium close-up. SCENE 7 (9-10.5s): An explosive cartoon sneeze sends the baguette flying, the raccoon grabs the cookie and dashes with legs spinning in a circular blur wheel, flour clouds puffing, the baker cat chasing with a rolling pin held high, classic cartoon run cycle with speed lines, side tracking chase shot. SCENE 8 (10.5-12s): The raccoon slips on a banana peel and tumbles into the air in slow motion, the cookie spinning out of his paws like a golden coin against the blue sky, limbs flailing, face in comic shock, slow motion arc following the cookie. SCENE 9 (12-13.5s): The cookie lands perfectly in the paws of a tiny smiling baby mouse standing in the open doorway, the raccoon and baker cat both frozen mid-chase staring in disbelief, total comedic freeze except the mouse's innocent blink, wide shot. SCENE 10 (13.5-15s): The baby mouse takes one tiny happy bite and gives a big thumbs up, the raccoon and baker cat sigh and shrug at each other warmly as friends, a classic iris-out circle closing on the mouse's smile, warm settling motion, slow zoom to iris-out ending. Movement: exaggerated squash and stretch on every action, snappy anticipation before each movement, smooth follow-through and overlapping action on ears and striped tail, rhythmic comedic timing with clear beats and pauses, bouncy energetic cartoon pacing throughout Camera: locked wides for comedy staging, side tracking for tiptoe and chase, dramatic push-in for the magnifying glass suspense, slow motion arc for the tumble, iris-out circle ending, all cuts landing on comedic beats Effects: clean bold outlines, flat vibrant warm color palette, cartoon speed lines, flour puff clouds, sparkle stars in the raccoon's eyes, sweat drops, warm bakery glow, subtle paper texture, smooth fluid 2D animation, no text no words no letters anywhere on screen",
+    "prompt_in_thread": false,
     "model": "Seedance 2.0",
     "category": "Showcase",
     "date": "2026-07-02",
@@ -2434,18 +2444,22 @@
       ]
     },
     "stats": {
-      "views": 11077,
+      "views": 11084,
       "likes": 122,
       "retweets": 12
-    }
+    },
+    "prompt_source_urls": [
+      "https://x.com/itsshara_ai/status/2072645963215438274",
+      "https://x.com/itsshara_ai/status/2072645977174167701"
+    ]
   },
   {
     "id": "2076845440214196529",
     "url": "https://x.com/itsshara_ai/status/2076845440214196529",
     "title": "Made with Seedance 2.0 + GPT image 2",
     "text": "Made with Seedance 2.0 + GPT image 2\n\nPrompt below:",
-    "prompt": null,
-    "prompt_in_thread": true,
+    "prompt": "GPT image 2-\n\nA 16-panel comic book storyboard grid, Spider-Verse-style animated illustration, bold ink linework\nwith halftone shading, vivid neon pink-magenta and electric blue motion streak accents on a warm\ncity-street palette. Story: three teenagers (one boy in a purple hoodie skating, one boy on a BMX\nbike, one girl with dark hair on a bike) racing downhill through a city street at full speed,\nweaving past buildings, subway tracks, and traffic. Panel progression: (1) they drop in from the\ntop of the hill, gravity pulling them fast, (2) wheels snap onto the street — instant velocity,\n(3) close-up of sneakers kicking off pavement for more speed, (4) the girl leans forward, pedaling\nhard, (5) wide shot of all three racing downhill, no one backing off, (6) wind howling, clothes\nsnapping like flags, (7) low-angle shot of subway tracks slicing beneath them, (8) a skater\ngrinding a rail, sharp and clean, (9) handlebars shaking as a rider locks in, (10) close on bike\ntires clacking hard against rail tracks, (11) the group tilting together around a turn, (12) intense\nclose-up on two racers' eyes, full of fire and focus, (13) a break in the formation as one takes the\nlead, (14) frames overlapping at full chaotic speed, (15) motion blur stretching reality at top\nspeed, (16) final wide shot  they vanish downhill, leaving only streaks of motion, color and noise\nbehind. Dynamic comic panel composition, dramatic speed lines, cinematic lighting, energetic and\nkinetic, vertical panel grid layout.\n\n---\n\nSeedance 2.0\n\nAnimate this 16-panel comic storyboard into a single continuous 15-second cinematic sequence.\nSpider-Verse-style animated look, bold ink linework with halftone shading, vivid neon pink-magenta\nand electric blue motion streaks against a warm city-street palette. Three teenagers — a boy in a\npurple hoodie on a skateboard, a boy on a BMX bike, a girl with dark hair on a bike — drop in from\nthe top of a hill as gravity takes over, wheels snapping onto the street with instant velocity. One\npushes off hard with a sharp kick for more speed. The girl leans forward, pedaling hard. All three\nhit full speed together, no one backing off, wind howling as their clothes snap like flags. Low\nsubway tracks slice beneath them as one grinds a rail clean and sharp. Handlebars shake as a rider\nlocks in, tires clacking rhythmically against the tracks — clack, clack, clack. They lean together\ninto a turn, trusting it completely, eyes locked on the prize, nothing else existing in that moment.\nA gap opens and one breaks ahead to take the lead. The frames start to feel like they're\noverlapping, speed getting loud and chaotic. Reality stretches at top speed, no limits. Final beat:\nthey vanish downhill into the distance, gone — only streaks of light and color left behind on the\nempty street. Camera: fast low tracking shots hugging the pavement, quick dynamic cuts synced\nexactly to each beat above, motion blur and speed-line effects intensifying toward the end. Kinetic,\nhigh-energy, cinematic animated style, smooth 24fps motion, vertical 9:16 aspect ratio. No on-screen\ntext, no captions, no watermark, no logos anywhere in the frame — the panel captions were only for\nthe storyboard stage, the final video itself must be completely clean.",
+    "prompt_in_thread": false,
     "model": "Seedance 2.0",
     "category": "Showcase",
     "date": "2026-07-14",
@@ -2483,18 +2497,22 @@
       ]
     },
     "stats": {
-      "views": 8742,
+      "views": 8747,
       "likes": 185,
       "retweets": 9
-    }
+    },
+    "prompt_source_urls": [
+      "https://x.com/itsshara_ai/status/2076845468622160178",
+      "https://x.com/itsshara_ai/status/2076845482442408217"
+    ]
   },
   {
     "id": "2042602819656798356",
     "url": "https://x.com/azed_ai/status/2042602819656798356",
     "title": "Seedance 2.0 is live on Freepik for all plans",
     "text": "Seedance 2.0 is live on Freepik for all plans\n\nNow you can generate cinematic video from a single prompt with built-in lip-sync, beat-synced audio, motion control, and multimodal input across text, image, video, and audio\n\nCheck the prompt in the first comment 👇🏻",
-    "prompt": null,
-    "prompt_in_thread": true,
+    "prompt": "3D Cute Adventure Story. A stylized 3D animated fantasy adventure with a cute brave young explorer, big expressive eyes, small backpack, colorful outfit, magical mountain environment, playful cinematic lighting, high-quality 3D animation, charming family-friendly tone, exciting action, clear storytelling, dynamic framing, cute but epic mood, hard cuts only, no fade, no dissolve, no morph transition.\n\nShot 1: Wide shot of a cute young adventurer climbing into a magical mountain valley, glowing flowers, floating petals, curious determined expression.\n\nCut to Shot 2: The hero discovers a glowing dragon egg resting on an ancient stone pedestal covered in runes, eyes widening with wonder.\n\nCut to Shot 3: Medium shot of the hero carefully picking up the dragon egg and running through the valley, jumping across rocks and ducking under hanging vines.\n\nCut to Shot 4: The hero reaches a broken rope bridge above a sparkling canyon, with a hidden dragon shrine glowing on the other side.\n\nCut to Shot 5: At the bridge, a funny but dangerous stone guardian awakens in a swirl of blue magic, blocking the path to the shrine.\n\nCut to Shot 6: Action shot, the hero dodges the guardian’s magical attack and uses a glowing crystal charm to outsmart it with a burst of light.\n\nCut to Shot 7: The stone guardian is defeated in a harmless burst of sparkles and pebbles, wobbling apart in a funny way.\n\nCut to Shot 8: The hero places the dragon egg inside the glowing shrine, and the shrine lights up with magical energy, revealing golden treasure and a tiny baby dragon.\n\nCut to Shot 9: Final heroic shot of the cute adventurer standing proudly beside the baby dragon at the mountain shrine as warm sunlight breaks through the clouds.",
+    "prompt_in_thread": false,
     "model": "Seedance 2.0",
     "category": "Launch & Announcements",
     "date": "2026-04-10",
@@ -2532,10 +2550,13 @@
       ]
     },
     "stats": {
-      "views": 8610,
+      "views": 8613,
       "likes": 97,
       "retweets": 5
-    }
+    },
+    "prompt_source_urls": [
+      "https://x.com/azed_ai/status/2042602834676584920"
+    ]
   },
   {
     "id": "2050798932662321438",
@@ -2587,8 +2608,8 @@
       ]
     },
     "stats": {
-      "views": 8546,
-      "likes": 155,
+      "views": 8550,
+      "likes": 154,
       "retweets": 8
     }
   },
@@ -2642,7 +2663,7 @@
       ]
     },
     "stats": {
-      "views": 8215,
+      "views": 8247,
       "likes": 48,
       "retweets": 3
     }
@@ -2691,7 +2712,7 @@
       ]
     },
     "stats": {
-      "views": 6406,
+      "views": 6412,
       "likes": 28,
       "retweets": 2
     }
@@ -2740,7 +2761,7 @@
       ]
     },
     "stats": {
-      "views": 4333,
+      "views": 4337,
       "likes": 63,
       "retweets": 1
     }
@@ -2789,7 +2810,7 @@
       ]
     },
     "stats": {
-      "views": 4084,
+      "views": 4086,
       "likes": 60,
       "retweets": 3
     }
@@ -2893,7 +2914,7 @@
       ]
     },
     "stats": {
-      "views": 3827,
+      "views": 3828,
       "likes": 43,
       "retweets": 2
     }
@@ -2942,7 +2963,7 @@
       ]
     },
     "stats": {
-      "views": 2672,
+      "views": 2678,
       "likes": 40,
       "retweets": 2
     }
@@ -3003,7 +3024,7 @@
       ]
     },
     "stats": {
-      "views": 2418,
+      "views": 2425,
       "likes": 36,
       "retweets": 3
     }
@@ -3052,7 +3073,7 @@
       ]
     },
     "stats": {
-      "views": 1655,
+      "views": 1659,
       "likes": 79,
       "retweets": 5
     }
@@ -3108,7 +3129,7 @@
     },
     "stats": {
       "views": 1637,
-      "likes": 120,
+      "likes": 119,
       "retweets": 15
     }
   },
@@ -3156,7 +3177,7 @@
       ]
     },
     "stats": {
-      "views": 1476,
+      "views": 1477,
       "likes": 29,
       "retweets": 2
     }
@@ -3205,7 +3226,7 @@
       ]
     },
     "stats": {
-      "views": 1353,
+      "views": 1366,
       "likes": 4,
       "retweets": 0
     }
@@ -3215,7 +3236,7 @@
     "url": "https://x.com/MrLarus/status/2080323396865241237",
     "title": "Rooftop parkour in one continuous shot, driven by a Depth reference video",
     "text": "3/ Seedance Prompt\n\nCreate a 15-second, 9:16, photorealistic rooftop parkour video in one continuous shot.\n\nUse the Depth video as the main reference for the full timeline, camera, running path, jumps, wall contact, body movement, weight shifts, and landings. Follow the original action order closely without adding, removing, or redesigning movements.\n\nUse the image to lock the character and scene. Keep the same 20-year-old adult East Asian student with twin tails, a school-uniform-inspired outfit, white sneakers, and a dark backpack throughout the video.\n\nCharacter consistency and physical realism are the highest priorities. Keep her face, body proportions, hairstyle, clothing, shoes, and backpack stable from beginning to end. The backpack and both shoulder straps must remain attached.\n\nAll jumps, grips, steps, wall contact, and landings should follow realistic anatomy, gravity, momentum, and support points.\n\nKeep the coastal school rooftop, walls, platforms, pipes, and rooftop structures rigid and unchanged. Do not let them bend, break, melt, move, or disappear.\n\nMaintain the original camera, framing, timing, and motion. The result should feel like a real rooftop parkour recording, not a cinematic action scene.\n\nAvoid deformation, missing limbs, face changes, disappearing objects, broken straps, body–wall fusion, floating, teleporting, clipping, camera cuts, subtitles, logos, and watermarks.",
-    "prompt": null,
+    "prompt": "3/ Seedance Prompt\n\nCreate a 15-second, 9:16, photorealistic rooftop parkour video in one continuous shot.\n\nUse the Depth video as the main reference for the full timeline, camera, running path, jumps, wall contact, body movement, weight shifts, and landings. Follow the original action order closely without adding, removing, or redesigning movements.\n\nUse the image to lock the character and scene. Keep the same 20-year-old adult East Asian student with twin tails, a school-uniform-inspired outfit, white sneakers, and a dark backpack throughout the video.\n\nCharacter consistency and physical realism are the highest priorities. Keep her face, body proportions, hairstyle, clothing, shoes, and backpack stable from beginning to end. The backpack and both shoulder straps must remain attached.\n\nAll jumps, grips, steps, wall contact, and landings should follow realistic anatomy, gravity, momentum, and support points.\n\nKeep the coastal school rooftop, walls, platforms, pipes, and rooftop structures rigid and unchanged. Do not let them bend, break, melt, move, or disappear.\n\nMaintain the original camera, framing, timing, and motion. The result should feel like a real rooftop parkour recording, not a cinematic action scene.\n\nAvoid deformation, missing limbs, face changes, disappearing objects, broken straps, body–wall fusion, floating, teleporting, clipping, camera cuts, subtitles, logos, and watermarks.",
     "prompt_in_thread": false,
     "model": "Seedance",
     "category": "Prompting & Workflow",
@@ -3254,10 +3275,13 @@
       ]
     },
     "stats": {
-      "views": 1266,
+      "views": 1283,
       "likes": 2,
       "retweets": 0
-    }
+    },
+    "prompt_source_urls": [
+      "https://x.com/MrLarus/status/2080323396865241237"
+    ]
   },
   {
     "id": "2021648907915411795",
@@ -3303,7 +3327,7 @@
       ]
     },
     "stats": {
-      "views": 895,
+      "views": 896,
       "likes": 6,
       "retweets": 0
     }
@@ -3352,7 +3376,7 @@
       ]
     },
     "stats": {
-      "views": 562,
+      "views": 564,
       "likes": 4,
       "retweets": 0
     }

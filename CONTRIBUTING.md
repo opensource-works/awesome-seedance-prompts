@@ -10,7 +10,8 @@ The fastest way to help is to add posts we missed.
 
 A post gets included automatically if it has a playable video attached and mentions
 Seedance. Everything else — the caption, the prompt, the author's name and handle,
-the view count — is pulled from the post itself.
+the view count — is pulled from the post itself. If the exact prompt is in a public
+reply by the same source account, it can be preserved with a source link as described below.
 
 ## What belongs here
 
@@ -24,7 +25,7 @@ the view count — is pulled from the post itself.
 - Videos that aren't Seedance.
 - Pure engagement bait with no clip and no prompt.
 
-## Fixing a title or category
+## Fixing a title, category or reply prompt
 
 Titles and categories are guessed from the post text, so some land wrong. Correct them in
 [`scripts/overrides.json`](scripts/overrides.json), keyed by post id:
@@ -36,8 +37,10 @@ Titles and categories are guessed from the post text, so some land wrong. Correc
 }
 ```
 
-Only `title` and `category` may be overridden. Prompts, author names and stats must stay
-exactly as posted — if those look wrong, the fix is a bug report, not an override.
+The accepted fields are `title`, `category`, `prompt`, `prompt_source_urls` and
+`prompt_in_thread`. A reply prompt must be copied verbatim, list every public X post/reply
+used as its source, and set `prompt_in_thread` to `false`. Author names and stats are never
+overridden.
 
 ## Regenerating everything
 

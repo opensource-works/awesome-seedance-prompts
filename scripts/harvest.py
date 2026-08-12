@@ -185,19 +185,24 @@ def main():
     posts = [p for p in (build(t) for t in tweets if t) if p]
     posts.sort(key=lambda p: -p["stats"]["views"])
 
-    # Manual overrides let a human fix a bad auto-title or category without
-    # hand-editing generated data. See scripts/overrides.json.
+    # Manual overrides fix titles/categories and preserve prompts copied
+    # verbatim from author-posted replies. Reply prompts must include their
+    # public X URLs so the generated gallery can cite the exact source.
     ov_path = os.path.join(ROOT, "scripts", "overrides.json")
     if os.path.exists(ov_path):
         ov = json.load(open(ov_path))
         for p in posts:
-            p.update(ov.get(p["id"], {}))
+            patch = {k: v for k, v in ov.get(p["id"], {}).items()
+                     if k in ("title", "category", "prompt", "prompt_source_urls", "prompt_in_thread")}
+            if patch.get("prompt") and not patch.get("prompt_source_urls"):
+                raise ValueError(f"{p['id']}: an overridden prompt needs prompt_source_urls")
+            p.update(patch)
 
     json.dump(posts, open(OUT, "w"), indent=2, ensure_ascii=False)
     dropped = len(ids) - len(posts)
     with_prompt = sum(1 for p in posts if p["prompt"])
     print(f"wrote {len(posts)} posts to data/posts.json "
-          f"({with_prompt} with an inline prompt, {dropped} dropped: no video or not Seedance)")
+          f"({with_prompt} with a prompt, {dropped} dropped: no video or not Seedance)")
 
 
 if __name__ == "__main__":
