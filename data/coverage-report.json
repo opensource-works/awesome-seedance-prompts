@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T17:32:56.939056Z",
-  "catalog_updated_at": "2026-08-11T17:32:56.939056Z",
+  "generated_at": "2026-08-11T12:49:48Z",
+  "catalog_updated_at": "2026-08-11T12:49:48Z",
   "collection": {
     "id": "awesome-seedance-prompts",
     "query_matrix_version": "2026-08-11",
@@ -9,10 +9,10 @@
   "totals": {
     "discovery_runs": 3,
     "queries": 15,
-    "sources": 164,
+    "sources": 156,
     "candidates": 156,
     "items": 64,
-    "evidence": 194,
+    "evidence": 177,
     "actors": 80
   },
   "queries": {
@@ -242,7 +242,7 @@
   "platforms": {
     "sources": {
       "reddit": 22,
-      "x": 142
+      "x": 134
     },
     "candidates": {
       "reddit": 22,
@@ -256,7 +256,7 @@
   "status": {
     "source_availability": {
       "age_restricted": 0,
-      "available": 72,
+      "available": 64,
       "deleted": 2,
       "geo_restricted": 0,
       "private": 0,
@@ -267,18 +267,18 @@
   },
   "prompts": {
     "by_status": {
-      "not_provided": 41,
+      "not_provided": 42,
       "partial": 0,
-      "referenced_not_captured": 0,
+      "referenced_not_captured": 6,
       "removed": 0,
       "unavailable": 0,
-      "verbatim": 23
+      "verbatim": 16
     },
-    "with_text": 23,
-    "with_source_url": 23
+    "with_text": 16,
+    "with_source_url": 22
   },
   "attribution": {
-    "posted_by_records": 73,
+    "posted_by_records": 64,
     "original_video_creators_by_status": {
       "claimed": 0,
       "confirmed": 0,
@@ -298,45 +298,46 @@
     "by_scope_and_status": {
       "prompt_republication": {
         "denied": 0,
-        "granted": 23,
+        "granted": 0,
         "not_requested": 0,
         "public_license": 0,
         "requested": 0,
         "revoked": 0,
-        "unknown": 41
+        "unknown": 64
       },
       "video_republication": {
         "denied": 0,
-        "granted": 64,
+        "granted": 0,
         "not_requested": 0,
         "public_license": 0,
         "requested": 0,
         "revoked": 0,
-        "unknown": 0
+        "unknown": 64
       }
     },
     "delivery_modes": {
-      "authorized_mirror": 64,
+      "authorized_mirror": 0,
       "official_embed": 0,
-      "source_link": 0
+      "source_link": 64
     }
   },
   "quarantine": {
     "mirrors_total": 192,
     "mirrors_by_state": {
-      "active": 64,
+      "active": 0,
       "deleted": 0,
       "pending_delete": 0,
-      "quarantined": 128
+      "quarantined": 192
     },
-    "quarantined_or_pending_delete": 128,
+    "quarantined_or_pending_delete": 192,
     "items_affected": 64,
     "by_provider": {
+      "github_attachment": 64,
       "r2": 128
     },
     "by_artifact": {
       "animated_preview": 64,
-      "video": 64
+      "video": 128
     }
   },
   "exclusions": {
