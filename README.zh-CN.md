@@ -23,7 +23,7 @@
 |---|---|
 | 帖子数 | **175** |
 | 署名来源账号 | **119** |
-| 含完整提示词 | **67** |
+| 含完整提示词 | **66** |
 | X 上累计播放 | **25.6M** |
 | 覆盖模型 | **Seedance 2.5**（126）, **Seedance 2.0**（47）, **Seedance**（2） |
 | 最近更新 | 2026-08-19 |
@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/3b17e346-3569-4a9d-817e-0f4d85129fd3
 
 <a href="https://x.com/VictorInFocus/status/2084074611751186713"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/VictorInFocus_2084064021406269440.webp" width="460" alt="Here’s Part 2, this time made with Seedance 2.5"></a>
 
-**视频署名 / 来源：** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [X 原帖](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 47.4K 播放
+**视频署名 / 来源：** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [X 原帖](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 47.5K 播放
 
 ### Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt
 
@@ -568,7 +568,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/mumaren_2/status/2083194831569121554"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mumaren_2_2083194074136522752.webp" width="460" alt="Damn, Seedance 2.5 is so cool!!!"></a>
 
-**视频署名 / 来源：** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [X 原帖](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 293 播放
+**视频署名 / 来源：** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [X 原帖](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 294 播放
 
 > [X 帖子串](https://x.com/mumaren_2/status/2083194831569121554)提到了提示词，但尚未索引到准确回复。
 
@@ -1509,31 +1509,13 @@ https://github.com/user-attachments/assets/36dcac21-04a5-46f9-84f9-0cc7eec48a5a
 
 **视频署名 / 来源：** [Flying puppy25](https://x.com/df_reno) · [@df_reno](https://x.com/df_reno) · [X 原帖](https://x.com/df_reno/status/2083482898129449091) · Seedance 2.5 · 2026-08-01 · 7.9K 播放
 
-### Seedance 2.5 just went live on @capcutapp and I got early access to put it through a real…
+### Six-shot hero sequence, prompt published in a follow-up post
 
-<a href="https://x.com/rafalors/status/2083119527848751220"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rafalors_2083112294704390145.webp" width="460" alt="Seedance 2.5 just went live on @capcutapp and I got early access to put it through a real…"></a>
+<a href="https://x.com/rafalors/status/2083119527848751220"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rafalors_2083112294704390145.webp" width="460" alt="Six-shot hero sequence, prompt published in a follow-up post"></a>
 
 **视频署名 / 来源：** [RafaSimon](https://x.com/rafalors) · [@rafalors](https://x.com/rafalors) · [X 原帖](https://x.com/rafalors/status/2083119527848751220) · Seedance 2.5 · 2026-07-31 · 2.4K 播放
 
-<details><summary><b>提示词</b></summary>
-
-```text
-30 seconds. Six shots. Aerial descent → bike chase → missile detonation → a somersault landing → summoned magic → aerial reveal → back to the hero.
-
-One prompt and one generation. Zero edits. Time saver actually!
-
-What actually impressed me:
-
-→ Timestamp prompting works. I mapped every beat to an exact second and it hit them.
-→ Character + vehicle identity held from 0:00 to 0:30. That's the real test, not clip length.
-→ It handled the cuts itself. I described six shots, it delivered six shots, consistent across all of them.
-→ Physics on the somersault kept actual weight.
-Full prompt next post 👇
-```
-
-</details>
-
-**提示词署名 / 来源：** [@rafalors](https://x.com/rafalors) · [X 原帖](https://x.com/rafalors/status/2083119527848751220)
+> [X 帖子串](https://x.com/rafalors/status/2083119527848751220)提到了提示词，但尚未索引到准确回复。
 
 ### seedance 2.5 text to video
 
@@ -1714,7 +1696,7 @@ No color, no background scenery, no extra characters, no visual clutter, only th
 
 <a href="https://x.com/Just_sharon7/status/2087744765341159503"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2087744515708698624.webp" width="460" alt="Caught them laughing mid-performance, but that ending stole everything 👀"></a>
 
-**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2087744765341159503) · Seedance 2.5 · 2026-08-13 · 43.6K 播放
+**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2087744765341159503) · Seedance 2.5 · 2026-08-13 · 43.7K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1806,7 +1788,7 @@ https://github.com/user-attachments/assets/8df2fc90-f032-41a6-b25e-56279f106df8
 
 <a href="https://x.com/MrLarus/status/2083558691895209987"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.webp" width="460" alt="🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！"></a>
 
-**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 17.3K 播放
+**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 17.4K 播放
 
 ### This is my Hip Hop style 🎵
 
@@ -2163,7 +2145,7 @@ https://github.com/user-attachments/assets/8c8f5cb5-d633-4332-83ab-e39ebe7b5861
 
 <a href="https://x.com/BubbleBrain/status/2083659648108990925"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BubbleBrain_2083659140178857984.webp" width="460" alt="Seedance 2.5 vlog case"></a>
 
-**视频署名 / 来源：** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [X 原帖](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 342.8K 播放
+**视频署名 / 来源：** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [X 原帖](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 342.9K 播放
 
 ### A Claude Cowork skill that generates UGC ads with Seedance 2.0
 
@@ -2765,7 +2747,7 @@ https://github.com/user-attachments/assets/392e8926-71c3-427d-9698-e3268dae9185
 
 https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
-**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 25.2K 播放
+**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 25.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -3048,7 +3030,7 @@ https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**视频署名 / 来源：** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [X 原帖](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 605.5K 播放
+**视频署名 / 来源：** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [X 原帖](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 605.6K 播放
 
 ### Seedance 2.0 from China will be the SOTA
 
@@ -3060,7 +3042,7 @@ https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
 https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 319.3K 播放
+**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 319.4K 播放
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -3112,7 +3094,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
-**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083719880059359478) · Seedance 2.5 · 2026-08-02 · 31.6K 播放
+**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083719880059359478) · Seedance 2.5 · 2026-08-02 · 31.7K 播放
 
 ### Seedance 2.5 generates a full 30-second animated scene
 

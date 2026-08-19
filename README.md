@@ -23,7 +23,7 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 |---|---|
 | Posts | **175** |
 | Source accounts credited | **119** |
-| Posts with the full prompt | **67** |
+| Posts with the full prompt | **66** |
 | Combined views on X | **25.6M** |
 | Models covered | **Seedance 2.5** (126), **Seedance 2.0** (47), **Seedance** (2) |
 | Last refreshed | 2026-08-19 |
@@ -35,7 +35,7 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 <td width="33%" valign="top"><a href="https://x.com/higgsfield/status/2083105837795745797"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_2083105131604963328.webp" width="100%" alt=""></a><br><sub><b>14 days of unlimited Seedance on Higgsfield</b><br><a href="https://x.com/higgsfield">@higgsfield</a> · 1.7M views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/deedydas/status/2020911900968767976"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp" width="100%" alt=""></a><br><sub><b>China&#x27;s Bytedance just dropped the most advanced video…</b><br><a href="https://x.com/deedydas">@deedydas</a> · 781.1K views</sub></td>
 </tr><tr>
-<td width="33%" valign="top"><a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="100%" alt=""></a><br><sub><b>🎬 Global Launch: Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/dreamina_ai">@dreamina_ai</a> · 605.5K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/dreamina_ai/status/2083056471147958714"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp" width="100%" alt=""></a><br><sub><b>🎬 Global Launch: Dreamina Seedance 2.5 is now live!</b><br><a href="https://x.com/dreamina_ai">@dreamina_ai</a> · 605.6K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/AngryTomtweets/status/2020192635936469110"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AngryTomtweets_2020053177555644418.webp" width="100%" alt=""></a><br><sub><b>Seedance 2.0 is insane</b><br><a href="https://x.com/AngryTomtweets">@AngryTomtweets</a> · 526.9K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/EHuanglu/status/2020828503810445785"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2020828440140943360.webp" width="100%" alt=""></a><br><sub><b>Three images and the prompt &quot;2 women fighting&quot;</b><br><a href="https://x.com/EHuanglu">@EHuanglu</a> · 516.3K views</sub></td>
 </tr></table>
@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/3b17e346-3569-4a9d-817e-0f4d85129fd3
 
 <a href="https://x.com/VictorInFocus/status/2084074611751186713"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/VictorInFocus_2084064021406269440.webp" width="460" alt="Here’s Part 2, this time made with Seedance 2.5"></a>
 
-**Video credit / source:** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [Original post](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 47.4K views
+**Video credit / source:** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [Original post](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 47.5K views
 
 ### Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt
 
@@ -578,7 +578,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/mumaren_2/status/2083194831569121554"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mumaren_2_2083194074136522752.webp" width="460" alt="Damn, Seedance 2.5 is so cool!!!"></a>
 
-**Video credit / source:** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [Original post](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 293 views
+**Video credit / source:** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [Original post](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 294 views
 
 > A prompt is mentioned in the [X thread](https://x.com/mumaren_2/status/2083194831569121554); the exact reply has not been indexed yet.
 
@@ -1513,31 +1513,13 @@ https://github.com/user-attachments/assets/36dcac21-04a5-46f9-84f9-0cc7eec48a5a
 
 **Video credit / source:** [Flying puppy25](https://x.com/df_reno) · [@df_reno](https://x.com/df_reno) · [Original post](https://x.com/df_reno/status/2083482898129449091) · Seedance 2.5 · 2026-08-01 · 7.9K views
 
-### Seedance 2.5 just went live on @capcutapp and I got early access to put it through a real…
+### Six-shot hero sequence, prompt published in a follow-up post
 
-<a href="https://x.com/rafalors/status/2083119527848751220"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rafalors_2083112294704390145.webp" width="460" alt="Seedance 2.5 just went live on @capcutapp and I got early access to put it through a real…"></a>
+<a href="https://x.com/rafalors/status/2083119527848751220"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rafalors_2083112294704390145.webp" width="460" alt="Six-shot hero sequence, prompt published in a follow-up post"></a>
 
 **Video credit / source:** [RafaSimon](https://x.com/rafalors) · [@rafalors](https://x.com/rafalors) · [Original post](https://x.com/rafalors/status/2083119527848751220) · Seedance 2.5 · 2026-07-31 · 2.4K views
 
-<details><summary><b>Prompt</b></summary>
-
-```text
-30 seconds. Six shots. Aerial descent → bike chase → missile detonation → a somersault landing → summoned magic → aerial reveal → back to the hero.
-
-One prompt and one generation. Zero edits. Time saver actually!
-
-What actually impressed me:
-
-→ Timestamp prompting works. I mapped every beat to an exact second and it hit them.
-→ Character + vehicle identity held from 0:00 to 0:30. That's the real test, not clip length.
-→ It handled the cuts itself. I described six shots, it delivered six shots, consistent across all of them.
-→ Physics on the somersault kept actual weight.
-Full prompt next post 👇
-```
-
-</details>
-
-**Prompt credit / source:** [@rafalors](https://x.com/rafalors) · [Original post](https://x.com/rafalors/status/2083119527848751220)
+> A prompt is mentioned in the [X thread](https://x.com/rafalors/status/2083119527848751220); the exact reply has not been indexed yet.
 
 ### seedance 2.5 text to video
 
@@ -1716,7 +1698,7 @@ No color, no background scenery, no extra characters, no visual clutter, only th
 
 <a href="https://x.com/Just_sharon7/status/2087744765341159503"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2087744515708698624.webp" width="460" alt="Caught them laughing mid-performance, but that ending stole everything 👀"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2087744765341159503) · Seedance 2.5 · 2026-08-13 · 43.6K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2087744765341159503) · Seedance 2.5 · 2026-08-13 · 43.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1808,7 +1790,7 @@ https://github.com/user-attachments/assets/8df2fc90-f032-41a6-b25e-56279f106df8
 
 <a href="https://x.com/MrLarus/status/2083558691895209987"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.webp" width="460" alt="🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！"></a>
 
-**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 17.3K views
+**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 17.4K views
 
 ### This is my Hip Hop style 🎵
 
@@ -2163,7 +2145,7 @@ https://github.com/user-attachments/assets/8c8f5cb5-d633-4332-83ab-e39ebe7b5861
 
 <a href="https://x.com/BubbleBrain/status/2083659648108990925"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BubbleBrain_2083659140178857984.webp" width="460" alt="Seedance 2.5 vlog case"></a>
 
-**Video credit / source:** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [Original post](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 342.8K views
+**Video credit / source:** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [Original post](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 342.9K views
 
 ### A Claude Cowork skill that generates UGC ads with Seedance 2.0
 
@@ -2763,7 +2745,7 @@ https://github.com/user-attachments/assets/392e8926-71c3-427d-9698-e3268dae9185
 
 https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
-**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 25.2K views
+**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 25.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3042,7 +3024,7 @@ https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 605.5K views
+**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 605.6K views
 
 ### Seedance 2.0 from China will be the SOTA
 
@@ -3054,7 +3036,7 @@ https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
 https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 319.3K views
+**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 319.4K views
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -3106,7 +3088,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
-**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083719880059359478) · Seedance 2.5 · 2026-08-02 · 31.6K views
+**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083719880059359478) · Seedance 2.5 · 2026-08-02 · 31.7K views
 
 ### Seedance 2.5 generates a full 30-second animated scene
 
