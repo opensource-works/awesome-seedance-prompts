@@ -37,8 +37,28 @@ jobs:
         with:
           python-version: "3.12"
 
+      # apt on the hosted runners hangs often enough to matter: three of the
+      # last four runs sat on this step for 15-30 minutes before being killed
+      # by hand. Skip it when the image already ships ffmpeg, retry when it
+      # doesn't, and cap the step so a hang fails fast instead of stalling the
+      # whole refresh.
       - name: Install ffmpeg
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+        timeout-minutes: 6
+        run: |
+          if command -v ffmpeg >/dev/null 2>&1; then
+            ffmpeg -version | head -1
+            exit 0
+          fi
+          for attempt in 1 2 3; do
+            if sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; then
+              ffmpeg -version | head -1
+              exit 0
+            fi
+            echo "apt attempt $attempt failed, retrying in 10s"
+            sleep 10
+          done
+          echo "could not install ffmpeg" >&2
+          exit 1
 
       - name: Harvest posts
         run: python3 scripts/harvest.py
