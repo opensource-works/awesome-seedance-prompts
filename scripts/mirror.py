@@ -12,8 +12,8 @@ never upscaled) for a sharp still image everywhere else.
 
     R2_ACCOUNT=... R2_KEY_ID=... R2_SECRET=... python3 scripts/mirror.py
     python3 scripts/mirror.py --dry-run       # report what's missing, upload nothing
-    python3 scripts/mirror.py --force-mp4 <post_id[,post_id...]>  # re-mirror just these posts' mp4s
-    python3 scripts/mirror.py --force-mp4 all                     # re-mirror every post's mp4
+    python3 scripts/mirror.py --force <post_id[,post_id...]>  # rebuild just these posts
+    python3 scripts/mirror.py --force all                     # rebuild every post
 
 Writes data/mirror.json: {post_id: {"mp4": url, "webp": url, "poster": url,
 "width": w, "height": h}}. Objects already in the bucket are skipped (unless
@@ -32,20 +32,23 @@ MAX_HEIGHT = 1080  # cap applies to the SHORT side (min(width, height)), not raw
 DRY = "--dry-run" in sys.argv
 
 
-def _force_mp4_arg():
-    """Parse --force-mp4 <post_id[,post_id...]|all> from argv. Returns the
-    raw value (resolved against the post list in main(), since 'all' needs
-    it) or None if the flag wasn't passed."""
-    if "--force-mp4" not in sys.argv:
+def _force_arg():
+    """Parse --force <post_id[,post_id...]|all> from argv. Returns the raw
+    value (resolved against the post list in main(), since 'all' needs it)
+    or None if the flag wasn't passed. A forced post has its mp4, preview
+    and poster all rebuilt: the derived artifacts are cut from the mirrored
+    mp4, so a post that just changed variant would otherwise keep a preview
+    and a poster rendered from the old, smaller encode."""
+    if "--force" not in sys.argv:
         return None
-    i = sys.argv.index("--force-mp4")
+    i = sys.argv.index("--force")
     if i + 1 >= len(sys.argv):
-        raise SystemExit("--force-mp4 requires a value: a comma-separated "
+        raise SystemExit("--force requires a value: a comma-separated "
                           "list of post ids, or 'all'")
     return sys.argv[i + 1]
 
 
-FORCE_MP4 = _force_mp4_arg()
+FORCE = _force_arg()
 
 
 def media_id(url):
@@ -119,14 +122,14 @@ def main():
         raise SystemExit("R2_ACCOUNT / R2_KEY_ID / R2_SECRET must be set to mirror "
                           "(use --dry-run to preview without needing them)")
 
-    if FORCE_MP4 == "all":
+    if FORCE == "all":
         forced = {p["id"] for p in posts}
-    elif FORCE_MP4:
-        forced = {x.strip() for x in FORCE_MP4.split(",") if x.strip()}
+    elif FORCE:
+        forced = {x.strip() for x in FORCE.split(",") if x.strip()}
     else:
         forced = set()
     if forced:
-        print(f"forcing mp4 re-mirror for {len(forced)} post(s): {', '.join(sorted(forced))}")
+        print(f"forcing a full rebuild for {len(forced)} post(s): {', '.join(sorted(forced))}")
 
     manifest, todo = {}, []
     for p in posts:
@@ -137,7 +140,7 @@ def main():
         manifest[p["id"]] = {"mp4": f"{PUBLIC}/{mp4}", "webp": f"{PUBLIC}/{webp}",
                              "poster": f"{PUBLIC}/{poster}", "width": w, "height": h}
         need = [k for k in (mp4, webp, poster)
-                if k not in existing or (k == mp4 and p["id"] in forced)]
+                if k not in existing or p["id"] in forced]
         if need:
             todo.append((p, src_url, mp4, webp, poster, need))
 
