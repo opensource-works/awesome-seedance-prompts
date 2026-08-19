@@ -12,6 +12,7 @@ on:
       - "scripts/overrides.json"
       - "scripts/harvest.py"
       - "scripts/build.py"
+      - "scripts/mirror.py"
   workflow_dispatch:
 
 permissions:

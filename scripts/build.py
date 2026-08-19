@@ -49,8 +49,10 @@ def load():
         if m:
             p["video"]["url"] = m["mp4"]
             p["video"]["preview"] = m["webp"]
+            p["video"]["poster"] = m.get("poster")
         else:
             p["video"]["preview"] = None
+            p["video"]["poster"] = None
         p["video"]["attachment"] = attach.get(p["id"])
     return posts
 
@@ -319,6 +321,9 @@ const esc = s => (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'
 const human = n => n >= 1e6 ? (n/1e6).toFixed(1).replace(/\\.0$/,'')+'M'
                  : n >= 1e3 ? (n/1e3).toFixed(1).replace(/\\.0$/,'')+'K' : ''+n;
 const dur = s => { s = Math.round(s||0); return s ? Math.floor(s/60)+':'+String(s%60).padStart(2,'0') : ''; };
+// Sharp static poster first, then the animated preview, then the raw X
+// thumbnail as a last resort.
+const still = p => p.video.poster || p.video.preview || p.video.thumbnail;
 
 /* ---- filter state ---- */
 const state = { q:'', model:'', cat:'', sort:'views' };
@@ -362,7 +367,7 @@ function card(p) {
       : '';
   return `<article class="card" data-id="${p.id}">
     <div class="player${tall ? ' tall' : ''}">
-      <img src="${esc(p.video.thumbnail)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+      <img src="${esc(still(p))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
       <div class="badges"><span class="badge${v25 ? ' v25' : ''}">${esc(p.model)}</span></div>
       ${p.video.duration ? `<span class="dur">${dur(p.video.duration)}</span>` : ''}
       <button class="play" type="button" aria-label="Play video">
@@ -418,7 +423,7 @@ $('#grid').addEventListener('click', e => {
     const art = play.closest('.card');
     const p = POSTS.find(x => x.id === art.dataset.id);
     const box = play.closest('.player');
-    box.innerHTML = `<video src="${esc(p.video.url)}" poster="${esc(p.video.thumbnail)}"
+    box.innerHTML = `<video src="${esc(p.video.url)}" poster="${esc(still(p))}"
         controls autoplay playsinline preload="auto" referrerpolicy="no-referrer"></video>`;
     const vid = box.querySelector('video');
     // Mirror first; if that ever fails, fall back to X's own copy, then to the post.
