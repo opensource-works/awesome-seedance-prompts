@@ -1,9 +1,17 @@
 {
   "_comment": "Hand-curated fixes on top of auto-extracted data, keyed by post id. Allowed fields: title, category, and verbatim reply prompts with prompt_source_urls and prompt_in_thread=false. Authors and stats are never overridden.",
-
-  "2071595581508563168": { "title": "Blender previs pushed through Seedance 2.0 for an ambush scene", "category": "Prompting & Workflow" },
-  "2021604487111024994": { "title": "100% AI — how far video generation moved since Will Smith eating spaghetti", "category": "Showcase" },
-  "2054065454193275135": { "title": "Haunted interdimensional train, anime style, from one reference image", "category": "Anime & Animation" },
+  "2071595581508563168": {
+    "title": "Blender previs pushed through Seedance 2.0 for an ambush scene",
+    "category": "Prompting & Workflow"
+  },
+  "2021604487111024994": {
+    "title": "100% AI — how far video generation moved since Will Smith eating spaghetti",
+    "category": "Showcase"
+  },
+  "2054065454193275135": {
+    "title": "Haunted interdimensional train, anime style, from one reference image",
+    "category": "Anime & Animation"
+  },
   "2080323396865241237": {
     "title": "Rooftop parkour in one continuous shot, driven by a Depth reference video",
     "category": "Prompting & Workflow",
@@ -22,26 +30,86 @@
     ],
     "prompt_in_thread": false
   },
-  "2053362746469814317": { "title": "Luxury face-lotion commercial montage in a studio", "category": "Ads, UGC & Product" },
-  "2051983365688242324": { "title": "Macro spices collapsing into a cosmos, stop-motion style", "category": "Cinematic & Film" },
-  "2049074008730247669": { "title": "Beat-synced outfit swap mid-dance from three reference images", "category": "Music & Dance" },
-  "2049914543015334243": { "title": "K-pop dance animated from a 16-step choreography sheet", "category": "Music & Dance" },
-  "2049524601471074422": { "title": "K-pop choreography sheet turned into a dance take", "category": "Music & Dance" },
-  "2048428389347024922": { "title": "3D dancer animated from a movement instruction sheet", "category": "Music & Dance" },
-  "2073596755212431768": { "title": "Asian contemporary dance storyboard turned into a quiet continuous take", "category": "Music & Dance" },
-  "2050798932662321438": { "title": "Michael Jackson vs Alan Ritchson, night-time street fight", "category": "Action & VFX" },
-  "2056368955284148524": { "title": "Ultra-realistic influencer vlog built from a storyboard", "category": "Ads, UGC & Product" },
-  "2021295886978908547": { "title": "Tournament of Power with famous anime characters, from one prompt", "category": "Anime & Animation" },
-  "2020179955511116082": { "title": "Seedance 2.0 from China will be the SOTA", "category": "Launch & Announcements" },
-  "2022870879248453900": { "title": "A curated Seedance 2.0 prompt collection", "category": "Prompting & Workflow" },
-  "2041132328655954201": { "title": "Seedance 2.0 works better with JSON prompts — the structure to follow", "category": "Prompting & Workflow" },
-  "2022651783726927945": { "title": "Sider + 即梦：快速写 Seedance 2.0 提示词", "category": "Prompting & Workflow" },
-  "2055931547983958247": { "title": "Character sheet in GPT Image 2, then motion in Seedance 2.0", "category": "Prompting & Workflow" },
-  "2075074872351572216": { "title": "Tom and Jerry recreated as photoreal animals in 4K", "category": "Anime & Animation" },
-  "2081767702188970299": { "title": "Higgsfield MCP — driving Seedance video generation from Claude", "category": "Prompting & Workflow" },
-  "2024885298908594391": { "title": "AI UGC from a single product photo, no script and no start frame", "category": "Ads, UGC & Product" },
-  "2046642880522211706": { "title": "A Claude Cowork skill that generates UGC ads with Seedance 2.0", "category": "Ads, UGC & Product" },
-  "2020828503810445785": { "title": "Three images and the prompt \"2 women fighting\"", "category": "Action & VFX" },
+  "2053362746469814317": {
+    "title": "Luxury face-lotion commercial montage in a studio",
+    "category": "Ads, UGC & Product"
+  },
+  "2051983365688242324": {
+    "title": "Macro spices collapsing into a cosmos, stop-motion style",
+    "category": "Cinematic & Film"
+  },
+  "2049074008730247669": {
+    "title": "Beat-synced outfit swap mid-dance from three reference images",
+    "category": "Music & Dance"
+  },
+  "2049914543015334243": {
+    "title": "K-pop dance animated from a 16-step choreography sheet",
+    "category": "Music & Dance"
+  },
+  "2049524601471074422": {
+    "title": "K-pop choreography sheet turned into a dance take",
+    "category": "Music & Dance"
+  },
+  "2048428389347024922": {
+    "title": "3D dancer animated from a movement instruction sheet",
+    "category": "Music & Dance"
+  },
+  "2073596755212431768": {
+    "title": "Asian contemporary dance storyboard turned into a quiet continuous take",
+    "category": "Music & Dance"
+  },
+  "2050798932662321438": {
+    "title": "Michael Jackson vs Alan Ritchson, night-time street fight",
+    "category": "Action & VFX"
+  },
+  "2056368955284148524": {
+    "title": "Ultra-realistic influencer vlog built from a storyboard",
+    "category": "Ads, UGC & Product"
+  },
+  "2021295886978908547": {
+    "title": "Tournament of Power with famous anime characters, from one prompt",
+    "category": "Anime & Animation"
+  },
+  "2020179955511116082": {
+    "title": "Seedance 2.0 from China will be the SOTA",
+    "category": "Launch & Announcements"
+  },
+  "2022870879248453900": {
+    "title": "A curated Seedance 2.0 prompt collection",
+    "category": "Prompting & Workflow"
+  },
+  "2041132328655954201": {
+    "title": "Seedance 2.0 works better with JSON prompts — the structure to follow",
+    "category": "Prompting & Workflow"
+  },
+  "2022651783726927945": {
+    "title": "Sider + 即梦：快速写 Seedance 2.0 提示词",
+    "category": "Prompting & Workflow"
+  },
+  "2055931547983958247": {
+    "title": "Character sheet in GPT Image 2, then motion in Seedance 2.0",
+    "category": "Prompting & Workflow"
+  },
+  "2075074872351572216": {
+    "title": "Tom and Jerry recreated as photoreal animals in 4K",
+    "category": "Anime & Animation"
+  },
+  "2081767702188970299": {
+    "title": "Higgsfield MCP — driving Seedance video generation from Claude",
+    "category": "Prompting & Workflow"
+  },
+  "2024885298908594391": {
+    "title": "AI UGC from a single product photo, no script and no start frame",
+    "category": "Ads, UGC & Product"
+  },
+  "2046642880522211706": {
+    "title": "A Claude Cowork skill that generates UGC ads with Seedance 2.0",
+    "category": "Ads, UGC & Product"
+  },
+  "2020828503810445785": {
+    "title": "Three images and the prompt \"2 women fighting\"",
+    "category": "Action & VFX"
+  },
   "2020878278475518152": {
     "title": "A 1-minute cinematic video in 5 minutes — 4 shots, 15 seconds each",
     "category": "Cinematic & Film",
@@ -51,20 +119,62 @@
     ],
     "prompt_in_thread": false
   },
-  "2073676993875575170": { "title": "Golden-hour slice-of-life alley scene, visual only", "category": "Cinematic & Film" },
-  "2062051302499332565": { "title": "The Storm Emperor Awakening — sakuga-style summoning ritual", "category": "Anime & Animation" },
-  "2077382054275436584": { "title": "Doodle overlay — real objects turning into 2D cartoons", "category": "Anime & Animation" },
-  "2066808313166393432": { "title": "\"The Dream of Billions\" — a 15-second football short film", "category": "Cinematic & Film" },
-  "2077345203049148886": { "title": "A 10-frame commercial storyboard board, then the film", "category": "Ads, UGC & Product" },
-  "2021648907915411795": { "title": "A WW2 motorcycle escape sequence", "category": "Action & VFX" },
-  "2072217161805058101": { "title": "Chocolate Symphony — Pixar-quality molten lava cake sequence", "category": "Ads, UGC & Product" },
-  "2025724576882159876": { "title": "The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared", "category": "Model Comparisons" },
-  "2020819034426708042": { "title": "Same prompt, Seedance 2.0 vs Sora 2 — shot breakdown and pacing", "category": "Model Comparisons" },
-  "2072707984577184015": { "title": "Four frontier video models judged blind by 12 professional editors", "category": "Model Comparisons" },
-  "2083182758407307605": { "title": "Seedance 2.5 first test — 30 seconds in one go, with some morphing", "category": "Showcase" },
-  "2076043332472463471": { "title": "Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot", "category": "Showcase" },
-  "2083209950231220403": { "title": "Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt", "category": "Showcase" },
-  "2069254972911329320": { "title": "K-pop girl-crush dance MV, 9:16 multi-cut editorial", "category": "Music & Dance" },
+  "2073676993875575170": {
+    "title": "Golden-hour slice-of-life alley scene, visual only",
+    "category": "Cinematic & Film"
+  },
+  "2062051302499332565": {
+    "title": "The Storm Emperor Awakening — sakuga-style summoning ritual",
+    "category": "Anime & Animation"
+  },
+  "2077382054275436584": {
+    "title": "Doodle overlay — real objects turning into 2D cartoons",
+    "category": "Anime & Animation"
+  },
+  "2066808313166393432": {
+    "title": "\"The Dream of Billions\" — a 15-second football short film",
+    "category": "Cinematic & Film"
+  },
+  "2077345203049148886": {
+    "title": "A 10-frame commercial storyboard board, then the film",
+    "category": "Ads, UGC & Product"
+  },
+  "2021648907915411795": {
+    "title": "A WW2 motorcycle escape sequence",
+    "category": "Action & VFX"
+  },
+  "2072217161805058101": {
+    "title": "Chocolate Symphony — Pixar-quality molten lava cake sequence",
+    "category": "Ads, UGC & Product"
+  },
+  "2025724576882159876": {
+    "title": "The same prompt on Sora 2 and Seedance 2.0 — fluid dynamics compared",
+    "category": "Model Comparisons"
+  },
+  "2020819034426708042": {
+    "title": "Same prompt, Seedance 2.0 vs Sora 2 — shot breakdown and pacing",
+    "category": "Model Comparisons"
+  },
+  "2072707984577184015": {
+    "title": "Four frontier video models judged blind by 12 professional editors",
+    "category": "Model Comparisons"
+  },
+  "2083182758407307605": {
+    "title": "Seedance 2.5 first test — 30 seconds in one go, with some morphing",
+    "category": "Showcase"
+  },
+  "2076043332472463471": {
+    "title": "Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot",
+    "category": "Showcase"
+  },
+  "2083209950231220403": {
+    "title": "Seedance 2.5 LONG VIDEO — a 2-minute short from one reference and a vague prompt",
+    "category": "Showcase"
+  },
+  "2069254972911329320": {
+    "title": "K-pop girl-crush dance MV, 9:16 multi-cut editorial",
+    "category": "Music & Dance"
+  },
   "2048654096794538316": {
     "prompt": "Change style and description as you need. If you want to use a reference image, write \"uploaded reference\" to the [SUBJECT_DESCRIPTION].\n\nGpt Image 2 Prompt:\n\nCreate a single unified MASTER CHARACTER REFERENCE SHEET from these inputs:\n\n[STYLE]: [anime / stylized 3d / realistic 3d / live-action / cinematic realism / noir / stop-motion / any other style]\n[SUBJECT_DESCRIPTION]: [character or person description]\n\nCreate the board in a 4:3 horizontal layout. The board layout, background, typography and spacing must be clean, neutral, minimal and technical, on a pure white or clean off-white background. Use clear section titles, readable English labels, balanced spacing, no clutter, no watermark, no logo. Apply [STYLE] only to the character and visual elements, not to the board layout or UI. All text must be clearly readable at normal viewing size. Avoid tiny or dense text.\n\nInfer all missing details from the subject description, including name, alias if suitable, role, age, personality, core theme, accent, wardrobe details, accessories, key prop if clearly relevant, visual notes and a fitting color palette.\n\nUse this layout:\ntop row = left: title + horizontal info block, right: COLOR PALETTE\ncenter = large MAIN IDENTITY + SCALE SHEET as the biggest section\nright = EXPRESSION PROGRESSION + HEAD DETAIL SHEET + NEUTRAL BASELINE + POSTURE VARIATION + CLOSE-UP POSE\nbottom = WARDROBE / ACCESSORIES DETAILS + PROP + HAND GESTURES\n\nInclude:\n\nTitle: CHARACTER REFERENCE SHEET\n\n1. TOP INFO BLOCK\nName, Alias, Role, Age, Personality, Core Theme, Speech Accent\n\n2. COLOR PALETTE\nPlace this in the top-right header area.\nShow 6 to 8 minimal clean color swatches that match the subject’s style, wardrobe, world and mood. Don't add labels.\n\n3. MAIN IDENTITY + SCALE SHEET\nThis must be the largest and most prominent section.\nShow the subject only, with no prop, no bag, no handheld object, no extra item interaction.\nShow:\nFront, 3/4 View, Side, Back\n\nPlace the character views over subtle measurement guide lines, like a clean model sheet scale background with height marks.\n\nAlso include a small SILHOUETTE GUIDE inside this same section:\n2 small clean silhouette thumbnails, Neutral Stance and Profile Silhouette.\nKeep the silhouettes small and secondary, placed in a corner of the MAIN IDENTITY + SCALE SHEET.\n\nThe subject should appear in a clean neutral presentation focused only on identity, body shape, outfit, silhouette and proportions.\nAdd a few small notes for silhouette, posture, special traits, visual identity.\n\n4. EXPRESSION PROGRESSION\nShow exactly 8 panels of the same subject:\nNeutral, Curious, Worried, Surprised, Afraid, Sad, Determined, Relieved\n\nMICRO EXPRESSIONS\nShow exactly 5 panels of the same subject:\nsubtle eye tension, slight smirk, lip tension, micro fear, controlled breath\n\nThese panels should function as both an expression sheet and a light emotional progression.\n\n5. HEAD DETAIL SHEET\nShow several close-up head references of the same subject from different angles:\n3/4 Headshot, Side Headshot, Top Angle, Low Angle, Diagonal Angle\n\nKeep facial structure, hairstyle, eyes, proportions and identity fully consistent.\n\n6. NEUTRAL BASELINE\n1 panel: fully relaxed, no emotion\n\n7. POSTURE VARIATION\n2–3 panels: relaxed, tense, confident\n\n8. CLOSE-UP POSE\nShow exactly 1 cinematic close-up pose of the same subject from chest-up or shoulder-up.\nUse a natural expressive pose that best fits the subject’s personality and story tone.\nThis close-up should clearly show facial identity, hairstyle, expression, upper wardrobe detail and emotional presence.\n\n9. WARDROBE / ACCESSORIES DETAILS\nShow exactly 4 close-up callouts for important styling details such as hairstyle, outerwear, footwear, accessories, fabric or material detail.\n\n10. PROP\nOnly include this section if a prop is clearly important to the subject.\nShow exactly 1 single clean isolated image of the prop only.\nAdd a small info block:\nObject Name, Type, Traits\n\n11. HAND GESTURES\nrelaxed hand, tense fingers, pointing, gripping, subtle gesture near face\n\nKeep the subject fully consistent across all panels. The MAIN IDENTITY + SCALE SHEET must visually dominate the board. The final image should look like a premium production visual bible / character continuity sheet matching the selected [STYLE].\n\n---\n\nSeedance 2.0 Prompt:\n\nUse the provided character sheet @[image1] as reference.\n\nCreate a cinematic character introduction video.\n\nOpen with the character looking into camera and speaking naturally, introducing herself in her own words.\n\nDo not treat the sheet as a single image. Use its elements as separate shots.\n\nStructure:\ndetail → identity → presence → full reveal\n\nMake the character active:\nshe moves, reacts, interacts with her environment and prop while talking\nshort, natural gestures, small shifts, purposeful motion\n\nShow acting range:\nsubtle emotional shifts while speaking (confidence, hesitation, curiosity, intensity)\nexpress through micro-expressions, eyes, tone, and body language\n\nInclude:\nface close-ups, outfit/material details, prop usage, expressive performance moments\n\nKeep everything grounded and realistic.\n\nCamera:\ncontrolled, minimal movement (soft push-ins, light tracking, subtle handheld)\n\nLighting:\ncinematic and consistent\n\nEnd on a confident mid or full shot, character fully established.",
     "prompt_source_urls": [
@@ -95,5 +205,11 @@
       "https://x.com/azed_ai/status/2042602834676584920"
     ],
     "prompt_in_thread": false
+  },
+  "2083119527848751220": {
+    "_why": "The auto-extracted prompt is the author's own commentary about the run, not the prompt: it ends 'Full prompt next post'. The real prompt is a self-reply, not captured here.",
+    "title": "Six-shot hero sequence, prompt published in a follow-up post",
+    "prompt": null,
+    "prompt_in_thread": true
   }
 }
