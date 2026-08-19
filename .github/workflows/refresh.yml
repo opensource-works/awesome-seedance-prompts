@@ -12,7 +12,13 @@ on:
       - "scripts/overrides.json"
       - "scripts/harvest.py"
       - "scripts/build.py"
+      - "scripts/mirror.py"
   workflow_dispatch:
+    inputs:
+      force_mp4:
+        description: "Re-mirror these posts' mp4s even when the object already exists (comma-separated post ids, or 'all'). Needed after a pick_variant change, since a normal run skips keys that are already in the bucket."
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -37,14 +43,22 @@ jobs:
       - name: Harvest posts
         run: python3 scripts/harvest.py
 
-      # Copies any clip that isn't on R2 yet and renders its animated preview.
-      # Existing objects are skipped, so a normal run only touches new posts.
+      # Copies any clip that isn't on R2 yet and renders its animated preview
+      # plus its static poster. Existing objects are skipped, so a normal run
+      # only touches new posts; force_mp4 (manual dispatch only) re-uploads the
+      # mp4s of the posts it names even when they are already mirrored.
       - name: Mirror new clips to R2
         env:
           R2_ACCOUNT: ${{ secrets.R2_ACCOUNT }}
           R2_KEY_ID: ${{ secrets.R2_KEY_ID }}
           R2_SECRET: ${{ secrets.R2_SECRET }}
-        run: python3 scripts/mirror.py
+          FORCE_MP4: ${{ inputs.force_mp4 }}
+        run: |
+          if [ -n "$FORCE_MP4" ]; then
+            python3 scripts/mirror.py --force-mp4 "$FORCE_MP4"
+          else
+            python3 scripts/mirror.py
+          fi
 
       - name: Build gallery and READMEs
         run: python3 scripts/build.py
