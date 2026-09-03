@@ -21,11 +21,11 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 | | |
 |---|---|
-| Posts | **303** |
-| Source accounts credited | **192** |
-| Posts with the full prompt | **147** |
-| Combined views on X | **66M** |
-| Models covered | **Seedance 2.5** (236), **Seedance 2.0** (63), **Seedance** (4) |
+| Posts | **300** |
+| Source accounts credited | **191** |
+| Posts with the full prompt | **144** |
+| Combined views on X | **65.9M** |
+| Models covered | **Seedance 2.5** (233), **Seedance 2.0** (63), **Seedance** (4) |
 | Last refreshed | 2026-09-03 |
 
 ## Most watched
@@ -42,8 +42,8 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 ## Contents
 
-- [Showcase](#showcase) — 86 posts
-- [Cinematic & Film](#cinematic-film) — 42 posts
+- [Showcase](#showcase) — 84 posts
+- [Cinematic & Film](#cinematic-film) — 41 posts
 - [Anime & Animation](#anime-animation) — 16 posts
 - [Action & VFX](#action-vfx) — 32 posts
 - [Music & Dance](#music-dance) — 24 posts
@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
 <a href="https://x.com/tonykipkemboi/status/2094795407259730261"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/tonykipkemboi_2094793306530058240.webp" width="460" alt="am testing all of the leading video generation models using the same prompt in thread"></a>
 
-**Video credit / source:** [Tony Kipkemboi](https://x.com/tonykipkemboi) · [@tonykipkemboi](https://x.com/tonykipkemboi) · [Original post](https://x.com/tonykipkemboi/status/2094795407259730261) · Seedance 2.5 · 2026-09-01 · 240.6K views
+**Video credit / source:** [Tony Kipkemboi](https://x.com/tonykipkemboi) · [@tonykipkemboi](https://x.com/tonykipkemboi) · [Original post](https://x.com/tonykipkemboi/status/2094795407259730261) · Seedance 2.5 · 2026-09-01 · 240.9K views
 
 > A prompt is mentioned in the [X thread](https://x.com/tonykipkemboi/status/2094795407259730261); the exact reply has not been indexed yet.
 
@@ -122,7 +122,7 @@ https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
 <a href="https://x.com/johnAGI168/status/2095025524586193105"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2095025208868397062.webp" width="460" alt="Seedance 2.5 也过于逼真了啊🫠连影子都那么真实"></a>
 
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2095025524586193105) · Seedance 2.5 · 2026-09-02 · 160.4K views
+**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2095025524586193105) · Seedance 2.5 · 2026-09-02 · 161.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -278,7 +278,7 @@ Negative:
 
 <a href="https://x.com/AIwithkhan/status/2094997895187673489"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2094997804003557376.webp" width="460" alt="POV - Korean baddie met her boyfriend in US"></a>
 
-**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2094997895187673489) · Seedance 2.5 · 2026-09-02 · 91K views
+**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2094997895187673489) · Seedance 2.5 · 2026-09-02 · 91.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -358,7 +358,7 @@ PART B : 【生成任务】 续写上一段视频，生成约8.18秒的完整后
 
 <a href="https://x.com/JSFILMZ0412/status/2093047519257190780"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/JSFILMZ0412_2093047136791248896.webp" width="460" alt="Gemini Omni 1.1 Flash vs Seedance 2.5"></a>
 
-**Video credit / source:** [JSFILMZ](https://x.com/JSFILMZ0412) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [Original post](https://x.com/JSFILMZ0412/status/2093047519257190780) · Seedance 2.5 · 2026-08-27 · 71.4K views
+**Video credit / source:** [JSFILMZ](https://x.com/JSFILMZ0412) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [Original post](https://x.com/JSFILMZ0412/status/2093047519257190780) · Seedance 2.5 · 2026-08-27 · 71.5K views
 
 ### seedance2.5一键直接出3分钟视频：提示词如下：生成一段完整连续的3分钟写实古装武打电影片段。横屏16:9，2.35:1电影宽银幕构图，24fps，4K电影质感，冷峻低饱和蓝灰…
 
@@ -370,7 +370,7 @@ PART B : 【生成任务】 续写上一段视频，生成约8.18秒的完整后
 
 <a href="https://x.com/stellarprtcol/status/2092114748372586794"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/stellarprtcol_2091743450073059328.webp" width="460" alt="🔥 Ini gila sih. Seedance 2.5 berhasil generate video ini tanpa kena restriction terkait wajah"></a>
 
-**Video credit / source:** [stellar protocol](https://x.com/stellarprtcol) · [@stellarprtcol](https://x.com/stellarprtcol) · [Original post](https://x.com/stellarprtcol/status/2092114748372586794) · Seedance 2.5 · 2026-08-25 · 59.3K views
+**Video credit / source:** [stellar protocol](https://x.com/stellarprtcol) · [@stellarprtcol](https://x.com/stellarprtcol) · [Original post](https://x.com/stellarprtcol/status/2092114748372586794) · Seedance 2.5 · 2026-08-25 · 59.4K views
 
 ### I accidentally entered an empty prompt in Seedance 2.5 and it gave me this. Kind of makes…
 
@@ -786,251 +786,11 @@ https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
 **Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2083182758407307605) · Seedance 2.5 · 2026-07-31 · 41.1K views
 
-### 强制爱 Kiss kiss💋
-
-<a href="https://x.com/johnAGI168/status/2094792293941182498"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2094791813924065280.webp" width="460" alt="强制爱 Kiss kiss💋"></a>
-
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2094792293941182498) · Seedance 2.5 · 2026-09-01 · 39.9K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-时长：25秒
-比例：16:9横屏
-人物参考：
-@ 
- 女主， 
-@
- 男主
-语言：无对白、无旁白
-文字：无字幕
-音频：紧张暧昧音乐、雨声、车流声、三次耳光声、急促呼吸、衣料摩擦
-
-GLOBAL CONTINUITY
-
-女主：
-使用
-
- 锁定成年女主的五官、脸型、肤色和身份。穿黑色高领修身连衣裙。性格倔强、冷漠，面对男主靠近时明确反抗。
-
-男主：
-使用
-
- 锁定成年男主的五官、脸型、肤色和身份。黑色短发向后梳，穿黑色暗纹西装、黑色衬衫。被扇后逐渐失去克制。
-
-司机：
-中年男性，黑色司机制服、白色手套。只在后视镜中短暂出现，不说话、不回头。
-
-场景：
-雨夜行驶中的黑色豪华加长轿车。黑色真皮后排、深色木纹内饰、星空车顶、暖色阅读灯。车窗布满雨滴，窗外蓝红霓虹高速掠过。
-
-整体表演：
-成年演员表演的强冲突爱情微短剧。三次巴掌必须真实清楚，男主头部必须沿受力方向偏转；亲吻、咬唇、分开与再次靠近必须有明确因果。所有拉扯均为安全表演，男主手掌只扣住下颌和后颈，不挤压喉咙。
-
-SHOT 1（00:00-00:02.00）欲吻与第一巴掌
-
-00:00-00:00.70
-男主坐在女主左侧，缓慢向她靠近，目光从她眼睛落到嘴唇。女主身体轻微后仰，眼神冷漠，右手开始抬起。
-
-00:00.70-00:01.10
-男主闭眼继续靠近，但嘴唇尚未接触女主。
-
-女主突然挥出右手，一巴掌准确扇中男主左脸。
-
-动作顺序：
-右肩带动手臂→右手掌接触男主左脸→清脆耳光声→男主头部猛地偏向右侧。
-
-00:01.10-00:02.00
-女主迅速收回右手，冷冷盯着男主。男主保持偏头姿势半秒，随后缓慢转回，眉骨压低，神情由错愕转为愤怒。
-
-Camera：
-车内双人中近景，完整拍清女主手臂轨迹与男主受力反应。禁止用模糊或闪白掩盖巴掌。
-
-SHOT 2（00:02.00-00:06.00）第一次强吻与咬唇
-
-00:02.00-00:02.70
-男主转回后突然逼近，一手扣住女主后颈，一手抓住她肩膀，将她拉向自己。
-
-女主双手抵住男主胸口，试图保持距离。
-
-00:02.70-00:04.20
-男主吻住女主。女主身体紧绷，手掌持续推抵男主胸口；男主保持后颈和肩膀的控制姿势。
-
-00:04.20-00:04.80
-女主在拉扯中突然咬住男主下唇。男主眉心骤然收紧，因疼痛立即后撤。
-
-00:04.80-00:06.00
-两人分开。男主下唇和嘴角出现一点暗红血迹，只是少量渗血。女主快速喘气，仍然愤怒直视他。两人都不触碰或观察伤口。
-
-Camera：
-先用双人近景呈现拉扯，再切到能够看清咬住下唇的侧面特写。不能使用舌头特写。
-
-SHOT 3（00:06.00-00:08.50）第二巴掌
-
-00:06.00-00:06.60
-男主嘴角带着少量血迹，再次向女主靠近。女主左肩向后蓄力，左手快速抬起。
-
-00:06.60-00:07.10
-女主用左手一巴掌扇中男主右脸。
-
-动作顺序：
-左臂横向挥动→左手掌接触男主右脸→第二声耳光→男主头部被打得偏向左侧。
-
-00:07.10-00:08.50
-男主向左偏头，停顿约0.7秒。他慢慢转回来，嘴角仍带一点血迹，眼神变得更冷。
-
-女主左手停在胸前，身体靠紧座椅，保持防备。
-
-Camera：
-固定双人中景，第二巴掌必须与第一巴掌方向相反。
-
-SHOT 4（00:08.50-00:12.00）第二次强吻与第三巴掌
-
-00:08.50-00:09.20
-男主突然伸手，一手扣住女主后颈，另一手托住她的下巴，使她转向自己。手掌不能压住喉咙。
-
-00:09.20-00:10.70
-男主再次吻住女主。动作比第一次更快、更强势。女主双手抓住男主衣领，身体向后抵住座椅，随后用力向侧面挣脱。
-
-00:10.70-00:11.10
-女主成功偏开脸，嘴唇分开。她右手已经抬起，男主还保持前倾姿势。
-
-00:11.10-00:11.60
-女主第三次挥出右手，再次扇中男主左脸。
-
-动作顺序：
-右手快速横扫→掌心击中左脸→第三声耳光→男主头部再次偏向右侧。
-
-00:11.60-00:12.00
-男主动作停住，脸偏向右侧。女主收回右手，靠着座椅急促呼吸。
-
-Constraints：
-第三巴掌必须发生在第二次亲吻结束后，不能边吻边打，不能漏掉嘴唇分开的动作。
-
-SHOT 5（00:12.00-00:13.50）司机反应
-
-Camera：
-切至前排驾驶舱和车内后视镜。
-
-司机双手握住方向盘，继续注视道路。他短暂向上移动视线，通过后视镜看见后排两人，眉毛轻抬，露出一个很淡的吃瓜笑意，随即立刻看回前方。
-
-司机不说话、不转头、不改变车速。
-
-后视镜中可模糊看见男主重新靠近女主，但不能抢走司机镜头重点。
-
-SHOT 6（00:13.50-00:25.00）最终长吻
-
-00:13.50-00:14.50
-镜头切回后排。男主与女主沉默对视。男主脸颊有轻微红印，嘴角仍保留少量血迹。
-
-男主伸手托住女主下巴，迫使她抬起脸；另一只手绕到女主后颈。女主眉心收紧，双手抵住男主胸口。
-
-00:14.50-00:15.30
-男主缓慢靠近。两人的嘴唇距离从十厘米缩短至完全接触。
-
-女主先睁眼看着男主，接触后才闭眼。
-
-00:15.30-00:19.00
-最终亲吻开始。男主一手托住女主后脑，另一手扶住她肩背；女主双手仍抓住男主胸前衣料。
-
-亲吻连续不中断。车身经过弯道轻微晃动，两人随惯性靠得更近。
-
-00:19.00-00:22.00
-两人自然调整一次头部角度，但嘴唇保持接触。男主的动作由强硬逐渐变得稳定；女主肩膀逐渐放松，抓住西装的手指不再用力推开。
-
-Camera：
-从右侧近景缓慢环绕到左侧近景，始终保留双方手部和面部，不能只拍嘴唇。
-
-00:22.00-00:25.00
-镜头缓慢穿过布满雨滴的车窗拉到车外。黑色轿车行驶在雨夜高架道路上，后排车窗内仍能看到两人相拥亲吻的剪影。
-
-最终亲吻从15.3秒持续到25秒，约9.7秒，直到最后一帧都不分开。
-
-PERFORMANCE CONSTRAINTS
-
-- 全片恰好三次巴掌，不能少、不能多。
-- 第一巴掌：女主右手打男主左脸。
-- 第二巴掌：女主左手打男主右脸。
-- 第三巴掌：女主右手再打男主左脸。
-- 第一巴掌发生在男主欲吻但尚未接触时。
-- 第一巴掌后男主吻回去，女主咬破男主下唇。
-- 咬唇后男主嘴角只出现一点血迹。
-- 第二巴掌后发生第二次亲吻。
-- 第二次亲吻结束后才发生第三巴掌。
-- 司机镜头位于第三巴掌之后。
-- 最终亲吻持续至片尾。
-- 所有人均为成年人。
-- 后颈控制只表现强势姿态，手掌不能挤压喉咙或造成窒息。
-
-Negative：
-任何字幕，任何屏幕文字，旁白，对白，只有一次巴掌，只有两次巴掌，出现第四次巴掌，巴掌顺序错误，左右手错误，击打脸侧错误，耳光打空，女主抚摸男主脸，女主擦拭血迹，观察伤口，男主第一次就吻到女主，漏掉第一次欲吻未成，漏掉咬唇，女主咬错自己的嘴唇，大量出血，喷血，第二巴掌前没有分开，第三巴掌发生在司机镜头后，最终亲吻过短，最终吻提前结束，机械亲吻，嘴唇融合，鼻子穿模，张嘴过大，掐喉咙，窒息动作，人物换脸，男女主身份互换，司机坐到后排，司机持续回头，汽车无人驾驶，车内空间变化，窗外静止，多余手臂，多余手指，字幕，水印，Logo
-```
-
-</details>
-
-**Prompt credit / source:** [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2094792293941182498)
-
 ### I wasn't expecting Seedance 2.5 to look this real
 
 <a href="https://x.com/hey_am_cherry/status/2083561941004685471"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/hey_am_cherry_2083561732568748032.webp" width="460" alt="I wasn&#x27;t expecting Seedance 2.5 to look this real"></a>
 
 **Video credit / source:** [Cherry](https://x.com/hey_am_cherry) · [@hey_am_cherry](https://x.com/hey_am_cherry) · [Original post](https://x.com/hey_am_cherry/status/2083561941004685471) · Seedance 2.5 · 2026-08-01 · 38.9K views
-
-### Seedance 2.5 Prompt Sharing
-
-<a href="https://x.com/pyona_ai/status/2091163447899857065"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/pyona_ai_2091162615468920832.webp" width="460" alt="Seedance 2.5 Prompt Sharing"></a>
-
-**Video credit / source:** [Pyona](https://x.com/pyona_ai) · [@pyona_ai](https://x.com/pyona_ai) · [Original post](https://x.com/pyona_ai/status/2091163447899857065) · Seedance 2.5 · 2026-08-22 · 38.7K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use exactly 1 uploaded image asset.
-image1 = PYONA唯一且最高优先级的人物身份与外观参考。
-
-【REFERENCE BINDING】只从image1继承PYONA的可辨识脸部身份、五官比例、脸型、肤色、原始发色、发型、发长、刘海、分缝、发际线、原图实际存在的发饰与头部配饰、身体比例、体型、身高感、年龄感与整体气质。绝对不要继承image1中的服装、鞋子或其他穿搭。视频中的舞台服装必须由Seedance根据本提示词重新生成。不要为了新服装改变PYONA的脸、头发、发色、发饰或人物身份。
-
-生成一段30秒、9:16竖屏、24fps、超写实真人电影质感的大型舞台魔术喜剧短片。整体像真实电视魔术秀现场：大型剧院、满座观众、专业舞台灯光、真实摄影机、清晰快速但表演可读性很强的喜剧节奏。不是恐怖片，不要血液、伤口、残酷感，但前半段必须让观众明确感受到PYONA真的越来越憋不住，已经接近忍耐极限，脸上必须清楚出现缺氧、忍耐、慌张、快撑不住的真实表情变化。
-
-【PYONA STAGE OUTFIT】由Seedance重新生成专业舞台兔女郎魔术助手服装：黑色高级修身舞台连体服、黑色兔耳、白色衬衫领、黑色小领结、白色腕口、黑色半透明连裤袜、黑色舞台高跟鞋。造型华丽、专业、真实，不廉价，不继承image1原本服装。PYONA本来的发型、发色、发饰必须保持image1一致。
-
-【MAGICIAN】Seedance自行生成一名50~60岁左右的成年男性舞台魔术师。黑色正式燕尾服或高级礼服、白衬衫、黑色领结、白手套、黑色魔术礼帽。前期自信，中期慌张，后期狼狈。不使用额外人物参考图。
-
-【STAGE / WATER TANK】大型室内剧院，黑色舞台幕布、聚光灯、轻微舞台烟雾、满座成年观众。舞台中央是一座巨大透明矩形水箱，成年人可完整站立其中，四面透明，水质清澈，灯光在水中产生真实折射。PYONA位于水箱内部，双手与身体被清楚可见的专业舞台逃脱束缚装置固定。束缚装置必须像魔术道具，不像刑具。
-
-【CRITICAL UNDERWATER DISTRESS RULES】水下中后段，PYONA绝对不能只是轻微皱眉或普通惊讶。必须演成一个已经憋气很久、正在努力阻止自己本能吸气的人。脸部变化必须非常清楚：最初是困惑与忍耐；随后嘴唇绷紧，脸颊和嘴角失去从容；眉心逐渐收紧；下颌明显紧绷；眼神从平静变得不安、发急、带求助感；鼻翼轻微张开；眼周肌肉越来越紧；嘴巴会短暂控制不住地微微张开，再强行闭住；气泡越来越多；到最严重阶段，必须出现“真的快憋不住了”的强烈表情。不要让她在水下保持漂亮模特表情，不要只用眉毛表现痛苦，必须让眼睛、嘴唇、脸颊、下颌、颈部一起参与表演。不要因为身份保持而把脸锁死，允许真实强烈的表情形变，但仍保持image1的身份可辨识性。
-
-【EMOTIONAL ARC】PYONA的情绪必须清楚递进：平静配合演出→疑惑→不安→真实缺氧和越来越难受→接近极限的恐慌→看出魔术师根本救不了自己后的愤怒→自己挣脱→破箱而出→强烈吸气与急促喘息→疲惫中对魔术师怒火爆发→勉强调整状态向观众谢幕。她破箱出来后不能立刻满血恢复，必须明显在喘气、回气、肩膀起伏、咳水、湿发贴脸、体力被消耗。
-
-【TIMELINE】
-0.0–3.0s：舞台广角。透明水箱位于中央，PYONA已经被束缚在水中。魔术师站在水箱旁，自信面向观众，夸张展开双手，用韩语大声喊：“하나, 둘, 셋!” 同时做大型魔术释放手势。舞台WHOOSH音效，观众期待。PYONA此时仍然平静，像正常配合演出。
-3.0–6.0s：预期中的逃脱没有发生。PYONA仍被束缚。她先低头看束缚，再抬头看魔术师。表情从困惑逐渐变成轻微不安。这里必须开始出现“她在忍住呼吸”的感觉：嘴唇逐渐收紧，脸部开始有一点僵，眼神里有“怎么还没好”的不安。少量气泡从鼻口附近逸出。不要立刻发怒。
-6.0–10.0s：魔术师慌忙再次做夸张魔术手势，但仍失败。他的表情由自信变成困惑再变成惊慌。此时PYONA的状态必须明显升级，而且这种升级主要体现在脸上：她已经更缺氧，眼睛更急、更慌，眉头收紧，眼周肌肉紧张，嘴巴会因为憋气压力微微张开后又努力闭住，脸颊和下巴发紧，嘴里冒出更多气泡，表情必须让人一眼看出“她真的很难受，快要憋不住了”。同时身体挣动更明显，胸口和肩膀有本能想呼吸却被强行压住的紧张感。不要演成轻松搞笑地吐泡泡，要演成短时间内明显越来越撑不住。
-10.0–14.0s：这是最重要的缺氧强化段。优先给PYONA脸部与上半身可读镜头。她已经接近憋气极限：眼神焦急甚至短暂发慌，眉毛向内上方拉紧，嘴角僵住，下颌和颈部绷紧，嘴巴会出现一次强烈的“想吸气却意识到自己还在水下而强行忍住”的动作。她忍不住释放一大串气泡，释放后脸上必须立刻出现更强的恐慌，因为她知道剩余空气更少了。胸腔和肩膀出现一次明显的本能吸气动作，但仍在水下，只能强行忍住。必须让观众明确感觉：她已经真的快撑不住了。
-14.0–16.0s：魔术师终于冲到水箱前拍打透明面板：“BANG! BANG!” 并用韩语喊：“어? 어?! 잠깐!” 只允许这句。观众开始明显骚动。PYONA再看一眼外面完全慌掉的魔术师。这里必须发生清晰情绪转折：恐慌和难受→意识到魔术师根本救不了自己→愤怒。她的眉眼从“求助与焦急”突然收紧成明显恼火。
-16.0–18.0s：PYONA低头看束缚，只做一次爆发性短促发力，直接挣开装置。不要长时间挣扎，重点是她前面已经被逼到极限，这一刻因为愤怒和求生本能直接自己解决。
-18.0–21.0s：PYONA立即转向水箱前侧，没有停下来摆pose。她现在最重要的事情是离开水。她用一次短促有力动作击破舞台透明面板。“CRASH!” 大量水瞬间向舞台前方倾泻。水流必须具有真实重量、折射、水花与冲击感，不要爆炸，不要魔法光效，不要超能力VFX。
-21.0–24.0s：PYONA随着水流出来。她刚离开水面的一瞬间，身体首先出现强烈本能吸气反应。必须清楚表现：嘴巴立即张开大口吸气；第一口气非常急；连续2~3次急促喘息；肩膀与胸口明显上下起伏；身体微微前倾；一只手可能本能扶住膝盖或胸口附近；短促咳嗽1~2次；湿发贴在脸颊和脖颈；眼睛短暂闭一下，像终于得到空气。她绝对不能一出水就立刻站得笔直、呼吸平稳、像什么都没有发生。
-24.0–26.5s：被水淋湿的魔术师慌张靠近，试图解释。PYONA仍在明显喘气，身体还微微前倾，肩膀随着呼吸起伏。她慢慢抬眼看向魔术师，表情必须非常明确：疲惫、刚刚受惊后的余波、难以置信、强烈恼火。魔术师刚继续比划解释，PYONA直接给他一次清晰耳光。“SLAP!” 只打一次。耳光必须带有“你差点害我憋死”的真实情绪释放。手掌真实接触脸颊，魔术师头部被打转，礼帽掉落。不要把他打飞。
-26.5–28.0s：PYONA仍然没有完全恢复。她先低头喘一口气，再努力直起身体。随后转向观众。水从头发和服装不断滴落，胸口仍有明显但逐渐减弱的呼吸起伏。她看到全场观众后，努力恢复专业舞台状态，整理姿势，对观众鞠躬。这个鞠躬不能像完全没事的人，鞠躬后起身时可再明显呼出一口气。
-28.0–30.0s：短暂静默后，全场观众突然起立爆发巨大掌声与欢呼，形成standing ovation。PYONA再次微微鞠躬，但仍然有一点疲惫和喘息。魔术师在后面捂着脸，完全狼狈。最后画面重点不是完美优雅，而是：PYONA全身湿透、还在恢复呼吸，却自己完成了逃脱并拿走全场掌声。CUT.
-
-【CAMERA】使用真实大型电视舞台节目摄影语法。允许合理硬切：舞台广角、水箱中景、PYONA水下表情中近景、关键缺氧阶段脸部近景、魔术师反应镜头、水箱破裂广角、出水后喘息中景、耳光双人侧面或3/4中景、最终舞台与观众广角。不要过度切镜。所有镜头必须保持PYONA、水箱、魔术师与观众之间清楚稳定的空间关系。最严重的缺氧阶段禁止长时间切去拍魔术师或观众，镜头必须优先停留在PYONA脸上，让观众看清她越来越难受的表情变化。出水后要给足PYONA回气、喘息、咳嗽和肩膀起伏的清楚表演空间。
-
-【PERFORMANCE】魔术师表演逻辑：自信满满→魔术失败→强装镇定→越来越慌→疯狂救场→眼看PYONA自己解决→被打脸→看着PYONA抢走全场掌声。PYONA表演逻辑：平静配合→疑惑→不安→明显憋气和缺氧→快撑不住的真实难受表情→恐慌→恼火→自己挣脱→破箱而出→大口吸气与急喘回气→打魔术师一次→一边恢复一边谢幕。喜剧来自人物反差，但PYONA的危险感和情绪必须真实可感，不要做成纯卡通闹剧。尤其不要把她演成水下还很轻松或面无表情，必须让缺氧压力真实写在脸上。
-
-【SOUND】无BGM，主要使用真实舞台声音与适度喜剧节奏音效。魔术师台词只有：“하나, 둘, 셋!”、“어? 어?! 잠깐!”。其余无对白。前段保留舞台WHOOSH、水泡声、水箱拍击声；中段加强束缚摩擦声、气泡连续泄出声；破箱时有清晰CRASH和大量水倾泻声；出水后必须明显听到PYONA第一口强烈吸气“HAH—!”，随后连续急促喘息、短促咳水或回气声；耳光只有一次清晰SLAP；最后是观众巨大掌声与欢呼。
-
-【PHOTOREALISTIC QUALITY】真实真人摄影。自然皮肤毛孔、细小绒毛、真实湿水皮肤反光，不磨皮、不塑料皮肤、不AI美女滤镜。头发严格遵循image1的原始颜色、长度、造型与发饰。水中及出水后遵循真实湿发物理，发丝形成自然湿束并滴水，不允许突然恢复干燥。服装浸水后颜色自然加深，具有真实湿布重量、贴合与褶皱，但保持专业舞台服装应有的不透明度。水下缺氧时的脸部要真实：眉间收紧、眼神发急、面部肌肉绷紧、嘴唇和下颌明显用力、鼻翼轻微张开、表情逐渐接近撑不住。出水后的身体状态要真实：肩膀起伏、呼吸急促、体力被消耗、表情残留惊险后的疲惫感。水箱、水体、破裂、水流必须符合真实重量、折射、流体动力学和表面张力。
-
-【NEGATIVE】禁止继承image1原本服装；禁止改变image1脸部身份、发色、发型、发长或原有发饰；禁止第二个PYONA、人物互换、动画感、游戏CG感、廉价水特效、魔法光束、超能力发光、爆炸火球、血液、伤口、残酷溺水、长时间失去意识、多次耳光、连续攻击、魔术师被打飞、超级英雄落地、色情化运镜、刻意身体局部特写、字幕、屏幕文字、水印、可读品牌logo；禁止把水下表情做得过于平静、轻松、只是普通惊讶、只有吐泡泡却没有缺氧痛苦；禁止PYONA一出水就立刻完全恢复；禁止用魔术师反应镜头代替PYONA的缺氧表演。
-
-核心：image1只作为PYONA身份、脸部、头发、发饰、体型参考，不继承原服装；Seedance重新生成兔女郎魔术助手服装；30秒版本要把最重要的时间留给PYONA水下越来越强的缺氧表情与出水后的真实回气恢复；魔术师慌张无能，PYONA被逼到极限后自己挣脱并破箱而出；出水后真实大口吸气、连续喘息、咳嗽和疲惫，再愤怒地给魔术师一巴掌，最后还没完全恢复就勉强完成谢幕，并获得全场起立鼓掌。
-```
-
-</details>
-
-**Prompt credit / source:** [@pyona_ai](https://x.com/pyona_ai) · [Original post](https://x.com/pyona_ai/status/2091163447899857065)
 
 ### yeah.. ai is crazy
 
@@ -1361,31 +1121,7 @@ Audio:
 Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
 
 Negative:
-No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.Made with Seedance 2.5
-
-Prompt:
-
-30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
-
-Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
-
-00–05s:
-She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
-
-05–10s:
-She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
-
-10–15s:
-She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
-
-15–20s:
-She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
-
-20–25s:
-She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
-
-25–30s:
-She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.
 ```
 
 </details>
@@ -2434,27 +2170,6 @@ Audio: Natural room ambience, footsteps, wardrobe movement, finger snaps with sa
 </details>
 
 **Prompt credit / source:** [@AIwithSynthia](https://x.com/AIwithSynthia) · [Original post](https://x.com/AIwithSynthia/status/2088839988792434997)
-
-### Journey through Hell made with seedance 2.5
-
-<a href="https://x.com/AiwithAlyar/status/2091023557560021314"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AiwithAlyar_2091021916568203265.webp" width="460" alt="Journey through Hell made with seedance 2.5"></a>
-
-**Video credit / source:** [Alyar AI](https://x.com/AiwithAlyar) · [@AiwithAlyar](https://x.com/AiwithAlyar) · [Original post](https://x.com/AiwithAlyar/status/2091023557560021314) · Seedance 2.5 · 2026-08-22 · 16.9K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-One continuous 30-second chaotic amateur first-person smartphone video filmed by a standing passenger inside a completely packed magnetic-levitation commuter train. Single unbroken take with no cuts, jump cuts, dissolves, crossfades, double exposures, portals, morphing or artificial scene transitions. The train begins as an ordinary weekday commute on Earth and then physically travels downward on an impossible journey — through subway tunnels into bedrock, into a colossal void beneath the crust, past a soot-blackened waiting platform, through an immense eroded gate, out above a burning plain, down the terraced wall of a vast pit, and into the inhabited depths of Hell. Everything must feel physically connected, as though the same train is genuinely travelling down through each environment.
-The tone is bureaucratic dread, not horror-movie shock. This is a scheduled service. The route is old, the infrastructure is worn, and the train runs it the way it runs any other line. The horror comes from how ordinary the journey is and how enormous the destination turns out to be.
-The interior is a completely packed standing-room-only maglev commuter car. Passengers are pressed shoulder-to-shoulder, gripping overhead straps and vertical poles. Backpacks are squeezed between bodies, coats and loose clothing shift with acceleration, straps swing on their inertia, and the entire carriage constantly vibrates and rattles. The camera is a cheap smartphone held at chest height by one standing passenger who grips a pole with the other hand. The phone itself is NEVER visible because the phone is the camera. The framing is crooked, slightly off-centre, partially blocked by shoulders and arms, and imperfect like genuine accidental footage. The camera constantly shakes, rolls, yaws and gets thrown around by acceleration. Use realistic rolling-shutter distortion, autofocus hunting, exposure pumping, blown highlights, crushed noisy shadows, low-bitrate compression, macroblocking and smeared motion blur. It must look like genuine spontaneous smartphone footage, not professional cinematic footage.
-The camera always looks through the LEFT-SIDE WINDOWS at approximately 90 degrees to the train's direction of travel. The train always travels forward and the outside world always streams past the windows from front-to-back. Never switch to a forward-facing train-nose view. Never show the front of the train. The same carriage, same passengers, same poles, same straps and same windows remain visually consistent throughout the entire journey. The interior is the constant realistic anchor while the outside world becomes increasingly impossible.
-0 to 3 seconds. Begin with an ordinary overcast weekday commute on an elevated urban line. Grey apartment blocks, rooftop water tanks, a scrapyard, overhead wires, a canal and traffic on a road below streak past the left windows at different distances with realistic parallax. The passengers are tired and mostly uninterested — some on phones, some staring out, some talking quietly. A calm public-address chime sounds and an announcer quietly says, "Next stop: Hell." Nobody reacts. One passenger glances up briefly and goes back to their phone. The train accelerates and everyone instinctively tightens their grip as the carriage gives a hard lateral jolt.
-3 to 6 seconds. The line drops into a cutting and then into a tunnel. Tiled subway walls, cable runs, service lights and a passing platform strobe across the windows in hard bands of light and dark, throwing the carriage into stuttering illumination. The tunnel ages as the train descends: modern concrete becomes older brickwork, then rough-cut stone. The fittings become scorched and soot-caked — blackened signal lights, corroded brackets, cabling burnt down to bare metal. This route has been running a long time. The gradient steepens noticeably; passengers lean back against the pitch
-```
-
-</details>
-
-**Prompt credit / source:** [@AiwithAlyar](https://x.com/AiwithAlyar) · [Original post](https://x.com/AiwithAlyar/status/2091023557560021314)
 
 ### Made with seedance 2.5
 
