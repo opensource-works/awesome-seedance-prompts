@@ -21,11 +21,11 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 | | |
 |---|---|
-| Posts | **325** |
+| Posts | **326** |
 | Source accounts credited | **195** |
-| Posts with the full prompt | **169** |
+| Posts with the full prompt | **170** |
 | Combined views on X | **68.3M** |
-| Models covered | **Seedance 2.5** (257), **Seedance 2.0** (64), **Seedance** (4) |
+| Models covered | **Seedance 2.5** (257), **Seedance 2.0** (64), **Seedance** (5) |
 | Last refreshed | 2026-09-10 |
 
 ## Most watched
@@ -42,7 +42,7 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 ## Contents
 
-- [Showcase](#showcase) — 87 posts
+- [Showcase](#showcase) — 88 posts
 - [Cinematic & Film](#cinematic-film) — 45 posts
 - [Anime & Animation](#anime-animation) — 18 posts
 - [Action & VFX](#action-vfx) — 34 posts
@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
 <a href="https://x.com/johnAGI168/status/2096128599614947590"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2096128203169406976.webp" width="460" alt="咱就说有这样的金牌导师能不好好学习吗😄"></a>
 
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096128599614947590) · Seedance 2.5 · 2026-09-05 · 327K views
+**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096128599614947590) · Seedance 2.5 · 2026-09-05 · 327.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1135,7 +1135,7 @@ Backward tracking。母亲抓着白色裙摆在湿泥路上全力奔跑，母亲
 
 <a href="https://x.com/john87445528/status/2090235694031794450"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2090235405345910784.webp" width="460" alt="别去城中村做保养. 虽然皮肤刚开始看起来水灵灵的"></a>
 
-**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2090235694031794450) · Seedance 2.0 · 2026-08-20 · 31.5K views
+**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2090235694031794450) · Seedance 2.0 · 2026-08-20 · 31.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1364,6 +1364,48 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 <a href="https://x.com/Dheepanratnam/status/2083088158804042196"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Dheepanratnam_2083088017363697664.webp" width="460" alt="Seedance 2.5 claims 30-second single takes"></a>
 
 **Video credit / source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) · [@Dheepanratnam](https://x.com/Dheepanratnam) · [Original post](https://x.com/Dheepanratnam/status/2083088158804042196) · Seedance 2.5 · 2026-07-31 · 13.4K views
+
+### 你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了
+
+<a href="https://x.com/john87445528/status/2097837460910956650"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2097487090565156864.webp" width="460" alt="你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了"></a>
+
+**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2097837460910956650) · Seedance · 2026-09-10 · 13.2K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+本场前缀（两段共用，第二段只加接片句）
+以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。9:16。拍摄者坐在普通大学教室第二排靠过道座位，成年学生与成年女老师。右手在胸口下方端拍摄手机，左手举起另一部显示服装参考的手机，画面右下角持续被这部参考手机部分占据：屏幕朝向拍摄镜头，亮度适中，边缘略虚，但当前预设的全身轮廓和配色可辨。构图是座位第一人称隐蔽视角，前景左侧一名学生正在记笔记，前排右侧一名学生看白板，旁边同桌低头看教材；前排肩背不时切进画面下缘，不遮死老师和白板。因双手持机，画面带持续轻微手抖、呼吸起伏，以及拇指滑动/点按造成的短促倾斜。自动对焦在近处参考屏幕、远处老师衣物和白板上的字之间反复搜索，短暂失焦后再锁定。自动白平衡随窗边自然光与教室顶灯在偏冷与微暖之间轻微漂移。保留窗光短暂过曝、边缘紫绿色差、合理运动模糊。仅画内环境声：近处气声和提示音贴麦，几米外讲课带教室混响，通风、写字、翻页、椅脚轻响贯穿。紫白扫描是唯一超现实元素。
+
+第一段｜0–12秒
+以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。生成一段12秒、9:16竖屏、写实手机录像风格的虚构课堂变装短视频。地点为普通大学教室，老师和学生均为成年人。窗边自然光与教室顶灯混合照明。成年女老师在白板旁讲授“相关性与因果关系”，白板上提前写好“相关 ≠ 因果”和简单散点图，文字与图形全程稳定，不漂移、不重写。老师穿首帧初始服装，脸、五官、发型、身材与身份始终一致。镜头来自第二排靠过道的一名学生，右手在胸口下方持拍摄设备，左手拿着另一部手机，该手机持续出现在画面右下角，屏幕朝向镜头，当前显示预设#1全身参考。屏幕亮度适中，款式配色可辨，不使用过强虚化。前景左侧学生记笔记，前排右侧学生看白板，同桌低头看教材。人物位置固定。正常速度，轻微手持起伏，无配乐。
+0秒时，老师侧身看向白板，空着的右手示意“相关 ≠ 因果”，然后转回学生方向。自动对焦先在前景参考屏幕上停半拍，再拉到老师上半身和白板字，画面因坐姿呼吸轻微起伏、略向右倾。通风声和写字声同时进麦。
+1.5秒时，老师自然说：“两个现象一起出现，不代表谁导致了谁。”语气平稳，有日常授课停顿，目光扫过前排，不盯镜头。左侧学生继续记笔记，右侧学生看一眼白板后低头看书。前景手机稳定显示预设#1。讲课声在几米外，带教室混响。
+3.5秒时，持机学生用左手拇指轻点屏幕，点按让参考机和拍摄机一起轻晃一下。一声短促电子提示音贴麦响起，克制的紫白扫描光自老师肩部向下经过，初始服装连续替换为预设#1，一次完成，不出现裸体中间帧，不混入未提供的装饰。老师先朝前排瞥一眼，随后感觉衣料变化，话音停住，低头看自己，轻轻捏身侧衣料，疑惑地发出：“嗯？”光效立即消退，不遮脸。扫描时窗边高光让画面微亮，自动曝光往回收；自动对焦被光带和衣料纹理短暂带走，半秒后锁回老师。
+5秒时，老师抬眼停顿片刻，似乎想先把课讲完，重新示意白板：“我们接着看……还有其他因素。”说到中间短暂低头看一眼衣服，再把视线转回课堂，勉强维持授课。左侧记笔记的学生慢半拍抬头，笔尖停在纸上；同桌顺着他的视线看过去，轻声问：“怎么了？”其他学生暂时仍在看书。持机者呼吸一紧，镜头跟着微沉后回正，不改变机位高度。
+8秒时，老师把双手自然收在腰前，准备继续解释。前景拇指滑动一次，手机明确切换为预设#2并稳定停留。滑动时画面短促右斜，自动对焦被新参考图抢走，老师短暂发虚。右侧学生看看老师，又偏头看一眼同桌，眉头微皱，没有夸张张嘴。老师此时仍穿预设#1。
+9.5秒时，第二次电子音响起，紫白扫描光将预设#1完整替换为预设#2，不混留上一套衣物的装饰。老师低头，双手稍稍离开衣服，肩膀收紧，脱口而出：“等一下……”前排右侧学生身体坐直，椅子发出很轻的摩擦声。对焦在扫描结束后重新落在老师面容和#2衣料上。
+11秒时，老师仍站在白板旁，低头看身上的预设#2，右手轻按腰侧衣料，左手停在身前。前景手机仍显示预设#2。镜头保持原高度和构图，轻微手抖仍在，不切黑、不转场、不推近。写字声停了一拍，通风声继续。本段在这一连续状态上直接结束。
+真实感与强制约束：本段内部一镜到底。三次变化中本段只完成“初始服装 → #1 → #2”。禁止裸露过渡、透明衣物、身体特写、夸张扫描爆闪、慢动作、配乐、全班同步转头、镜头离开座位、参考图跳号、白板字重绘、肢体畸形。
+画面呈现出真实的未经处理手持视频质感，纪录片级别的自然不完美感，无任何后期调色或特效。所有相机行为均符合iPhone/手机自动拍摄的物理特性。
+
+第二段｜12–24秒
+以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。本段严格承接上一段最后一帧：老师仍站在白板旁，身上已是预设#2，右手轻按腰侧衣料，左手停在身前；前景参考手机仍显示预设#2；左侧学生笔停在纸上，同桌已看向老师，右侧学生坐直。不重新开场，不重置服装，不把老师放回初始讲课姿态。9:16，同一座位第一人称，右手胸口下方持机，左手参考机持续占画面右下角。白板“相关 ≠ 因果”和散点图位置不变。窗边自然光与顶灯混合，正常速度，无配乐。
+12秒时，老师从低头看衣服抬眼看向前排，神情困惑，语气不确定：“你们也看见了？”因抬头动作，拍摄机随持机者上身微动轻轻一晃，自动对焦从腰侧衣料拉到老师面部，短暂软一下再实。
+13秒时，左侧学生点了一下头，轻声回答：“老师，衣服变了。”声音近、压着嗓子。同桌合上半开的教材，视线停在老师脸上。后排传来短暂低语，音量很小，盖不过这句对话。麦克风对近处回答更清楚，远处低语发糊。
+14.5秒时，老师吸了一口气，试图镇定，目光从前排扫向过道，没有开始讲新内容。前景拇指滑动，手机切换为预设#3并清晰停留。老师此时仍穿预设#2。滑动造成画面短促倾斜，自动对焦锁在新参考图上约半秒。同桌先看屏幕，再看老师，表情逐渐意识到两者有关。
+16秒时，学生轻点屏幕，第三次电子提示音贴麦响起，克制紫白扫描将预设#2准确替换为预设#3，不混留#1或#2的装饰。老师的脸、发型、站位与身体比例不变，手臂与衣料之间的遮挡关系正常，无裸体中间帧。老师肩膀一缩，短促吸气，低头确认。光效消失后不再变装，手机始终停留在预设#3。扫描时曝光微抬后收回。
+17.5秒时，老师一条前臂横护在胸前衣物外侧，另一只手压住前侧裙摆；若预设#3是裤装或连体服，则护在小腹前，不生成不存在的裙摆。衣物始终完整覆盖。她朝讲台侧后方挪一小步，肩膀内收。持机者为跟上侧移，手腕本能微调，画面轻微跟晃但仍是原座位视角，下半身被讲台逐渐挡住一部分。
+18.5秒时，右侧学生立刻移开视线，低头看桌面；左侧学生放下笔，有些担心地看着她。同桌转向持机者，压低声音说：“别弄了。”背景低语随之减弱，不出现哄笑或集体围观。近处“别弄了”贴麦，老师衣料摩擦声可闻。
+20秒时，老师停在讲台侧后方，讲台遮住部分下半身。她仍护着胸前与下摆，脸颊轻微泛红，抬眼发现拍摄设备，声音紧张：“先别拍，好吗？”说完轻抿嘴唇，视线落下，保持无措和害羞，不做夸张哭泣。自动对焦在她抬眼看向镜头时锁住面部，前景参考机仍在右下角显示#3，略抢一层景深但不虚掉老师。
+22秒时，持机者听见老师的话后手腕下沉，镜头连续向下倾斜，没有突然切走。画面上方短暂保留老师收紧肩膀、隔着完整衣物遮挡的姿态，下方逐渐出现课桌与摊开的笔记。前景参考手机随左手一起降低，仍显示预设#3。自动对焦从老师落到桌面纸页，字迹先糊后略清。最后伴随轻微衣袖摩擦声结束，不重新抬镜偷拍，不补特写。
+真实感与强制约束：本段内部一镜到底，与上一段首尾直接衔接。本段只完成“#2 → #3”，之后不再变化。禁止跳号、混搭、第四次变装、裸露过渡、透明衣物、身体局部特写、夸张扫描爆闪、慢动作、背景音乐、全班同步表演、镜头离开原座位、参考图中途换成别的、手臂穿过衣物、肢体畸形。
+画面呈现出真实的未经处理手持视频质感，纪录片级别的自然不完美感，无任何后期调色或特效。所有相机行为均符合iPhone/手机自动拍摄的物理特性
+```
+
+</details>
+
+**Prompt credit / source:** [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2097837460910956650)
 
 ### Made with Seedance 2.5
 
@@ -1996,7 +2038,7 @@ https://github.com/user-attachments/assets/fda67ba1-5cf4-4362-b6a0-d8edf803abc1
 
 <a href="https://x.com/AIwithkhan/status/2097168171367338428"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2097168098038292480.webp" width="460" alt="Girl with a B **** H mode 🥵"></a>
 
-**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2097168171367338428) · Seedance 2.5 · 2026-09-08 · 194.3K views
+**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2097168171367338428) · Seedance 2.5 · 2026-09-08 · 194.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6273,7 +6315,7 @@ No music. No narration. Only the two spoken lines specified above.
 
 <a href="https://x.com/Just_sharon7/status/2096109540924141746"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2096106543985152000.webp" width="460" alt="Realism that makes ordinary life feel special"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2096109540924141746) · Seedance 2.5 · 2026-09-05 · 141.7K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2096109540924141746) · Seedance 2.5 · 2026-09-05 · 141.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6934,7 +6976,7 @@ Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosph
 
 <a href="https://x.com/QAiStudio/status/2097181982924984513"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/QAiStudio_2097181923902939137.webp" width="460" alt="A day in a life of Korean Girl"></a>
 
-**Video credit / source:** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2097181982924984513) · Seedance 2.5 · 2026-09-08 · 28.3K views
+**Video credit / source:** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2097181982924984513) · Seedance 2.5 · 2026-09-08 · 28.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8530,7 +8572,7 @@ https://github.com/user-attachments/assets/b57b8706-007f-4ee7-9f7b-df6ab06042fd
 
 <a href="https://x.com/sha_zdiii/status/2097927068973662397"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sha_zdiii_2097927032680390656.webp" width="460" alt="Seedance 2.5 brought Korea’s forgotten everyday moments back to life... glimpse into how…"></a>
 
-**Video credit / source:** [shah_zadii](https://x.com/sha_zdiii) · [@sha_zdiii](https://x.com/sha_zdiii) · [Original post](https://x.com/sha_zdiii/status/2097927068973662397) · Seedance 2.5 · 2026-09-10 · 4.8K views
+**Video credit / source:** [shah_zadii](https://x.com/sha_zdiii) · [@sha_zdiii](https://x.com/sha_zdiii) · [Original post](https://x.com/sha_zdiii/status/2097927068973662397) · Seedance 2.5 · 2026-09-10 · 4.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -9945,7 +9987,7 @@ https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 625.6K views
+**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 625.7K views
 
 ### Seedance 2.0 from China will be the SOTA
 
