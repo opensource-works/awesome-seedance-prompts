@@ -24,9 +24,9 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 | Posts | **326** |
 | Source accounts credited | **195** |
 | Posts with the full prompt | **170** |
-| Combined views on X | **68.3M** |
+| Combined views on X | **68.6M** |
 | Models covered | **Seedance 2.5** (257), **Seedance 2.0** (64), **Seedance** (5) |
-| Last refreshed | 2026-09-10 |
+| Last refreshed | 2026-09-14 |
 
 ## Most watched
 
@@ -36,7 +36,7 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 <td width="33%" valign="top"><a href="https://x.com/0xKarmi/status/2094820672862138852"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/0xKarmi_2094820437473570817.webp" width="100%" alt=""></a><br><sub><b>🚨 Red Bull spent $2.5M attempting a stunt like this</b><br><a href="https://x.com/0xKarmi">@0xKarmi</a> · 7.8M views</sub></td>
 </tr><tr>
 <td width="33%" valign="top"><a href="https://x.com/Sheldon056/status/2091396663718117706"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Sheldon056_2091396374864748544.webp" width="100%" alt=""></a><br><sub><b>If this is AI slop, keep serving it</b><br><a href="https://x.com/Sheldon056">@Sheldon056</a> · 5.3M views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/RishuaVR/status/2089204108175741157"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/RishuaVR_2089204070997532672.webp" width="100%" alt=""></a><br><sub><b>Main subject: young Indonesian woman, early 20s, natural…</b><br><a href="https://x.com/RishuaVR">@RishuaVR</a> · 3.6M views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/RishuaVR/status/2089204108175741157"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/RishuaVR_2089204070997532672.webp" width="100%" alt=""></a><br><sub><b>Main subject: young Indonesian woman, early 20s, natural…</b><br><a href="https://x.com/RishuaVR">@RishuaVR</a> · 3.7M views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/higgsfield/status/2083105837795745797"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_2083105131604963328.webp" width="100%" alt=""></a><br><sub><b>14 days of unlimited Seedance on Higgsfield</b><br><a href="https://x.com/higgsfield">@higgsfield</a> · 1.7M views</sub></td>
 </tr></table>
 
@@ -76,19 +76,13 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
-**Video credit / source:** [Angry Tom](https://x.com/AngryTomtweets) · [@AngryTomtweets](https://x.com/AngryTomtweets) · [Original post](https://x.com/AngryTomtweets/status/2020192635936469110) · Seedance 2.0 · 2026-02-07 · 527K views
-
-### Late nights hit different when you actually have the energy for them
-
-<a href="https://x.com/AIwithJessica/status/2090236311907323986"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithJessica_2090235551236661248.webp" width="460" alt="Late nights hit different when you actually have the energy for them"></a>
-
-**Video credit / source:** [Jessica Collins](https://x.com/AIwithJessica) · [@AIwithJessica](https://x.com/AIwithJessica) · [Original post](https://x.com/AIwithJessica/status/2090236311907323986) · Seedance 2.0 · 2026-08-20 · 337.9K views
+**Video credit / source:** [Angry Tom](https://x.com/AngryTomtweets) · [@AngryTomtweets](https://x.com/AngryTomtweets) · [Original post](https://x.com/AngryTomtweets/status/2020192635936469110) · Seedance 2.0 · 2026-02-07 · 527.1K views
 
 ### 咱就说有这样的金牌导师能不好好学习吗😄
 
 <a href="https://x.com/johnAGI168/status/2096128599614947590"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2096128203169406976.webp" width="460" alt="咱就说有这样的金牌导师能不好好学习吗😄"></a>
 
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096128599614947590) · Seedance 2.5 · 2026-09-05 · 327.1K views
+**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096128599614947590) · Seedance 2.5 · 2026-09-05 · 340.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -296,17 +290,23 @@ Negative：
 
 **Prompt credit / source:** [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096128599614947590)
 
+### Late nights hit different when you actually have the energy for them
+
+<a href="https://x.com/AIwithJessica/status/2090236311907323986"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithJessica_2090235551236661248.webp" width="460" alt="Late nights hit different when you actually have the energy for them"></a>
+
+**Video credit / source:** [Jessica Collins](https://x.com/AIwithJessica) · [@AIwithJessica](https://x.com/AIwithJessica) · [Original post](https://x.com/AIwithJessica/status/2090236311907323986) · Seedance 2.0 · 2026-08-20 · 337.9K views
+
 ### Do you understand the words that are coming out of my mouth?👄
 
 <a href="https://x.com/TechieBySA/status/2094793092297605595"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TechieBySA_2094793021657059329.webp" width="460" alt="Do you understand the words that are coming out of my mouth?👄"></a>
 
-**Video credit / source:** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2094793092297605595) · Seedance 2.5 · 2026-09-01 · 315K views
+**Video credit / source:** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2094793092297605595) · Seedance 2.5 · 2026-09-01 · 317.3K views
 
 ### am testing all of the leading video generation models using the same prompt in thread
 
 <a href="https://x.com/tonykipkemboi/status/2094795407259730261"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/tonykipkemboi_2094793306530058240.webp" width="460" alt="am testing all of the leading video generation models using the same prompt in thread"></a>
 
-**Video credit / source:** [Tony Kipkemboi](https://x.com/tonykipkemboi) · [@tonykipkemboi](https://x.com/tonykipkemboi) · [Original post](https://x.com/tonykipkemboi/status/2094795407259730261) · Seedance 2.5 · 2026-09-01 · 259.6K views
+**Video credit / source:** [Tony Kipkemboi](https://x.com/tonykipkemboi) · [@tonykipkemboi](https://x.com/tonykipkemboi) · [Original post](https://x.com/tonykipkemboi/status/2094795407259730261) · Seedance 2.5 · 2026-09-01 · 261.1K views
 
 > A prompt is mentioned in the [X thread](https://x.com/tonykipkemboi/status/2094795407259730261); the exact reply has not been indexed yet.
 
@@ -314,7 +314,7 @@ Negative：
 
 <a href="https://x.com/johnAGI168/status/2095025524586193105"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2095025208868397062.webp" width="460" alt="Seedance 2.5 也过于逼真了啊🫠连影子都那么真实"></a>
 
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2095025524586193105) · Seedance 2.5 · 2026-09-02 · 239K views
+**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2095025524586193105) · Seedance 2.5 · 2026-09-02 · 246K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -450,13 +450,13 @@ Negative:
 
 https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
-**Video credit / source:** [Chetaslua](https://x.com/chetaslua) · [@chetaslua](https://x.com/chetaslua) · [Original post](https://x.com/chetaslua/status/2069304088177848479) · Seedance 2.5 · 2026-06-23 · 208.1K views
+**Video credit / source:** [Chetaslua](https://x.com/chetaslua) · [@chetaslua](https://x.com/chetaslua) · [Original post](https://x.com/chetaslua/status/2069304088177848479) · Seedance 2.5 · 2026-06-23 · 208.2K views
 
 ### This is the best Seedance hack ever
 
 <a href="https://x.com/Framer_X/status/2091964763609628672"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Framer_X_2091937135335018496.webp" width="460" alt="This is the best Seedance hack ever"></a>
 
-**Video credit / source:** [Framer 🇱🇹](https://x.com/Framer_X) · [@Framer_X](https://x.com/Framer_X) · [Original post](https://x.com/Framer_X/status/2091964763609628672) · Seedance · 2026-08-24 · 193.9K views
+**Video credit / source:** [Framer 🇱🇹](https://x.com/Framer_X) · [@Framer_X](https://x.com/Framer_X) · [Original post](https://x.com/Framer_X/status/2091964763609628672) · Seedance · 2026-08-24 · 194.8K views
 
 > A prompt is mentioned in the [X thread](https://x.com/Framer_X/status/2091964763609628672); the exact reply has not been indexed yet.
 
@@ -464,25 +464,67 @@ https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
 <a href="https://x.com/Chengzilhy/status/2089933753770713231"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Chengzilhy_2089929795857788928.webp" width="460" alt="水上闯关秀第三弹：火影纲手婆婆上场 🔥"></a>
 
-**Video credit / source:** [小宇Chengzi](https://x.com/Chengzilhy) · [@Chengzilhy](https://x.com/Chengzilhy) · [Original post](https://x.com/Chengzilhy/status/2089933753770713231) · Seedance 2.5 · 2026-08-19 · 173K views
+**Video credit / source:** [小宇Chengzi](https://x.com/Chengzilhy) · [@Chengzilhy](https://x.com/Chengzilhy) · [Original post](https://x.com/Chengzilhy/status/2089933753770713231) · Seedance 2.5 · 2026-08-19 · 174.3K views
 
 ### wen3.0真的屌爆了啊啊啊，本以为上次的 Seedance 2.5 已经够顶了，没想到 @edimakortaiwan 刚上的 Wan 3.0 直接开大！🤯
 
 <a href="https://x.com/jackzhang123vip/status/2094252298746970456"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/jackzhang123vip_2094251221662195712.webp" width="460" alt="wen3.0真的屌爆了啊啊啊，本以为上次的 Seedance 2.5 已经够顶了，没想到 @edimakortaiwan 刚上的 Wan 3.0 直接开大！🤯"></a>
 
-**Video credit / source:** [梦老湿 Dream AI](https://x.com/jackzhang123vip) · [@jackzhang123vip](https://x.com/jackzhang123vip) · [Original post](https://x.com/jackzhang123vip/status/2094252298746970456) · Seedance 2.5 · 2026-08-31 · 168.4K views
+**Video credit / source:** [梦老湿 Dream AI](https://x.com/jackzhang123vip) · [@jackzhang123vip](https://x.com/jackzhang123vip) · [Original post](https://x.com/jackzhang123vip/status/2094252298746970456) · Seedance 2.5 · 2026-08-31 · 169.8K views
 
 ### The most iconic duo in sci-fi history 🕶️
 
 <a href="https://x.com/TechieBySA/status/2094474189822402892"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TechieBySA_2094474156251226113.webp" width="460" alt="The most iconic duo in sci-fi history 🕶️"></a>
 
-**Video credit / source:** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2094474189822402892) · Seedance 2.0 · 2026-08-31 · 148.2K views
+**Video credit / source:** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2094474189822402892) · Seedance 2.0 · 2026-08-31 · 155.1K views
+
+### 你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了
+
+<a href="https://x.com/john87445528/status/2097837460910956650"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2097487090565156864.webp" width="460" alt="你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了"></a>
+
+**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2097837460910956650) · Seedance · 2026-09-10 · 133.5K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+本场前缀（两段共用，第二段只加接片句）
+以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。9:16。拍摄者坐在普通大学教室第二排靠过道座位，成年学生与成年女老师。右手在胸口下方端拍摄手机，左手举起另一部显示服装参考的手机，画面右下角持续被这部参考手机部分占据：屏幕朝向拍摄镜头，亮度适中，边缘略虚，但当前预设的全身轮廓和配色可辨。构图是座位第一人称隐蔽视角，前景左侧一名学生正在记笔记，前排右侧一名学生看白板，旁边同桌低头看教材；前排肩背不时切进画面下缘，不遮死老师和白板。因双手持机，画面带持续轻微手抖、呼吸起伏，以及拇指滑动/点按造成的短促倾斜。自动对焦在近处参考屏幕、远处老师衣物和白板上的字之间反复搜索，短暂失焦后再锁定。自动白平衡随窗边自然光与教室顶灯在偏冷与微暖之间轻微漂移。保留窗光短暂过曝、边缘紫绿色差、合理运动模糊。仅画内环境声：近处气声和提示音贴麦，几米外讲课带教室混响，通风、写字、翻页、椅脚轻响贯穿。紫白扫描是唯一超现实元素。
+
+第一段｜0–12秒
+以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。生成一段12秒、9:16竖屏、写实手机录像风格的虚构课堂变装短视频。地点为普通大学教室，老师和学生均为成年人。窗边自然光与教室顶灯混合照明。成年女老师在白板旁讲授“相关性与因果关系”，白板上提前写好“相关 ≠ 因果”和简单散点图，文字与图形全程稳定，不漂移、不重写。老师穿首帧初始服装，脸、五官、发型、身材与身份始终一致。镜头来自第二排靠过道的一名学生，右手在胸口下方持拍摄设备，左手拿着另一部手机，该手机持续出现在画面右下角，屏幕朝向镜头，当前显示预设#1全身参考。屏幕亮度适中，款式配色可辨，不使用过强虚化。前景左侧学生记笔记，前排右侧学生看白板，同桌低头看教材。人物位置固定。正常速度，轻微手持起伏，无配乐。
+0秒时，老师侧身看向白板，空着的右手示意“相关 ≠ 因果”，然后转回学生方向。自动对焦先在前景参考屏幕上停半拍，再拉到老师上半身和白板字，画面因坐姿呼吸轻微起伏、略向右倾。通风声和写字声同时进麦。
+1.5秒时，老师自然说：“两个现象一起出现，不代表谁导致了谁。”语气平稳，有日常授课停顿，目光扫过前排，不盯镜头。左侧学生继续记笔记，右侧学生看一眼白板后低头看书。前景手机稳定显示预设#1。讲课声在几米外，带教室混响。
+3.5秒时，持机学生用左手拇指轻点屏幕，点按让参考机和拍摄机一起轻晃一下。一声短促电子提示音贴麦响起，克制的紫白扫描光自老师肩部向下经过，初始服装连续替换为预设#1，一次完成，不出现裸体中间帧，不混入未提供的装饰。老师先朝前排瞥一眼，随后感觉衣料变化，话音停住，低头看自己，轻轻捏身侧衣料，疑惑地发出：“嗯？”光效立即消退，不遮脸。扫描时窗边高光让画面微亮，自动曝光往回收；自动对焦被光带和衣料纹理短暂带走，半秒后锁回老师。
+5秒时，老师抬眼停顿片刻，似乎想先把课讲完，重新示意白板：“我们接着看……还有其他因素。”说到中间短暂低头看一眼衣服，再把视线转回课堂，勉强维持授课。左侧记笔记的学生慢半拍抬头，笔尖停在纸上；同桌顺着他的视线看过去，轻声问：“怎么了？”其他学生暂时仍在看书。持机者呼吸一紧，镜头跟着微沉后回正，不改变机位高度。
+8秒时，老师把双手自然收在腰前，准备继续解释。前景拇指滑动一次，手机明确切换为预设#2并稳定停留。滑动时画面短促右斜，自动对焦被新参考图抢走，老师短暂发虚。右侧学生看看老师，又偏头看一眼同桌，眉头微皱，没有夸张张嘴。老师此时仍穿预设#1。
+9.5秒时，第二次电子音响起，紫白扫描光将预设#1完整替换为预设#2，不混留上一套衣物的装饰。老师低头，双手稍稍离开衣服，肩膀收紧，脱口而出：“等一下……”前排右侧学生身体坐直，椅子发出很轻的摩擦声。对焦在扫描结束后重新落在老师面容和#2衣料上。
+11秒时，老师仍站在白板旁，低头看身上的预设#2，右手轻按腰侧衣料，左手停在身前。前景手机仍显示预设#2。镜头保持原高度和构图，轻微手抖仍在，不切黑、不转场、不推近。写字声停了一拍，通风声继续。本段在这一连续状态上直接结束。
+真实感与强制约束：本段内部一镜到底。三次变化中本段只完成“初始服装 → #1 → #2”。禁止裸露过渡、透明衣物、身体特写、夸张扫描爆闪、慢动作、配乐、全班同步转头、镜头离开座位、参考图跳号、白板字重绘、肢体畸形。
+画面呈现出真实的未经处理手持视频质感，纪录片级别的自然不完美感，无任何后期调色或特效。所有相机行为均符合iPhone/手机自动拍摄的物理特性。
+
+第二段｜12–24秒
+以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。本段严格承接上一段最后一帧：老师仍站在白板旁，身上已是预设#2，右手轻按腰侧衣料，左手停在身前；前景参考手机仍显示预设#2；左侧学生笔停在纸上，同桌已看向老师，右侧学生坐直。不重新开场，不重置服装，不把老师放回初始讲课姿态。9:16，同一座位第一人称，右手胸口下方持机，左手参考机持续占画面右下角。白板“相关 ≠ 因果”和散点图位置不变。窗边自然光与顶灯混合，正常速度，无配乐。
+12秒时，老师从低头看衣服抬眼看向前排，神情困惑，语气不确定：“你们也看见了？”因抬头动作，拍摄机随持机者上身微动轻轻一晃，自动对焦从腰侧衣料拉到老师面部，短暂软一下再实。
+13秒时，左侧学生点了一下头，轻声回答：“老师，衣服变了。”声音近、压着嗓子。同桌合上半开的教材，视线停在老师脸上。后排传来短暂低语，音量很小，盖不过这句对话。麦克风对近处回答更清楚，远处低语发糊。
+14.5秒时，老师吸了一口气，试图镇定，目光从前排扫向过道，没有开始讲新内容。前景拇指滑动，手机切换为预设#3并清晰停留。老师此时仍穿预设#2。滑动造成画面短促倾斜，自动对焦锁在新参考图上约半秒。同桌先看屏幕，再看老师，表情逐渐意识到两者有关。
+16秒时，学生轻点屏幕，第三次电子提示音贴麦响起，克制紫白扫描将预设#2准确替换为预设#3，不混留#1或#2的装饰。老师的脸、发型、站位与身体比例不变，手臂与衣料之间的遮挡关系正常，无裸体中间帧。老师肩膀一缩，短促吸气，低头确认。光效消失后不再变装，手机始终停留在预设#3。扫描时曝光微抬后收回。
+17.5秒时，老师一条前臂横护在胸前衣物外侧，另一只手压住前侧裙摆；若预设#3是裤装或连体服，则护在小腹前，不生成不存在的裙摆。衣物始终完整覆盖。她朝讲台侧后方挪一小步，肩膀内收。持机者为跟上侧移，手腕本能微调，画面轻微跟晃但仍是原座位视角，下半身被讲台逐渐挡住一部分。
+18.5秒时，右侧学生立刻移开视线，低头看桌面；左侧学生放下笔，有些担心地看着她。同桌转向持机者，压低声音说：“别弄了。”背景低语随之减弱，不出现哄笑或集体围观。近处“别弄了”贴麦，老师衣料摩擦声可闻。
+20秒时，老师停在讲台侧后方，讲台遮住部分下半身。她仍护着胸前与下摆，脸颊轻微泛红，抬眼发现拍摄设备，声音紧张：“先别拍，好吗？”说完轻抿嘴唇，视线落下，保持无措和害羞，不做夸张哭泣。自动对焦在她抬眼看向镜头时锁住面部，前景参考机仍在右下角显示#3，略抢一层景深但不虚掉老师。
+22秒时，持机者听见老师的话后手腕下沉，镜头连续向下倾斜，没有突然切走。画面上方短暂保留老师收紧肩膀、隔着完整衣物遮挡的姿态，下方逐渐出现课桌与摊开的笔记。前景参考手机随左手一起降低，仍显示预设#3。自动对焦从老师落到桌面纸页，字迹先糊后略清。最后伴随轻微衣袖摩擦声结束，不重新抬镜偷拍，不补特写。
+真实感与强制约束：本段内部一镜到底，与上一段首尾直接衔接。本段只完成“#2 → #3”，之后不再变化。禁止跳号、混搭、第四次变装、裸露过渡、透明衣物、身体局部特写、夸张扫描爆闪、慢动作、背景音乐、全班同步表演、镜头离开原座位、参考图中途换成别的、手臂穿过衣物、肢体畸形。
+画面呈现出真实的未经处理手持视频质感，纪录片级别的自然不完美感，无任何后期调色或特效。所有相机行为均符合iPhone/手机自动拍摄的物理特性
+```
+
+</details>
+
+**Prompt credit / source:** [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2097837460910956650)
 
 ### POV - Korean baddie met her boyfriend in US
 
 <a href="https://x.com/AIwithkhan/status/2094997895187673489"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2094997804003557376.webp" width="460" alt="POV - Korean baddie met her boyfriend in US"></a>
 
-**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2094997895187673489) · Seedance 2.5 · 2026-09-02 · 122.7K views
+**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2094997895187673489) · Seedance 2.5 · 2026-09-02 · 123.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -512,41 +554,35 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 
 <a href="https://x.com/Itswsm105f/status/2093575376144675246"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Itswsm105f_2093575298872963072.webp" width="460" alt="The last dragon has awakened. 🐉🔥"></a>
 
-**Video credit / source:** [Zyro AI](https://x.com/Itswsm105f) · [@Itswsm105f](https://x.com/Itswsm105f) · [Original post](https://x.com/Itswsm105f/status/2093575376144675246) · Seedance 2.5 · 2026-08-29 · 102.1K views
+**Video credit / source:** [Zyro AI](https://x.com/Itswsm105f) · [@Itswsm105f](https://x.com/Itswsm105f) · [Original post](https://x.com/Itswsm105f/status/2093575376144675246) · Seedance 2.5 · 2026-08-29 · 102.2K views
 
 > A prompt is mentioned in the [X thread](https://x.com/Itswsm105f/status/2093575376144675246); the exact reply has not been indexed yet.
-
-### Seedance 2.5 impossible physics prompt is below 👇
-
-<a href="https://x.com/techhalla/status/2094476485977416162"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/techhalla_2094475691832033280.webp" width="460" alt="Seedance 2.5 impossible physics prompt is below 👇"></a>
-
-**Video credit / source:** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [Original post](https://x.com/techhalla/status/2094476485977416162) · Seedance 2.5 · 2026-08-31 · 84.4K views
-
-> A prompt is mentioned in the [X thread](https://x.com/techhalla/status/2094476485977416162); the exact reply has not been indexed yet.
 
 ### 祝20万インプ越え...(^^♪...【プロンプト公開】
 
 <a href="https://x.com/mi7_crypto/status/2094610037549477977"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mi7_crypto_2094583166556352512.webp" width="460" alt="祝20万インプ越え...(^^♪...【プロンプト公開】"></a>
 
-**Video credit / source:** [M7［mi7］AI](https://x.com/mi7_crypto) · [@mi7_crypto](https://x.com/mi7_crypto) · [Original post](https://x.com/mi7_crypto/status/2094610037549477977) · Seedance 2.5 · 2026-09-01 · 84.2K views
+**Video credit / source:** [M7［mi7］AI](https://x.com/mi7_crypto) · [@mi7_crypto](https://x.com/mi7_crypto) · [Original post](https://x.com/mi7_crypto/status/2094610037549477977) · Seedance 2.5 · 2026-09-01 · 86.2K views
+
+### Seedance 2.5 impossible physics prompt is below 👇
+
+<a href="https://x.com/techhalla/status/2094476485977416162"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/techhalla_2094475691832033280.webp" width="460" alt="Seedance 2.5 impossible physics prompt is below 👇"></a>
+
+**Video credit / source:** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [Original post](https://x.com/techhalla/status/2094476485977416162) · Seedance 2.5 · 2026-08-31 · 85.6K views
+
+> A prompt is mentioned in the [X thread](https://x.com/techhalla/status/2094476485977416162); the exact reply has not been indexed yet.
 
 ### 重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！
 
 <a href="https://x.com/yachimat_manga/status/2083173807896817876"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.webp" width="460" alt="重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！"></a>
 
-**Video credit / source:** [yachimat - AI Short Anime](https://x.com/yachimat_manga) · [@yachimat_manga](https://x.com/yachimat_manga) · [Original post](https://x.com/yachimat_manga/status/2083173807896817876) · Seedance 2.5 · 2026-07-31 · 82K views
-
-### Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot
-
-https://github.com/user-attachments/assets/837b684c-8845-4c65-bcbe-47c384c80c3e
-
-**Video credit / source:** [🚨 AI News | TestingCatalog](https://x.com/testingcatalog) · [@testingcatalog](https://x.com/testingcatalog) · [Original post](https://x.com/testingcatalog/status/2076043332472463471) · Seedance 2.5 · 2026-07-11 · 77.7K views
+**Video credit / source:** [yachimat - AI Short Anime](https://x.com/yachimat_manga) · [@yachimat_manga](https://x.com/yachimat_manga) · [Original post](https://x.com/yachimat_manga/status/2083173807896817876) · Seedance 2.5 · 2026-07-31 · 82.1K views
 
 ### 他主动帮我付钱、还要微信，我以为今天又被搭讪了……
 
 <a href="https://x.com/john87445528/status/2092028012267008033"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2092027983955480576.webp" width="460" alt="他主动帮我付钱、还要微信，我以为今天又被搭讪了……"></a>
 
-**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2092028012267008033) · Seedance 2.0 · 2026-08-24 · 77.5K views
+**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2092028012267008033) · Seedance 2.0 · 2026-08-24 · 79.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -572,35 +608,49 @@ PART B : 【生成任务】 续写上一段视频，生成约8.18秒的完整后
 
 **Prompt credit / source:** [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2092028012267008033)
 
+### Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot
+
+https://github.com/user-attachments/assets/837b684c-8845-4c65-bcbe-47c384c80c3e
+
+**Video credit / source:** [🚨 AI News | TestingCatalog](https://x.com/testingcatalog) · [@testingcatalog](https://x.com/testingcatalog) · [Original post](https://x.com/testingcatalog/status/2076043332472463471) · Seedance 2.5 · 2026-07-11 · 77.7K views
+
 ### 🔥 Ini gila sih. Seedance 2.5 berhasil generate video ini tanpa kena restriction terkait wajah
 
 <a href="https://x.com/stellarprtcol/status/2092114748372586794"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/stellarprtcol_2091743450073059328.webp" width="460" alt="🔥 Ini gila sih. Seedance 2.5 berhasil generate video ini tanpa kena restriction terkait wajah"></a>
 
-**Video credit / source:** [stellar protocol](https://x.com/stellarprtcol) · [@stellarprtcol](https://x.com/stellarprtcol) · [Original post](https://x.com/stellarprtcol/status/2092114748372586794) · Seedance 2.5 · 2026-08-25 · 73.6K views
+**Video credit / source:** [stellar protocol](https://x.com/stellarprtcol) · [@stellarprtcol](https://x.com/stellarprtcol) · [Original post](https://x.com/stellarprtcol/status/2092114748372586794) · Seedance 2.5 · 2026-08-25 · 74.5K views
 
 ### Gemini Omni 1.1 Flash vs Seedance 2.5
 
 <a href="https://x.com/JSFILMZ0412/status/2093047519257190780"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/JSFILMZ0412_2093047136791248896.webp" width="460" alt="Gemini Omni 1.1 Flash vs Seedance 2.5"></a>
 
-**Video credit / source:** [JSFILMZ](https://x.com/JSFILMZ0412) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [Original post](https://x.com/JSFILMZ0412/status/2093047519257190780) · Seedance 2.5 · 2026-08-27 · 72.4K views
+**Video credit / source:** [JSFILMZ](https://x.com/JSFILMZ0412) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [Original post](https://x.com/JSFILMZ0412/status/2093047519257190780) · Seedance 2.5 · 2026-08-27 · 72.6K views
 
 ### seedance2.5一键直接出3分钟视频：提示词如下：生成一段完整连续的3分钟写实古装武打电影片段。横屏16:9，2.35:1电影宽银幕构图，24fps，4K电影质感，冷峻低饱和蓝灰…
 
 <a href="https://x.com/baqiceloudezhu/status/2083105322919731519"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/baqiceloudezhu_2083104799252471808.webp" width="460" alt="seedance2.5一键直接出3分钟视频：提示词如下：生成一段完整连续的3分钟写实古装武打电影片段。横屏16:9，2.35:1电影宽银幕构图，24fps，4K电影质感，冷峻低饱和蓝灰…"></a>
 
-**Video credit / source:** [擎苍](https://x.com/baqiceloudezhu) · [@baqiceloudezhu](https://x.com/baqiceloudezhu) · [Original post](https://x.com/baqiceloudezhu/status/2083105322919731519) · Seedance 2.5 · 2026-07-31 · 71.1K views
+**Video credit / source:** [擎苍](https://x.com/baqiceloudezhu) · [@baqiceloudezhu](https://x.com/baqiceloudezhu) · [Original post](https://x.com/baqiceloudezhu/status/2083105322919731519) · Seedance 2.5 · 2026-07-31 · 71.5K views
 
 ### I accidentally entered an empty prompt in Seedance 2.5 and it gave me this. Kind of makes…
 
 <a href="https://x.com/EthanTFoster/status/2088717636460790092"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EthanTFoster_2088717104526540800.webp" width="460" alt="I accidentally entered an empty prompt in Seedance 2.5 and it gave me this. Kind of makes…"></a>
 
-**Video credit / source:** [Ethan T. Foster](https://x.com/EthanTFoster) · [@EthanTFoster](https://x.com/EthanTFoster) · [Original post](https://x.com/EthanTFoster/status/2088717636460790092) · Seedance 2.5 · 2026-08-15 · 56.2K views
+**Video credit / source:** [Ethan T. Foster](https://x.com/EthanTFoster) · [@EthanTFoster](https://x.com/EthanTFoster) · [Original post](https://x.com/EthanTFoster/status/2088717636460790092) · Seedance 2.5 · 2026-08-15 · 56.3K views
+
+### Thai folklore can be terrifying... and Mae Bia (แม่เบี้ย) is proof. 😱🐍 I can't look!
+
+<a href="https://x.com/drjoetw/status/2088873920862515458"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/drjoetw_2088873680923443200.webp" width="460" alt="Thai folklore can be terrifying... and Mae Bia (แม่เบี้ย) is proof. 😱🐍 I can&#x27;t look!"></a>
+
+**Video credit / source:** [The Anxious Mind](https://x.com/drjoetw) · [@drjoetw](https://x.com/drjoetw) · [Original post](https://x.com/drjoetw/status/2088873920862515458) · Seedance 2.5 · 2026-08-16 · 54.8K views
+
+> A prompt is mentioned in the [X thread](https://x.com/drjoetw/status/2088873920862515458); the exact reply has not been indexed yet.
 
 ### Something from our local street
 
 <a href="https://x.com/AIwithkhan/status/2091175465037746522"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2091175377687511040.webp" width="460" alt="Something from our local street"></a>
 
-**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2091175465037746522) · Seedance 2.5 · 2026-08-22 · 54.4K views
+**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2091175465037746522) · Seedance 2.5 · 2026-08-22 · 54.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -625,23 +675,15 @@ Audio: Summer insects, birds, bicycle chain, distant children, wind through leav
 
 <a href="https://x.com/SirGlavan_/status/2095100879795888234"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/SirGlavan__2095100601650536454.webp" width="460" alt="Made with Dreamina Seedance 2.5 on @dreamina_ai"></a>
 
-**Video credit / source:** [Jayden™](https://x.com/SirGlavan_) · [@SirGlavan_](https://x.com/SirGlavan_) · [Original post](https://x.com/SirGlavan_/status/2095100879795888234) · Seedance 2.5 · 2026-09-02 · 54.2K views
+**Video credit / source:** [JAYDEN™](https://x.com/SirGlavan_) · [@SirGlavan_](https://x.com/SirGlavan_) · [Original post](https://x.com/SirGlavan_/status/2095100879795888234) · Seedance 2.5 · 2026-09-02 · 54.3K views
 
 > A prompt is mentioned in the [X thread](https://x.com/SirGlavan_/status/2095100879795888234); the exact reply has not been indexed yet.
-
-### Thai folklore can be terrifying... and Mae Bia (แม่เบี้ย) is proof. 😱🐍 I can't look!
-
-<a href="https://x.com/drjoetw/status/2088873920862515458"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/drjoetw_2088873680923443200.webp" width="460" alt="Thai folklore can be terrifying... and Mae Bia (แม่เบี้ย) is proof. 😱🐍 I can&#x27;t look!"></a>
-
-**Video credit / source:** [The Anxious Mind](https://x.com/drjoetw) · [@drjoetw](https://x.com/drjoetw) · [Original post](https://x.com/drjoetw/status/2088873920862515458) · Seedance 2.5 · 2026-08-16 · 54K views
-
-> A prompt is mentioned in the [X thread](https://x.com/drjoetw/status/2088873920862515458); the exact reply has not been indexed yet.
 
 ### Pyona’s action scenes are incredible
 
 <a href="https://x.com/AI__TSUBAKI/status/2088764827321933848"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AI__TSUBAKI_2088762265302601728.webp" width="460" alt="Pyona’s action scenes are incredible"></a>
 
-**Video credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2088764827321933848) · Seedance 2.5 · 2026-08-15 · 50.9K views
+**Video credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2088764827321933848) · Seedance 2.5 · 2026-08-15 · 51.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -984,7 +1026,7 @@ Emma：
 
 <a href="https://x.com/VictorInFocus/status/2084074611751186713"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/VictorInFocus_2084064021406269440.webp" width="460" alt="Here’s Part 2, this time made with Seedance 2.5"></a>
 
-**Video credit / source:** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [Original post](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 48.9K views
+**Video credit / source:** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [Original post](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 49K views
 
 ### FIRST TEST Seedance 2.0!
 
@@ -1002,13 +1044,13 @@ https://github.com/user-attachments/assets/255c9b4b-ec01-4de4-9b56-50a64c37a011
 
 https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
-**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2083182758407307605) · Seedance 2.5 · 2026-07-31 · 41.5K views
+**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2083182758407307605) · Seedance 2.5 · 2026-07-31 · 41.7K views
 
 ### yeah.. ai is crazy
 
 <a href="https://x.com/abxxai/status/2091149756970230195"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/abxxai_2091149693296488448.webp" width="460" alt="yeah.. ai is crazy"></a>
 
-**Video credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [@abxxai](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2091149756970230195) · Seedance 2.5 · 2026-08-22 · 39K views
+**Video credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [@abxxai](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2091149756970230195) · Seedance 2.5 · 2026-08-22 · 39.3K views
 
 > A prompt is mentioned in the [X thread](https://x.com/abxxai/status/2091149756970230195); the exact reply has not been indexed yet.
 
@@ -1016,7 +1058,7 @@ https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
 <a href="https://x.com/hey_am_cherry/status/2083561941004685471"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/hey_am_cherry_2083561732568748032.webp" width="460" alt="I wasn&#x27;t expecting Seedance 2.5 to look this real"></a>
 
-**Video credit / source:** [Cherry](https://x.com/hey_am_cherry) · [@hey_am_cherry](https://x.com/hey_am_cherry) · [Original post](https://x.com/hey_am_cherry/status/2083561941004685471) · Seedance 2.5 · 2026-08-01 · 38.9K views
+**Video credit / source:** [Cherry](https://x.com/hey_am_cherry) · [@hey_am_cherry](https://x.com/hey_am_cherry) · [Original post](https://x.com/hey_am_cherry/status/2083561941004685471) · Seedance 2.5 · 2026-08-01 · 39K views
 
 ### Made with GPT Image 2 + Seedance 2.5 on @Flovaai
 
@@ -1030,7 +1072,7 @@ https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
 
 <a href="https://x.com/pyona_ai/status/2090085356335222895"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/pyona_ai_2090084592149794816.webp" width="460" alt="Created this using Seedance 2.5 on"></a>
 
-**Video credit / source:** [Pyona](https://x.com/pyona_ai) · [@pyona_ai](https://x.com/pyona_ai) · [Original post](https://x.com/pyona_ai/status/2090085356335222895) · Seedance 2.5 · 2026-08-19 · 35.8K views
+**Video credit / source:** [Pyona](https://x.com/pyona_ai) · [@pyona_ai](https://x.com/pyona_ai) · [Original post](https://x.com/pyona_ai/status/2090085356335222895) · Seedance 2.5 · 2026-08-19 · 36.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1109,13 +1151,13 @@ Backward tracking。母亲抓着白色裙摆在湿泥路上全力奔跑，母亲
 
 <a href="https://x.com/TanLuAI/status/2083109850985468125"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.webp" width="460" alt="Seedance 2.5 的动作迁移和风格转化能力有点强"></a>
 
-**Video credit / source:** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [Original post](https://x.com/TanLuAI/status/2083109850985468125) · Seedance 2.5 · 2026-07-31 · 34.9K views
+**Video credit / source:** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [Original post](https://x.com/TanLuAI/status/2083109850985468125) · Seedance 2.5 · 2026-07-31 · 35K views
 
 ### Seedance 2.5 vs MiniMax H3 Max
 
 <a href="https://x.com/AskVenice/status/2093429159460786590"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AskVenice_2093406246120374272.webp" width="460" alt="Seedance 2.5 vs MiniMax H3 Max"></a>
 
-**Video credit / source:** [Venice](https://x.com/AskVenice) · [@AskVenice](https://x.com/AskVenice) · [Original post](https://x.com/AskVenice/status/2093429159460786590) · Seedance 2.5 · 2026-08-28 · 34.7K views
+**Video credit / source:** [Venice](https://x.com/AskVenice) · [@AskVenice](https://x.com/AskVenice) · [Original post](https://x.com/AskVenice/status/2093429159460786590) · Seedance 2.5 · 2026-08-28 · 34.9K views
 
 ### Can we pretend we're DJs?, The worst best idea of the night
 
@@ -1125,17 +1167,11 @@ Backward tracking。母亲抓着白色裙摆在湿泥路上全力奔跑，母亲
 
 > A prompt is mentioned in the [X thread](https://x.com/AIwithJessica/status/2088855031864832096); the exact reply has not been indexed yet.
 
-### A successful AI Influencer isn't built with a single prompt
-
-<a href="https://x.com/aiwithothoi/status/2089962212727353529"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aiwithothoi_2089962150442004480.webp" width="460" alt="A successful AI Influencer isn&#x27;t built with a single prompt"></a>
-
-**Video credit / source:** [Othoi Khan](https://x.com/aiwithothoi) · [@aiwithothoi](https://x.com/aiwithothoi) · [Original post](https://x.com/aiwithothoi/status/2089962212727353529) · Seedance 2.5 · 2026-08-19 · 31.9K views
-
 ### 别去城中村做保养. 虽然皮肤刚开始看起来水灵灵的
 
 <a href="https://x.com/john87445528/status/2090235694031794450"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2090235405345910784.webp" width="460" alt="别去城中村做保养. 虽然皮肤刚开始看起来水灵灵的"></a>
 
-**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2090235694031794450) · Seedance 2.0 · 2026-08-20 · 31.6K views
+**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2090235694031794450) · Seedance 2.0 · 2026-08-20 · 31.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1151,6 +1187,12 @@ hf_20260602_030359_fe9adf4d-7a5d-4c92-9517-3e9d2f2e0da1
 
 **Prompt credit / source:** [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2090235694031794450)
 
+### A successful AI Influencer isn't built with a single prompt
+
+<a href="https://x.com/aiwithothoi/status/2089962212727353529"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aiwithothoi_2089962150442004480.webp" width="460" alt="A successful AI Influencer isn&#x27;t built with a single prompt"></a>
+
+**Video credit / source:** [Othoi Khan](https://x.com/aiwithothoi) · [@aiwithothoi](https://x.com/aiwithothoi) · [Original post](https://x.com/aiwithothoi/status/2089962212727353529) · Seedance 2.5 · 2026-08-19 · 31.9K views
+
 ### 再来一个超现实电影版自由搏击格斗，提示词评论区，seedance2.5 直出，4000多字的提示词⬇️
 
 <a href="https://x.com/lansenai/status/2083521805176988016"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/lansenai_2083521731181084672.webp" width="460" alt="再来一个超现实电影版自由搏击格斗，提示词评论区，seedance2.5 直出，4000多字的提示词⬇️"></a>
@@ -1161,7 +1203,7 @@ hf_20260602_030359_fe9adf4d-7a5d-4c92-9517-3e9d2f2e0da1
 
 <a href="https://x.com/ozansihay/status/2090846753113166101"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ozansihay_2090845608571543552.webp" width="460" alt="Cinema Studio 4&#x27;te Seedance ile şu prompttan ortaya çıkan video 👇"></a>
 
-**Video credit / source:** [Ozan Sihay](https://x.com/ozansihay) · [@ozansihay](https://x.com/ozansihay) · [Original post](https://x.com/ozansihay/status/2090846753113166101) · Seedance · 2026-08-21 · 30.7K views
+**Video credit / source:** [Ozan Sihay](https://x.com/ozansihay) · [@ozansihay](https://x.com/ozansihay) · [Original post](https://x.com/ozansihay/status/2090846753113166101) · Seedance · 2026-08-21 · 30.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1177,7 +1219,7 @@ Bir restoranda oturuyorum, günümüzde geçiyor ve spagetti yiyorum, üzerimde 
 
 <a href="https://x.com/ozansihay/status/2083603655383527793"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ozansihay_2083603376080650240.webp" width="460" alt="KARŞILAŞTIRMA GELDİ🔥"></a>
 
-**Video credit / source:** [Ozan Sihay](https://x.com/ozansihay) · [@ozansihay](https://x.com/ozansihay) · [Original post](https://x.com/ozansihay/status/2083603655383527793) · Seedance 2.5 · 2026-08-01 · 25.9K views
+**Video credit / source:** [Ozan Sihay](https://x.com/ozansihay) · [@ozansihay](https://x.com/ozansihay) · [Original post](https://x.com/ozansihay/status/2083603655383527793) · Seedance 2.5 · 2026-08-01 · 26K views
 
 ### First test with Seedance 2.5
 
@@ -1189,7 +1231,7 @@ Bir restoranda oturuyorum, günümüzde geçiyor ve spagetti yiyorum, üzerimde 
 
 <a href="https://x.com/doctorwasif/status/2095737170741092365"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/doctorwasif_2095737109340659712.webp" width="460" alt="Made with Seedance 2.5 on @Flovaai"></a>
 
-**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2095737170741092365) · Seedance 2.5 · 2026-09-04 · 18.9K views
+**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2095737170741092365) · Seedance 2.5 · 2026-09-04 · 19.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1256,7 +1298,7 @@ Shot 26 (28.5–30s): Exterior night shot: train races onward, sleeper windows f
 
 <a href="https://x.com/sailorv321/status/2088810229517717742"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088808323303002112.webp" width="460" alt="CapCutさん、クレジットの値上げも"></a>
 
-**Video credit / source:** [C’est La Vie | AI Director](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [Original post](https://x.com/sailorv321/status/2088810229517717742) · Seedance 2.5 · 2026-08-16 · 17.7K views
+**Video credit / source:** [C’est La Vie | AI Director](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [Original post](https://x.com/sailorv321/status/2088810229517717742) · Seedance 2.5 · 2026-08-16 · 18.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1310,7 +1352,7 @@ Shot 26 (28.5–30s): Exterior night shot: train races onward, sleeper windows f
 
 <a href="https://x.com/johnAGI168/status/2083430135152209926"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2083429521219325952.webp" width="460" alt="Seedance 2.5 测试一下古装小短剧📺"></a>
 
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2083430135152209926) · Seedance 2.5 · 2026-08-01 · 15.8K views
+**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2083430135152209926) · Seedance 2.5 · 2026-08-01 · 15.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1359,101 +1401,11 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 **Video credit / source:** [Patrick](https://x.com/patrickassale) · [@patrickassale](https://x.com/patrickassale) · [Original post](https://x.com/patrickassale/status/2083470287954399523) · Seedance 2.5 · 2026-08-01 · 13.5K views
 
-### Seedance 2.5 claims 30-second single takes
-
-<a href="https://x.com/Dheepanratnam/status/2083088158804042196"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Dheepanratnam_2083088017363697664.webp" width="460" alt="Seedance 2.5 claims 30-second single takes"></a>
-
-**Video credit / source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) · [@Dheepanratnam](https://x.com/Dheepanratnam) · [Original post](https://x.com/Dheepanratnam/status/2083088158804042196) · Seedance 2.5 · 2026-07-31 · 13.4K views
-
-### 你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了
-
-<a href="https://x.com/john87445528/status/2097837460910956650"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2097487090565156864.webp" width="460" alt="你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了"></a>
-
-**Video credit / source:** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2097837460910956650) · Seedance · 2026-09-10 · 13.2K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-本场前缀（两段共用，第二段只加接片句）
-以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。9:16。拍摄者坐在普通大学教室第二排靠过道座位，成年学生与成年女老师。右手在胸口下方端拍摄手机，左手举起另一部显示服装参考的手机，画面右下角持续被这部参考手机部分占据：屏幕朝向拍摄镜头，亮度适中，边缘略虚，但当前预设的全身轮廓和配色可辨。构图是座位第一人称隐蔽视角，前景左侧一名学生正在记笔记，前排右侧一名学生看白板，旁边同桌低头看教材；前排肩背不时切进画面下缘，不遮死老师和白板。因双手持机，画面带持续轻微手抖、呼吸起伏，以及拇指滑动/点按造成的短促倾斜。自动对焦在近处参考屏幕、远处老师衣物和白板上的字之间反复搜索，短暂失焦后再锁定。自动白平衡随窗边自然光与教室顶灯在偏冷与微暖之间轻微漂移。保留窗光短暂过曝、边缘紫绿色差、合理运动模糊。仅画内环境声：近处气声和提示音贴麦，几米外讲课带教室混响，通风、写字、翻页、椅脚轻响贯穿。紫白扫描是唯一超现实元素。
-
-第一段｜0–12秒
-以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。生成一段12秒、9:16竖屏、写实手机录像风格的虚构课堂变装短视频。地点为普通大学教室，老师和学生均为成年人。窗边自然光与教室顶灯混合照明。成年女老师在白板旁讲授“相关性与因果关系”，白板上提前写好“相关 ≠ 因果”和简单散点图，文字与图形全程稳定，不漂移、不重写。老师穿首帧初始服装，脸、五官、发型、身材与身份始终一致。镜头来自第二排靠过道的一名学生，右手在胸口下方持拍摄设备，左手拿着另一部手机，该手机持续出现在画面右下角，屏幕朝向镜头，当前显示预设#1全身参考。屏幕亮度适中，款式配色可辨，不使用过强虚化。前景左侧学生记笔记，前排右侧学生看白板，同桌低头看教材。人物位置固定。正常速度，轻微手持起伏，无配乐。
-0秒时，老师侧身看向白板，空着的右手示意“相关 ≠ 因果”，然后转回学生方向。自动对焦先在前景参考屏幕上停半拍，再拉到老师上半身和白板字，画面因坐姿呼吸轻微起伏、略向右倾。通风声和写字声同时进麦。
-1.5秒时，老师自然说：“两个现象一起出现，不代表谁导致了谁。”语气平稳，有日常授课停顿，目光扫过前排，不盯镜头。左侧学生继续记笔记，右侧学生看一眼白板后低头看书。前景手机稳定显示预设#1。讲课声在几米外，带教室混响。
-3.5秒时，持机学生用左手拇指轻点屏幕，点按让参考机和拍摄机一起轻晃一下。一声短促电子提示音贴麦响起，克制的紫白扫描光自老师肩部向下经过，初始服装连续替换为预设#1，一次完成，不出现裸体中间帧，不混入未提供的装饰。老师先朝前排瞥一眼，随后感觉衣料变化，话音停住，低头看自己，轻轻捏身侧衣料，疑惑地发出：“嗯？”光效立即消退，不遮脸。扫描时窗边高光让画面微亮，自动曝光往回收；自动对焦被光带和衣料纹理短暂带走，半秒后锁回老师。
-5秒时，老师抬眼停顿片刻，似乎想先把课讲完，重新示意白板：“我们接着看……还有其他因素。”说到中间短暂低头看一眼衣服，再把视线转回课堂，勉强维持授课。左侧记笔记的学生慢半拍抬头，笔尖停在纸上；同桌顺着他的视线看过去，轻声问：“怎么了？”其他学生暂时仍在看书。持机者呼吸一紧，镜头跟着微沉后回正，不改变机位高度。
-8秒时，老师把双手自然收在腰前，准备继续解释。前景拇指滑动一次，手机明确切换为预设#2并稳定停留。滑动时画面短促右斜，自动对焦被新参考图抢走，老师短暂发虚。右侧学生看看老师，又偏头看一眼同桌，眉头微皱，没有夸张张嘴。老师此时仍穿预设#1。
-9.5秒时，第二次电子音响起，紫白扫描光将预设#1完整替换为预设#2，不混留上一套衣物的装饰。老师低头，双手稍稍离开衣服，肩膀收紧，脱口而出：“等一下……”前排右侧学生身体坐直，椅子发出很轻的摩擦声。对焦在扫描结束后重新落在老师面容和#2衣料上。
-11秒时，老师仍站在白板旁，低头看身上的预设#2，右手轻按腰侧衣料，左手停在身前。前景手机仍显示预设#2。镜头保持原高度和构图，轻微手抖仍在，不切黑、不转场、不推近。写字声停了一拍，通风声继续。本段在这一连续状态上直接结束。
-真实感与强制约束：本段内部一镜到底。三次变化中本段只完成“初始服装 → #1 → #2”。禁止裸露过渡、透明衣物、身体特写、夸张扫描爆闪、慢动作、配乐、全班同步转头、镜头离开座位、参考图跳号、白板字重绘、肢体畸形。
-画面呈现出真实的未经处理手持视频质感，纪录片级别的自然不完美感，无任何后期调色或特效。所有相机行为均符合iPhone/手机自动拍摄的物理特性。
-
-第二段｜12–24秒
-以未经处理的iPhone主摄竖屏手持实拍素材风格呈现，所有相机设置均为自动，无后期调色、无电影级运镜、无强烈背景虚化。本段严格承接上一段最后一帧：老师仍站在白板旁，身上已是预设#2，右手轻按腰侧衣料，左手停在身前；前景参考手机仍显示预设#2；左侧学生笔停在纸上，同桌已看向老师，右侧学生坐直。不重新开场，不重置服装，不把老师放回初始讲课姿态。9:16，同一座位第一人称，右手胸口下方持机，左手参考机持续占画面右下角。白板“相关 ≠ 因果”和散点图位置不变。窗边自然光与顶灯混合，正常速度，无配乐。
-12秒时，老师从低头看衣服抬眼看向前排，神情困惑，语气不确定：“你们也看见了？”因抬头动作，拍摄机随持机者上身微动轻轻一晃，自动对焦从腰侧衣料拉到老师面部，短暂软一下再实。
-13秒时，左侧学生点了一下头，轻声回答：“老师，衣服变了。”声音近、压着嗓子。同桌合上半开的教材，视线停在老师脸上。后排传来短暂低语，音量很小，盖不过这句对话。麦克风对近处回答更清楚，远处低语发糊。
-14.5秒时，老师吸了一口气，试图镇定，目光从前排扫向过道，没有开始讲新内容。前景拇指滑动，手机切换为预设#3并清晰停留。老师此时仍穿预设#2。滑动造成画面短促倾斜，自动对焦锁在新参考图上约半秒。同桌先看屏幕，再看老师，表情逐渐意识到两者有关。
-16秒时，学生轻点屏幕，第三次电子提示音贴麦响起，克制紫白扫描将预设#2准确替换为预设#3，不混留#1或#2的装饰。老师的脸、发型、站位与身体比例不变，手臂与衣料之间的遮挡关系正常，无裸体中间帧。老师肩膀一缩，短促吸气，低头确认。光效消失后不再变装，手机始终停留在预设#3。扫描时曝光微抬后收回。
-17.5秒时，老师一条前臂横护在胸前衣物外侧，另一只手压住前侧裙摆；若预设#3是裤装或连体服，则护在小腹前，不生成不存在的裙摆。衣物始终完整覆盖。她朝讲台侧后方挪一小步，肩膀内收。持机者为跟上侧移，手腕本能微调，画面轻微跟晃但仍是原座位视角，下半身被讲台逐渐挡住一部分。
-18.5秒时，右侧学生立刻移开视线，低头看桌面；左侧学生放下笔，有些担心地看着她。同桌转向持机者，压低声音说：“别弄了。”背景低语随之减弱，不出现哄笑或集体围观。近处“别弄了”贴麦，老师衣料摩擦声可闻。
-20秒时，老师停在讲台侧后方，讲台遮住部分下半身。她仍护着胸前与下摆，脸颊轻微泛红，抬眼发现拍摄设备，声音紧张：“先别拍，好吗？”说完轻抿嘴唇，视线落下，保持无措和害羞，不做夸张哭泣。自动对焦在她抬眼看向镜头时锁住面部，前景参考机仍在右下角显示#3，略抢一层景深但不虚掉老师。
-22秒时，持机者听见老师的话后手腕下沉，镜头连续向下倾斜，没有突然切走。画面上方短暂保留老师收紧肩膀、隔着完整衣物遮挡的姿态，下方逐渐出现课桌与摊开的笔记。前景参考手机随左手一起降低，仍显示预设#3。自动对焦从老师落到桌面纸页，字迹先糊后略清。最后伴随轻微衣袖摩擦声结束，不重新抬镜偷拍，不补特写。
-真实感与强制约束：本段内部一镜到底，与上一段首尾直接衔接。本段只完成“#2 → #3”，之后不再变化。禁止跳号、混搭、第四次变装、裸露过渡、透明衣物、身体局部特写、夸张扫描爆闪、慢动作、背景音乐、全班同步表演、镜头离开原座位、参考图中途换成别的、手臂穿过衣物、肢体畸形。
-画面呈现出真实的未经处理手持视频质感，纪录片级别的自然不完美感，无任何后期调色或特效。所有相机行为均符合iPhone/手机自动拍摄的物理特性
-```
-
-</details>
-
-**Prompt credit / source:** [@john87445528](https://x.com/john87445528) · [Original post](https://x.com/john87445528/status/2097837460910956650)
-
-### Made with Seedance 2.5
-
-<a href="https://x.com/kingofdairyque/status/2089951161789092255"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kingofdairyque_2089951035200565248.webp" width="460" alt="Made with Seedance 2.5"></a>
-
-**Video credit / source:** [Simply Ray](https://x.com/kingofdairyque) · [@kingofdairyque](https://x.com/kingofdairyque) · [Original post](https://x.com/kingofdairyque/status/2089951161789092255) · Seedance 2.5 · 2026-08-19 · 11.4K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
-
-Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
-
-00–05s:
-She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
-
-05–10s:
-She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
-
-10–15s:
-She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
-
-15–20s:
-She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
-
-20–25s:
-She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
-
-25–30s:
-She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
-
-Audio:
-Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
-
-Negative:
-No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.
-```
-
-</details>
-
-**Prompt credit / source:** [@kingofdairyque](https://x.com/kingofdairyque) · [Original post](https://x.com/kingofdairyque/status/2089951161789092255)
-
 ### GPT‑6 Astra 首次测试，为爱马仕制作一个简单的广告提示词，使用 Seedance 2.5 生成视频📺
 
 <a href="https://x.com/johnAGI168/status/2096082626364788752"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2096082358575267840.webp" width="460" alt="GPT‑6 Astra 首次测试，为爱马仕制作一个简单的广告提示词，使用 Seedance 2.5 生成视频📺"></a>
 
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096082626364788752) · Seedance 2.5 · 2026-09-05 · 11.4K views
+**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096082626364788752) · Seedance 2.5 · 2026-09-05 · 13.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1553,6 +1505,54 @@ Negative：
 
 **Prompt credit / source:** [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2096082626364788752)
 
+### Seedance 2.5 claims 30-second single takes
+
+<a href="https://x.com/Dheepanratnam/status/2083088158804042196"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Dheepanratnam_2083088017363697664.webp" width="460" alt="Seedance 2.5 claims 30-second single takes"></a>
+
+**Video credit / source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) · [@Dheepanratnam](https://x.com/Dheepanratnam) · [Original post](https://x.com/Dheepanratnam/status/2083088158804042196) · Seedance 2.5 · 2026-07-31 · 13.4K views
+
+### Made with Seedance 2.5
+
+<a href="https://x.com/kingofdairyque/status/2089951161789092255"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kingofdairyque_2089951035200565248.webp" width="460" alt="Made with Seedance 2.5"></a>
+
+**Video credit / source:** [Simply Ray](https://x.com/kingofdairyque) · [@kingofdairyque](https://x.com/kingofdairyque) · [Original post](https://x.com/kingofdairyque/status/2089951161789092255) · Seedance 2.5 · 2026-08-19 · 11.4K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+
+Audio:
+Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
+
+Negative:
+No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.
+```
+
+</details>
+
+**Prompt credit / source:** [@kingofdairyque](https://x.com/kingofdairyque) · [Original post](https://x.com/kingofdairyque/status/2089951161789092255)
+
 ### Made with Seedance 2.0 + GPT image 2
 
 https://github.com/user-attachments/assets/06008686-59cb-40c0-8ff6-2f77312a077a
@@ -1581,7 +1581,7 @@ THE LITTLE THIEF 15 second 2D animated cartoon short film, 10 rapid scenes, foll
 
 <a href="https://x.com/johnAGI168/status/2083116795532091716"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2083116335144271872.webp" width="460" alt="Seedance 2.5 直出 30 秒小短剧📺"></a>
 
-**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2083116795532091716) · Seedance 2.5 · 2026-07-31 · 10.7K views
+**Video credit / source:** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [Original post](https://x.com/johnAGI168/status/2083116795532091716) · Seedance 2.5 · 2026-07-31 · 10.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1638,7 +1638,7 @@ THE LITTLE THIEF 15 second 2D animated cartoon short film, 10 rapid scenes, foll
 
 <a href="https://x.com/TanLuAI/status/2083384465611800985"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083333256024571904.webp" width="460" alt="Seedance 2.5 20个左右的参考图片 一次生成25秒预告片"></a>
 
-**Video credit / source:** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [Original post](https://x.com/TanLuAI/status/2083384465611800985) · Seedance 2.5 · 2026-08-01 · 10.4K views
+**Video credit / source:** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [Original post](https://x.com/TanLuAI/status/2083384465611800985) · Seedance 2.5 · 2026-08-01 · 10.5K views
 
 ### Made with Seedance 2.0 + GPT image 2
 
@@ -1762,17 +1762,17 @@ https://github.com/user-attachments/assets/8e2c746e-ddde-44db-a434-7f3706f5f419
 
 **Video credit / source:** [t0xic 🧪](https://x.com/amit0xic) · [@amit0xic](https://x.com/amit0xic) · [Original post](https://x.com/amit0xic/status/2021604487111024994) · Seedance 2.0 · 2026-02-11 · 3.9K views
 
-### #capcutseedance25 #capcutcpp
-
-<a href="https://x.com/kantakanta1233/status/2083291892163506584"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.webp" width="460" alt="#capcutseedance25 #capcutcpp"></a>
-
-**Video credit / source:** [Risa](https://x.com/kantakanta1233) · [@kantakanta1233](https://x.com/kantakanta1233) · [Original post](https://x.com/kantakanta1233/status/2083291892163506584) · Seedance 2.5 · 2026-07-31 · 3.7K views
-
 ### Seedance2.5 実写とアニメのミックスメディア
 
 <a href="https://x.com/BaBELL81/status/2083562978730029228"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BaBELL81_2083562780050018304.webp" width="460" alt="Seedance2.5 実写とアニメのミックスメディア"></a>
 
 **Video credit / source:** [バベル](https://x.com/BaBELL81) · [@BaBELL81](https://x.com/BaBELL81) · [Original post](https://x.com/BaBELL81/status/2083562978730029228) · Seedance 2.5 · 2026-08-01 · 3.7K views
+
+### #capcutseedance25 #capcutcpp
+
+<a href="https://x.com/kantakanta1233/status/2083291892163506584"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.webp" width="460" alt="#capcutseedance25 #capcutcpp"></a>
+
+**Video credit / source:** [Risa](https://x.com/kantakanta1233) · [@kantakanta1233](https://x.com/kantakanta1233) · [Original post](https://x.com/kantakanta1233/status/2083291892163506584) · Seedance 2.5 · 2026-07-31 · 3.7K views
 
 ### Seedance2.5 アニメのOPの謎の浮遊空間をキャラをローラーコースターカメラで紹介していくプロンプト(リプ欄)
 
@@ -1906,13 +1906,13 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/AiMeowing/status/2083332412558172377"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AiMeowing_2083331803352268800.webp" width="460" alt="Nisho ᓚᘏᗢ .. in daily challenge no. 1"></a>
 
-**Video credit / source:** [Nisho 👦🏻🙀](https://x.com/AiMeowing) · [@AiMeowing](https://x.com/AiMeowing) · [Original post](https://x.com/AiMeowing/status/2083332412558172377) · Seedance 2.5 · 2026-07-31 · 963 views
+**Video credit / source:** [Nisho 👦🏻🙀](https://x.com/AiMeowing) · [@AiMeowing](https://x.com/AiMeowing) · [Original post](https://x.com/AiMeowing/status/2083332412558172377) · Seedance 2.5 · 2026-07-31 · 964 views
 
 ### I tested Seedance 2.5 the way most people probably will
 
 <a href="https://x.com/LeeLinAI123/status/2083292322582684132"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/LeeLinAI123_2083291882096832512.webp" width="460" alt="I tested Seedance 2.5 the way most people probably will"></a>
 
-**Video credit / source:** [Lee Lin | AI](https://x.com/LeeLinAI123) · [@LeeLinAI123](https://x.com/LeeLinAI123) · [Original post](https://x.com/LeeLinAI123/status/2083292322582684132) · Seedance 2.5 · 2026-07-31 · 926 views
+**Video credit / source:** [Lee Lin | AI](https://x.com/LeeLinAI123) · [@LeeLinAI123](https://x.com/LeeLinAI123) · [Original post](https://x.com/LeeLinAI123/status/2083292322582684132) · Seedance 2.5 · 2026-07-31 · 929 views
 
 ### Seedance 2.5 is finally here, and this was my first test
 
@@ -1926,7 +1926,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/jaynwabueze/status/2083475368955072983"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/jaynwabueze_2083474850689982464.webp" width="460" alt="Tried out this Seedance 2.5 Prompt I saw on Higgsfield and it feel surreal"></a>
 
-**Video credit / source:** [Jay Nwabueze](https://x.com/jaynwabueze) · [@jaynwabueze](https://x.com/jaynwabueze) · [Original post](https://x.com/jaynwabueze/status/2083475368955072983) · Seedance 2.5 · 2026-08-01 · 518 views
+**Video credit / source:** [Jay Nwabueze](https://x.com/jaynwabueze) · [@jaynwabueze](https://x.com/jaynwabueze) · [Original post](https://x.com/jaynwabueze/status/2083475368955072983) · Seedance 2.5 · 2026-08-01 · 521 views
 
 > A prompt is mentioned in the [X thread](https://x.com/jaynwabueze/status/2083475368955072983); the exact reply has not been indexed yet.
 
@@ -1934,7 +1934,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/mumaren_2/status/2083194831569121554"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mumaren_2_2083194074136522752.webp" width="460" alt="Damn, Seedance 2.5 is so cool!!!"></a>
 
-**Video credit / source:** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [Original post](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 392 views
+**Video credit / source:** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [Original post](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 396 views
 
 > A prompt is mentioned in the [X thread](https://x.com/mumaren_2/status/2083194831569121554); the exact reply has not been indexed yet.
 
@@ -1950,7 +1950,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/FaithAifilm/status/2083205928602812560"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/FaithAifilm_2083202379923722240.webp" width="460" alt="🚨 WE GOT EARLY ACCESS"></a>
 
-**Video credit / source:** [Faith.Aifilm](https://x.com/FaithAifilm) · [@FaithAifilm](https://x.com/FaithAifilm) · [Original post](https://x.com/FaithAifilm/status/2083205928602812560) · Seedance 2.5 · 2026-07-31 · 147 views
+**Video credit / source:** [Faith.Aifilm](https://x.com/FaithAifilm) · [@FaithAifilm](https://x.com/FaithAifilm) · [Original post](https://x.com/FaithAifilm/status/2083205928602812560) · Seedance 2.5 · 2026-07-31 · 148 views
 
 ### Test Seedance 2.5 30s in Capcut
 
@@ -1967,7 +1967,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/RishuaVR/status/2089204108175741157"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/RishuaVR_2089204070997532672.webp" width="460" alt="Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded…"></a>
 
-**Video credit / source:** [Feliora](https://x.com/RishuaVR) · [@RishuaVR](https://x.com/RishuaVR) · [Original post](https://x.com/RishuaVR/status/2089204108175741157) · Seedance 2.5 · 2026-08-17 · 3.6M views
+**Video credit / source:** [Feliora](https://x.com/RishuaVR) · [@RishuaVR](https://x.com/RishuaVR) · [Original post](https://x.com/RishuaVR/status/2089204108175741157) · Seedance 2.5 · 2026-08-17 · 3.7M views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2005,7 +2005,7 @@ Goal: Authentic Indonesian neighborhood life captured like a forgotten home vide
 
 https://github.com/user-attachments/assets/fae053df-f5ff-49b7-8e1a-87d22b1c22b1
 
-**Video credit / source:** [Min Choi](https://x.com/minchoi) · [@minchoi](https://x.com/minchoi) · [Original post](https://x.com/minchoi/status/2020878278475518152) · Seedance 2.0 · 2026-02-09 · 391.2K views
+**Video credit / source:** [Min Choi](https://x.com/minchoi) · [@minchoi](https://x.com/minchoi) · [Original post](https://x.com/minchoi/status/2020878278475518152) · Seedance 2.0 · 2026-02-09 · 391.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2038,7 +2038,7 @@ https://github.com/user-attachments/assets/fda67ba1-5cf4-4362-b6a0-d8edf803abc1
 
 <a href="https://x.com/AIwithkhan/status/2097168171367338428"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2097168098038292480.webp" width="460" alt="Girl with a B **** H mode 🥵"></a>
 
-**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2097168171367338428) · Seedance 2.5 · 2026-09-08 · 194.5K views
+**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2097168171367338428) · Seedance 2.5 · 2026-09-08 · 224.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2074,7 +2074,7 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 <a href="https://x.com/techhalla/status/2084018642300141851"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/techhalla_2084018282554654720.webp" width="460" alt="Seedance 2.5 Forged in Fire text to video prompt is below 👇"></a>
 
-**Video credit / source:** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [Original post](https://x.com/techhalla/status/2084018642300141851) · Seedance 2.5 · 2026-08-02 · 138.7K views
+**Video credit / source:** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [Original post](https://x.com/techhalla/status/2084018642300141851) · Seedance 2.5 · 2026-08-02 · 138.9K views
 
 > A prompt is mentioned in the [X thread](https://x.com/techhalla/status/2084018642300141851); the exact reply has not been indexed yet.
 
@@ -2082,7 +2082,7 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 <a href="https://x.com/doctorwasif/status/2089933493753241834"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/doctorwasif_2089933387809406976.webp" width="460" alt="Zombie attack with Seedance 2.5 1080p on @openart_ai"></a>
 
-**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2089933493753241834) · Seedance 2.5 · 2026-08-19 · 117.2K views
+**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2089933493753241834) · Seedance 2.5 · 2026-08-19 · 117.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2121,7 +2121,7 @@ Style: realistic Korean apartment horror, claustrophobic handheld camera, flicke
 
 <a href="https://x.com/doctorwasif/status/2094648403246608862"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/doctorwasif_2094648347818864640.webp" width="460" alt="The Last Train Alive. Made with Seedance 2.5 on @TapNow_AI"></a>
 
-**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2094648403246608862) · Seedance 2.5 · 2026-09-01 · 116.4K views
+**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2094648403246608862) · Seedance 2.5 · 2026-09-01 · 116.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2187,7 +2187,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot: the sleeper train races through the 
 
 <a href="https://x.com/Chaemate_/status/2097142882519879822"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Chaemate__2097003940399427590.webp" width="460" alt="spent way too long on this one but the fireworks scene made it worth it 🎆 lantern streets,…"></a>
 
-**Video credit / source:** [Mira Sterling](https://x.com/Chaemate_) · [@Chaemate_](https://x.com/Chaemate_) · [Original post](https://x.com/Chaemate_/status/2097142882519879822) · Seedance 2.5 · 2026-09-08 · 37.4K views
+**Video credit / source:** [Mira Sterling](https://x.com/Chaemate_) · [@Chaemate_](https://x.com/Chaemate_) · [Original post](https://x.com/Chaemate_/status/2097142882519879822) · Seedance 2.5 · 2026-09-08 · 38.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2267,7 +2267,7 @@ Her face and identity stay consistent with the reference in every cut. Lighting 
 
 <a href="https://x.com/doctorwasif/status/2083779989414019109"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/doctorwasif_2083779944631652352.webp" width="460" alt="Seedance 2.5 is Extra realistic on @astorie_ai"></a>
 
-**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2083779989414019109) · Seedance 2.5 · 2026-08-02 · 28.8K views
+**Video credit / source:** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [Original post](https://x.com/doctorwasif/status/2083779989414019109) · Seedance 2.5 · 2026-08-02 · 28.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2289,7 +2289,7 @@ Dialogue is natural spoken Korean (except "Good enough"), reacting casually to e
 
 <a href="https://x.com/ShamiWeb3/status/2096101448090267992"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ShamiWeb3_2096101276539125760.webp" width="460" alt="A simple seaside walk turned into the most unexpectedly wholesome Korean vlog"></a>
 
-**Video credit / source:** [Shami](https://x.com/ShamiWeb3) · [@ShamiWeb3](https://x.com/ShamiWeb3) · [Original post](https://x.com/ShamiWeb3/status/2096101448090267992) · Seedance 2.5 · 2026-09-05 · 27.1K views
+**Video credit / source:** [Shami](https://x.com/ShamiWeb3) · [@ShamiWeb3](https://x.com/ShamiWeb3) · [Original post](https://x.com/ShamiWeb3/status/2096101448090267992) · Seedance 2.5 · 2026-09-05 · 27.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2377,7 +2377,7 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 
 <a href="https://x.com/ZaraIrahh/status/2091385137133219971"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ZaraIrahh_2091384164763459584.webp" width="460" alt="Just a normal day in the life of a very busy cat 🐱✨"></a>
 
-**Video credit / source:** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Original post](https://x.com/ZaraIrahh/status/2091385137133219971) · Seedance 2.5 · 2026-08-23 · 25K views
+**Video credit / source:** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Original post](https://x.com/ZaraIrahh/status/2091385137133219971) · Seedance 2.5 · 2026-08-23 · 25.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2508,7 +2508,7 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 <a href="https://x.com/iamahmedfaraz66/status/2088473253937377771"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/iamahmedfaraz66_2088328363236880384.webp" width="460" alt="Made with SeeDance 2.5"></a>
 
-**Video credit / source:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Original post](https://x.com/iamahmedfaraz66/status/2088473253937377771) · Seedance 2.5 · 2026-08-15 · 24K views
+**Video credit / source:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Original post](https://x.com/iamahmedfaraz66/status/2088473253937377771) · Seedance 2.5 · 2026-08-15 · 24.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2585,7 +2585,7 @@ Negative Prompt: No changing street layout, no identity drift, no duplicate peop
 
 <a href="https://x.com/sailorv321/status/2088819020564930606"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.webp" width="460" alt="「……決まったでしょ？👁️🐻」"></a>
 
-**Video credit / source:** [C’est La Vie | AI Director](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [Original post](https://x.com/sailorv321/status/2088819020564930606) · Seedance 2.5 · 2026-08-16 · 22.8K views
+**Video credit / source:** [C’est La Vie | AI Director](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [Original post](https://x.com/sailorv321/status/2088819020564930606) · Seedance 2.5 · 2026-08-16 · 23.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2639,7 +2639,7 @@ Negative Prompt: No changing street layout, no identity drift, no duplicate peop
 
 <a href="https://x.com/MrDasOnX/status/2089969922617266257"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrDasOnX_2089969759790219264.webp" width="460" alt="Curious Fox &amp; Mountain Stream Vlog with Seedance 2.5"></a>
 
-**Video credit / source:** [Mr Das](https://x.com/MrDasOnX) · [@MrDasOnX](https://x.com/MrDasOnX) · [Original post](https://x.com/MrDasOnX/status/2089969922617266257) · Seedance 2.5 · 2026-08-19 · 22.8K views
+**Video credit / source:** [Mr Das](https://x.com/MrDasOnX) · [@MrDasOnX](https://x.com/MrDasOnX) · [Original post](https://x.com/MrDasOnX/status/2089969922617266257) · Seedance 2.5 · 2026-08-19 · 22.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2706,7 +2706,7 @@ Camera/Sound: Loose 1–1.5s cuts, slight natural shake entering/exiting, mostly
 
 <a href="https://x.com/AIwithJessica/status/2096083252591423630"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithJessica_2096082853608280064.webp" width="460" alt="POV: you time-traveled back to 2005 with a flip cam... but the footage is secretly 4K"></a>
 
-**Video credit / source:** [Jessica Collins](https://x.com/AIwithJessica) · [@AIwithJessica](https://x.com/AIwithJessica) · [Original post](https://x.com/AIwithJessica/status/2096083252591423630) · Seedance 2.5 · 2026-09-05 · 19.4K views
+**Video credit / source:** [Jessica Collins](https://x.com/AIwithJessica) · [@AIwithJessica](https://x.com/AIwithJessica) · [Original post](https://x.com/AIwithJessica/status/2096083252591423630) · Seedance 2.5 · 2026-09-05 · 20.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3052,7 +3052,7 @@ Ensure smooth, physically believable particle motion even during surreal transfo
 
 <a href="https://x.com/Dheepanratnam/status/2083954548255727668"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Dheepanratnam_2083953617808105472.webp" width="460" alt="AI Created this nature documentary"></a>
 
-**Video credit / source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) · [@Dheepanratnam](https://x.com/Dheepanratnam) · [Original post](https://x.com/Dheepanratnam/status/2083954548255727668) · Seedance 2.5 · 2026-08-02 · 2.9K views
+**Video credit / source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) · [@Dheepanratnam](https://x.com/Dheepanratnam) · [Original post](https://x.com/Dheepanratnam/status/2083954548255727668) · Seedance 2.5 · 2026-08-02 · 3K views
 
 > A prompt is mentioned in the [X thread](https://x.com/Dheepanratnam/status/2083954548255727668); the exact reply has not been indexed yet.
 
@@ -3138,22 +3138,6 @@ Sound design must include rain on glass, distant tires on wet road, washer motor
 
 **Prompt credit / source:** [@bmx_ai13](https://x.com/bmx_ai13) · [Original post](https://x.com/bmx_ai13/status/2083124798461489228)
 
-### Seedance 2.5 Prompt: Scene and Mood: A lone figure climbs upward through a flooding…
-
-<a href="https://x.com/bmx_ai13/status/2083276955634589734"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/bmx_ai13_2083276881605070848.webp" width="460" alt="Seedance 2.5 Prompt: Scene and Mood: A lone figure climbs upward through a flooding…"></a>
-
-**Video credit / source:** [BMX](https://x.com/bmx_ai13) · [@bmx_ai13](https://x.com/bmx_ai13) · [Original post](https://x.com/bmx_ai13/status/2083276955634589734) · Seedance 2.5 · 2026-07-31 · 1.3K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Scene and Mood: A lone figure climbs upward through a flooding vertical botanical archive tower during a night storm, glass tiers shattering and cascading water below, forcing a desperate ascent toward the glass dome roof as lightning flickers outside. Frame Map: Shot 1, seconds 0 to 6, subject small in the lower third of a tall vertical tower interior, tiers of glass terrariums stacked upward through the frame, water sheeting down from above. Shot 2, seconds 6 to 12, subject center frame climbing a metal service ladder bolted to the tower's inner wall, glass tiers visible left and right, water pouring past. Shot 3, seconds 12 to 18, subject in the right third crossing a narrow catwalk as a glass panel shatters in the left third behind them. Shot 4, seconds 18 to 24, subject small in the lower third reaching the dome's base, storm sky and glowing drifting spores filling the top two thirds through the glass ceiling above. Shot 5, seconds 24 to 30, subject silhouetted center frame bursting through the dome into open night air, lightning lighting the wider tower silhouette below. Subject Lock: One adult figure, lean build, soaked dark hair plastered to the forehead, a heavy canvas work jacket dark with water over a plain thermal shirt, fingerless work gloves, mud and plant matter smeared on one forearm. Posture straining and climbing throughout, gaze fixed upward, hands gripping rungs, rails, and glass edges with visible strain. Same face, hair, jacket, and build locked across all five shots, no change at any cut. Cross Frame Rules: Only one figure occupies every frame across the runtime, nothing else enters or crosses. Screen position shifts per the Frame Map, but soaked jacket state and climbing posture carry unbroken across every cut. Movement: Shot 1, subject wades through knee deep water at the tower's base then grips a ladder rung and begins climbing at second 4, water sheeting down past the shoulders, loose leaves and broken glass drifting past in the current below. Shot 2, subject climbs rung over rung, jacket heavy and dragging, a terrarium panel cracks audibly at second 9 sending a spray of water sideways past the frame. Shot 3, subject sprints across the catwalk at second 14, a glass tier shatters behind them at second 16 releasing a wall of water and debris that just misses their trailing foot. Shot 4, subject reaches the dome's base at second 20, presses both palms flat against the glass overhead, glowing spores drifting slowly against the dark storm clouds beyond it. Shot 5, subject drives a shoulder through the weakened dome glass at second 26, bursting into open air as lightning flashes and rain drives sideways, glass fragments scattering outward around them. Last Frame: Subject holds silhouetted center frame at the dome's broken edge, chest heaving, one hand still braced on the shattered frame, storm clouds and a bright lightning flash filling the upper half, the flooded tower's tiered silhouette dropping away below into darkness. No on screen text, no captions, no signage typography, no rendered text in the frame. World Plate: A tall cylindrical botanical archive tower at night during a storm, tiers of glass terrariums stacked vertically and lit faintly from within by dim growth lamps, water sheeting down the tower's interior walls, a narrow metal ladder and catwalk system running up the center. A glass dome caps the tower, storm clouds and lightning visible through it, faint bioluminescent spores drifting in the air near the ceiling. Sound Bed: Diegetic only, rushing water and heavy dripping throughout, metal rungs clanging under gripped hands, glass cracking and shattering at intervals, distant thunder rolling, wind howling as the dome breaks, heavy strained breathing and grunts of effort, rain hammering the outer glass, a final gust of wind once the dome opens. Capture Realism: Depth via suspended water mist and falling spray between the figure and the tiered glass planes behind them. Moisture without shine, soaked jacket and hair read matte and heavy, not glossy. Per zone specular kill on skin, wet skin reads diffuse, no beauty light glow. Contrast curve, controlled highlights on the lightning and growth lamps, lifted but not crushed shadow on the figure, mid tones held cool and desaturated throughout. Camera Capture: Wide latitude cinema capture, vintage 2x anamorphic character on Shots 1 through 3 at 35mm, handheld with restrained breath, shifting to clean spherical character on Shots 4 and 5 at 24mm, wider and harder shake against wind, fine 35mm grain, desaturated rendition crushed toward deep green and steel blue, 24fps natural 180 degree shutter blur, 30s total across five hard cut shots.
-```
-
-</details>
-
-**Prompt credit / source:** [@bmx_ai13](https://x.com/bmx_ai13) · [Original post](https://x.com/bmx_ai13/status/2083276955634589734)
-
 ### He Was Calm Until the Final Release
 
 <a href="https://x.com/bmx_ai13/status/2083501494150574415"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/bmx_ai13_2083350500108623872.webp" width="460" alt="He Was Calm Until the Final Release"></a>
@@ -3186,6 +3170,22 @@ Audio should feel captured on location with soft room ambience, distant clinic m
 
 **Prompt credit / source:** [@bmx_ai13](https://x.com/bmx_ai13) · [Original post](https://x.com/bmx_ai13/status/2083501494150574415)
 
+### Seedance 2.5 Prompt: Scene and Mood: A lone figure climbs upward through a flooding…
+
+<a href="https://x.com/bmx_ai13/status/2083276955634589734"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/bmx_ai13_2083276881605070848.webp" width="460" alt="Seedance 2.5 Prompt: Scene and Mood: A lone figure climbs upward through a flooding…"></a>
+
+**Video credit / source:** [BMX](https://x.com/bmx_ai13) · [@bmx_ai13](https://x.com/bmx_ai13) · [Original post](https://x.com/bmx_ai13/status/2083276955634589734) · Seedance 2.5 · 2026-07-31 · 1.3K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Scene and Mood: A lone figure climbs upward through a flooding vertical botanical archive tower during a night storm, glass tiers shattering and cascading water below, forcing a desperate ascent toward the glass dome roof as lightning flickers outside. Frame Map: Shot 1, seconds 0 to 6, subject small in the lower third of a tall vertical tower interior, tiers of glass terrariums stacked upward through the frame, water sheeting down from above. Shot 2, seconds 6 to 12, subject center frame climbing a metal service ladder bolted to the tower's inner wall, glass tiers visible left and right, water pouring past. Shot 3, seconds 12 to 18, subject in the right third crossing a narrow catwalk as a glass panel shatters in the left third behind them. Shot 4, seconds 18 to 24, subject small in the lower third reaching the dome's base, storm sky and glowing drifting spores filling the top two thirds through the glass ceiling above. Shot 5, seconds 24 to 30, subject silhouetted center frame bursting through the dome into open night air, lightning lighting the wider tower silhouette below. Subject Lock: One adult figure, lean build, soaked dark hair plastered to the forehead, a heavy canvas work jacket dark with water over a plain thermal shirt, fingerless work gloves, mud and plant matter smeared on one forearm. Posture straining and climbing throughout, gaze fixed upward, hands gripping rungs, rails, and glass edges with visible strain. Same face, hair, jacket, and build locked across all five shots, no change at any cut. Cross Frame Rules: Only one figure occupies every frame across the runtime, nothing else enters or crosses. Screen position shifts per the Frame Map, but soaked jacket state and climbing posture carry unbroken across every cut. Movement: Shot 1, subject wades through knee deep water at the tower's base then grips a ladder rung and begins climbing at second 4, water sheeting down past the shoulders, loose leaves and broken glass drifting past in the current below. Shot 2, subject climbs rung over rung, jacket heavy and dragging, a terrarium panel cracks audibly at second 9 sending a spray of water sideways past the frame. Shot 3, subject sprints across the catwalk at second 14, a glass tier shatters behind them at second 16 releasing a wall of water and debris that just misses their trailing foot. Shot 4, subject reaches the dome's base at second 20, presses both palms flat against the glass overhead, glowing spores drifting slowly against the dark storm clouds beyond it. Shot 5, subject drives a shoulder through the weakened dome glass at second 26, bursting into open air as lightning flashes and rain drives sideways, glass fragments scattering outward around them. Last Frame: Subject holds silhouetted center frame at the dome's broken edge, chest heaving, one hand still braced on the shattered frame, storm clouds and a bright lightning flash filling the upper half, the flooded tower's tiered silhouette dropping away below into darkness. No on screen text, no captions, no signage typography, no rendered text in the frame. World Plate: A tall cylindrical botanical archive tower at night during a storm, tiers of glass terrariums stacked vertically and lit faintly from within by dim growth lamps, water sheeting down the tower's interior walls, a narrow metal ladder and catwalk system running up the center. A glass dome caps the tower, storm clouds and lightning visible through it, faint bioluminescent spores drifting in the air near the ceiling. Sound Bed: Diegetic only, rushing water and heavy dripping throughout, metal rungs clanging under gripped hands, glass cracking and shattering at intervals, distant thunder rolling, wind howling as the dome breaks, heavy strained breathing and grunts of effort, rain hammering the outer glass, a final gust of wind once the dome opens. Capture Realism: Depth via suspended water mist and falling spray between the figure and the tiered glass planes behind them. Moisture without shine, soaked jacket and hair read matte and heavy, not glossy. Per zone specular kill on skin, wet skin reads diffuse, no beauty light glow. Contrast curve, controlled highlights on the lightning and growth lamps, lifted but not crushed shadow on the figure, mid tones held cool and desaturated throughout. Camera Capture: Wide latitude cinema capture, vintage 2x anamorphic character on Shots 1 through 3 at 35mm, handheld with restrained breath, shifting to clean spherical character on Shots 4 and 5 at 24mm, wider and harder shake against wind, fine 35mm grain, desaturated rendition crushed toward deep green and steel blue, 24fps natural 180 degree shutter blur, 30s total across five hard cut shots.
+```
+
+</details>
+
+**Prompt credit / source:** [@bmx_ai13](https://x.com/bmx_ai13) · [Original post](https://x.com/bmx_ai13/status/2083276955634589734)
+
 ### Seedance 2.5 Prompt: Create a ten second cinematic live action illusion in a sixteen by…
 
 <a href="https://x.com/bmx_ai13/status/2083769258236866658"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/bmx_ai13_2083618369417490432.webp" width="460" alt="Seedance 2.5 Prompt: Create a ten second cinematic live action illusion in a sixteen by…"></a>
@@ -3206,7 +3206,7 @@ Create a ten second cinematic live action illusion in a sixteen by nine frame at
 
 <a href="https://x.com/zeng_wt/status/2083096037200220208"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/zeng_wt_2083095939024089088.webp" width="460" alt="Just generated a full 30-second immersive cinematic short using a single prompt on…"></a>
 
-**Video credit / source:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) · [@zeng_wt](https://x.com/zeng_wt) · [Original post](https://x.com/zeng_wt/status/2083096037200220208) · Seedance 2.5 · 2026-07-31 · 602 views
+**Video credit / source:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) · [@zeng_wt](https://x.com/zeng_wt) · [Original post](https://x.com/zeng_wt/status/2083096037200220208) · Seedance 2.5 · 2026-07-31 · 603 views
 
 > A prompt is mentioned in the [X thread](https://x.com/zeng_wt/status/2083096037200220208); the exact reply has not been indexed yet.
 
@@ -3214,7 +3214,7 @@ Create a ten second cinematic live action illusion in a sixteen by nine frame at
 
 <a href="https://x.com/sebatheepan/status/2083290634731864190"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sebatheepan_2083290409267036161.webp" width="460" alt="One thousand years🧔‍♀️"></a>
 
-**Video credit / source:** [Pan](https://x.com/sebatheepan) · [@sebatheepan](https://x.com/sebatheepan) · [Original post](https://x.com/sebatheepan/status/2083290634731864190) · Seedance 2.5 · 2026-07-31 · 567 views
+**Video credit / source:** [Pan](https://x.com/sebatheepan) · [@sebatheepan](https://x.com/sebatheepan) · [Original post](https://x.com/sebatheepan/status/2083290634731864190) · Seedance 2.5 · 2026-07-31 · 569 views
 
 
 ## Anime & Animation
@@ -3558,7 +3558,7 @@ Maintain perfect temporal consistency and character consistency throughout the e
 
 https://github.com/user-attachments/assets/5f18d152-3af2-469f-b44c-5e95c093ee22
 
-**Video credit / source:** [AI Frontliner](https://x.com/AIFrontliner) · [@AIFrontliner](https://x.com/AIFrontliner) · [Original post](https://x.com/AIFrontliner/status/2024868799632031862) · Seedance 2.0 · 2026-02-20 · 55.4K views
+**Video credit / source:** [AI Frontliner](https://x.com/AIFrontliner) · [@AIFrontliner](https://x.com/AIFrontliner) · [Original post](https://x.com/AIFrontliner/status/2024868799632031862) · Seedance 2.0 · 2026-02-20 · 55.5K views
 
 ### This is a Seedance 2.0 interpretation of a manga that has never been adapted into an anime 🤯
 
@@ -3570,7 +3570,7 @@ https://github.com/user-attachments/assets/1c40fb8d-3ca8-4c7d-a097-681415cec353
 
 <a href="https://x.com/Just_sharon7/status/2088878042034868640"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2088877510008373248.webp" width="460" alt="Sharon fighting other Sharon"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2088878042034868640) · Seedance 2.5 · 2026-08-16 · 42.4K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2088878042034868640) · Seedance 2.5 · 2026-08-16 · 42.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3701,7 +3701,7 @@ Premium modern retro-anime animation, expressive close-up facial animation, real
 
 <a href="https://x.com/mrdejie/status/2093183799400288336"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mrdejie_2093183332016377856.webp" width="460" alt="20 shots in 30seconds"></a>
 
-**Video credit / source:** [MrDejie](https://x.com/mrdejie) · [@mrdejie](https://x.com/mrdejie) · [Original post](https://x.com/mrdejie/status/2093183799400288336) · Seedance 2.5 · 2026-08-28 · 33.6K views
+**Video credit / source:** [MrDejie](https://x.com/mrdejie) · [@mrdejie](https://x.com/mrdejie) · [Original post](https://x.com/mrdejie/status/2093183799400288336) · Seedance 2.5 · 2026-08-28 · 33.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3851,7 +3851,7 @@ Man matches <<<image_3>>>, woman matches <<<image_1>>> exactly — photorealisti
 
 <a href="https://x.com/SyntheSarah/status/2096099021152498159"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/SyntheSarah_2096098973291548672.webp" width="460" alt="Created with Seedance 2.5"></a>
 
-**Video credit / source:** [Sarah](https://x.com/SyntheSarah) · [@SyntheSarah](https://x.com/SyntheSarah) · [Original post](https://x.com/SyntheSarah/status/2096099021152498159) · Seedance 2.5 · 2026-09-05 · 27.8K views
+**Video credit / source:** [Sarah](https://x.com/SyntheSarah) · [@SyntheSarah](https://x.com/SyntheSarah) · [Original post](https://x.com/SyntheSarah/status/2096099021152498159) · Seedance 2.5 · 2026-09-05 · 27.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3963,7 +3963,7 @@ Intense, dangerous, inspiring, emotional and triumphant. The final summit reveal
 
 <a href="https://x.com/RuzainaMeer/status/2097193955230405007"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/RuzainaMeer_2097193903854354432.webp" width="460" alt="Created with Seedance 2.5"></a>
 
-**Video credit / source:** [Ruzaina](https://x.com/RuzainaMeer) · [@RuzainaMeer](https://x.com/RuzainaMeer) · [Original post](https://x.com/RuzainaMeer/status/2097193955230405007) · Seedance 2.5 · 2026-09-08 · 17.3K views
+**Video credit / source:** [Ruzaina](https://x.com/RuzainaMeer) · [@RuzainaMeer](https://x.com/RuzainaMeer) · [Original post](https://x.com/RuzainaMeer/status/2097193955230405007) · Seedance 2.5 · 2026-09-08 · 17.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4058,7 +4058,7 @@ FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, dis
 
 <a href="https://x.com/aimikoda/status/2084900750690279501"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2084900197616820224.webp" width="460" alt="Tried creating a Pixar-style short"></a>
 
-**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2084900750690279501) · Seedance 2.5 · 2026-08-05 · 14.7K views
+**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2084900750690279501) · Seedance 2.5 · 2026-08-05 · 14.8K views
 
 > A prompt is mentioned in the [X thread](https://x.com/aimikoda/status/2084900750690279501); the exact reply has not been indexed yet.
 
@@ -4154,7 +4154,7 @@ Aggressive anime cinematography. Fast push-ins, orbital tracking shots, extreme 
 
 <a href="https://x.com/raza8542121/status/2083129360672776304"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/raza8542121_2083127093098123264.webp" width="460" alt="🚨My First Attempt with Seedance 2.5 on @dreamina_ai @BytePlusGlobal"></a>
 
-**Video credit / source:** [Raza](https://x.com/raza8542121) · [@raza8542121](https://x.com/raza8542121) · [Original post](https://x.com/raza8542121/status/2083129360672776304) · Seedance 2.5 · 2026-07-31 · 626 views
+**Video credit / source:** [Raza](https://x.com/raza8542121) · [@raza8542121](https://x.com/raza8542121) · [Original post](https://x.com/raza8542121/status/2083129360672776304) · Seedance 2.5 · 2026-07-31 · 750 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4185,7 +4185,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4
 
-**Video credit / source:** [el.cine](https://x.com/EHuanglu) · [@EHuanglu](https://x.com/EHuanglu) · [Original post](https://x.com/EHuanglu/status/2020828503810445785) · Seedance 2.0 · 2026-02-09 · 516.4K views
+**Video credit / source:** [el.cine](https://x.com/EHuanglu) · [@EHuanglu](https://x.com/EHuanglu) · [Original post](https://x.com/EHuanglu/status/2020828503810445785) · Seedance 2.0 · 2026-02-09 · 516.5K views
 
 ### 🚨 This 15-second GTA 6-style cinematic trailer was made entirely with AI… and it looks…
 
@@ -4197,13 +4197,13 @@ https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4
 
 <a href="https://x.com/samaidirector/status/2093087418081587204"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/samaidirector_2093087367867355136.webp" width="460" alt="🧵You can create this fight on @invideoOfficial with agent two. Just access invideo, paste…"></a>
 
-**Video credit / source:** [SamDirector](https://x.com/samaidirector) · [@samaidirector](https://x.com/samaidirector) · [Original post](https://x.com/samaidirector/status/2093087418081587204) · Seedance 2.5 · 2026-08-27 · 113.9K views
+**Video credit / source:** [SamDirector](https://x.com/samaidirector) · [@samaidirector](https://x.com/samaidirector) · [Original post](https://x.com/samaidirector/status/2093087418081587204) · Seedance 2.5 · 2026-08-27 · 114K views
 
 ### Too real to believe it’s AI. 🔥
 
 <a href="https://x.com/abulu8/status/2094448193102594165"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/abulu8_2094447032479969280.webp" width="460" alt="Too real to believe it’s AI. 🔥"></a>
 
-**Video credit / source:** [Syed Abuthahir ∞](https://x.com/abulu8) · [@abulu8](https://x.com/abulu8) · [Original post](https://x.com/abulu8/status/2094448193102594165) · Seedance 2.5 · 2026-08-31 · 66.4K views
+**Video credit / source:** [Syed Abuthahir ∞](https://x.com/abulu8) · [@abulu8](https://x.com/abulu8) · [Original post](https://x.com/abulu8/status/2094448193102594165) · Seedance 2.5 · 2026-08-31 · 66.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4245,13 +4245,13 @@ https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4
 
 <a href="https://x.com/EXM7777/status/2089001978781368374"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.webp" width="460" alt="i just open sourced the workflow behind $2M AI video productions"></a>
 
-**Video credit / source:** [Machina](https://x.com/EXM7777) · [@EXM7777](https://x.com/EXM7777) · [Original post](https://x.com/EXM7777/status/2089001978781368374) · Seedance 2.5 · 2026-08-16 · 61.3K views
+**Video credit / source:** [Machina](https://x.com/EXM7777) · [@EXM7777](https://x.com/EXM7777) · [Original post](https://x.com/EXM7777/status/2089001978781368374) · Seedance 2.5 · 2026-08-16 · 61.5K views
 
 ### Tried Seedance 2.5 on @videoduck_ai for this short action film
 
 <a href="https://x.com/The_Kremlinn/status/2095083714120229230"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/The_Kremlinn_2095083598990778370.webp" width="460" alt="Tried Seedance 2.5 on @videoduck_ai for this short action film"></a>
 
-**Video credit / source:** [Aaliyah | AI](https://x.com/The_Kremlinn) · [@The_Kremlinn](https://x.com/The_Kremlinn) · [Original post](https://x.com/The_Kremlinn/status/2095083714120229230) · Seedance 2.5 · 2026-09-02 · 60.4K views
+**Video credit / source:** [Aaliyah | AI](https://x.com/The_Kremlinn) · [@The_Kremlinn](https://x.com/The_Kremlinn) · [Original post](https://x.com/The_Kremlinn/status/2095083714120229230) · Seedance 2.5 · 2026-09-02 · 60.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4288,7 +4288,7 @@ RULES: References are appearance only, do not recreate. Keep the hero's face and
 
 <a href="https://x.com/AiwithElisia/status/2092119695201837059"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AiwithElisia_2092119655863525376.webp" width="460" alt="Made with seedance 2.5"></a>
 
-**Video credit / source:** [Elisia](https://x.com/AiwithElisia) · [@AiwithElisia](https://x.com/AiwithElisia) · [Original post](https://x.com/AiwithElisia/status/2092119695201837059) · Seedance 2.5 · 2026-08-25 · 49.6K views
+**Video credit / source:** [Elisia](https://x.com/AiwithElisia) · [@AiwithElisia](https://x.com/AiwithElisia) · [Original post](https://x.com/AiwithElisia/status/2092119695201837059) · Seedance 2.5 · 2026-08-25 · 49.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4324,7 +4324,7 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 
 <a href="https://x.com/oggii_0/status/2093568957727064554"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2093568824511709184.webp" width="460" alt="Meme Vlog using Seedance 2.5"></a>
 
-**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2093568957727064554) · Seedance 2.5 · 2026-08-29 · 45K views
+**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2093568957727064554) · Seedance 2.5 · 2026-08-29 · 45.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4354,7 +4354,7 @@ Vertical 9:16 smartphone vlog, shot on iPhone 17 Pro. ONE SINGLE UNINTERRUPTED H
 
 <a href="https://x.com/Just_sharon7/status/2091167207262929339"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2091166793352302592.webp" width="460" alt="Can you feel the vibe?"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2091167207262929339) · Seedance 2.5 · 2026-08-22 · 42.6K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2091167207262929339) · Seedance 2.5 · 2026-08-22 · 42.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4505,7 +4505,7 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 <a href="https://x.com/sophiaparkerr_/status/2095143773978190187"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sophiaparkerr__2095143518066888704.webp" width="460" alt="A little café, warm sunlight, a good cup of coffee, and a quiet afternoon to slow…"></a>
 
-**Video credit / source:** [Sophia](https://x.com/sophiaparkerr_) · [@sophiaparkerr_](https://x.com/sophiaparkerr_) · [Original post](https://x.com/sophiaparkerr_/status/2095143773978190187) · Seedance 2.5 · 2026-09-02 · 30K views
+**Video credit / source:** [Sophia](https://x.com/sophiaparkerr_) · [@sophiaparkerr_](https://x.com/sophiaparkerr_) · [Original post](https://x.com/sophiaparkerr_/status/2095143773978190187) · Seedance 2.5 · 2026-09-02 · 30.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4538,11 +4538,27 @@ Important: Maintain one identical character throughout. Do not change her facial
 
 **Prompt credit / source:** [@sophiaparkerr_](https://x.com/sophiaparkerr_) · [Original post](https://x.com/sophiaparkerr_/status/2095143773978190187)
 
+### Cinematic action at its finest
+
+<a href="https://x.com/laviniavelle/status/2093162800747282739"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/laviniavelle_2093162727346974720.webp" width="460" alt="Cinematic action at its finest"></a>
+
+**Video credit / source:** [Lavinia](https://x.com/laviniavelle) · [@laviniavelle](https://x.com/laviniavelle) · [Original post](https://x.com/laviniavelle/status/2093162800747282739) · Seedance 2.0 · 2026-08-28 · 29.1K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A dynamic, cinematic action scene set inside a underground subway station. A young East Asian woman with long black hair, wearing a white tank top and blue jeans, is launched back-first into a large tiled column, causing the pillar to crack violently, sending concrete debris, dust, and rubble flying across the floor She recovers, crouching low into a combat stance with an intense look, then charges forward Fast-paced tracking camera follows her as she fights hand-to-hand against a man in a dark business suit, exchanging rapid punches and dodges. Cinematic camera motion, martial arts action, gritty lighting, photorealistic, 8k resolution, filmic quality.
+```
+
+</details>
+
+**Prompt credit / source:** [@laviniavelle](https://x.com/laviniavelle) · [Original post](https://x.com/laviniavelle/status/2093162800747282739)
+
 ### This looks like a diet plan with an unexpected ending
 
 <a href="https://x.com/Aqsahere_/status/2096077108808470604"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Aqsahere__2096076932865794048.webp" width="460" alt="This looks like a diet plan with an unexpected ending"></a>
 
-**Video credit / source:** [Aqsa](https://x.com/Aqsahere_) · [@Aqsahere_](https://x.com/Aqsahere_) · [Original post](https://x.com/Aqsahere_/status/2096077108808470604) · Seedance 2.5 · 2026-09-05 · 26.4K views
+**Video credit / source:** [Aqsa](https://x.com/Aqsahere_) · [@Aqsahere_](https://x.com/Aqsahere_) · [Original post](https://x.com/Aqsahere_/status/2096077108808470604) · Seedance 2.5 · 2026-09-05 · 26.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4571,22 +4587,6 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 **Prompt credit / source:** [@Zyrellix](https://x.com/Zyrellix) · [Original post](https://x.com/Zyrellix/status/2092121112746287527)
 
-### Cinematic action at its finest
-
-<a href="https://x.com/laviniavelle/status/2093162800747282739"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/laviniavelle_2093162727346974720.webp" width="460" alt="Cinematic action at its finest"></a>
-
-**Video credit / source:** [Lavinia](https://x.com/laviniavelle) · [@laviniavelle](https://x.com/laviniavelle) · [Original post](https://x.com/laviniavelle/status/2093162800747282739) · Seedance 2.0 · 2026-08-28 · 25.6K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A dynamic, cinematic action scene set inside a underground subway station. A young East Asian woman with long black hair, wearing a white tank top and blue jeans, is launched back-first into a large tiled column, causing the pillar to crack violently, sending concrete debris, dust, and rubble flying across the floor She recovers, crouching low into a combat stance with an intense look, then charges forward Fast-paced tracking camera follows her as she fights hand-to-hand against a man in a dark business suit, exchanging rapid punches and dodges. Cinematic camera motion, martial arts action, gritty lighting, photorealistic, 8k resolution, filmic quality.
-```
-
-</details>
-
-**Prompt credit / source:** [@laviniavelle](https://x.com/laviniavelle) · [Original post](https://x.com/laviniavelle/status/2093162800747282739)
-
 ### I made this 30-second clip using @higgsfield_ai
 
 <a href="https://x.com/itsshara_ai/status/2091050284063854854"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2091050242204639232.webp" width="460" alt="I made this 30-second clip using @higgsfield_ai"></a>
@@ -4609,17 +4609,55 @@ A dynamic, cinematic action scene set inside a underground subway station. A you
 
 **Video credit / source:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) · [@tanabe_fragm](https://x.com/tanabe_fragm) · [Original post](https://x.com/tanabe_fragm/status/2083098671609241666) · Seedance 2.5 · 2026-07-31 · 22.7K views
 
+### Zombie attack 😳
+
+<a href="https://x.com/AIwithSynthia/status/2097175719470329933"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2097175620136681472.webp" width="460" alt="Zombie attack 😳"></a>
+
+**Video credit / source:** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [Original post](https://x.com/AIwithSynthia/status/2097175719470329933) · Seedance 2.5 · 2026-09-08 · 21.3K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Young Korean woman wearing a fitted  blue crop top and white shorts waits alone at a quiet underground parking garage; security guard watches from a booth.
+Parking lights flicker; her head slowly turns toward a distant sound.
+She suddenly jerks violently; guard notices her strange movements and steps back.
+She drops her bag, collapses beside a parked car, then suddenly goes completely still.
+She rises slowly with blank eyes, unnatural posture and twitching hands.
+Guard locks the booth door and desperately reaches for the emergency phone.
+She suddenly sprints toward the booth; camera shakes as the guard backs away.
+ She slams against the booth glass and snarls while the guard struggles to escape through the rear door.
+ Guard runs between parked cars as the creature follows rapidly behind him.
+ A resident exits an elevator, sees the chase and freezes in confusion.
+The creature turns toward the resident and suddenly charges across the garage.
+ Resident grabs a shopping cart and pushes it toward the creature, briefly slowing it down.
+The creature climbs over the cart and continues chasing while the resident runs toward the exit ramp.
+ Security guard activates the garage sprinkler system; water suddenly pours from above.
+The soaked creature recoils beneath the flashing emergency lights, momentarily disoriented.
+ Resident pulls down a metal security shutter, trapping the creature on the other side.
+The creature violently slams against the shutter as everyone watches from a distance.
+The shutter suddenly bends upward and the creature crawls underneath it.
+ Everyone runs toward the building entrance while the creature rapidly follows.
+The creature reaches the glass exit door and smashes against it as the lights flicker.
+The glass door cracks and breaks; the creature disappears into the dark street outside.
+ Residents stand frozen inside the entrance, staring into the empty rainy street; camera slowly turns toward the flickering garage lights.
+STYLE: Ultra-realistic Korean apartment-building parking garage horror, claustrophobic handheld camera, fluorescent flickering lights, wet concrete reflections, realistic creature movement, tense pacing, natural motion blur, subtle camera shake, cinematic but believable, no gore, no blood, no explicit injuries, no subtitles, no watermark, no CGI look.
+```
+
+</details>
+
+**Prompt credit / source:** [@AIwithSynthia](https://x.com/AIwithSynthia) · [Original post](https://x.com/AIwithSynthia/status/2097175719470329933)
+
 ### Seedance 2.5 - 30s, 720p generation
 
 <a href="https://x.com/aimikoda/status/2083371107755692388"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2083368866722312192.webp" width="460" alt="Seedance 2.5 - 30s, 720p generation"></a>
 
-**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2083371107755692388) · Seedance 2.5 · 2026-08-01 · 19.2K views
+**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2083371107755692388) · Seedance 2.5 · 2026-08-01 · 19.3K views
 
 ### DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally…
 
 <a href="https://x.com/QAiStudio/status/2095393320088588673"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/QAiStudio_2095393275889041408.webp" width="460" alt="DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally…"></a>
 
-**Video credit / source:** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2095393320088588673) · Seedance 2.5 · 2026-09-03 · 18.7K views
+**Video credit / source:** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2095393320088588673) · Seedance 2.5 · 2026-09-03 · 18.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -4705,49 +4743,11 @@ The gravity field collapses for one final moment. The entire city appears suspen
 
 **Prompt credit / source:** [@NoOneIsHere2603](https://x.com/NoOneIsHere2603) · [Original post](https://x.com/NoOneIsHere2603/status/2092093059454681420)
 
-### Zombie attack 😳
-
-<a href="https://x.com/AIwithSynthia/status/2097175719470329933"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2097175620136681472.webp" width="460" alt="Zombie attack 😳"></a>
-
-**Video credit / source:** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [Original post](https://x.com/AIwithSynthia/status/2097175719470329933) · Seedance 2.5 · 2026-09-08 · 18.1K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Young Korean woman wearing a fitted  blue crop top and white shorts waits alone at a quiet underground parking garage; security guard watches from a booth.
-Parking lights flicker; her head slowly turns toward a distant sound.
-She suddenly jerks violently; guard notices her strange movements and steps back.
-She drops her bag, collapses beside a parked car, then suddenly goes completely still.
-She rises slowly with blank eyes, unnatural posture and twitching hands.
-Guard locks the booth door and desperately reaches for the emergency phone.
-She suddenly sprints toward the booth; camera shakes as the guard backs away.
- She slams against the booth glass and snarls while the guard struggles to escape through the rear door.
- Guard runs between parked cars as the creature follows rapidly behind him.
- A resident exits an elevator, sees the chase and freezes in confusion.
-The creature turns toward the resident and suddenly charges across the garage.
- Resident grabs a shopping cart and pushes it toward the creature, briefly slowing it down.
-The creature climbs over the cart and continues chasing while the resident runs toward the exit ramp.
- Security guard activates the garage sprinkler system; water suddenly pours from above.
-The soaked creature recoils beneath the flashing emergency lights, momentarily disoriented.
- Resident pulls down a metal security shutter, trapping the creature on the other side.
-The creature violently slams against the shutter as everyone watches from a distance.
-The shutter suddenly bends upward and the creature crawls underneath it.
- Everyone runs toward the building entrance while the creature rapidly follows.
-The creature reaches the glass exit door and smashes against it as the lights flicker.
-The glass door cracks and breaks; the creature disappears into the dark street outside.
- Residents stand frozen inside the entrance, staring into the empty rainy street; camera slowly turns toward the flickering garage lights.
-STYLE: Ultra-realistic Korean apartment-building parking garage horror, claustrophobic handheld camera, fluorescent flickering lights, wet concrete reflections, realistic creature movement, tense pacing, natural motion blur, subtle camera shake, cinematic but believable, no gore, no blood, no explicit injuries, no subtitles, no watermark, no CGI look.
-```
-
-</details>
-
-**Prompt credit / source:** [@AIwithSynthia](https://x.com/AIwithSynthia) · [Original post](https://x.com/AIwithSynthia/status/2097175719470329933)
-
 ### I made this 30-second clip using @higgsfield_ai
 
 <a href="https://x.com/itsshara_ai/status/2091004996615827895"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2091004945046913025.webp" width="460" alt="I made this 30-second clip using @higgsfield_ai"></a>
 
-**Video credit / source:** [Shara](https://x.com/itsshara_ai) · [@itsshara_ai](https://x.com/itsshara_ai) · [Original post](https://x.com/itsshara_ai/status/2091004996615827895) · Seedance 2.5 · 2026-08-22 · 15.6K views
+**Video credit / source:** [Shara](https://x.com/itsshara_ai) · [@itsshara_ai](https://x.com/itsshara_ai) · [Original post](https://x.com/itsshara_ai/status/2091004996615827895) · Seedance 2.5 · 2026-08-22 · 15.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5003,7 +5003,7 @@ Referee raises hand and starts counting down: eng::**"3... 2... 1..."**.
 
 https://github.com/user-attachments/assets/f8bc0af2-82fd-4c4b-9615-abb787e7d0f8
 
-**Video credit / source:** [pewden AI](https://x.com/pewdenai) · [@pewdenai](https://x.com/pewdenai) · [Original post](https://x.com/pewdenai/status/2021648907915411795) · Seedance 2.0 · 2026-02-11 · 907 views
+**Video credit / source:** [pewden AI](https://x.com/pewdenai) · [@pewdenai](https://x.com/pewdenai) · [Original post](https://x.com/pewdenai/status/2021648907915411795) · Seedance 2.0 · 2026-02-11 · 909 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5168,13 +5168,13 @@ Prioritize natural behavior, consistent identity, believable physics, imperfect 
 
 <a href="https://x.com/beginnersblog1/status/2088679618354237937"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/beginnersblog1_2088679542206742528.webp" width="460" alt="Here’s the workflow I used with Seedance 2.5"></a>
 
-**Video credit / source:** [Beginnersblog](https://x.com/beginnersblog1) · [@beginnersblog1](https://x.com/beginnersblog1) · [Original post](https://x.com/beginnersblog1/status/2088679618354237937) · Seedance 2.5 · 2026-08-15 · 82.1K views
+**Video credit / source:** [Beginnersblog](https://x.com/beginnersblog1) · [@beginnersblog1](https://x.com/beginnersblog1) · [Original post](https://x.com/beginnersblog1/status/2088679618354237937) · Seedance 2.5 · 2026-08-15 · 82.7K views
 
 ### This is AI. That sentence is getting harder to believe
 
 <a href="https://x.com/YourAlphaMom/status/2092315861524603364"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/YourAlphaMom_2092315136434286592.webp" width="460" alt="This is AI. That sentence is getting harder to believe"></a>
 
-**Video credit / source:** [Alpha Mom](https://x.com/YourAlphaMom) · [@YourAlphaMom](https://x.com/YourAlphaMom) · [Original post](https://x.com/YourAlphaMom/status/2092315861524603364) · Seedance 2.5 · 2026-08-25 · 77.8K views
+**Video credit / source:** [Alpha Mom](https://x.com/YourAlphaMom) · [@YourAlphaMom](https://x.com/YourAlphaMom) · [Original post](https://x.com/YourAlphaMom/status/2092315861524603364) · Seedance 2.5 · 2026-08-25 · 79.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5250,7 +5250,7 @@ Thanks @Sheldon056  for the inspiration on this one
 
 <a href="https://x.com/BubbleBrain/status/2084013378461478952"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BubbleBrain_2084012245374402560.webp" width="460" alt="Since you guys love her so much, let&#x27;s make a little intro video for her by Seedance 2.5"></a>
 
-**Video credit / source:** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [Original post](https://x.com/BubbleBrain/status/2084013378461478952) · Seedance 2.5 · 2026-08-02 · 67.1K views
+**Video credit / source:** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [Original post](https://x.com/BubbleBrain/status/2084013378461478952) · Seedance 2.5 · 2026-08-02 · 67.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5320,13 +5320,13 @@ No color, no background scenery, no extra characters, no visual clutter, only th
 
 <a href="https://x.com/john_my07/status/2090287853532266748"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john_my07_2090287723961847808.webp" width="460" alt="Seedance 2.5 at 1080p, which is now at 50% OFF on Pollo AI!"></a>
 
-**Video credit / source:** [Johnn](https://x.com/john_my07) · [@john_my07](https://x.com/john_my07) · [Original post](https://x.com/john_my07/status/2090287853532266748) · Seedance 2.5 · 2026-08-20 · 47.8K views
+**Video credit / source:** [Johnn](https://x.com/john_my07) · [@john_my07](https://x.com/john_my07) · [Original post](https://x.com/john_my07/status/2090287853532266748) · Seedance 2.5 · 2026-08-20 · 47.9K views
 
 ### Caught them laughing mid-performance, but that ending stole everything 👀
 
 <a href="https://x.com/Just_sharon7/status/2087744765341159503"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2087744515708698624.webp" width="460" alt="Caught them laughing mid-performance, but that ending stole everything 👀"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2087744765341159503) · Seedance 2.5 · 2026-08-13 · 44K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2087744765341159503) · Seedance 2.5 · 2026-08-13 · 44.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5372,7 +5372,7 @@ Important motion requirements: The idols must dance first before putting their h
 
 <a href="https://x.com/Zyrellix/status/2094267571943932216"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Zyrellix_2094267417358987264.webp" width="460" alt="One continuous journey through rain dreams deserts oceans and the northern lights ending…"></a>
 
-**Video credit / source:** [Zyrella](https://x.com/Zyrellix) · [@Zyrellix](https://x.com/Zyrellix) · [Original post](https://x.com/Zyrellix/status/2094267571943932216) · Seedance 2.5 · 2026-08-31 · 34.1K views
+**Video credit / source:** [Zyrella](https://x.com/Zyrellix) · [@Zyrellix](https://x.com/Zyrellix) · [Original post](https://x.com/Zyrellix/status/2094267571943932216) · Seedance 2.5 · 2026-08-31 · 34.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5438,7 +5438,7 @@ A surreal luxury stage floating above golden clouds at sunrise with mirror floor
 
 <a href="https://x.com/ChillaiKalan__/status/2094280707422191705"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ChillaiKalan___2094280489372938242.webp" width="460" alt="Made with Seedance 2.5 + Gpt image 2"></a>
 
-**Video credit / source:** [K](https://x.com/ChillaiKalan__) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [Original post](https://x.com/ChillaiKalan__/status/2094280707422191705) · Seedance 2.5 · 2026-08-31 · 25.9K views
+**Video credit / source:** [K](https://x.com/ChillaiKalan__) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [Original post](https://x.com/ChillaiKalan__/status/2094280707422191705) · Seedance 2.5 · 2026-08-31 · 26K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5663,7 +5663,7 @@ Final target: The finished 30-second video must be indistinguishable from a genu
 
 <a href="https://x.com/Maercihh/status/2088876013140967588"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Maercihh_2088875932585193472.webp" width="460" alt="WHEN THE SONG HITS 🎶"></a>
 
-**Video credit / source:** [Maercih](https://x.com/Maercihh) · [@Maercihh](https://x.com/Maercihh) · [Original post](https://x.com/Maercihh/status/2088876013140967588) · Seedance 2.0 · 2026-08-16 · 25.7K views
+**Video credit / source:** [Maercih](https://x.com/Maercihh) · [@Maercihh](https://x.com/Maercihh) · [Original post](https://x.com/Maercihh/status/2088876013140967588) · Seedance 2.0 · 2026-08-16 · 25.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5711,7 +5711,7 @@ https://github.com/user-attachments/assets/8df2fc90-f032-41a6-b25e-56279f106df8
 
 <a href="https://x.com/MrLarus/status/2083558691895209987"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.webp" width="460" alt="🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！"></a>
 
-**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 19.7K views
+**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 19.9K views
 
 ### A Quiet Moment Alone! 🤍
 
@@ -5806,7 +5806,7 @@ rained on and not going inside, laundry left to get wet.
 
 <a href="https://x.com/ZaraIrahh/status/2095736444245479557"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ZaraIrahh_2095735497591300096.webp" width="460" alt="No map. No limits. Just wander"></a>
 
-**Video credit / source:** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Original post](https://x.com/ZaraIrahh/status/2095736444245479557) · Seedance 2.5 · 2026-09-04 · 15.7K views
+**Video credit / source:** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Original post](https://x.com/ZaraIrahh/status/2095736444245479557) · Seedance 2.5 · 2026-09-04 · 15.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -5872,7 +5872,7 @@ Negative Prompt: No subtitles, no captions, no logos, no watermarks, no duplicat
 
 <a href="https://x.com/AIwithSynthia/status/2095727374319186009"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2095727114091921409.webp" width="460" alt="In my own vibe now"></a>
 
-**Video credit / source:** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [Original post](https://x.com/AIwithSynthia/status/2095727374319186009) · Seedance 2.5 · 2026-09-04 · 11.1K views
+**Video credit / source:** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [Original post](https://x.com/AIwithSynthia/status/2095727374319186009) · Seedance 2.5 · 2026-09-04 · 11.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6020,7 +6020,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 https://github.com/user-attachments/assets/519a851f-bccc-42e3-a048-00aad19a62e1
 
-**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2073596755212431768) · Seedance 2.0 · 2026-07-05 · 8.7K views
+**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2073596755212431768) · Seedance 2.0 · 2026-07-05 · 8.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6107,7 +6107,7 @@ Trainee dorm room (early morning) → vocal lesson room (morning) → dance prac
 
 <a href="https://x.com/sailorv321/status/2083090842814996920"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2083090453717823488.webp" width="460" alt="Seedance 2.5、始動。"></a>
 
-**Video credit / source:** [C’est La Vie | AI Director](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [Original post](https://x.com/sailorv321/status/2083090842814996920) · Seedance 2.5 · 2026-07-31 · 6.4K views
+**Video credit / source:** [C’est La Vie | AI Director](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [Original post](https://x.com/sailorv321/status/2083090842814996920) · Seedance 2.5 · 2026-07-31 · 6.5K views
 
 ### Beat-synced outfit swap mid-dance from three reference images
 
@@ -6223,7 +6223,7 @@ Maintain clean instructional aesthetic
 
 <a href="https://x.com/buraktuyan/status/2092008235075084363"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.webp" width="460" alt="Here&#x27;s my 30-second spec ad for WinRAR (that nobody asked for)"></a>
 
-**Video credit / source:** [Burak Tuyan](https://x.com/buraktuyan) · [@buraktuyan](https://x.com/buraktuyan) · [Original post](https://x.com/buraktuyan/status/2092008235075084363) · Seedance 2.5 · 2026-08-24 · 654.9K views
+**Video credit / source:** [Burak Tuyan](https://x.com/buraktuyan) · [@buraktuyan](https://x.com/buraktuyan) · [Original post](https://x.com/buraktuyan/status/2092008235075084363) · Seedance 2.5 · 2026-08-24 · 657K views
 
 ### Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…
 
@@ -6235,7 +6235,7 @@ https://github.com/user-attachments/assets/8c8f5cb5-d633-4332-83ab-e39ebe7b5861
 
 <a href="https://x.com/AIwithkhan/status/2096095608268280198"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2096095525942792192.webp" width="460" alt="That Baddie again"></a>
 
-**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2096095608268280198) · Seedance 2.5 · 2026-09-05 · 403.1K views
+**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2096095608268280198) · Seedance 2.5 · 2026-09-05 · 408.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6309,13 +6309,13 @@ No music. No narration. Only the two spoken lines specified above.
 
 <a href="https://x.com/BubbleBrain/status/2083659648108990925"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BubbleBrain_2083659140178857984.webp" width="460" alt="Seedance 2.5 vlog case"></a>
 
-**Video credit / source:** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [Original post](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 357.1K views
+**Video credit / source:** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [Original post](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 359.1K views
 
 ### Realism that makes ordinary life feel special
 
 <a href="https://x.com/Just_sharon7/status/2096109540924141746"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2096106543985152000.webp" width="460" alt="Realism that makes ordinary life feel special"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2096109540924141746) · Seedance 2.5 · 2026-09-05 · 141.8K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2096109540924141746) · Seedance 2.5 · 2026-09-05 · 147K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6353,7 +6353,7 @@ Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
 
 https://github.com/user-attachments/assets/a9f484ff-34f2-4b06-873d-f8f502b3c67e
 
-**Video credit / source:** [Mike Futia](https://x.com/mikefutia) · [@mikefutia](https://x.com/mikefutia) · [Original post](https://x.com/mikefutia/status/2046642880522211706) · Seedance 2.0 · 2026-04-21 · 80.2K views
+**Video credit / source:** [Mike Futia](https://x.com/mikefutia) · [@mikefutia](https://x.com/mikefutia) · [Original post](https://x.com/mikefutia/status/2046642880522211706) · Seedance 2.0 · 2026-04-21 · 80.3K views
 
 ### Making this hair color spray product ugc ad with Seedance 2.5 via @Flovaai
 
@@ -6422,7 +6422,7 @@ The final 4 seconds must feel like a real commercial product hero/end card, with
 
 <a href="https://x.com/Strength04_X/status/2084269139556761919"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Strength04_X_2084268630556983296.webp" width="460" alt="Seedance 2.5 on @dreamina_ai"></a>
 
-**Video credit / source:** [𝐌](https://x.com/Strength04_X) · [@Strength04_X](https://x.com/Strength04_X) · [Original post](https://x.com/Strength04_X/status/2084269139556761919) · Seedance 2.5 · 2026-08-03 · 55.8K views
+**Video credit / source:** [M-studioAi](https://x.com/Strength04_X) · [@Strength04_X](https://x.com/Strength04_X) · [Original post](https://x.com/Strength04_X/status/2084269139556761919) · Seedance 2.5 · 2026-08-03 · 55.9K views
 
 ### Flova x Seedance 2.5 turns a simple idea into a complete, editable video workflow
 
@@ -6564,7 +6564,7 @@ https://github.com/user-attachments/assets/e776e3a5-cee5-43e6-a403-cbe20fae133c
 
 <a href="https://x.com/oggii_0/status/2092472241254814024"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2092471671064313856.webp" width="460" alt="Made with Seedance 2.5"></a>
 
-**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2092472241254814024) · Seedance 2.5 · 2026-08-26 · 35.1K views
+**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2092472241254814024) · Seedance 2.5 · 2026-08-26 · 35.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6690,7 +6690,7 @@ The realism should come from tiny imperfections, damp reflections, casual body l
 
 <a href="https://x.com/Ciri_ai/status/2093200782887657696"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Ciri_ai_2093200668656037888.webp" width="460" alt="If this is AI slop, the slop is getting ridiculously realistic"></a>
 
-**Video credit / source:** [Ciri](https://x.com/Ciri_ai) · [@Ciri_ai](https://x.com/Ciri_ai) · [Original post](https://x.com/Ciri_ai/status/2093200782887657696) · Seedance 2.5 · 2026-08-28 · 31.8K views
+**Video credit / source:** [Ciri](https://x.com/Ciri_ai) · [@Ciri_ai](https://x.com/Ciri_ai) · [Original post](https://x.com/Ciri_ai/status/2093200782887657696) · Seedance 2.5 · 2026-08-28 · 31.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6753,7 +6753,7 @@ The realism should come from ordinary surroundings, natural expressions, small a
 
 <a href="https://x.com/ChillaiKalan__/status/2094633575547314503"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ChillaiKalan___2094633426284634112.webp" width="460" alt="Made with Seedance 2.5"></a>
 
-**Video credit / source:** [K](https://x.com/ChillaiKalan__) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [Original post](https://x.com/ChillaiKalan__/status/2094633575547314503) · Seedance 2.5 · 2026-09-01 · 30.8K views
+**Video credit / source:** [K](https://x.com/ChillaiKalan__) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [Original post](https://x.com/ChillaiKalan__/status/2094633575547314503) · Seedance 2.5 · 2026-09-01 · 30.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -6876,6 +6876,36 @@ photorealistic live-action Korean high-school rooftop scene at sunset. Use the p
 
 **Prompt credit / source:** [@Aqsahere_](https://x.com/Aqsahere_) · [Original post](https://x.com/Aqsahere_/status/2091001743035564070)
 
+### A day in a life of Korean Girl
+
+<a href="https://x.com/QAiStudio/status/2097181982924984513"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/QAiStudio_2097181923902939137.webp" width="460" alt="A day in a life of Korean Girl"></a>
+
+**Video credit / source:** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2097181982924984513) · Seedance 2.5 · 2026-09-08 · 28.8K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Authentic Indonesian woman, early-2000s Indonesian home-video aesthetic. Preserve her exact face, identity, hairstyle, facial features, skin tone, body proportions, natural underarm hair, olive-green faded sleeveless crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, black wavy hair, side-swept bangs, messy tied ponytail.
+
+Ordinary quiet Indonesian residential neighborhood: narrow concrete alley, simple single-story homes, small terraces, low walls, potted plants, parked motorcycles, large trees, tangled overhead cables. No shops or commercial activity.
+
+00:00–00:03: She sits on a terrace floor doodling in a notebook; handheld camera hovers from above/side.
+00:03–00:07: She taps the pen on her chin, smiles faintly, then continues drawing; camera wanders between her face and hands.
+00:07–00:10: She lies on a mat watching ants crawl along the concrete.
+00:10–00:13: She gently pokes near the ants and laughs softly.
+00:13–00:17: She walks to a low wall, hops up, and swings her legs.
+00:17–00:20: She casually eats chips while looking at the quiet street.
+00:20–00:24: She sits on the steps with a towel around her shoulders, damp hair, slowly combing it.
+00:24–00:27: Close handheld shot of her combing wet hair, water droplets visible.
+00:27–00:30: She finishes, tosses her damp hair back, looks toward camera, and smiles naturally. Abrupt cut to black.
+
+Extremely raw handheld DV-camcorder realism: heavy movement, micro-shakes, accidental framing, off-center composition, occasional face cropping, autofocus hunting, exposure fluctuations, motion blur, rolling shutter, faded/desaturated colors, digital noise and compression artifacts. No posing, stabilization, cinematic look, fashion-commercial styling, modern grading, or music. Natural morning ambience only: birds, breeze, distant motorcycles, neighborhood chatter, paper scratching, chip packet, leaves, comb. 16:9.
+```
+
+</details>
+
+**Prompt credit / source:** [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2097181982924984513)
+
 ### Tokyo streets. Chrome attitude. Prada energy. ✨
 
 <a href="https://x.com/AIwithNatalia/status/2094277759547875413"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithNatalia_2094275332358410240.webp" width="460" alt="Tokyo streets. Chrome attitude. Prada energy. ✨"></a>
@@ -6972,36 +7002,6 @@ Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosph
 
 **Prompt credit / source:** [@AIwithNatalia](https://x.com/AIwithNatalia) · [Original post](https://x.com/AIwithNatalia/status/2094277759547875413)
 
-### A day in a life of Korean Girl
-
-<a href="https://x.com/QAiStudio/status/2097181982924984513"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/QAiStudio_2097181923902939137.webp" width="460" alt="A day in a life of Korean Girl"></a>
-
-**Video credit / source:** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2097181982924984513) · Seedance 2.5 · 2026-09-08 · 28.4K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Authentic Indonesian woman, early-2000s Indonesian home-video aesthetic. Preserve her exact face, identity, hairstyle, facial features, skin tone, body proportions, natural underarm hair, olive-green faded sleeveless crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, black wavy hair, side-swept bangs, messy tied ponytail.
-
-Ordinary quiet Indonesian residential neighborhood: narrow concrete alley, simple single-story homes, small terraces, low walls, potted plants, parked motorcycles, large trees, tangled overhead cables. No shops or commercial activity.
-
-00:00–00:03: She sits on a terrace floor doodling in a notebook; handheld camera hovers from above/side.
-00:03–00:07: She taps the pen on her chin, smiles faintly, then continues drawing; camera wanders between her face and hands.
-00:07–00:10: She lies on a mat watching ants crawl along the concrete.
-00:10–00:13: She gently pokes near the ants and laughs softly.
-00:13–00:17: She walks to a low wall, hops up, and swings her legs.
-00:17–00:20: She casually eats chips while looking at the quiet street.
-00:20–00:24: She sits on the steps with a towel around her shoulders, damp hair, slowly combing it.
-00:24–00:27: Close handheld shot of her combing wet hair, water droplets visible.
-00:27–00:30: She finishes, tosses her damp hair back, looks toward camera, and smiles naturally. Abrupt cut to black.
-
-Extremely raw handheld DV-camcorder realism: heavy movement, micro-shakes, accidental framing, off-center composition, occasional face cropping, autofocus hunting, exposure fluctuations, motion blur, rolling shutter, faded/desaturated colors, digital noise and compression artifacts. No posing, stabilization, cinematic look, fashion-commercial styling, modern grading, or music. Natural morning ambience only: birds, breeze, distant motorcycles, neighborhood chatter, paper scratching, chip packet, leaves, comb. 16:9.
-```
-
-</details>
-
-**Prompt credit / source:** [@QAiStudio](https://x.com/QAiStudio) · [Original post](https://x.com/QAiStudio/status/2097181982924984513)
-
 ### Seedance 2.0 generates UGC-style content that actually converts
 
 https://github.com/user-attachments/assets/4c79fd61-cbd4-4401-8014-f6ca47f43e8f
@@ -7012,7 +7012,7 @@ https://github.com/user-attachments/assets/4c79fd61-cbd4-4401-8014-f6ca47f43e8f
 
 <a href="https://x.com/oggii_0/status/2095764656694702168"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2095764604643360768.webp" width="460" alt="Made with seedance 2.5 on Higgsfield"></a>
 
-**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2095764656694702168) · Seedance 2.5 · 2026-09-04 · 20K views
+**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2095764656694702168) · Seedance 2.5 · 2026-09-04 · 20.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7128,7 +7128,7 @@ Ultra-realistic, authentic creator content, premium grocery aesthetic, natural b
 
 <a href="https://x.com/ZaraIrahh/status/2089195912119943367"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ZaraIrahh_2089194863321587712.webp" width="460" alt="Gym day: survived, sweated, and somehow left proud 💪😅"></a>
 
-**Video credit / source:** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Original post](https://x.com/ZaraIrahh/status/2089195912119943367) · Seedance 2.5 · 2026-08-17 · 19.1K views
+**Video credit / source:** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Original post](https://x.com/ZaraIrahh/status/2089195912119943367) · Seedance 2.5 · 2026-08-17 · 19.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7195,7 +7195,7 @@ Keep the entire sequence fast, casual, spontaneous, and realistic, with natural 
 
 <a href="https://x.com/oggii_0/status/2097170131105550517"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2097170047982780416.webp" width="460" alt="Made with seedance 2.5 on Higgsfield"></a>
 
-**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2097170131105550517) · Seedance 2.5 · 2026-09-08 · 18.8K views
+**Video credit / source:** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [Original post](https://x.com/oggii_0/status/2097170131105550517) · Seedance 2.5 · 2026-09-08 · 19K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7235,7 +7235,7 @@ CGI look, plastic skin, identity drift, outfit changes, distorted hands, extra f
 
 <a href="https://x.com/CaliraVal/status/2091386310837862772"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/CaliraVal_2091385948114444288.webp" width="460" alt="Just a peaceful laundry day. Fresh clothes, fresh air, good vibes"></a>
 
-**Video credit / source:** [Calira](https://x.com/CaliraVal) · [@CaliraVal](https://x.com/CaliraVal) · [Original post](https://x.com/CaliraVal/status/2091386310837862772) · Seedance 2.5 · 2026-08-23 · 18.4K views
+**Video credit / source:** [Calira](https://x.com/CaliraVal) · [@CaliraVal](https://x.com/CaliraVal) · [Original post](https://x.com/CaliraVal/status/2091386310837862772) · Seedance 2.5 · 2026-08-23 · 18.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7310,7 +7310,7 @@ Add one prop not in @Image 1: a small tan leather shoulder purse, thin strap, wo
 
 <a href="https://x.com/saniaspeaks_/status/2095728089015738826"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/saniaspeaks__2095728038382321664.webp" width="460" alt="A casual trip to the fruit market… and it looks totally real"></a>
 
-**Video credit / source:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [Original post](https://x.com/saniaspeaks_/status/2095728089015738826) · Seedance 2.5 · 2026-09-04 · 16.2K views
+**Video credit / source:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [Original post](https://x.com/saniaspeaks_/status/2095728089015738826) · Seedance 2.5 · 2026-09-04 · 16.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7388,7 +7388,7 @@ Hard cut to her arriving home. The friend filming captures her placing the fresh
 
 <a href="https://x.com/AIwithkhan/status/2084608509837275231"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2084608460289925120.webp" width="460" alt="UGC on Seedance 2.5 is on another level"></a>
 
-**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2084608509837275231) · Seedance 2.5 · 2026-08-04 · 15.4K views
+**Video credit / source:** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [Original post](https://x.com/AIwithkhan/status/2084608509837275231) · Seedance 2.5 · 2026-08-04 · 15.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7486,7 +7486,7 @@ Important: Keep the air fryer design consistent with the reference. Do not chang
 
 <a href="https://x.com/Strength04_X/status/2083131866580672827"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Strength04_X_2083131360063975425.webp" width="460" alt="Created this using Seedance 2.5 on Dreamina_ai"></a>
 
-**Video credit / source:** [𝐌](https://x.com/Strength04_X) · [@Strength04_X](https://x.com/Strength04_X) · [Original post](https://x.com/Strength04_X/status/2083131866580672827) · Seedance 2.5 · 2026-07-31 · 14.6K views
+**Video credit / source:** [M-studioAi](https://x.com/Strength04_X) · [@Strength04_X](https://x.com/Strength04_X) · [Original post](https://x.com/Strength04_X/status/2083131866580672827) · Seedance 2.5 · 2026-07-31 · 14.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7557,7 +7557,7 @@ Avoid identity changes, face distortion, flickering, unnatural expressions, extr
 
 <a href="https://x.com/rovvmut_/status/2089235882226471105"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rovvmut__2089234802465742848.webp" width="460" alt="Seedance 2.5 on @itsPolloAI"></a>
 
-**Video credit / source:** [Heisenberg](https://x.com/rovvmut_) · [@rovvmut_](https://x.com/rovvmut_) · [Original post](https://x.com/rovvmut_/status/2089235882226471105) · Seedance 2.5 · 2026-08-17 · 12.4K views
+**Video credit / source:** [Heisenberg](https://x.com/rovvmut_) · [@rovvmut_](https://x.com/rovvmut_) · [Original post](https://x.com/rovvmut_/status/2089235882226471105) · Seedance 2.5 · 2026-08-17 · 12.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7617,7 +7617,7 @@ Generate the full continuous sequence with seamless transitions between shots, p
 
 <a href="https://x.com/Kashberg_0/status/2094996412593537295"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Kashberg_0_2094996251435728896.webp" width="460" alt="Made with Seedance 2.5"></a>
 
-**Video credit / source:** [Kashberg](https://x.com/Kashberg_0) · [@Kashberg_0](https://x.com/Kashberg_0) · [Original post](https://x.com/Kashberg_0/status/2094996412593537295) · Seedance 2.5 · 2026-09-02 · 12.2K views
+**Video credit / source:** [Kashberg](https://x.com/Kashberg_0) · [@Kashberg_0](https://x.com/Kashberg_0) · [Original post](https://x.com/Kashberg_0/status/2094996412593537295) · Seedance 2.5 · 2026-09-02 · 12.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7713,55 +7713,11 @@ NEGATIVE: No copied storyline, sequence, dialogue, wardrobe, props arrangement, 
 
 **Prompt credit / source:** [@Kashberg_0](https://x.com/Kashberg_0) · [Original post](https://x.com/Kashberg_0/status/2094996412593537295)
 
-### The closer AI gets to real life, the crazier this gets
-
-<a href="https://x.com/Sheldon056/status/2093184863746551815"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Sheldon056_2093184790275235840.webp" width="460" alt="The closer AI gets to real life, the crazier this gets"></a>
-
-**Video credit / source:** [Duet | AI](https://x.com/Sheldon056) · [@Sheldon056](https://x.com/Sheldon056) · [Original post](https://x.com/Sheldon056/status/2093184863746551815) · Seedance 2.5 · 2026-08-28 · 11.5K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-WORLD:
-A quiet residential neighborhood at night with a warm, nostalgic atmosphere. A young man steps out for a late-night snack and slowly walks home through familiar streets. He buys food, sits outside for a while, encounters a small everyday moment, and continues home. The world feels ordinary, lived-in, nostalgic, and real.
-CHARACTER:
-Young man, early 20s, natural appearance, slightly messy dark hair, subtle stubble. Wearing a faded grey T-shirt, loose dark trousers, worn sneakers, and a simple wristwatch. Tired but relaxed. Signature gesture: runs his fingers through his hair when thinking.
-Keep his face, identity, hairstyle, clothing, and proportions consistent.
-STYLE:
-Raw handheld personal-video footage. Natural camera shake, imperfect framing, autofocus hunting, exposure shifts between bright shop lights and dark streets, soft details, mild digital noise, muted colors, slight motion blur, and realistic low-light imperfections.
-No cinematic lighting, stabilization, dramatic camera movement, slow motion, or polished commercial look.
-SCENE:
-An older residential neighborhood at night. Narrow streets, modest apartment buildings, small food shops, vending machines, parked bicycles, concrete sidewalks, overhead wires, trees, quiet storefronts, and warm windows in the distance.
-Natural audio: footsteps, distant traffic, insects, refrigerator hum, shop door sounds, bicycles, faint conversations, wind, and nighttime city ambience.
-FULL SCRIPT:
-LOCK:
-Maintain the same character, clothing, environment, objects, and realistic physics throughout. Camera remains handheld and physically present.
-OPEN — 0:00–0:06
-He leaves his apartment carrying a small wallet. He locks the door, checks his pockets, and starts walking. He looks toward the camera and says, “Just getting something to eat.”
-BUILD — 0:06–0:12
-He enters a small neighborhood shop and looks through the shelves. He picks up a bottled drink and a simple snack, pays, and steps outside. The bright indoor light briefly causes the camera exposure to adjust.
-TURN — 0:12–0:18
-He sits on a low wall outside the shop and opens his snack. A stray cat appears nearby. He notices it, breaks off a tiny piece of food, and places it on the ground. The cat approaches cautiously. He smiles quietly.
-SUSTAIN — 0:18–0:25
-He continues walking home. The street is almost empty. He passes parked bicycles and apartment entrances. He stops beneath a streetlight, takes a drink, looks up at the night sky for a moment, then continues walking.
-CLOSE — 0:25–0:30
-He reaches his apartment entrance. Before going inside, he turns toward the camera and says, “I’m going to sleep.”
-He gives a small tired smile, opens the door, and disappears inside. The camera remains outside for a few seconds before the recording cuts to black.
-NEGATIVE:
-No modern smartphones, recognizable brands, advertisements, logos, famous people, copyrighted characters, contemporary luxury environments, cinematic glamour, perfect framing, stabilization, drone shots, slow motion, exaggerated acting, identity changes, outfit changes, distorted anatomy, floating objects, teleportation, unrealistic physics, music, narration, subtitles, or artificial sound effects.
-FINAL FEEL:
-A forgotten personal recording of a completely ordinary night. Quiet, slightly lonely but comforting, masculine, nostalgic, imperfect, and deeply human. The realism should come from small details, natural movement, believable nighttime lighting, subtle expressions, and the feeling that the camera happened to be there.
-```
-
-</details>
-
-**Prompt credit / source:** [@Sheldon056](https://x.com/Sheldon056) · [Original post](https://x.com/Sheldon056/status/2093184863746551815)
-
 ### Created with Seedance 2.0
 
 <a href="https://x.com/ElaineWrigari1/status/2097208674640912805"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ElaineWrigari1_2097208479165644800.webp" width="460" alt="Created with Seedance 2.0"></a>
 
-**Video credit / source:** [Elaine Wright](https://x.com/ElaineWrigari1) · [@ElaineWrigari1](https://x.com/ElaineWrigari1) · [Original post](https://x.com/ElaineWrigari1/status/2097208674640912805) · Seedance 2.5 · 2026-09-08 · 11.5K views
+**Video credit / source:** [Elaine Wright](https://x.com/ElaineWrigari1) · [@ElaineWrigari1](https://x.com/ElaineWrigari1) · [Original post](https://x.com/ElaineWrigari1/status/2097208674640912805) · Seedance 2.5 · 2026-09-08 · 12.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -7827,6 +7783,50 @@ NEGATIVE PROMPT: No reference-image dependency, no identity changes, no face mor
 </details>
 
 **Prompt credit / source:** [@ElaineWrigari1](https://x.com/ElaineWrigari1) · [Original post](https://x.com/ElaineWrigari1/status/2097208674640912805)
+
+### The closer AI gets to real life, the crazier this gets
+
+<a href="https://x.com/Sheldon056/status/2093184863746551815"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Sheldon056_2093184790275235840.webp" width="460" alt="The closer AI gets to real life, the crazier this gets"></a>
+
+**Video credit / source:** [Duet | AI](https://x.com/Sheldon056) · [@Sheldon056](https://x.com/Sheldon056) · [Original post](https://x.com/Sheldon056/status/2093184863746551815) · Seedance 2.5 · 2026-08-28 · 11.5K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+WORLD:
+A quiet residential neighborhood at night with a warm, nostalgic atmosphere. A young man steps out for a late-night snack and slowly walks home through familiar streets. He buys food, sits outside for a while, encounters a small everyday moment, and continues home. The world feels ordinary, lived-in, nostalgic, and real.
+CHARACTER:
+Young man, early 20s, natural appearance, slightly messy dark hair, subtle stubble. Wearing a faded grey T-shirt, loose dark trousers, worn sneakers, and a simple wristwatch. Tired but relaxed. Signature gesture: runs his fingers through his hair when thinking.
+Keep his face, identity, hairstyle, clothing, and proportions consistent.
+STYLE:
+Raw handheld personal-video footage. Natural camera shake, imperfect framing, autofocus hunting, exposure shifts between bright shop lights and dark streets, soft details, mild digital noise, muted colors, slight motion blur, and realistic low-light imperfections.
+No cinematic lighting, stabilization, dramatic camera movement, slow motion, or polished commercial look.
+SCENE:
+An older residential neighborhood at night. Narrow streets, modest apartment buildings, small food shops, vending machines, parked bicycles, concrete sidewalks, overhead wires, trees, quiet storefronts, and warm windows in the distance.
+Natural audio: footsteps, distant traffic, insects, refrigerator hum, shop door sounds, bicycles, faint conversations, wind, and nighttime city ambience.
+FULL SCRIPT:
+LOCK:
+Maintain the same character, clothing, environment, objects, and realistic physics throughout. Camera remains handheld and physically present.
+OPEN — 0:00–0:06
+He leaves his apartment carrying a small wallet. He locks the door, checks his pockets, and starts walking. He looks toward the camera and says, “Just getting something to eat.”
+BUILD — 0:06–0:12
+He enters a small neighborhood shop and looks through the shelves. He picks up a bottled drink and a simple snack, pays, and steps outside. The bright indoor light briefly causes the camera exposure to adjust.
+TURN — 0:12–0:18
+He sits on a low wall outside the shop and opens his snack. A stray cat appears nearby. He notices it, breaks off a tiny piece of food, and places it on the ground. The cat approaches cautiously. He smiles quietly.
+SUSTAIN — 0:18–0:25
+He continues walking home. The street is almost empty. He passes parked bicycles and apartment entrances. He stops beneath a streetlight, takes a drink, looks up at the night sky for a moment, then continues walking.
+CLOSE — 0:25–0:30
+He reaches his apartment entrance. Before going inside, he turns toward the camera and says, “I’m going to sleep.”
+He gives a small tired smile, opens the door, and disappears inside. The camera remains outside for a few seconds before the recording cuts to black.
+NEGATIVE:
+No modern smartphones, recognizable brands, advertisements, logos, famous people, copyrighted characters, contemporary luxury environments, cinematic glamour, perfect framing, stabilization, drone shots, slow motion, exaggerated acting, identity changes, outfit changes, distorted anatomy, floating objects, teleportation, unrealistic physics, music, narration, subtitles, or artificial sound effects.
+FINAL FEEL:
+A forgotten personal recording of a completely ordinary night. Quiet, slightly lonely but comforting, masculine, nostalgic, imperfect, and deeply human. The realism should come from small details, natural movement, believable nighttime lighting, subtle expressions, and the feeling that the camera happened to be there.
+```
+
+</details>
+
+**Prompt credit / source:** [@Sheldon056](https://x.com/Sheldon056) · [Original post](https://x.com/Sheldon056/status/2093184863746551815)
 
 ### A Night to Remember in Tokyo From a Helicopter Ride to Shibuya After Dark
 
@@ -7942,7 +7942,7 @@ PRODUCT LOCK: Keep the attached product visually identical in every shot. Do not
 
 <a href="https://x.com/Strength04_X/status/2083763307672981913"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Strength04_X_2083762866587574272.webp" width="460" alt="Seedance 2.5 on @dreamina_ai"></a>
 
-**Video credit / source:** [𝐌](https://x.com/Strength04_X) · [@Strength04_X](https://x.com/Strength04_X) · [Original post](https://x.com/Strength04_X/status/2083763307672981913) · Seedance 2.5 · 2026-08-02 · 8.8K views
+**Video credit / source:** [M-studioAi](https://x.com/Strength04_X) · [@Strength04_X](https://x.com/Strength04_X) · [Original post](https://x.com/Strength04_X/status/2083763307672981913) · Seedance 2.5 · 2026-08-02 · 8.8K views
 
 ### Seedance 2.5 is too spicy 🥵
 
@@ -8150,7 +8150,7 @@ Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A
 
 <a href="https://x.com/JMSvid/status/2083210992343756893"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/JMSvid_2083209862419259393.webp" width="460" alt="The cinematic qualities of Seedance 2.5 are mad... wth man 😮‍💨"></a>
 
-**Video credit / source:** [JMS.vid](https://x.com/JMSvid) · [@JMSvid](https://x.com/JMSvid) · [Original post](https://x.com/JMSvid/status/2083210992343756893) · Seedance 2.5 · 2026-07-31 · 727 views
+**Video credit / source:** [JMS.vid](https://x.com/JMSvid) · [@JMSvid](https://x.com/JMSvid) · [Original post](https://x.com/JMSvid/status/2083210992343756893) · Seedance 2.5 · 2026-07-31 · 744 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8186,7 +8186,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 <a href="https://x.com/noman23761/status/2083238369493164148"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/noman23761_2083093991860379648.webp" width="460" alt="Seedance 2.5 on"></a>
 
-**Video credit / source:** [Cyber AI Creator 🎨](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [Original post](https://x.com/noman23761/status/2083238369493164148) · Seedance 2.5 · 2026-07-31 · 127 views
+**Video credit / source:** [Noman | AI Filmmaker](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [Original post](https://x.com/noman23761/status/2083238369493164148) · Seedance 2.5 · 2026-07-31 · 129 views
 
 
 ## Prompting & Workflow
@@ -8195,25 +8195,25 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 <a href="https://x.com/Just_sharon7/status/2091401520915030279"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2091266552645799936.webp" width="460" alt="Made with GPT Image 2 + Seedance 2.5 on @Flovaai"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2091401520915030279) · Seedance 2.5 · 2026-08-23 · 600.2K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2091401520915030279) · Seedance 2.5 · 2026-08-23 · 600.3K views
 
 ### Blender previs pushed through Seedance 2.0 for an ambush scene
 
 https://github.com/user-attachments/assets/cdebab9f-3553-48e7-a2c7-7cb5be498e68
 
-**Video credit / source:** [Reid Hannaford](https://x.com/reidhannaford) · [@reidhannaford](https://x.com/reidhannaford) · [Original post](https://x.com/reidhannaford/status/2071595581508563168) · Seedance 2.0 · 2026-06-29 · 226K views
+**Video credit / source:** [Reid Hannaford](https://x.com/reidhannaford) · [@reidhannaford](https://x.com/reidhannaford) · [Original post](https://x.com/reidhannaford/status/2071595581508563168) · Seedance 2.0 · 2026-06-29 · 226.3K views
 
 ### AI video creation is getting way more controllable
 
 <a href="https://x.com/anjum_ai/status/2092081943412416906"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/anjum_ai_2092081863921893377.webp" width="460" alt="AI video creation is getting way more controllable"></a>
 
-**Video credit / source:** [Tanvir](https://x.com/anjum_ai) · [@anjum_ai](https://x.com/anjum_ai) · [Original post](https://x.com/anjum_ai/status/2092081943412416906) · Seedance 2.5 · 2026-08-25 · 172.9K views
+**Video credit / source:** [Tanvir](https://x.com/anjum_ai) · [@anjum_ai](https://x.com/anjum_ai) · [Original post](https://x.com/anjum_ai/status/2092081943412416906) · Seedance 2.5 · 2026-08-25 · 173.3K views
 
 ### GPT Image 2 - Character Reference Sheet Prompt
 
 https://github.com/user-attachments/assets/b8842268-6562-4b20-ab20-80e70e50472d
 
-**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2048654096794538316) · Seedance 2.0 · 2026-04-27 · 165.7K views
+**Video credit / source:** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [Original post](https://x.com/aimikoda/status/2048654096794538316) · Seedance 2.0 · 2026-04-27 · 165.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8349,7 +8349,7 @@ End on a confident mid or full shot, character fully established.
 
 <a href="https://x.com/davidkeell/status/2092123154152067554"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/davidkeell_2092122598004203520.webp" width="460" alt="With Seedance 2.5 in Flova, creators can build longer, more coherent sequences without…"></a>
 
-**Video credit / source:** [David Keel](https://x.com/davidkeell) · [@davidkeell](https://x.com/davidkeell) · [Original post](https://x.com/davidkeell/status/2092123154152067554) · Seedance 2.5 · 2026-08-25 · 112.2K views
+**Video credit / source:** [David Keel](https://x.com/davidkeell) · [@davidkeell](https://x.com/davidkeell) · [Original post](https://x.com/davidkeell/status/2092123154152067554) · Seedance 2.5 · 2026-08-25 · 112.3K views
 
 ### A curated Seedance 2.0 prompt collection
 
@@ -8393,17 +8393,17 @@ https://github.com/user-attachments/assets/392e8926-71c3-427d-9698-e3268dae9185
 
 **Video credit / source:** [Alamin](https://x.com/iam_chonchol) · [@iam_chonchol](https://x.com/iam_chonchol) · [Original post](https://x.com/iam_chonchol/status/2091927152128405876) · Seedance 2.5 · 2026-08-24 · 42.5K views
 
+### AI vlogs used to be prompt roulette
+
+<a href="https://x.com/_YashalAli/status/2095087860198056322"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/_YashalAli_2095087576948621312.webp" width="460" alt="AI vlogs used to be prompt roulette"></a>
+
+**Video credit / source:** [Yashal Ai](https://x.com/_YashalAli) · [@_YashalAli](https://x.com/_YashalAli) · [Original post](https://x.com/_YashalAli/status/2095087860198056322) · Seedance 2.5 · 2026-09-02 · 30.6K views
+
 ### No more prompt roulette or face-drift clips
 
 <a href="https://x.com/DoctorAmna11/status/2088498899615150290"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/DoctorAmna11_2088498736976859136.webp" width="460" alt="No more prompt roulette or face-drift clips"></a>
 
 **Video credit / source:** [Ai Doctor](https://x.com/DoctorAmna11) · [@DoctorAmna11](https://x.com/DoctorAmna11) · [Original post](https://x.com/DoctorAmna11/status/2088498899615150290) · Seedance 2.5 · 2026-08-15 · 30.6K views
-
-### AI vlogs used to be prompt roulette
-
-<a href="https://x.com/_YashalAli/status/2095087860198056322"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/_YashalAli_2095087576948621312.webp" width="460" alt="AI vlogs used to be prompt roulette"></a>
-
-**Video credit / source:** [Yashal Ai](https://x.com/_YashalAli) · [@_YashalAli](https://x.com/_YashalAli) · [Original post](https://x.com/_YashalAli/status/2095087860198056322) · Seedance 2.5 · 2026-09-02 · 30.5K views
 
 ### She doesn’t play tennis. She hunts points
 
@@ -8465,7 +8465,7 @@ AUDIO: No dialogue. Diegetic sound only — ball impact, sneaker squeak, breathi
 
 https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
-**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 26.3K views
+**Video credit / source:** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [Original post](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 26.4K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8497,7 +8497,7 @@ Avoid deformation, missing limbs, face changes, disappearing objects, broken str
 
 <a href="https://x.com/SyntheSarah/status/2097182529564365135"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/SyntheSarah_2097182470462746625.webp" width="460" alt="What if the ocean came alive after midnight?"></a>
 
-**Video credit / source:** [Sarah](https://x.com/SyntheSarah) · [@SyntheSarah](https://x.com/SyntheSarah) · [Original post](https://x.com/SyntheSarah/status/2097182529564365135) · Seedance 2.5 · 2026-09-08 · 16.2K views
+**Video credit / source:** [Sarah](https://x.com/SyntheSarah) · [@SyntheSarah](https://x.com/SyntheSarah) · [Original post](https://x.com/SyntheSarah/status/2097182529564365135) · Seedance 2.5 · 2026-09-08 · 16.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8530,7 +8530,7 @@ https://github.com/user-attachments/assets/b57b8706-007f-4ee7-9f7b-df6ab06042fd
 
 <a href="https://x.com/MadMax_Series/status/2094808243063165109"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MadMax_Series_2094807721681784832.webp" width="460" alt="gm gm AI video creators"></a>
 
-**Video credit / source:** [MadMax](https://x.com/MadMax_Series) · [@MadMax_Series](https://x.com/MadMax_Series) · [Original post](https://x.com/MadMax_Series/status/2094808243063165109) · Seedance 2.5 · 2026-09-01 · 8.3K views
+**Video credit / source:** [MadMax](https://x.com/MadMax_Series) · [@MadMax_Series](https://x.com/MadMax_Series) · [Original post](https://x.com/MadMax_Series/status/2094808243063165109) · Seedance 2.5 · 2026-09-01 · 8.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8570,9 +8570,9 @@ https://github.com/user-attachments/assets/b57b8706-007f-4ee7-9f7b-df6ab06042fd
 
 ### Seedance 2.5 brought Korea’s forgotten everyday moments back to life... glimpse into how…
 
-<a href="https://x.com/sha_zdiii/status/2097927068973662397"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sha_zdiii_2097927032680390656.webp" width="460" alt="Seedance 2.5 brought Korea’s forgotten everyday moments back to life... glimpse into how…"></a>
+<a href="https://x.com/AIwithWania/status/2097927068973662397"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithWania_2097927032680390656.webp" width="460" alt="Seedance 2.5 brought Korea’s forgotten everyday moments back to life... glimpse into how…"></a>
 
-**Video credit / source:** [shah_zadii](https://x.com/sha_zdiii) · [@sha_zdiii](https://x.com/sha_zdiii) · [Original post](https://x.com/sha_zdiii/status/2097927068973662397) · Seedance 2.5 · 2026-09-10 · 4.9K views
+**Video credit / source:** [Wania](https://x.com/AIwithWania) · [@AIwithWania](https://x.com/AIwithWania) · [Original post](https://x.com/AIwithWania/status/2097927068973662397) · Seedance 2.5 · 2026-09-10 · 8.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8874,13 +8874,13 @@ The finished 30-second video should feel like a genuine surviving documentary re
 
 </details>
 
-**Prompt credit / source:** [@sha_zdiii](https://x.com/sha_zdiii) · [Original post](https://x.com/sha_zdiii/status/2097927068973662397)
+**Prompt credit / source:** [@AIwithWania](https://x.com/AIwithWania) · [Original post](https://x.com/AIwithWania/status/2097927068973662397)
 
 ### Time-lapse works because reality suddenly stops behaving normally
 
 <a href="https://x.com/PrometheanAIX/status/2091139175294603414"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/PrometheanAIX_2091138221493075968.webp" width="460" alt="Time-lapse works because reality suddenly stops behaving normally"></a>
 
-**Video credit / source:** [Promethean](https://x.com/PrometheanAIX) · [@PrometheanAIX](https://x.com/PrometheanAIX) · [Original post](https://x.com/PrometheanAIX/status/2091139175294603414) · Seedance 2.5 · 2026-08-22 · 3.4K views
+**Video credit / source:** [Promethean](https://x.com/PrometheanAIX) · [@PrometheanAIX](https://x.com/PrometheanAIX) · [Original post](https://x.com/PrometheanAIX/status/2091139175294603414) · Seedance 2.5 · 2026-08-22 · 3.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -8924,7 +8924,7 @@ Paid promotion for Lovart.
 
 <a href="https://x.com/PromptSin/status/2083077699917258779"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/PromptSin_2083077674738868224.webp" width="460" alt="Seedance 2.5 is HERE—and my very first generation blew me away. 🤯🔥"></a>
 
-**Video credit / source:** [PSS](https://x.com/PromptSin) · [@PromptSin](https://x.com/PromptSin) · [Original post](https://x.com/PromptSin/status/2083077699917258779) · Seedance 2.5 · 2026-07-31 · 3.4K views
+**Video credit / source:** [PromptSin](https://x.com/PromptSin) · [@PromptSin](https://x.com/PromptSin) · [Original post](https://x.com/PromptSin/status/2083077699917258779) · Seedance 2.5 · 2026-07-31 · 3.4K views
 
 ### Just a normal night out… until two besties became scared of a tiny frog. 😂🌙
 
@@ -9061,7 +9061,7 @@ Overall feeling:
 
 <a href="https://x.com/AI__TSUBAKI/status/2092036105805991971"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AI__TSUBAKI_2092033345681326080.webp" width="460" alt="first time outside in forever and it was so hot"></a>
 
-**Video credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2092036105805991971) · Seedance 2.5 · 2026-08-24 · 2.8K views
+**Video credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2092036105805991971) · Seedance 2.5 · 2026-08-24 · 2.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -9103,7 +9103,7 @@ Exactly one HANA in every shot. Same face, same hooded eye shape, same hair orna
 
 <a href="https://x.com/Sairah_0/status/2094636604237213941"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Sairah_0_2094636542455427073.webp" width="460" alt="GPT Image 2 and Seedance 2.5"></a>
 
-**Video credit / source:** [Sairah](https://x.com/Sairah_0) · [@Sairah_0](https://x.com/Sairah_0) · [Original post](https://x.com/Sairah_0/status/2094636604237213941) · Seedance 2.5 · 2026-09-01 · 2.7K views
+**Video credit / source:** [Sairah](https://x.com/Sairah_0) · [@Sairah_0](https://x.com/Sairah_0) · [Original post](https://x.com/Sairah_0/status/2094636604237213941) · Seedance 2.5 · 2026-09-01 · 2.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -9280,7 +9280,7 @@ Avoid deformation, missing limbs, face changes, disappearing objects, broken str
 
 https://github.com/user-attachments/assets/72d6dc58-905c-4bcc-bc6d-bff1454ecc47
 
-**Video credit / source:** [Farhan](https://x.com/mhdfaran) · [@mhdfaran](https://x.com/mhdfaran) · [Original post](https://x.com/mhdfaran/status/2081767702188970299) · Seedance 2.0 · 2026-07-27 · 570 views
+**Video credit / source:** [Farhan](https://x.com/mhdfaran) · [@mhdfaran](https://x.com/mhdfaran) · [Original post](https://x.com/mhdfaran/status/2081767702188970299) · Seedance 2.0 · 2026-07-27 · 571 views
 
 ### ☕ Dialogues about the eternal in Seedance 2.5
 
@@ -9305,7 +9305,7 @@ https://github.com/user-attachments/assets/72d6dc58-905c-4bcc-bc6d-bff1454ecc47
 
 <a href="https://x.com/hytmIA/status/2093016441431695441"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/hytmIA_2093016403565506560.webp" width="460" alt="Same prompt. Same product. Two Seedance models. Which style would you choose?"></a>
 
-**Video credit / source:** [haytam](https://x.com/hytmIA) · [@hytmIA](https://x.com/hytmIA) · [Original post](https://x.com/hytmIA/status/2093016441431695441) · Seedance 2.5 · 2026-08-27 · 109K views
+**Video credit / source:** [haytam](https://x.com/hytmIA) · [@hytmIA](https://x.com/hytmIA) · [Original post](https://x.com/hytmIA/status/2093016441431695441) · Seedance 2.5 · 2026-08-27 · 109.1K views
 
 > A prompt is mentioned in the [X thread](https://x.com/hytmIA/status/2093016441431695441); the exact reply has not been indexed yet.
 
@@ -9715,61 +9715,11 @@ Create a 15-second ultra-realistic cinematic action sequence featuring a female 
 
 **Prompt credit / source:** [@SyntheSarah](https://x.com/SyntheSarah) · [Original post](https://x.com/SyntheSarah/status/2091007759130988559)
 
-### Seedance 2.5 vs Seedance 2.0
-
-<a href="https://x.com/higgsfield_ai/status/2083130063382597778"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083128504053534721.webp" width="460" alt="Seedance 2.5 vs Seedance 2.0"></a>
-
-**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083130063382597778) · Seedance 2.5 · 2026-07-31 · 20.8K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-**[SCENE]** A two-member female pop duo shoots a retro Y2K-style music video: candy-colored studio sets, tightly synchronized hand choreography, beat-locked hard cuts and fast punch zooms — the texture of 1999 music television, rendered at modern production quality.
-
-**[ACTIVE REFERENCES]**
-<<<image_1>>>: Female singer in her twenties, long straight pink hair with gold hair clips, small nose ring, beauty mark on cheek, white printed crop top, silver chain necklace, chain belt, light-blue washed baggy jeans, off-white platform sneakers. Playful and confident. 100% match to reference image.
-<<<image_2>>>: Female singer in her twenties, long straight black hair with silver hair clips, light blue eyes with silver glitter eyeshadow, red cord necklace with ruby pendant, gray raglan short-sleeve tee with a gray jacket draped over the shoulders, dark gray pleated skirt with bow, gray knee socks, black platform shoes. Cool and commanding. 100% match to reference image.
-
-**[SET MAP]** Three practical studio sets, each roughly 4 meters deep, facing camera:
-Set A — bubblegum-pink seamless cyclorama, glossy reflective floor, two rows of round studio light bulbs on the back wall.
-Set B — cobalt-blue seamless cyclorama, a single hard white spotlight circle on the floor.
-Set C — floor-to-ceiling silver rain-strand curtain wall, mirrored floor.
-
-**[FIRST FRAME & SPATIAL LAYOUT]** The first visible frame already contains both girls, on Set A: <<<image_1>>> at frame-left x40%, <<<image_2>>> at right x60%, medium-shot depth, 0.5 m apart, bodies squared to camera, eyes locked on lens, frozen in a mirrored opening pose — inner hand on hip, outer arm raised. No empty establishing shot, no delayed entrance.
-
-**[FORMAT]** Controlled multi-shot sequence, seven segments across 15 seconds, every hard cut landing precisely on a musical downbeat. Real-time motion.
-
-**[LENS NOTES]** Fisheye = true fisheye wide-angle, 1.5 m from subject, visible barrel distortion at frame edges, deliberate 1999 MV lens language; 47° = standard view, natural proportions; 29° = medium-tele portrait, background lightly compressed; 18° = long-lens close-up, melted bokeh. Locked within each segment, no drift.
-
-**[ACTION TIMELINE]**
-0.0–2.0s Set A, fisheye low angle: both hit the frozen mirrored pose on beat one, then bounce-groove in sync with every beat, camera slowly pushes in 10%.
-Hard cut at 2.0s. 2.0–4.0s Set B, 29°: <<<image_2>>> solo dance inside the spotlight circle at x50%, pointed-at-camera precision hand choreography, one fast punch zoom landing exactly on the downbeat.
-Hard cut at 4.0s. 4.0–6.0s Set C, 47°: <<<image_1>>> whips her pink hair through a full arc, then strides toward camera as the camera pulls back at matched speed, rain-strand curtain shimmering, chain belt swinging.
-Hard cut at 6.0s. 6.0–8.0s Set B, 18° two-shot close-up: both faces cheek-to-cheek filling the frame, <<<image_1>>> left / <<<image_2>>> right, soft wind lifting pink and black strands, glossy makeup, confident smiles, heads tilting toward each other in sync with the beat.
-Hard cut at 8.0s. 8.0–11.0s Set A, 47° full body: the chorus dance core — three counts of fully synchronized choreography: wave arms, fast spin, full-body groove into a sharp freeze; positions cross and return, <<<image_1>>> left / <<<image_2>>> right re-locked.
-Hard cut at 11.0s. 11.0–13.0s Set C, 47°: the two walk toward camera side by side with synchronized arm swings, black and pink hair swinging with each step, reflections in the mirrored floor.
-Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, camera zooms out fast to full body, landing exactly on the last downbeat, one bright camera-flash white sweep over the final frame.
-
-**[PHYSICS]** Choreography carries real weight: heel strikes, weight shifts, shoulder isolations with follow-through. Hair whips show visible lag and settle naturally. Chain belt and necklaces swing on the beat points. Rain-strand curtain ripples from body movement. Glossy floor returns soft, believable reflections.
-
-**[LIGHTING]** High-key, even studio lighting on every set: large soft frontal key, bright clean exposure, high skin sheen; Set A's bulb rows create back rim light and soft bloom into the lens; Set B's spotlight casts a crisp circular pool; Set C sparkles with hundreds of rain-strand specular highlights. Bright, candy-like, camera-ready — a deliberate flat 1999 broadcast-TV look.
-
-**[AUDIO]** Original Y2K bubblegum dance-pop instrumental, 120 BPM, four-on-the-floor kick, bright syncopated synths, faint tape hiss underneath. Every hard cut lands exactly on a downbeat. Instrumental only throughout, no vocals; both girls perform with closed lips, delivering energy purely through expression and choreography.
-
-**[POSITIVE LOCKS]** Both faces and identities 100% locked to reference images across all segments including close-ups. Wardrobe stays exactly as referenced across all three sets. Only these two girls appear in the entire video. In every two-person segment <<<image_1>>> is fixed frame-left, <<<image_2>>> fixed frame-right. Within each segment, set geography, spacing, and screen direction stay consistent.
-
-**[STYLE]** Shot at modern production quality but graded to 1999 broadcast texture: broadcast-grade videotape master grain layered over high-detail imagery — soft highlight bloom, slight chroma bleed on hard color edges, fine analog tape grain, faint interlace flicker on fast motion; a high-saturation candy palette of bubblegum pink, electric cobalt and chrome silver; Y2K music-television punch-zoom editing energy, with contemporary sharpness preserved underneath.
-```
-
-</details>
-
-**Prompt credit / source:** [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083130063382597778)
-
 ### Just two people one bike and a beautiful day together
 
 <a href="https://x.com/saniaspeaks_/status/2096079939518763481"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/saniaspeaks__2096079719011946496.webp" width="460" alt="Just two people one bike and a beautiful day together"></a>
 
-**Video credit / source:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [Original post](https://x.com/saniaspeaks_/status/2096079939518763481) · Seedance 2.5 · 2026-09-05 · 20.2K views
+**Video credit / source:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [Original post](https://x.com/saniaspeaks_/status/2096079939518763481) · Seedance 2.5 · 2026-09-05 · 21.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -9815,6 +9765,56 @@ The final result should look like a beautiful, emotionally natural scene from a 
 
 **Prompt credit / source:** [@saniaspeaks_](https://x.com/saniaspeaks_) · [Original post](https://x.com/saniaspeaks_/status/2096079939518763481)
 
+### Seedance 2.5 vs Seedance 2.0
+
+<a href="https://x.com/higgsfield_ai/status/2083130063382597778"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083128504053534721.webp" width="460" alt="Seedance 2.5 vs Seedance 2.0"></a>
+
+**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083130063382597778) · Seedance 2.5 · 2026-07-31 · 20.9K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+**[SCENE]** A two-member female pop duo shoots a retro Y2K-style music video: candy-colored studio sets, tightly synchronized hand choreography, beat-locked hard cuts and fast punch zooms — the texture of 1999 music television, rendered at modern production quality.
+
+**[ACTIVE REFERENCES]**
+<<<image_1>>>: Female singer in her twenties, long straight pink hair with gold hair clips, small nose ring, beauty mark on cheek, white printed crop top, silver chain necklace, chain belt, light-blue washed baggy jeans, off-white platform sneakers. Playful and confident. 100% match to reference image.
+<<<image_2>>>: Female singer in her twenties, long straight black hair with silver hair clips, light blue eyes with silver glitter eyeshadow, red cord necklace with ruby pendant, gray raglan short-sleeve tee with a gray jacket draped over the shoulders, dark gray pleated skirt with bow, gray knee socks, black platform shoes. Cool and commanding. 100% match to reference image.
+
+**[SET MAP]** Three practical studio sets, each roughly 4 meters deep, facing camera:
+Set A — bubblegum-pink seamless cyclorama, glossy reflective floor, two rows of round studio light bulbs on the back wall.
+Set B — cobalt-blue seamless cyclorama, a single hard white spotlight circle on the floor.
+Set C — floor-to-ceiling silver rain-strand curtain wall, mirrored floor.
+
+**[FIRST FRAME & SPATIAL LAYOUT]** The first visible frame already contains both girls, on Set A: <<<image_1>>> at frame-left x40%, <<<image_2>>> at right x60%, medium-shot depth, 0.5 m apart, bodies squared to camera, eyes locked on lens, frozen in a mirrored opening pose — inner hand on hip, outer arm raised. No empty establishing shot, no delayed entrance.
+
+**[FORMAT]** Controlled multi-shot sequence, seven segments across 15 seconds, every hard cut landing precisely on a musical downbeat. Real-time motion.
+
+**[LENS NOTES]** Fisheye = true fisheye wide-angle, 1.5 m from subject, visible barrel distortion at frame edges, deliberate 1999 MV lens language; 47° = standard view, natural proportions; 29° = medium-tele portrait, background lightly compressed; 18° = long-lens close-up, melted bokeh. Locked within each segment, no drift.
+
+**[ACTION TIMELINE]**
+0.0–2.0s Set A, fisheye low angle: both hit the frozen mirrored pose on beat one, then bounce-groove in sync with every beat, camera slowly pushes in 10%.
+Hard cut at 2.0s. 2.0–4.0s Set B, 29°: <<<image_2>>> solo dance inside the spotlight circle at x50%, pointed-at-camera precision hand choreography, one fast punch zoom landing exactly on the downbeat.
+Hard cut at 4.0s. 4.0–6.0s Set C, 47°: <<<image_1>>> whips her pink hair through a full arc, then strides toward camera as the camera pulls back at matched speed, rain-strand curtain shimmering, chain belt swinging.
+Hard cut at 6.0s. 6.0–8.0s Set B, 18° two-shot close-up: both faces cheek-to-cheek filling the frame, <<<image_1>>> left / <<<image_2>>> right, soft wind lifting pink and black strands, glossy makeup, confident smiles, heads tilting toward each other in sync with the beat.
+Hard cut at 8.0s. 8.0–11.0s Set A, 47° full body: the chorus dance core — three counts of fully synchronized choreography: wave arms, fast spin, full-body groove into a sharp freeze; positions cross and return, <<<image_1>>> left / <<<image_2>>> right re-locked.
+Hard cut at 11.0s. 11.0–13.0s Set C, 47°: the two walk toward camera side by side with synchronized arm swings, black and pink hair swinging with each step, reflections in the mirrored floor.
+Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, camera zooms out fast to full body, landing exactly on the last downbeat, one bright camera-flash white sweep over the final frame.
+
+**[PHYSICS]** Choreography carries real weight: heel strikes, weight shifts, shoulder isolations with follow-through. Hair whips show visible lag and settle naturally. Chain belt and necklaces swing on the beat points. Rain-strand curtain ripples from body movement. Glossy floor returns soft, believable reflections.
+
+**[LIGHTING]** High-key, even studio lighting on every set: large soft frontal key, bright clean exposure, high skin sheen; Set A's bulb rows create back rim light and soft bloom into the lens; Set B's spotlight casts a crisp circular pool; Set C sparkles with hundreds of rain-strand specular highlights. Bright, candy-like, camera-ready — a deliberate flat 1999 broadcast-TV look.
+
+**[AUDIO]** Original Y2K bubblegum dance-pop instrumental, 120 BPM, four-on-the-floor kick, bright syncopated synths, faint tape hiss underneath. Every hard cut lands exactly on a downbeat. Instrumental only throughout, no vocals; both girls perform with closed lips, delivering energy purely through expression and choreography.
+
+**[POSITIVE LOCKS]** Both faces and identities 100% locked to reference images across all segments including close-ups. Wardrobe stays exactly as referenced across all three sets. Only these two girls appear in the entire video. In every two-person segment <<<image_1>>> is fixed frame-left, <<<image_2>>> fixed frame-right. Within each segment, set geography, spacing, and screen direction stay consistent.
+
+**[STYLE]** Shot at modern production quality but graded to 1999 broadcast texture: broadcast-grade videotape master grain layered over high-detail imagery — soft highlight bloom, slight chroma bleed on hard color edges, fine analog tape grain, faint interlace flicker on fast motion; a high-saturation candy palette of bubblegum pink, electric cobalt and chrome silver; Y2K music-television punch-zoom editing energy, with contemporary sharpness preserved underneath.
+```
+
+</details>
+
+**Prompt credit / source:** [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083130063382597778)
+
 ### Four frontier video models judged blind by 12 professional editors
 
 https://github.com/user-attachments/assets/2919bbb6-77d9-4d6b-94f1-a37d43518613
@@ -9825,7 +9825,7 @@ https://github.com/user-attachments/assets/2919bbb6-77d9-4d6b-94f1-a37d43518613
 
 <a href="https://x.com/RizwanAly07/status/2095737799081439586"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/RizwanAly07_2095737163329806336.webp" width="460" alt="A Hidden Ancient Town in the Mountains ⛰️"></a>
 
-**Video credit / source:** [Maverick | AI](https://x.com/RizwanAly07) · [@RizwanAly07](https://x.com/RizwanAly07) · [Original post](https://x.com/RizwanAly07/status/2095737799081439586) · Seedance 2.5 · 2026-09-04 · 14.6K views
+**Video credit / source:** [Maverick | AI](https://x.com/RizwanAly07) · [@RizwanAly07](https://x.com/RizwanAly07) · [Original post](https://x.com/RizwanAly07/status/2095737799081439586) · Seedance 2.5 · 2026-09-04 · 14.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -9873,7 +9873,7 @@ https://github.com/user-attachments/assets/5c3b4930-21ce-445a-8482-7063af80080a
 
 <a href="https://x.com/AIwithMinal/status/2096459001076613372"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithMinal_2096458737758388224.webp" width="460" alt="A fearless warrior faces a terrifying beast in a dark battle, where courage and power…"></a>
 
-**Video credit / source:** [AIwithMinal](https://x.com/AIwithMinal) · [@AIwithMinal](https://x.com/AIwithMinal) · [Original post](https://x.com/AIwithMinal/status/2096459001076613372) · Seedance 2.0 · 2026-09-06 · 7.3K views
+**Video credit / source:** [AIwithMinal](https://x.com/AIwithMinal) · [@AIwithMinal](https://x.com/AIwithMinal) · [Original post](https://x.com/AIwithMinal/status/2096459001076613372) · Seedance 2.0 · 2026-09-06 · 7.5K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -9889,7 +9889,7 @@ Ultra-realistic cinematic sci-fi horror scene of a massive armored alien creatur
 
 <a href="https://x.com/tanabe_fragm/status/2083350000743203080"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/tanabe_fragm_2083349480943075328.webp" width="460" alt="Seedance 2.5で三国志の「虎牢関の戦い」のシーンを映像化。"></a>
 
-**Video credit / source:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) · [@tanabe_fragm](https://x.com/tanabe_fragm) · [Original post](https://x.com/tanabe_fragm/status/2083350000743203080) · Seedance 2.5 · 2026-08-01 · 4.6K views
+**Video credit / source:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) · [@tanabe_fragm](https://x.com/tanabe_fragm) · [Original post](https://x.com/tanabe_fragm/status/2083350000743203080) · Seedance 2.5 · 2026-08-01 · 4.7K views
 
 ### This video created with Seedance 2.5 on @Flovaai @Flovaai_Japan
 
@@ -9981,25 +9981,25 @@ https://github.com/user-attachments/assets/da3b1914-c62f-4321-a211-7557fa2ad7c6
 
 https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
-**Video credit / source:** [Deedy](https://x.com/deedydas) · [@deedydas](https://x.com/deedydas) · [Original post](https://x.com/deedydas/status/2020911900968767976) · Seedance 2.0 · 2026-02-09 · 781.7K views
+**Video credit / source:** [Deedy](https://x.com/deedydas) · [@deedydas](https://x.com/deedydas) · [Original post](https://x.com/deedydas/status/2020911900968767976) · Seedance 2.0 · 2026-02-09 · 781.9K views
 
 ### 🎬 Global Launch: Dreamina Seedance 2.5 is now live!
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 625.7K views
+**Video credit / source:** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [Original post](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 628.2K views
 
 ### Seedance 2.0 from China will be the SOTA
 
 https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
-**Video credit / source:** [Dorksense](https://x.com/Dork_sense) · [@Dork_sense](https://x.com/Dork_sense) · [Original post](https://x.com/Dork_sense/status/2020179955511116082) · Seedance 2.0 · 2026-02-07 · 389.3K views
+**Video credit / source:** [Dorksense](https://x.com/Dork_sense) · [@Dork_sense](https://x.com/Dork_sense) · [Original post](https://x.com/Dork_sense/status/2020179955511116082) · Seedance 2.0 · 2026-02-07 · 389.4K views
 
 ### Seedance 2.5 for AI UGC
 
 https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 324.3K views
+**Video credit / source:** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [Original post](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 324.6K views
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -10011,7 +10011,7 @@ https://github.com/user-attachments/assets/21eca056-25dc-4b3e-b409-e306b56f61f6
 
 https://github.com/user-attachments/assets/3ecf7372-0641-4571-8389-2cff79b7c07b
 
-**Video credit / source:** [shirish](https://x.com/shiri_shh) · [@shiri_shh](https://x.com/shiri_shh) · [Original post](https://x.com/shiri_shh/status/2083144487870611828) · Seedance 2.5 · 2026-07-31 · 108.7K views
+**Video credit / source:** [shirish](https://x.com/shiri_shh) · [@shiri_shh](https://x.com/shiri_shh) · [Original post](https://x.com/shiri_shh/status/2083144487870611828) · Seedance 2.5 · 2026-07-31 · 108.8K views
 
 ### Pippit @pippitofficial just dropped Story Studio + Seedance 2.5 and it’s a game-changer for…
 
@@ -10035,7 +10035,7 @@ A 30-second vertical 9:16 photorealistic fantasy palace romance drama about Prin
 
 <a href="https://x.com/Just_sharon7/status/2084238339469615320"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2084238008266493952.webp" width="460" alt="Every destination becomes magical when you slow down and experience it"></a>
 
-**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2084238339469615320) · Seedance 2.5 · 2026-08-03 · 35.8K views
+**Video credit / source:** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [Original post](https://x.com/Just_sharon7/status/2084238339469615320) · Seedance 2.5 · 2026-08-03 · 35.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -10057,7 +10057,7 @@ https://github.com/user-attachments/assets/ee6fc79e-3e74-4e28-9513-47bd93439259
 
 <a href="https://x.com/Arzoo12sh/status/2092143249251242115"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Arzoo12sh_2092141903538188288.webp" width="460" alt="OAI video is no longer just a collection of random clips it is moving from generation to…"></a>
 
-**Video credit / source:** [Arzoo Ai](https://x.com/Arzoo12sh) · [@Arzoo12sh](https://x.com/Arzoo12sh) · [Original post](https://x.com/Arzoo12sh/status/2092143249251242115) · Seedance 2.0 · 2026-08-25 · 32K views
+**Video credit / source:** [Arzoo Ai](https://x.com/Arzoo12sh) · [@Arzoo12sh](https://x.com/Arzoo12sh) · [Original post](https://x.com/Arzoo12sh/status/2092143249251242115) · Seedance 2.0 · 2026-08-25 · 32.1K views
 
 ### Seedance 2.5 generates a full 30-second animated scene
 
@@ -10069,7 +10069,7 @@ https://github.com/user-attachments/assets/a21d11f7-fe17-44e5-b908-ce87ec166e2b
 
 https://github.com/user-attachments/assets/6e717050-f00c-4de9-ac50-8051118bf128
 
-**Video credit / source:** [Amit](https://x.com/HeyAmit_) · [@HeyAmit_](https://x.com/HeyAmit_) · [Original post](https://x.com/HeyAmit_/status/2082076655963791713) · Seedance 2.5 · 2026-07-28 · 20.7K views
+**Video credit / source:** [Amit](https://x.com/HeyAmit_) · [@HeyAmit_](https://x.com/HeyAmit_) · [Original post](https://x.com/HeyAmit_/status/2082076655963791713) · Seedance 2.5 · 2026-07-28 · 20.8K views
 
 ### Holy Shit Seedance 2.5 is Insane 😱
 
@@ -10146,7 +10146,7 @@ https://github.com/user-attachments/assets/f6c97fcc-525a-4d22-acb6-38d63947fbbb
 
 <a href="https://x.com/noman23761/status/2083235536530202710"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/noman23761_2083165874983424000.webp" width="460" alt="Seedance 2.5 excels at VLOG-style videos"></a>
 
-**Video credit / source:** [Cyber AI Creator 🎨](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [Original post](https://x.com/noman23761/status/2083235536530202710) · Seedance 2.5 · 2026-07-31 · 546 views
+**Video credit / source:** [Noman | AI Filmmaker](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [Original post](https://x.com/noman23761/status/2083235536530202710) · Seedance 2.5 · 2026-07-31 · 548 views
 
 <details><summary><b>Prompt</b></summary>
 
