@@ -24,9 +24,9 @@
 | 帖子数 | **325** |
 | 署名来源账号 | **194** |
 | 含完整提示词 | **170** |
-| X 上累计播放 | **70.2M** |
+| X 上累计播放 | **70.3M** |
 | 覆盖模型 | **Seedance 2.5**（256）, **Seedance 2.0**（64）, **Seedance**（5） |
-| 最近更新 | 2026-10-12 |
+| 最近更新 | 2026-10-19 |
 
 ## 目录
 
@@ -66,13 +66,13 @@
 
 https://github.com/user-attachments/assets/4e0d0dcb-5d81-4b72-9b1d-3f10aafe24ef
 
-**视频署名 / 来源：** [Angry Tom](https://x.com/AngryTomtweets) · [@AngryTomtweets](https://x.com/AngryTomtweets) · [X 原帖](https://x.com/AngryTomtweets/status/2020192635936469110) · Seedance 2.0 · 2026-02-07 · 527.2K 播放
+**视频署名 / 来源：** [Angry Tom](https://x.com/AngryTomtweets) · [@AngryTomtweets](https://x.com/AngryTomtweets) · [X 原帖](https://x.com/AngryTomtweets/status/2020192635936469110) · Seedance 2.0 · 2026-02-07 · 527.3K 播放
 
 ### 咱就说有这样的金牌导师能不好好学习吗😄
 
 <a href="https://x.com/johnAGI168/status/2096128599614947590"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2096128203169406976.webp" width="460" alt="咱就说有这样的金牌导师能不好好学习吗😄"></a>
 
-**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2096128599614947590) · Seedance 2.5 · 2026-09-05 · 348.6K 播放
+**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2096128599614947590) · Seedance 2.5 · 2026-09-05 · 350.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -290,21 +290,13 @@ Negative：
 
 <a href="https://x.com/TechieBySA/status/2094793092297605595"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TechieBySA_2094793021657059329.webp" width="460" alt="Do you understand the words that are coming out of my mouth?👄"></a>
 
-**视频署名 / 来源：** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [X 原帖](https://x.com/TechieBySA/status/2094793092297605595) · Seedance 2.5 · 2026-09-01 · 322.4K 播放
-
-### am testing all of the leading video generation models using the same prompt in thread
-
-<a href="https://x.com/tonykipkemboi/status/2094795407259730261"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/tonykipkemboi_2094793306530058240.webp" width="460" alt="am testing all of the leading video generation models using the same prompt in thread"></a>
-
-**视频署名 / 来源：** [Tony Kipkemboi](https://x.com/tonykipkemboi) · [@tonykipkemboi](https://x.com/tonykipkemboi) · [X 原帖](https://x.com/tonykipkemboi/status/2094795407259730261) · Seedance 2.5 · 2026-09-01 · 266.3K 播放
-
-> [X 帖子串](https://x.com/tonykipkemboi/status/2094795407259730261)提到了提示词，但尚未索引到准确回复。
+**视频署名 / 来源：** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [X 原帖](https://x.com/TechieBySA/status/2094793092297605595) · Seedance 2.5 · 2026-09-01 · 322.8K 播放
 
 ### Seedance 2.5 也过于逼真了啊🫠连影子都那么真实
 
 <a href="https://x.com/johnAGI168/status/2095025524586193105"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2095025208868397062.webp" width="460" alt="Seedance 2.5 也过于逼真了啊🫠连影子都那么真实"></a>
 
-**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2095025524586193105) · Seedance 2.5 · 2026-09-02 · 265.8K 播放
+**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2095025524586193105) · Seedance 2.5 · 2026-09-02 · 269.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -436,11 +428,19 @@ Negative:
 
 **提示词署名 / 来源：** [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2095025524586193105)
 
+### am testing all of the leading video generation models using the same prompt in thread
+
+<a href="https://x.com/tonykipkemboi/status/2094795407259730261"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/tonykipkemboi_2094793306530058240.webp" width="460" alt="am testing all of the leading video generation models using the same prompt in thread"></a>
+
+**视频署名 / 来源：** [Tony Kipkemboi](https://x.com/tonykipkemboi) · [@tonykipkemboi](https://x.com/tonykipkemboi) · [X 原帖](https://x.com/tonykipkemboi/status/2094795407259730261) · Seedance 2.5 · 2026-09-01 · 266.7K 播放
+
+> [X 帖子串](https://x.com/tonykipkemboi/status/2094795407259730261)提到了提示词，但尚未索引到准确回复。
+
 ### 你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了
 
 <a href="https://x.com/john87445528/status/2097837460910956650"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2097487090565156864.webp" width="460" alt="你们上学的时候幻想过这样作弄你喜欢的老师的场景吗？现在可以实现了"></a>
 
-**视频署名 / 来源：** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [X 原帖](https://x.com/john87445528/status/2097837460910956650) · Seedance · 2026-09-10 · 251.3K 播放
+**视频署名 / 来源：** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [X 原帖](https://x.com/john87445528/status/2097837460910956650) · Seedance · 2026-09-10 · 259.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -482,13 +482,13 @@ Negative:
 
 https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
-**视频署名 / 来源：** [Chetaslua](https://x.com/chetaslua) · [@chetaslua](https://x.com/chetaslua) · [X 原帖](https://x.com/chetaslua/status/2069304088177848479) · Seedance 2.5 · 2026-06-23 · 208.5K 播放
+**视频署名 / 来源：** [Chetaslua](https://x.com/chetaslua) · [@chetaslua](https://x.com/chetaslua) · [X 原帖](https://x.com/chetaslua/status/2069304088177848479) · Seedance 2.5 · 2026-06-23 · 208.6K 播放
 
 ### This is the best Seedance hack ever
 
 <a href="https://x.com/Framer_X/status/2091964763609628672"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Framer_X_2091937135335018496.webp" width="460" alt="This is the best Seedance hack ever"></a>
 
-**视频署名 / 来源：** [Framer 🇱🇹](https://x.com/Framer_X) · [@Framer_X](https://x.com/Framer_X) · [X 原帖](https://x.com/Framer_X/status/2091964763609628672) · Seedance · 2026-08-24 · 197.5K 播放
+**视频署名 / 来源：** [Framer 🇱🇹](https://x.com/Framer_X) · [@Framer_X](https://x.com/Framer_X) · [X 原帖](https://x.com/Framer_X/status/2091964763609628672) · Seedance · 2026-08-24 · 197.8K 播放
 
 > [X 帖子串](https://x.com/Framer_X/status/2091964763609628672)提到了提示词，但尚未索引到准确回复。
 
@@ -496,25 +496,25 @@ https://github.com/user-attachments/assets/53f07f4c-9238-4733-95de-cfe9e4705d2f
 
 <a href="https://x.com/Chengzilhy/status/2089933753770713231"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Chengzilhy_2089929795857788928.webp" width="460" alt="水上闯关秀第三弹：火影纲手婆婆上场 🔥"></a>
 
-**视频署名 / 来源：** [小宇Chengzi](https://x.com/Chengzilhy) · [@Chengzilhy](https://x.com/Chengzilhy) · [X 原帖](https://x.com/Chengzilhy/status/2089933753770713231) · Seedance 2.5 · 2026-08-19 · 179.5K 播放
+**视频署名 / 来源：** [小宇Chengzi](https://x.com/Chengzilhy) · [@Chengzilhy](https://x.com/Chengzilhy) · [X 原帖](https://x.com/Chengzilhy/status/2089933753770713231) · Seedance 2.5 · 2026-08-19 · 179.7K 播放
 
 ### wen3.0真的屌爆了啊啊啊，本以为上次的 Seedance 2.5 已经够顶了，没想到 @edimakortaiwan 刚上的 Wan 3.0 直接开大！🤯
 
 <a href="https://x.com/jackzhang123vip/status/2094252298746970456"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/jackzhang123vip_2094251221662195712.webp" width="460" alt="wen3.0真的屌爆了啊啊啊，本以为上次的 Seedance 2.5 已经够顶了，没想到 @edimakortaiwan 刚上的 Wan 3.0 直接开大！🤯"></a>
 
-**视频署名 / 来源：** [梦老湿 Dream AI](https://x.com/jackzhang123vip) · [@jackzhang123vip](https://x.com/jackzhang123vip) · [X 原帖](https://x.com/jackzhang123vip/status/2094252298746970456) · Seedance 2.5 · 2026-08-31 · 173K 播放
+**视频署名 / 来源：** [梦老湿 Dream AI](https://x.com/jackzhang123vip) · [@jackzhang123vip](https://x.com/jackzhang123vip) · [X 原帖](https://x.com/jackzhang123vip/status/2094252298746970456) · Seedance 2.5 · 2026-08-31 · 173.7K 播放
 
 ### The most iconic duo in sci-fi history 🕶️
 
 <a href="https://x.com/TechieBySA/status/2094474189822402892"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TechieBySA_2094474156251226113.webp" width="460" alt="The most iconic duo in sci-fi history 🕶️"></a>
 
-**视频署名 / 来源：** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [X 原帖](https://x.com/TechieBySA/status/2094474189822402892) · Seedance 2.0 · 2026-08-31 · 164.3K 播放
+**视频署名 / 来源：** [TechieSA](https://x.com/TechieBySA) · [@TechieBySA](https://x.com/TechieBySA) · [X 原帖](https://x.com/TechieBySA/status/2094474189822402892) · Seedance 2.0 · 2026-08-31 · 164.6K 播放
 
 ### POV - Korean baddie met her boyfriend in US
 
 <a href="https://x.com/AIwithkhan/status/2094997895187673489"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2094997804003557376.webp" width="460" alt="POV - Korean baddie met her boyfriend in US"></a>
 
-**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2094997895187673489) · Seedance 2.5 · 2026-09-02 · 123.9K 播放
+**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2094997895187673489) · Seedance 2.5 · 2026-09-02 · 124.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -552,13 +552,13 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 
 <a href="https://x.com/mi7_crypto/status/2094610037549477977"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mi7_crypto_2094583166556352512.webp" width="460" alt="祝20万インプ越え...(^^♪...【プロンプト公開】"></a>
 
-**视频署名 / 来源：** [M7［mi7］AI](https://x.com/mi7_crypto) · [@mi7_crypto](https://x.com/mi7_crypto) · [X 原帖](https://x.com/mi7_crypto/status/2094610037549477977) · Seedance 2.5 · 2026-09-01 · 91K 播放
+**视频署名 / 来源：** [M7［mi7］AI](https://x.com/mi7_crypto) · [@mi7_crypto](https://x.com/mi7_crypto) · [X 原帖](https://x.com/mi7_crypto/status/2094610037549477977) · Seedance 2.5 · 2026-09-01 · 91.4K 播放
 
 ### 他主动帮我付钱、还要微信，我以为今天又被搭讪了……
 
 <a href="https://x.com/john87445528/status/2092028012267008033"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2092027983955480576.webp" width="460" alt="他主动帮我付钱、还要微信，我以为今天又被搭讪了……"></a>
 
-**视频署名 / 来源：** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [X 原帖](https://x.com/john87445528/status/2092028012267008033) · Seedance 2.0 · 2026-08-24 · 89.4K 播放
+**视频署名 / 来源：** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [X 原帖](https://x.com/john87445528/status/2092028012267008033) · Seedance 2.0 · 2026-08-24 · 90.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -588,7 +588,7 @@ PART B : 【生成任务】 续写上一段视频，生成约8.18秒的完整后
 
 <a href="https://x.com/techhalla/status/2094476485977416162"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/techhalla_2094475691832033280.webp" width="460" alt="Seedance 2.5 impossible physics prompt is below 👇"></a>
 
-**视频署名 / 来源：** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [X 原帖](https://x.com/techhalla/status/2094476485977416162) · Seedance 2.5 · 2026-08-31 · 87.4K 播放
+**视频署名 / 来源：** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [X 原帖](https://x.com/techhalla/status/2094476485977416162) · Seedance 2.5 · 2026-08-31 · 87.7K 播放
 
 > [X 帖子串](https://x.com/techhalla/status/2094476485977416162)提到了提示词，但尚未索引到准确回复。
 
@@ -596,13 +596,13 @@ PART B : 【生成任务】 续写上一段视频，生成约8.18秒的完整后
 
 <a href="https://x.com/yachimat_manga/status/2083173807896817876"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.webp" width="460" alt="重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！"></a>
 
-**视频署名 / 来源：** [yachimat - AI Short Anime](https://x.com/yachimat_manga) · [@yachimat_manga](https://x.com/yachimat_manga) · [X 原帖](https://x.com/yachimat_manga/status/2083173807896817876) · Seedance 2.5 · 2026-07-31 · 82.8K 播放
+**视频署名 / 来源：** [yachimat - AI Short Anime](https://x.com/yachimat_manga) · [@yachimat_manga](https://x.com/yachimat_manga) · [X 原帖](https://x.com/yachimat_manga/status/2083173807896817876) · Seedance 2.5 · 2026-07-31 · 83K 播放
 
 ### 🔥 Ini gila sih. Seedance 2.5 berhasil generate video ini tanpa kena restriction terkait wajah
 
 <a href="https://x.com/stellarprtcol/status/2092114748372586794"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/stellarprtcol_2091743450073059328.webp" width="460" alt="🔥 Ini gila sih. Seedance 2.5 berhasil generate video ini tanpa kena restriction terkait wajah"></a>
 
-**视频署名 / 来源：** [stellar protocol](https://x.com/stellarprtcol) · [@stellarprtcol](https://x.com/stellarprtcol) · [X 原帖](https://x.com/stellarprtcol/status/2092114748372586794) · Seedance 2.5 · 2026-08-25 · 77.8K 播放
+**视频署名 / 来源：** [stellar protocol](https://x.com/stellarprtcol) · [@stellarprtcol](https://x.com/stellarprtcol) · [X 原帖](https://x.com/stellarprtcol/status/2092114748372586794) · Seedance 2.5 · 2026-08-25 · 78.3K 播放
 
 ### Seedance 2.5 Pro sample — cyberpunk hacker robot, 30 seconds one shot
 
@@ -614,19 +614,19 @@ https://github.com/user-attachments/assets/837b684c-8845-4c65-bcbe-47c384c80c3e
 
 <a href="https://x.com/JSFILMZ0412/status/2093047519257190780"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/JSFILMZ0412_2093047136791248896.webp" width="460" alt="Gemini Omni 1.1 Flash vs Seedance 2.5"></a>
 
-**视频署名 / 来源：** [JSFILMZ](https://x.com/JSFILMZ0412) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [X 原帖](https://x.com/JSFILMZ0412/status/2093047519257190780) · Seedance 2.5 · 2026-08-27 · 74.1K 播放
+**视频署名 / 来源：** [JSFILMZ](https://x.com/JSFILMZ0412) · [@JSFILMZ0412](https://x.com/JSFILMZ0412) · [X 原帖](https://x.com/JSFILMZ0412/status/2093047519257190780) · Seedance 2.5 · 2026-08-27 · 74.4K 播放
 
 ### seedance2.5一键直接出3分钟视频：提示词如下：生成一段完整连续的3分钟写实古装武打电影片段。横屏16:9，2.35:1电影宽银幕构图，24fps，4K电影质感，冷峻低饱和蓝灰…
 
 <a href="https://x.com/baqiceloudezhu/status/2083105322919731519"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/baqiceloudezhu_2083104799252471808.webp" width="460" alt="seedance2.5一键直接出3分钟视频：提示词如下：生成一段完整连续的3分钟写实古装武打电影片段。横屏16:9，2.35:1电影宽银幕构图，24fps，4K电影质感，冷峻低饱和蓝灰…"></a>
 
-**视频署名 / 来源：** [擎苍](https://x.com/baqiceloudezhu) · [@baqiceloudezhu](https://x.com/baqiceloudezhu) · [X 原帖](https://x.com/baqiceloudezhu/status/2083105322919731519) · Seedance 2.5 · 2026-07-31 · 73K 播放
+**视频署名 / 来源：** [擎苍](https://x.com/baqiceloudezhu) · [@baqiceloudezhu](https://x.com/baqiceloudezhu) · [X 原帖](https://x.com/baqiceloudezhu/status/2083105322919731519) · Seedance 2.5 · 2026-07-31 · 73.3K 播放
 
 ### Thai folklore can be terrifying... and Mae Bia (แม่เบี้ย) is proof. 😱🐍 I can't look!
 
 <a href="https://x.com/drjoetw/status/2088873920862515458"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/drjoetw_2088873680923443200.webp" width="460" alt="Thai folklore can be terrifying... and Mae Bia (แม่เบี้ย) is proof. 😱🐍 I can&#x27;t look!"></a>
 
-**视频署名 / 来源：** [The Anxious Mind](https://x.com/drjoetw) · [@drjoetw](https://x.com/drjoetw) · [X 原帖](https://x.com/drjoetw/status/2088873920862515458) · Seedance 2.5 · 2026-08-16 · 56.6K 播放
+**视频署名 / 来源：** [The Anxious Mind](https://x.com/drjoetw) · [@drjoetw](https://x.com/drjoetw) · [X 原帖](https://x.com/drjoetw/status/2088873920862515458) · Seedance 2.5 · 2026-08-16 · 56.7K 播放
 
 > [X 帖子串](https://x.com/drjoetw/status/2088873920862515458)提到了提示词，但尚未索引到准确回复。
 
@@ -673,7 +673,7 @@ Audio: Summer insects, birds, bicycle chain, distant children, wind through leav
 
 <a href="https://x.com/AI__TSUBAKI/status/2088764827321933848"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AI__TSUBAKI_2088762265302601728.webp" width="460" alt="Pyona’s action scenes are incredible"></a>
 
-**视频署名 / 来源：** [TSUBAKI](https://x.com/AI__TSUBAKI) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [X 原帖](https://x.com/AI__TSUBAKI/status/2088764827321933848) · Seedance 2.5 · 2026-08-15 · 53.5K 播放
+**视频署名 / 来源：** [TSUBAKI](https://x.com/AI__TSUBAKI) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [X 原帖](https://x.com/AI__TSUBAKI/status/2088764827321933848) · Seedance 2.5 · 2026-08-15 · 53.7K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1016,7 +1016,7 @@ Emma：
 
 <a href="https://x.com/VictorInFocus/status/2084074611751186713"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/VictorInFocus_2084064021406269440.webp" width="460" alt="Here’s Part 2, this time made with Seedance 2.5"></a>
 
-**视频署名 / 来源：** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [X 原帖](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 49.7K 播放
+**视频署名 / 来源：** [V](https://x.com/VictorInFocus) · [@VictorInFocus](https://x.com/VictorInFocus) · [X 原帖](https://x.com/VictorInFocus/status/2084074611751186713) · Seedance 2.5 · 2026-08-03 · 49.8K 播放
 
 ### FIRST TEST Seedance 2.0!
 
@@ -1028,19 +1028,13 @@ https://github.com/user-attachments/assets/3b17e346-3569-4a9d-817e-0f4d85129fd3
 
 https://github.com/user-attachments/assets/255c9b4b-ec01-4de4-9b56-50a64c37a011
 
-**视频署名 / 来源：** [Ari K](https://x.com/arikuschnir) · [@arikuschnir](https://x.com/arikuschnir) · [X 原帖](https://x.com/arikuschnir/status/2083209950231220403) · Seedance 2.5 · 2026-07-31 · 43.2K 播放
-
-### Seedance 2.5 first test — 30 seconds in one go, with some morphing
-
-https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
-
-**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2083182758407307605) · Seedance 2.5 · 2026-07-31 · 42.3K 播放
+**视频署名 / 来源：** [Ari K](https://x.com/arikuschnir) · [@arikuschnir](https://x.com/arikuschnir) · [X 原帖](https://x.com/arikuschnir/status/2083209950231220403) · Seedance 2.5 · 2026-07-31 · 43.3K 播放
 
 ### Created this using Seedance 2.5 on
 
 <a href="https://x.com/pyona_ai/status/2090085356335222895"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/pyona_ai_2090084592149794816.webp" width="460" alt="Created this using Seedance 2.5 on"></a>
 
-**视频署名 / 来源：** [Pyona](https://x.com/pyona_ai) · [@pyona_ai](https://x.com/pyona_ai) · [X 原帖](https://x.com/pyona_ai/status/2090085356335222895) · Seedance 2.5 · 2026-08-19 · 41.9K 播放
+**视频署名 / 来源：** [Pyona](https://x.com/pyona_ai) · [@pyona_ai](https://x.com/pyona_ai) · [X 原帖](https://x.com/pyona_ai/status/2090085356335222895) · Seedance 2.5 · 2026-08-19 · 42.9K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1115,11 +1109,17 @@ Backward tracking。母亲抓着白色裙摆在湿泥路上全力奔跑，母亲
 
 **提示词署名 / 来源：** [@pyona_ai](https://x.com/pyona_ai) · [X 原帖](https://x.com/pyona_ai/status/2090085356335222895)
 
+### Seedance 2.5 first test — 30 seconds in one go, with some morphing
+
+https://github.com/user-attachments/assets/243377f8-a91f-4179-b1b4-770193fabaf4
+
+**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2083182758407307605) · Seedance 2.5 · 2026-07-31 · 42.4K 播放
+
 ### yeah.. ai is crazy
 
 <a href="https://x.com/abxxai/status/2091149756970230195"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/abxxai_2091149693296488448.webp" width="460" alt="yeah.. ai is crazy"></a>
 
-**视频署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [@abxxai](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2091149756970230195) · Seedance 2.5 · 2026-08-22 · 40.2K 播放
+**视频署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [@abxxai](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2091149756970230195) · Seedance 2.5 · 2026-08-22 · 40.3K 播放
 
 > [X 帖子串](https://x.com/abxxai/status/2091149756970230195)提到了提示词，但尚未索引到准确回复。
 
@@ -1127,13 +1127,13 @@ Backward tracking。母亲抓着白色裙摆在湿泥路上全力奔跑，母亲
 
 <a href="https://x.com/hey_am_cherry/status/2083561941004685471"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/hey_am_cherry_2083561732568748032.webp" width="460" alt="I wasn&#x27;t expecting Seedance 2.5 to look this real"></a>
 
-**视频署名 / 来源：** [Cherry](https://x.com/hey_am_cherry) · [@hey_am_cherry](https://x.com/hey_am_cherry) · [X 原帖](https://x.com/hey_am_cherry/status/2083561941004685471) · Seedance 2.5 · 2026-08-01 · 39.1K 播放
+**视频署名 / 来源：** [Cherry](https://x.com/hey_am_cherry) · [@hey_am_cherry](https://x.com/hey_am_cherry) · [X 原帖](https://x.com/hey_am_cherry/status/2083561941004685471) · Seedance 2.5 · 2026-08-01 · 39.2K 播放
 
 ### Made with GPT Image 2 + Seedance 2.5 on @Flovaai
 
 <a href="https://x.com/xmmiraa/status/2091990008177541162"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/xmmiraa_2091989758373138432.webp" width="460" alt="Made with GPT Image 2 + Seedance 2.5 on @Flovaai"></a>
 
-**视频署名 / 来源：** [M𝒊ra ☽](https://x.com/xmmiraa) · [@xmmiraa](https://x.com/xmmiraa) · [X 原帖](https://x.com/xmmiraa/status/2091990008177541162) · Seedance 2.5 · 2026-08-24 · 37K 播放
+**视频署名 / 来源：** [M𝒊ra ☽](https://x.com/xmmiraa) · [@xmmiraa](https://x.com/xmmiraa) · [X 原帖](https://x.com/xmmiraa/status/2091990008177541162) · Seedance 2.5 · 2026-08-24 · 37.1K 播放
 
 > [X 帖子串](https://x.com/xmmiraa/status/2091990008177541162)提到了提示词，但尚未索引到准确回复。
 
@@ -1141,19 +1141,19 @@ Backward tracking。母亲抓着白色裙摆在湿泥路上全力奔跑，母亲
 
 <a href="https://x.com/TanLuAI/status/2083109850985468125"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.webp" width="460" alt="Seedance 2.5 的动作迁移和风格转化能力有点强"></a>
 
-**视频署名 / 来源：** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [X 原帖](https://x.com/TanLuAI/status/2083109850985468125) · Seedance 2.5 · 2026-07-31 · 35.8K 播放
+**视频署名 / 来源：** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [X 原帖](https://x.com/TanLuAI/status/2083109850985468125) · Seedance 2.5 · 2026-07-31 · 35.9K 播放
 
 ### Seedance 2.5 vs MiniMax H3 Max
 
 <a href="https://x.com/AskVenice/status/2093429159460786590"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AskVenice_2093406246120374272.webp" width="460" alt="Seedance 2.5 vs MiniMax H3 Max"></a>
 
-**视频署名 / 来源：** [Venice](https://x.com/AskVenice) · [@AskVenice](https://x.com/AskVenice) · [X 原帖](https://x.com/AskVenice/status/2093429159460786590) · Seedance 2.5 · 2026-08-28 · 35.3K 播放
+**视频署名 / 来源：** [Venice](https://x.com/AskVenice) · [@AskVenice](https://x.com/AskVenice) · [X 原帖](https://x.com/AskVenice/status/2093429159460786590) · Seedance 2.5 · 2026-08-28 · 35.4K 播放
 
 ### 别去城中村做保养. 虽然皮肤刚开始看起来水灵灵的
 
 <a href="https://x.com/john87445528/status/2090235694031794450"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2090235405345910784.webp" width="460" alt="别去城中村做保养. 虽然皮肤刚开始看起来水灵灵的"></a>
 
-**视频署名 / 来源：** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [X 原帖](https://x.com/john87445528/status/2090235694031794450) · Seedance 2.0 · 2026-08-20 · 33.2K 播放
+**视频署名 / 来源：** [John](https://x.com/john87445528) · [@john87445528](https://x.com/john87445528) · [X 原帖](https://x.com/john87445528/status/2090235694031794450) · Seedance 2.0 · 2026-08-20 · 33.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1181,7 +1181,7 @@ hf_20260602_030359_fe9adf4d-7a5d-4c92-9517-3e9d2f2e0da1
 
 <a href="https://x.com/aiwithothoi/status/2089962212727353529"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aiwithothoi_2089962150442004480.webp" width="460" alt="A successful AI Influencer isn&#x27;t built with a single prompt"></a>
 
-**视频署名 / 来源：** [Othoi Khan](https://x.com/aiwithothoi) · [@aiwithothoi](https://x.com/aiwithothoi) · [X 原帖](https://x.com/aiwithothoi/status/2089962212727353529) · Seedance 2.5 · 2026-08-19 · 31.9K 播放
+**视频署名 / 来源：** [Othoi Khan](https://x.com/aiwithothoi) · [@aiwithothoi](https://x.com/aiwithothoi) · [X 原帖](https://x.com/aiwithothoi/status/2089962212727353529) · Seedance 2.5 · 2026-08-19 · 32K 播放
 
 ### 再来一个超现实电影版自由搏击格斗，提示词评论区，seedance2.5 直出，4000多字的提示词⬇️
 
@@ -1215,7 +1215,7 @@ Bir restoranda oturuyorum, günümüzde geçiyor ve spagetti yiyorum, üzerimde 
 
 <a href="https://x.com/sailorv321/status/2088810229517717742"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088808323303002112.webp" width="460" alt="CapCutさん、クレジットの値上げも"></a>
 
-**视频署名 / 来源：** [C’est La Vie🦋](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [X 原帖](https://x.com/sailorv321/status/2088810229517717742) · Seedance 2.5 · 2026-08-16 · 21.8K 播放
+**视频署名 / 来源：** [C’est La Vie🦋](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [X 原帖](https://x.com/sailorv321/status/2088810229517717742) · Seedance 2.5 · 2026-08-16 · 22.2K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1342,7 +1342,7 @@ Shot 26 (28.5–30s): Exterior night shot: train races onward, sleeper windows f
 
 <a href="https://x.com/johnAGI168/status/2083430135152209926"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2083429521219325952.webp" width="460" alt="Seedance 2.5 测试一下古装小短剧📺"></a>
 
-**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2083430135152209926) · Seedance 2.5 · 2026-08-01 · 16.7K 播放
+**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2083430135152209926) · Seedance 2.5 · 2026-08-01 · 17K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1389,7 +1389,7 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 <a href="https://x.com/johnAGI168/status/2096082626364788752"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2096082358575267840.webp" width="460" alt="GPT‑6 Astra 首次测试，为爱马仕制作一个简单的广告提示词，使用 Seedance 2.5 生成视频📺"></a>
 
-**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2096082626364788752) · Seedance 2.5 · 2026-09-05 · 16K 播放
+**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2096082626364788752) · Seedance 2.5 · 2026-09-05 · 16.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1505,7 +1505,7 @@ Negative：
 
 <a href="https://x.com/johnAGI168/status/2083116795532091716"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2083116335144271872.webp" width="460" alt="Seedance 2.5 直出 30 秒小短剧📺"></a>
 
-**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2083116795532091716) · Seedance 2.5 · 2026-07-31 · 11.8K 播放
+**视频署名 / 来源：** [John](https://x.com/johnAGI168) · [@johnAGI168](https://x.com/johnAGI168) · [X 原帖](https://x.com/johnAGI168/status/2083116795532091716) · Seedance 2.5 · 2026-07-31 · 12.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1628,13 +1628,13 @@ THE LITTLE THIEF 15 second 2D animated cartoon short film, 10 rapid scenes, foll
 
 <a href="https://x.com/TanLuAI/status/2083384465611800985"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083333256024571904.webp" width="460" alt="Seedance 2.5 20个左右的参考图片 一次生成25秒预告片"></a>
 
-**视频署名 / 来源：** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [X 原帖](https://x.com/TanLuAI/status/2083384465611800985) · Seedance 2.5 · 2026-08-01 · 10.9K 播放
+**视频署名 / 来源：** [探路AI](https://x.com/TanLuAI) · [@TanLuAI](https://x.com/TanLuAI) · [X 原帖](https://x.com/TanLuAI/status/2083384465611800985) · Seedance 2.5 · 2026-08-01 · 11K 播放
 
 ### Made with Seedance 2.0 + GPT image 2
 
 https://github.com/user-attachments/assets/b51a87ef-1724-4afe-ac01-8476fc74e383
 
-**视频署名 / 来源：** [Shara](https://x.com/itsshara_ai) · [@itsshara_ai](https://x.com/itsshara_ai) · [X 原帖](https://x.com/itsshara_ai/status/2076845440214196529) · Seedance 2.0 · 2026-07-14 · 8.8K 播放
+**视频署名 / 来源：** [Shara](https://x.com/itsshara_ai) · [@itsshara_ai](https://x.com/itsshara_ai) · [X 原帖](https://x.com/itsshara_ai/status/2076845440214196529) · Seedance 2.0 · 2026-07-14 · 8.9K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1768,7 +1768,7 @@ https://github.com/user-attachments/assets/8e2c746e-ddde-44db-a434-7f3706f5f419
 
 <a href="https://x.com/bmx_ai13/status/2083372393649832355"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/bmx_ai13_2083348840250519552.webp" width="460" alt="My Office Outfits Have More Plot Twists Than My Workday. Which Look Wins?"></a>
 
-**视频署名 / 来源：** [BMX](https://x.com/bmx_ai13) · [@bmx_ai13](https://x.com/bmx_ai13) · [X 原帖](https://x.com/bmx_ai13/status/2083372393649832355) · Seedance 2.5 · 2026-08-01 · 3K 播放
+**视频署名 / 来源：** [BMX](https://x.com/bmx_ai13) · [@bmx_ai13](https://x.com/bmx_ai13) · [X 原帖](https://x.com/bmx_ai13/status/2083372393649832355) · Seedance 2.5 · 2026-08-01 · 3.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -1834,7 +1834,7 @@ A cookie split apart at center frame explodes into flying halves as thick chocol
 
 <a href="https://x.com/Vtuber7144/status/2083356844941246879"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Vtuber7144_2083352336504913920.webp" width="460" alt="『No Ideas....』"></a>
 
-**视频署名 / 来源：** [残念院さん 貴方のファンアートを糧にすくすく育つ怪物系教祖](https://x.com/Vtuber7144) · [@Vtuber7144](https://x.com/Vtuber7144) · [X 原帖](https://x.com/Vtuber7144/status/2083356844941246879) · Seedance 2.0 · 2026-08-01 · 1.7K 播放
+**视频署名 / 来源：** [残念院さん 貴方のファンアートを糧にすくすく育つ怪物系教祖](https://x.com/Vtuber7144) · [@Vtuber7144](https://x.com/Vtuber7144) · [X 原帖](https://x.com/Vtuber7144/status/2083356844941246879) · Seedance 2.0 · 2026-08-01 · 1.8K 播放
 
 ### Seedance 2.5 Prompt share!
 
@@ -1890,13 +1890,13 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/LeeLinAI123/status/2083292322582684132"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/LeeLinAI123_2083291882096832512.webp" width="460" alt="I tested Seedance 2.5 the way most people probably will"></a>
 
-**视频署名 / 来源：** [Lee Lin | AI](https://x.com/LeeLinAI123) · [@LeeLinAI123](https://x.com/LeeLinAI123) · [X 原帖](https://x.com/LeeLinAI123/status/2083292322582684132) · Seedance 2.5 · 2026-07-31 · 968 播放
+**视频署名 / 来源：** [Lee Lin | AI](https://x.com/LeeLinAI123) · [@LeeLinAI123](https://x.com/LeeLinAI123) · [X 原帖](https://x.com/LeeLinAI123/status/2083292322582684132) · Seedance 2.5 · 2026-07-31 · 972 播放
 
 ### Nisho ᓚᘏᗢ .. in daily challenge no. 1
 
 <a href="https://x.com/AiMeowing/status/2083332412558172377"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AiMeowing_2083331803352268800.webp" width="460" alt="Nisho ᓚᘏᗢ .. in daily challenge no. 1"></a>
 
-**视频署名 / 来源：** [Nisho 👦🏻🙀](https://x.com/AiMeowing) · [@AiMeowing](https://x.com/AiMeowing) · [X 原帖](https://x.com/AiMeowing/status/2083332412558172377) · Seedance 2.5 · 2026-07-31 · 966 播放
+**视频署名 / 来源：** [Nisho 👦🏻🙀](https://x.com/AiMeowing) · [@AiMeowing](https://x.com/AiMeowing) · [X 原帖](https://x.com/AiMeowing/status/2083332412558172377) · Seedance 2.5 · 2026-07-31 · 968 播放
 
 ### Seedance 2.5 is finally here, and this was my first test
 
@@ -1910,7 +1910,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/jaynwabueze/status/2083475368955072983"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/jaynwabueze_2083474850689982464.webp" width="460" alt="Tried out this Seedance 2.5 Prompt I saw on Higgsfield and it feel surreal"></a>
 
-**视频署名 / 来源：** [Jay Nwabueze](https://x.com/jaynwabueze) · [@jaynwabueze](https://x.com/jaynwabueze) · [X 原帖](https://x.com/jaynwabueze/status/2083475368955072983) · Seedance 2.5 · 2026-08-01 · 531 播放
+**视频署名 / 来源：** [Jay Nwabueze](https://x.com/jaynwabueze) · [@jaynwabueze](https://x.com/jaynwabueze) · [X 原帖](https://x.com/jaynwabueze/status/2083475368955072983) · Seedance 2.5 · 2026-08-01 · 532 播放
 
 > [X 帖子串](https://x.com/jaynwabueze/status/2083475368955072983)提到了提示词，但尚未索引到准确回复。
 
@@ -1918,7 +1918,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/mumaren_2/status/2083194831569121554"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mumaren_2_2083194074136522752.webp" width="460" alt="Damn, Seedance 2.5 is so cool!!!"></a>
 
-**视频署名 / 来源：** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [X 原帖](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 412 播放
+**视频署名 / 来源：** [Allen](https://x.com/mumaren_2) · [@mumaren_2](https://x.com/mumaren_2) · [X 原帖](https://x.com/mumaren_2/status/2083194831569121554) · Seedance 2.5 · 2026-07-31 · 413 播放
 
 > [X 帖子串](https://x.com/mumaren_2/status/2083194831569121554)提到了提示词，但尚未索引到准确回复。
 
@@ -1934,13 +1934,13 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 <a href="https://x.com/FaithAifilm/status/2083205928602812560"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/FaithAifilm_2083202379923722240.webp" width="460" alt="🚨 WE GOT EARLY ACCESS"></a>
 
-**视频署名 / 来源：** [Faith.Aifilm](https://x.com/FaithAifilm) · [@FaithAifilm](https://x.com/FaithAifilm) · [X 原帖](https://x.com/FaithAifilm/status/2083205928602812560) · Seedance 2.5 · 2026-07-31 · 152 播放
+**视频署名 / 来源：** [Faith.Aifilm](https://x.com/FaithAifilm) · [@FaithAifilm](https://x.com/FaithAifilm) · [X 原帖](https://x.com/FaithAifilm/status/2083205928602812560) · Seedance 2.5 · 2026-07-31 · 153 播放
 
 ### Test Seedance 2.5 30s in Capcut
 
 <a href="https://x.com/Xizital/status/2083117163909710053"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Xizital_2083116831456546816.webp" width="460" alt="Test Seedance 2.5 30s in Capcut"></a>
 
-**视频署名 / 来源：** [Xị Zital](https://x.com/Xizital) · [@Xizital](https://x.com/Xizital) · [X 原帖](https://x.com/Xizital/status/2083117163909710053) · Seedance 2.5 · 2026-07-31 · 141 播放
+**视频署名 / 来源：** [Xị Zital](https://x.com/Xizital) · [@Xizital](https://x.com/Xizital) · [X 原帖](https://x.com/Xizital/status/2083117163909710053) · Seedance 2.5 · 2026-07-31 · 144 播放
 
 > [X 帖子串](https://x.com/Xizital/status/2083117163909710053)提到了提示词，但尚未索引到准确回复。
 
@@ -2054,7 +2054,7 @@ Natural ambience only: light breeze, distant scooter engine, footsteps, fabric r
 
 https://github.com/user-attachments/assets/fae053df-f5ff-49b7-8e1a-87d22b1c22b1
 
-**视频署名 / 来源：** [Min Choi](https://x.com/minchoi) · [@minchoi](https://x.com/minchoi) · [X 原帖](https://x.com/minchoi/status/2020878278475518152) · Seedance 2.0 · 2026-02-09 · 391.3K 播放
+**视频署名 / 来源：** [Min Choi](https://x.com/minchoi) · [@minchoi](https://x.com/minchoi) · [X 原帖](https://x.com/minchoi/status/2020878278475518152) · Seedance 2.0 · 2026-02-09 · 391.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2081,7 +2081,7 @@ Shot 4: The squad successfully secures a high vantage point and overlooks the en
 
 <a href="https://x.com/AIwithkhan/status/2097168171367338428"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2097168098038292480.webp" width="460" alt="Girl with a B **** H mode 🥵"></a>
 
-**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2097168171367338428) · Seedance 2.5 · 2026-09-08 · 232.1K 播放
+**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2097168171367338428) · Seedance 2.5 · 2026-09-08 · 232.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2123,7 +2123,7 @@ https://github.com/user-attachments/assets/fda67ba1-5cf4-4362-b6a0-d8edf803abc1
 
 <a href="https://x.com/techhalla/status/2084018642300141851"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/techhalla_2084018282554654720.webp" width="460" alt="Seedance 2.5 Forged in Fire text to video prompt is below 👇"></a>
 
-**视频署名 / 来源：** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [X 原帖](https://x.com/techhalla/status/2084018642300141851) · Seedance 2.5 · 2026-08-02 · 140K 播放
+**视频署名 / 来源：** [TechHalla](https://x.com/techhalla) · [@techhalla](https://x.com/techhalla) · [X 原帖](https://x.com/techhalla/status/2084018642300141851) · Seedance 2.5 · 2026-08-02 · 140.1K 播放
 
 > [X 帖子串](https://x.com/techhalla/status/2084018642300141851)提到了提示词，但尚未索引到准确回复。
 
@@ -2170,7 +2170,7 @@ Style: realistic Korean apartment horror, claustrophobic handheld camera, flicke
 
 <a href="https://x.com/doctorwasif/status/2094648403246608862"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/doctorwasif_2094648347818864640.webp" width="460" alt="The Last Train Alive. Made with Seedance 2.5 on @TapNow_AI"></a>
 
-**视频署名 / 来源：** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [X 原帖](https://x.com/doctorwasif/status/2094648403246608862) · Seedance 2.5 · 2026-09-01 · 117.7K 播放
+**视频署名 / 来源：** [WasifAI](https://x.com/doctorwasif) · [@doctorwasif](https://x.com/doctorwasif) · [X 原帖](https://x.com/doctorwasif/status/2094648403246608862) · Seedance 2.5 · 2026-09-01 · 117.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2236,7 +2236,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot: the sleeper train races through the 
 
 <a href="https://x.com/Chaemate_/status/2097142882519879822"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Chaemate__2097003940399427590.webp" width="460" alt="spent way too long on this one but the fireworks scene made it worth it 🎆 lantern streets,…"></a>
 
-**视频署名 / 来源：** [Mira Sterling](https://x.com/Chaemate_) · [@Chaemate_](https://x.com/Chaemate_) · [X 原帖](https://x.com/Chaemate_/status/2097142882519879822) · Seedance 2.5 · 2026-09-08 · 39.3K 播放
+**视频署名 / 来源：** [Mira Sterling](https://x.com/Chaemate_) · [@Chaemate_](https://x.com/Chaemate_) · [X 原帖](https://x.com/Chaemate_/status/2097142882519879822) · Seedance 2.5 · 2026-09-08 · 39.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2338,7 +2338,7 @@ Dialogue is natural spoken Korean (except "Good enough"), reacting casually to e
 
 <a href="https://x.com/sailorv321/status/2088819020564930606"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.webp" width="460" alt="「……決まったでしょ？👁️🐻」"></a>
 
-**视频署名 / 来源：** [C’est La Vie🦋](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [X 原帖](https://x.com/sailorv321/status/2088819020564930606) · Seedance 2.5 · 2026-08-16 · 28K 播放
+**视频署名 / 来源：** [C’est La Vie🦋](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [X 原帖](https://x.com/sailorv321/status/2088819020564930606) · Seedance 2.5 · 2026-08-16 · 28.7K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2392,7 +2392,7 @@ Dialogue is natural spoken Korean (except "Good enough"), reacting casually to e
 
 <a href="https://x.com/ShamiWeb3/status/2096101448090267992"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ShamiWeb3_2096101276539125760.webp" width="460" alt="A simple seaside walk turned into the most unexpectedly wholesome Korean vlog"></a>
 
-**视频署名 / 来源：** [Shami](https://x.com/ShamiWeb3) · [@ShamiWeb3](https://x.com/ShamiWeb3) · [X 原帖](https://x.com/ShamiWeb3/status/2096101448090267992) · Seedance 2.5 · 2026-09-05 · 27.4K 播放
+**视频署名 / 来源：** [Shami](https://x.com/ShamiWeb3) · [@ShamiWeb3](https://x.com/ShamiWeb3) · [X 原帖](https://x.com/ShamiWeb3/status/2096101448090267992) · Seedance 2.5 · 2026-09-05 · 27.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2426,7 +2426,7 @@ Natural ambience only: ocean waves, seagulls, fishing boats, harbor conversation
 
 <a href="https://x.com/saniaspeaks_/status/2084969852171939875"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/saniaspeaks__2084969494158716928.webp" width="460" alt="Seedance 2.5 on @SJinn_Agent"></a>
 
-**视频署名 / 来源：** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [X 原帖](https://x.com/saniaspeaks_/status/2084969852171939875) · Seedance 2.5 · 2026-08-05 · 26.9K 播放
+**视频署名 / 来源：** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [X 原帖](https://x.com/saniaspeaks_/status/2084969852171939875) · Seedance 2.5 · 2026-08-05 · 27K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2460,7 +2460,7 @@ Natural ambience only: birds, palm leaves rustling, village conversations, cocon
 
 <a href="https://x.com/iamahmedfaraz66/status/2088473253937377771"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/iamahmedfaraz66_2088328363236880384.webp" width="460" alt="Made with SeeDance 2.5"></a>
 
-**视频署名 / 来源：** [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [X 原帖](https://x.com/iamahmedfaraz66/status/2088473253937377771) · Seedance 2.5 · 2026-08-15 · 25.4K 播放
+**视频署名 / 来源：** [Ahmad Faraz](https://x.com/iamahmedfaraz66) · [@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [X 原帖](https://x.com/iamahmedfaraz66/status/2088473253937377771) · Seedance 2.5 · 2026-08-15 · 25.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2489,26 +2489,6 @@ Goal: Feel like an accidental family recording from the early 2000s: spontaneous
 </details>
 
 **提示词署名 / 来源：** [@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [X 原帖](https://x.com/iamahmedfaraz66/status/2088473253937377771)
-
-### Chasing the rush where snow meets the sky
-
-<a href="https://x.com/ayzalnooor24521/status/2094243156225315270"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ayzalnooor24521_2094243122134016000.webp" width="460" alt="Chasing the rush where snow meets the sky"></a>
-
-**视频署名 / 来源：** [ayzalnoor](https://x.com/ayzalnooor24521) · [@ayzalnooor24521](https://x.com/ayzalnooor24521) · [X 原帖](https://x.com/ayzalnooor24521/status/2094243156225315270) · Seedance 2.0 · 2026-08-31 · 25.3K 播放
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Cinematic vertical video of a young East Asian woman with long straight black hair snowboarding at a high-alpine ski resort on a bright sunny day. She wears a vibrant turquoise-blue ski jacket, black snow pants, white helmet, reflective orange-tinted goggles, and black gloves.  
-Opening shot: medium close-up of her standing on a groomed snow slope with dramatic snow-capped mountain peaks and a clear blue sky behind her. She smiles brightly, adjusts her white helmet and goggles with both gloved hands, then clasps her hands excitedly in front of her chest while saying “I’m so excited!”  
-Smooth transition into dynamic action: first-person and tracking shots of her carving down wide, groomed powder runs with visible ski tracks. She approaches a long yellow-and-black rail, grinds it with perfect balance, arms out for style.  
-She then hits a large snow jump, launching into a high aerial with a stylish mid-air grab and rotation, snowboard visible against the deep blue sky and distant mountain ranges. Snow particles and powder spray trail behind her as she flies. Bright sunlight creates lens flares and sharp shadows on the pristine white snow.  
-High-energy, professional ski-film aesthetic, smooth camera movement, crisp details, vibrant colors, 15-second duration.
-```
-
-</details>
-
-**提示词署名 / 来源：** [@ayzalnooor24521](https://x.com/ayzalnooor24521) · [X 原帖](https://x.com/ayzalnooor24521/status/2094243156225315270)
 
 ### Just a normal day in the life of a very busy cat 🐱✨
 
@@ -2641,6 +2621,26 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 **提示词署名 / 来源：** [@ZaraIrahh](https://x.com/ZaraIrahh) · [X 原帖](https://x.com/ZaraIrahh/status/2091385137133219971)
 
+### Chasing the rush where snow meets the sky
+
+<a href="https://x.com/ayzalnooor24521/status/2094243156225315270"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ayzalnooor24521_2094243122134016000.webp" width="460" alt="Chasing the rush where snow meets the sky"></a>
+
+**视频署名 / 来源：** [ayzalnoor](https://x.com/ayzalnooor24521) · [@ayzalnooor24521](https://x.com/ayzalnooor24521) · [X 原帖](https://x.com/ayzalnooor24521/status/2094243156225315270) · Seedance 2.0 · 2026-08-31 · 25.3K 播放
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic vertical video of a young East Asian woman with long straight black hair snowboarding at a high-alpine ski resort on a bright sunny day. She wears a vibrant turquoise-blue ski jacket, black snow pants, white helmet, reflective orange-tinted goggles, and black gloves.  
+Opening shot: medium close-up of her standing on a groomed snow slope with dramatic snow-capped mountain peaks and a clear blue sky behind her. She smiles brightly, adjusts her white helmet and goggles with both gloved hands, then clasps her hands excitedly in front of her chest while saying “I’m so excited!”  
+Smooth transition into dynamic action: first-person and tracking shots of her carving down wide, groomed powder runs with visible ski tracks. She approaches a long yellow-and-black rail, grinds it with perfect balance, arms out for style.  
+She then hits a large snow jump, launching into a high aerial with a stylish mid-air grab and rotation, snowboard visible against the deep blue sky and distant mountain ranges. Snow particles and powder spray trail behind her as she flies. Bright sunlight creates lens flares and sharp shadows on the pristine white snow.  
+High-energy, professional ski-film aesthetic, smooth camera movement, crisp details, vibrant colors, 15-second duration.
+```
+
+</details>
+
+**提示词署名 / 来源：** [@ayzalnooor24521](https://x.com/ayzalnooor24521) · [X 原帖](https://x.com/ayzalnooor24521/status/2094243156225315270)
+
 ### I change vibe with just flick of my fingers
 
 <a href="https://x.com/AIwithSynthia/status/2088499769614483721"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2088499722546024449.webp" width="460" alt="I change vibe with just flick of my fingers"></a>
@@ -2688,7 +2688,7 @@ https://github.com/user-attachments/assets/69f23cf2-da42-49e4-a2f9-7b7d1ce3b131
 
 <a href="https://x.com/MrDasCreates/status/2089969922617266257"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrDasCreates_2089969759790219264.webp" width="460" alt="Curious Fox &amp; Mountain Stream Vlog with Seedance 2.5"></a>
 
-**视频署名 / 来源：** [Mr Das](https://x.com/MrDasCreates) · [@MrDasCreates](https://x.com/MrDasCreates) · [X 原帖](https://x.com/MrDasCreates/status/2089969922617266257) · Seedance 2.5 · 2026-08-19 · 23.7K 播放
+**视频署名 / 来源：** [Mr Das](https://x.com/MrDasCreates) · [@MrDasCreates](https://x.com/MrDasCreates) · [X 原帖](https://x.com/MrDasCreates/status/2089969922617266257) · Seedance 2.5 · 2026-08-19 · 23.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2724,7 +2724,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 <a href="https://x.com/QAiStudio/status/2090318927012167948"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/QAiStudio_2090318868493578240.webp" width="460" alt="Seedance 2.5 on openart"></a>
 
-**视频署名 / 来源：** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [X 原帖](https://x.com/QAiStudio/status/2090318927012167948) · Seedance 2.5 · 2026-08-20 · 22.7K 播放
+**视频署名 / 来源：** [Tensor](https://x.com/QAiStudio) · [@QAiStudio](https://x.com/QAiStudio) · [X 原帖](https://x.com/QAiStudio/status/2090318927012167948) · Seedance 2.5 · 2026-08-20 · 22.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -2959,7 +2959,7 @@ https://github.com/user-attachments/assets/f3715646-4ea2-4983-8444-6c4c47abcbbc
 
 <a href="https://x.com/CharaspowerAI/status/2087600046594228294"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/CharaspowerAI_2087600001430040577.webp" width="460" alt="Seedance 2.5 is getting ridiculously good at fake paparazzi footage. 👀📹"></a>
 
-**视频署名 / 来源：** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) · [@CharaspowerAI](https://x.com/CharaspowerAI) · [X 原帖](https://x.com/CharaspowerAI/status/2087600046594228294) · Seedance 2.5 · 2026-08-12 · 5.7K 播放
+**视频署名 / 来源：** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) · [@CharaspowerAI](https://x.com/CharaspowerAI) · [X 原帖](https://x.com/CharaspowerAI/status/2087600046594228294) · Seedance 2.5 · 2026-08-12 · 5.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -3200,7 +3200,7 @@ Audio should feel captured on location with soft room ambience, distant clinic m
 
 <a href="https://x.com/sebatheepan/status/2083290634731864190"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sebatheepan_2083290409267036161.webp" width="460" alt="One thousand years🧔‍♀️"></a>
 
-**视频署名 / 来源：** [Pan](https://x.com/sebatheepan) · [@sebatheepan](https://x.com/sebatheepan) · [X 原帖](https://x.com/sebatheepan/status/2083290634731864190) · Seedance 2.5 · 2026-07-31 · 588 播放
+**视频署名 / 来源：** [Pan](https://x.com/sebatheepan) · [@sebatheepan](https://x.com/sebatheepan) · [X 原帖](https://x.com/sebatheepan/status/2083290634731864190) · Seedance 2.5 · 2026-07-31 · 590 播放
 
 
 ## 动画 / 动漫
@@ -3419,7 +3419,7 @@ No text, no subtitles, no logos, no watermark.
 
 https://github.com/user-attachments/assets/620a1bff-2daf-4af2-83e3-8a8b87e6ecd8
 
-**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2075074872351572216) · Seedance 2.0 · 2026-07-09 · 61.2K 播放
+**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2075074872351572216) · Seedance 2.0 · 2026-07-09 · 61.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -3558,7 +3558,7 @@ https://github.com/user-attachments/assets/1c40fb8d-3ca8-4c7d-a097-681415cec353
 
 <a href="https://x.com/Just_sharon7/status/2088878042034868640"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2088877510008373248.webp" width="460" alt="Sharon fighting other Sharon"></a>
 
-**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2088878042034868640) · Seedance 2.5 · 2026-08-16 · 43K 播放
+**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2088878042034868640) · Seedance 2.5 · 2026-08-16 · 43.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -3689,7 +3689,7 @@ Premium modern retro-anime animation, expressive close-up facial animation, real
 
 <a href="https://x.com/mrdejie/status/2093183799400288336"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mrdejie_2093183332016377856.webp" width="460" alt="20 shots in 30seconds"></a>
 
-**视频署名 / 来源：** [MrDejie](https://x.com/mrdejie) · [@mrdejie](https://x.com/mrdejie) · [X 原帖](https://x.com/mrdejie/status/2093183799400288336) · Seedance 2.5 · 2026-08-28 · 34K 播放
+**视频署名 / 来源：** [MrDejie](https://x.com/mrdejie) · [@mrdejie](https://x.com/mrdejie) · [X 原帖](https://x.com/mrdejie/status/2093183799400288336) · Seedance 2.5 · 2026-08-28 · 34.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -3738,7 +3738,7 @@ Tone: exhilarating, mysterious, playful, cinematic, photoreal, large-scale, drea
 
 <a href="https://x.com/AiwithElisia/status/2091036019076272229"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AiwithElisia_2091035801874481152.webp" width="460" alt="Made with seedance 2.5"></a>
 
-**视频署名 / 来源：** [Elisia](https://x.com/AiwithElisia) · [@AiwithElisia](https://x.com/AiwithElisia) · [X 原帖](https://x.com/AiwithElisia/status/2091036019076272229) · Seedance 2.5 · 2026-08-22 · 31.4K 播放
+**视频署名 / 来源：** [Elisia](https://x.com/AiwithElisia) · [@AiwithElisia](https://x.com/AiwithElisia) · [X 原帖](https://x.com/AiwithElisia/status/2091036019076272229) · Seedance 2.5 · 2026-08-22 · 31.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4046,7 +4046,7 @@ Intense, dangerous, inspiring, emotional and triumphant. The final summit reveal
 
 <a href="https://x.com/aimikoda/status/2084900750690279501"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2084900197616820224.webp" width="460" alt="Tried creating a Pixar-style short"></a>
 
-**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2084900750690279501) · Seedance 2.5 · 2026-08-05 · 15.1K 播放
+**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2084900750690279501) · Seedance 2.5 · 2026-08-05 · 15.2K 播放
 
 > [X 帖子串](https://x.com/aimikoda/status/2084900750690279501)提到了提示词，但尚未索引到准确回复。
 
@@ -4087,7 +4087,7 @@ If you want to generate the specific static assets or concepts individually, you
 
 https://github.com/user-attachments/assets/ca8948f4-11af-4ca3-b172-b0d5ee78813c
 
-**视频署名 / 来源：** [yusra.](https://x.com/chatgptpaglu) · [@chatgptpaglu](https://x.com/chatgptpaglu) · [X 原帖](https://x.com/chatgptpaglu/status/2054065454193275135) · Seedance 2.0 · 2026-05-12 · 1.9K 播放
+**视频署名 / 来源：** [yusra.](https://x.com/chatgptpaglu) · [@chatgptpaglu](https://x.com/chatgptpaglu) · [X 原帖](https://x.com/chatgptpaglu/status/2054065454193275135) · Seedance 2.0 · 2026-05-12 · 2.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4187,7 +4187,7 @@ https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4
 
 <a href="https://x.com/samaidirector/status/2093087418081587204"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/samaidirector_2093087367867355136.webp" width="460" alt="🧵You can create this fight on @invideoOfficial with agent two. Just access invideo, paste…"></a>
 
-**视频署名 / 来源：** [SamDirector](https://x.com/samaidirector) · [@samaidirector](https://x.com/samaidirector) · [X 原帖](https://x.com/samaidirector/status/2093087418081587204) · Seedance 2.5 · 2026-08-27 · 114.6K 播放
+**视频署名 / 来源：** [SamDirector](https://x.com/samaidirector) · [@samaidirector](https://x.com/samaidirector) · [X 原帖](https://x.com/samaidirector/status/2093087418081587204) · Seedance 2.5 · 2026-08-27 · 114.7K 播放
 
 ### Too real to believe it’s AI. 🔥
 
@@ -4235,13 +4235,13 @@ https://github.com/user-attachments/assets/6444de26-9617-4563-a890-7069e29e2eb4
 
 <a href="https://x.com/EXM7777/status/2089001978781368374"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.webp" width="460" alt="i just open sourced the workflow behind $2M AI video productions"></a>
 
-**视频署名 / 来源：** [Machina](https://x.com/EXM7777) · [@EXM7777](https://x.com/EXM7777) · [X 原帖](https://x.com/EXM7777/status/2089001978781368374) · Seedance 2.5 · 2026-08-16 · 62.1K 播放
+**视频署名 / 来源：** [Machina](https://x.com/EXM7777) · [@EXM7777](https://x.com/EXM7777) · [X 原帖](https://x.com/EXM7777/status/2089001978781368374) · Seedance 2.5 · 2026-08-16 · 62.2K 播放
 
 ### Tried Seedance 2.5 on @videoduck_ai for this short action film
 
 <a href="https://x.com/The_Kremlinn/status/2095083714120229230"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/The_Kremlinn_2095083598990778370.webp" width="460" alt="Tried Seedance 2.5 on @videoduck_ai for this short action film"></a>
 
-**视频署名 / 来源：** [Aaliyah | AI](https://x.com/The_Kremlinn) · [@The_Kremlinn](https://x.com/The_Kremlinn) · [X 原帖](https://x.com/The_Kremlinn/status/2095083714120229230) · Seedance 2.5 · 2026-09-02 · 61.5K 播放
+**视频署名 / 来源：** [Aaliyah | AI](https://x.com/The_Kremlinn) · [@The_Kremlinn](https://x.com/The_Kremlinn) · [X 原帖](https://x.com/The_Kremlinn/status/2095083714120229230) · Seedance 2.5 · 2026-09-02 · 61.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4278,7 +4278,7 @@ RULES: References are appearance only, do not recreate. Keep the hero's face and
 
 <a href="https://x.com/AiwithElisia/status/2092119695201837059"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AiwithElisia_2092119655863525376.webp" width="460" alt="Made with seedance 2.5"></a>
 
-**视频署名 / 来源：** [Elisia](https://x.com/AiwithElisia) · [@AiwithElisia](https://x.com/AiwithElisia) · [X 原帖](https://x.com/AiwithElisia/status/2092119695201837059) · Seedance 2.5 · 2026-08-25 · 50.9K 播放
+**视频署名 / 来源：** [Elisia](https://x.com/AiwithElisia) · [@AiwithElisia](https://x.com/AiwithElisia) · [X 原帖](https://x.com/AiwithElisia/status/2092119695201837059) · Seedance 2.5 · 2026-08-25 · 51.2K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4314,7 +4314,7 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 
 <a href="https://x.com/oggii_0/status/2093568957727064554"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2093568824511709184.webp" width="460" alt="Meme Vlog using Seedance 2.5"></a>
 
-**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2093568957727064554) · Seedance 2.5 · 2026-08-29 · 48.9K 播放
+**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2093568957727064554) · Seedance 2.5 · 2026-08-29 · 49.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4479,7 +4479,7 @@ Premium AAA quality, photorealistic cinematic rendering, extreme sports document
 
 <a href="https://x.com/mimu_ai1/status/2091215411341930633"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mimu_ai1_2091215392400392192.webp" width="460" alt="Create your version on @budgetpixel using Seedance 2.0"></a>
 
-**视频署名 / 来源：** [Mimu | AI Tools & News](https://x.com/mimu_ai1) · [@mimu_ai1](https://x.com/mimu_ai1) · [X 原帖](https://x.com/mimu_ai1/status/2091215411341930633) · Seedance 2.0 · 2026-08-22 · 39.4K 播放
+**视频署名 / 来源：** [Mimu | AI Tools & News](https://x.com/mimu_ai1) · [@mimu_ai1](https://x.com/mimu_ai1) · [X 原帖](https://x.com/mimu_ai1/status/2091215411341930633) · Seedance 2.0 · 2026-08-22 · 39.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4495,7 +4495,7 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 <a href="https://x.com/laviniavelle/status/2093162800747282739"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/laviniavelle_2093162727346974720.webp" width="460" alt="Cinematic action at its finest"></a>
 
-**视频署名 / 来源：** [Lavinia](https://x.com/laviniavelle) · [@laviniavelle](https://x.com/laviniavelle) · [X 原帖](https://x.com/laviniavelle/status/2093162800747282739) · Seedance 2.0 · 2026-08-28 · 33.5K 播放
+**视频署名 / 来源：** [Lavinia](https://x.com/laviniavelle) · [@laviniavelle](https://x.com/laviniavelle) · [X 原帖](https://x.com/laviniavelle/status/2093162800747282739) · Seedance 2.0 · 2026-08-28 · 33.6K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4548,7 +4548,7 @@ Important: Maintain one identical character throughout. Do not change her facial
 
 <a href="https://x.com/Aqsahere_/status/2096077108808470604"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Aqsahere__2096076932865794048.webp" width="460" alt="This looks like a diet plan with an unexpected ending"></a>
 
-**视频署名 / 来源：** [Aqsa](https://x.com/Aqsahere_) · [@Aqsahere_](https://x.com/Aqsahere_) · [X 原帖](https://x.com/Aqsahere_/status/2096077108808470604) · Seedance 2.5 · 2026-09-05 · 27K 播放
+**视频署名 / 来源：** [Aqsa](https://x.com/Aqsahere_) · [@Aqsahere_](https://x.com/Aqsahere_) · [X 原帖](https://x.com/Aqsahere_/status/2096077108808470604) · Seedance 2.5 · 2026-09-05 · 27.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4565,7 +4565,7 @@ Create a premium photorealistic live-action cinematic disaster comedy featuring 
 
 <a href="https://x.com/Zyrellix/status/2092121112746287527"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Zyrellix_2092121030919675904.webp" width="460" alt="Darkness awakens A warrior an ancient dragon and a celestial power collide in an epic…"></a>
 
-**视频署名 / 来源：** [Zyrella](https://x.com/Zyrellix) · [@Zyrellix](https://x.com/Zyrellix) · [X 原帖](https://x.com/Zyrellix/status/2092121112746287527) · Seedance 2.0 · 2026-08-25 · 26.3K 播放
+**视频署名 / 来源：** [Zyrella](https://x.com/Zyrellix) · [@Zyrellix](https://x.com/Zyrellix) · [X 原帖](https://x.com/Zyrellix/status/2092121112746287527) · Seedance 2.0 · 2026-08-25 · 26.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4581,7 +4581,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 <a href="https://x.com/AIwithSynthia/status/2097175719470329933"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2097175620136681472.webp" width="460" alt="Zombie attack 😳"></a>
 
-**视频署名 / 来源：** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [X 原帖](https://x.com/AIwithSynthia/status/2097175719470329933) · Seedance 2.5 · 2026-09-08 · 25.2K 播放
+**视频署名 / 来源：** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [X 原帖](https://x.com/AIwithSynthia/status/2097175719470329933) · Seedance 2.5 · 2026-09-08 · 25.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -4641,7 +4641,7 @@ STYLE: Ultra-realistic Korean apartment-building parking garage horror, claustro
 
 <a href="https://x.com/aimikoda/status/2083371107755692388"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2083368866722312192.webp" width="460" alt="Seedance 2.5 - 30s, 720p generation"></a>
 
-**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2083371107755692388) · Seedance 2.5 · 2026-08-01 · 19.6K 播放
+**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2083371107755692388) · Seedance 2.5 · 2026-08-01 · 19.7K 播放
 
 ### DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally…
 
@@ -4737,7 +4737,7 @@ The gravity field collapses for one final moment. The entire city appears suspen
 
 <a href="https://x.com/itsshara_ai/status/2091004996615827895"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2091004945046913025.webp" width="460" alt="I made this 30-second clip using @higgsfield_ai"></a>
 
-**视频署名 / 来源：** [Shara](https://x.com/itsshara_ai) · [@itsshara_ai](https://x.com/itsshara_ai) · [X 原帖](https://x.com/itsshara_ai/status/2091004996615827895) · Seedance 2.5 · 2026-08-22 · 15.7K 播放
+**视频署名 / 来源：** [Shara](https://x.com/itsshara_ai) · [@itsshara_ai](https://x.com/itsshara_ai) · [X 原帖](https://x.com/itsshara_ai/status/2091004996615827895) · Seedance 2.5 · 2026-08-22 · 15.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5137,7 +5137,7 @@ Prioritize natural behavior, consistent identity, believable physics, imperfect 
 
 <a href="https://x.com/mrdejie/status/2083433982356836382"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mrdejie_2083432413649350656.webp" width="460" alt="What used to take a full crew and thousands of dollars…"></a>
 
-**视频署名 / 来源：** [MrDejie](https://x.com/mrdejie) · [@mrdejie](https://x.com/mrdejie) · [X 原帖](https://x.com/mrdejie/status/2083433982356836382) · Seedance 2.5 · 2026-08-01 · 156.8K 播放
+**视频署名 / 来源：** [MrDejie](https://x.com/mrdejie) · [@mrdejie](https://x.com/mrdejie) · [X 原帖](https://x.com/mrdejie/status/2083433982356836382) · Seedance 2.5 · 2026-08-01 · 156.9K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5160,13 +5160,13 @@ Prioritize natural behavior, consistent identity, believable physics, imperfect 
 
 <a href="https://x.com/beginnersblog1/status/2088679618354237937"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/beginnersblog1_2088679542206742528.webp" width="460" alt="Here’s the workflow I used with Seedance 2.5"></a>
 
-**视频署名 / 来源：** [Beginnersblog](https://x.com/beginnersblog1) · [@beginnersblog1](https://x.com/beginnersblog1) · [X 原帖](https://x.com/beginnersblog1/status/2088679618354237937) · Seedance 2.5 · 2026-08-15 · 86.7K 播放
+**视频署名 / 来源：** [Beginnersblog](https://x.com/beginnersblog1) · [@beginnersblog1](https://x.com/beginnersblog1) · [X 原帖](https://x.com/beginnersblog1/status/2088679618354237937) · Seedance 2.5 · 2026-08-15 · 87K 播放
 
 ### This is AI. That sentence is getting harder to believe
 
 <a href="https://x.com/YourAlphaMom/status/2092315861524603364"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/YourAlphaMom_2092315136434286592.webp" width="460" alt="This is AI. That sentence is getting harder to believe"></a>
 
-**视频署名 / 来源：** [Alpha Mom](https://x.com/YourAlphaMom) · [@YourAlphaMom](https://x.com/YourAlphaMom) · [X 原帖](https://x.com/YourAlphaMom/status/2092315861524603364) · Seedance 2.5 · 2026-08-25 · 81.7K 播放
+**视频署名 / 来源：** [Alpha Mom](https://x.com/YourAlphaMom) · [@YourAlphaMom](https://x.com/YourAlphaMom) · [X 原帖](https://x.com/YourAlphaMom/status/2092315861524603364) · Seedance 2.5 · 2026-08-25 · 82.2K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5242,7 +5242,7 @@ Thanks @Sheldon056  for the inspiration on this one
 
 <a href="https://x.com/BubbleBrain/status/2084013378461478952"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BubbleBrain_2084012245374402560.webp" width="460" alt="Since you guys love her so much, let&#x27;s make a little intro video for her by Seedance 2.5"></a>
 
-**视频署名 / 来源：** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [X 原帖](https://x.com/BubbleBrain/status/2084013378461478952) · Seedance 2.5 · 2026-08-02 · 68K 播放
+**视频署名 / 来源：** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [X 原帖](https://x.com/BubbleBrain/status/2084013378461478952) · Seedance 2.5 · 2026-08-02 · 68.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5277,7 +5277,7 @@ Overall style: Japanese idol private vlog. Soft and nostalgic. Like a personal v
 
 https://github.com/user-attachments/assets/794480cf-6505-4c7a-bdfb-849db361aa3f
 
-**视频署名 / 来源：** [Johnn](https://x.com/john_my07) · [@john_my07](https://x.com/john_my07) · [X 原帖](https://x.com/john_my07/status/2048428389347024922) · Seedance 2.0 · 2026-04-26 · 55.2K 播放
+**视频署名 / 来源：** [Johnn](https://x.com/john_my07) · [@john_my07](https://x.com/john_my07) · [X 原帖](https://x.com/john_my07/status/2048428389347024922) · Seedance 2.0 · 2026-04-26 · 55.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5364,7 +5364,7 @@ Important motion requirements: The idols must dance first before putting their h
 
 <a href="https://x.com/Zyrellix/status/2094267571943932216"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Zyrellix_2094267417358987264.webp" width="460" alt="One continuous journey through rain dreams deserts oceans and the northern lights ending…"></a>
 
-**视频署名 / 来源：** [Zyrella](https://x.com/Zyrellix) · [@Zyrellix](https://x.com/Zyrellix) · [X 原帖](https://x.com/Zyrellix/status/2094267571943932216) · Seedance 2.5 · 2026-08-31 · 34.3K 播放
+**视频署名 / 来源：** [Zyrella](https://x.com/Zyrellix) · [@Zyrellix](https://x.com/Zyrellix) · [X 原帖](https://x.com/Zyrellix/status/2094267571943932216) · Seedance 2.5 · 2026-08-31 · 34.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5384,7 +5384,7 @@ Visual style: hyper-realistic cinematic photography, physically realistic enviro
 
 <a href="https://x.com/ZaraIrahh/status/2084992037313507340"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ZaraIrahh_2084990140045279232.webp" width="460" alt="Created this high-end pop music video concept with Seedance 2.5 on @astorie_ai"></a>
 
-**视频署名 / 来源：** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [X 原帖](https://x.com/ZaraIrahh/status/2084992037313507340) · Seedance 2.5 · 2026-08-05 · 27.2K 播放
+**视频署名 / 来源：** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [X 原帖](https://x.com/ZaraIrahh/status/2084992037313507340) · Seedance 2.5 · 2026-08-05 · 27.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5697,19 +5697,19 @@ Avoid: commercial-advertisement aesthetics, studio lighting, excessive beauty re
 
 https://github.com/user-attachments/assets/8df2fc90-f032-41a6-b25e-56279f106df8
 
-**视频署名 / 来源：** [Johnn](https://x.com/john_my07) · [@john_my07](https://x.com/john_my07) · [X 原帖](https://x.com/john_my07/status/2049524601471074422) · Seedance 2.0 · 2026-04-29 · 21.9K 播放
+**视频署名 / 来源：** [Johnn](https://x.com/john_my07) · [@john_my07](https://x.com/john_my07) · [X 原帖](https://x.com/john_my07/status/2049524601471074422) · Seedance 2.0 · 2026-04-29 · 22K 播放
 
 ### 🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！
 
 <a href="https://x.com/MrLarus/status/2083558691895209987"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.webp" width="460" alt="🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！"></a>
 
-**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 20.4K 播放
+**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2083558691895209987) · Seedance 2.5 · 2026-08-01 · 20.5K 播放
 
 ### A Quiet Moment Alone! 🤍
 
 <a href="https://x.com/abulu8/status/2094187031874437132"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/abulu8_2094185505797894144.webp" width="460" alt="A Quiet Moment Alone! 🤍"></a>
 
-**视频署名 / 来源：** [Syed Abuthahir ∞](https://x.com/abulu8) · [@abulu8](https://x.com/abulu8) · [X 原帖](https://x.com/abulu8/status/2094187031874437132) · Seedance 2.5 · 2026-08-30 · 16.9K 播放
+**视频署名 / 来源：** [Syed Abuthahir ∞](https://x.com/abulu8) · [@abulu8](https://x.com/abulu8) · [X 原帖](https://x.com/abulu8/status/2094187031874437132) · Seedance 2.5 · 2026-08-30 · 17K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5798,7 +5798,7 @@ rained on and not going inside, laundry left to get wet.
 
 <a href="https://x.com/ZaraIrahh/status/2095736444245479557"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ZaraIrahh_2095735497591300096.webp" width="460" alt="No map. No limits. Just wander"></a>
 
-**视频署名 / 来源：** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [X 原帖](https://x.com/ZaraIrahh/status/2095736444245479557) · Seedance 2.5 · 2026-09-04 · 16.1K 播放
+**视频署名 / 来源：** [Zara](https://x.com/ZaraIrahh) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [X 原帖](https://x.com/ZaraIrahh/status/2095736444245479557) · Seedance 2.5 · 2026-09-04 · 16.2K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5834,7 +5834,7 @@ Negative: No CGI look, plastic skin, identity drift, face changes, distorted ana
 
 <a href="https://x.com/AIwithkhan/status/2084962268505370835"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2084962221147500544.webp" width="460" alt="This is my Hip Hop style 🎵"></a>
 
-**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2084962268505370835) · Seedance 2.5 · 2026-08-05 · 13.6K 播放
+**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2084962268505370835) · Seedance 2.5 · 2026-08-05 · 13.7K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5864,7 +5864,7 @@ Negative Prompt: No subtitles, no captions, no logos, no watermarks, no duplicat
 
 <a href="https://x.com/AIwithSynthia/status/2095727374319186009"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2095727114091921409.webp" width="460" alt="In my own vibe now"></a>
 
-**视频署名 / 来源：** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [X 原帖](https://x.com/AIwithSynthia/status/2095727374319186009) · Seedance 2.5 · 2026-09-04 · 11.6K 播放
+**视频署名 / 来源：** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [X 原帖](https://x.com/AIwithSynthia/status/2095727374319186009) · Seedance 2.5 · 2026-09-04 · 11.7K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -5902,7 +5902,7 @@ Negative: No CGI look, plastic skin, identity drift, inconsistent clothing, dist
 
 <a href="https://x.com/Ciri_ai/status/2083956213113639013"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Ciri_ai_2083955841670238209.webp" width="460" alt="Testing Seedance 2.5 for an AI music video"></a>
 
-**视频署名 / 来源：** [Ciri](https://x.com/Ciri_ai) · [@Ciri_ai](https://x.com/Ciri_ai) · [X 原帖](https://x.com/Ciri_ai/status/2083956213113639013) · Seedance 2.5 · 2026-08-02 · 9.3K 播放
+**视频署名 / 来源：** [Ciri](https://x.com/Ciri_ai) · [@Ciri_ai](https://x.com/Ciri_ai) · [X 原帖](https://x.com/Ciri_ai/status/2083956213113639013) · Seedance 2.5 · 2026-08-02 · 9.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -6012,7 +6012,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 https://github.com/user-attachments/assets/519a851f-bccc-42e3-a048-00aad19a62e1
 
-**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2073596755212431768) · Seedance 2.0 · 2026-07-05 · 9.1K 播放
+**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2073596755212431768) · Seedance 2.0 · 2026-07-05 · 9.2K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -6056,7 +6056,7 @@ And this is the 5s video without storyboard part.
 
 <a href="https://x.com/sailorv321/status/2083090842814996920"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2083090453717823488.webp" width="460" alt="Seedance 2.5、始動。"></a>
 
-**视频署名 / 来源：** [C’est La Vie🦋](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [X 原帖](https://x.com/sailorv321/status/2083090842814996920) · Seedance 2.5 · 2026-07-31 · 6.9K 播放
+**视频署名 / 来源：** [C’est La Vie🦋](https://x.com/sailorv321) · [@sailorv321](https://x.com/sailorv321) · [X 原帖](https://x.com/sailorv321/status/2083090842814996920) · Seedance 2.5 · 2026-07-31 · 7K 播放
 
 ### Nothing can match the realism of Seedance 2.5
 
@@ -6217,19 +6217,19 @@ Maintain clean instructional aesthetic
 
 <a href="https://x.com/buraktuyan/status/2092008235075084363"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.webp" width="460" alt="Here&#x27;s my 30-second spec ad for WinRAR (that nobody asked for)"></a>
 
-**视频署名 / 来源：** [Burak Tuyan](https://x.com/buraktuyan) · [@buraktuyan](https://x.com/buraktuyan) · [X 原帖](https://x.com/buraktuyan/status/2092008235075084363) · Seedance 2.5 · 2026-08-24 · 677.2K 播放
+**视频署名 / 来源：** [Burak Tuyan](https://x.com/buraktuyan) · [@buraktuyan](https://x.com/buraktuyan) · [X 原帖](https://x.com/buraktuyan/status/2092008235075084363) · Seedance 2.5 · 2026-08-24 · 678K 播放
 
 ### Seedance 2.0 doesn’t just disrupt filmmaking — it steamrolls motion design too. One image,…
 
 https://github.com/user-attachments/assets/8c8f5cb5-d633-4332-83ab-e39ebe7b5861
 
-**视频署名 / 来源：** [padphone](https://x.com/lepadphone) · [@lepadphone](https://x.com/lepadphone) · [X 原帖](https://x.com/lepadphone/status/2020728930278531232) · Seedance 2.0 · 2026-02-09 · 509.2K 播放
+**视频署名 / 来源：** [padphone](https://x.com/lepadphone) · [@lepadphone](https://x.com/lepadphone) · [X 原帖](https://x.com/lepadphone/status/2020728930278531232) · Seedance 2.0 · 2026-02-09 · 509.3K 播放
 
 ### That Baddie again
 
 <a href="https://x.com/AIwithkhan/status/2096095608268280198"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2096095525942792192.webp" width="460" alt="That Baddie again"></a>
 
-**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2096095608268280198) · Seedance 2.5 · 2026-09-05 · 412.8K 播放
+**视频署名 / 来源：** [Smiling Khan](https://x.com/AIwithkhan) · [@AIwithkhan](https://x.com/AIwithkhan) · [X 原帖](https://x.com/AIwithkhan/status/2096095608268280198) · Seedance 2.5 · 2026-09-05 · 413.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -6303,13 +6303,13 @@ No music. No narration. Only the two spoken lines specified above.
 
 <a href="https://x.com/BubbleBrain/status/2083659648108990925"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BubbleBrain_2083659140178857984.webp" width="460" alt="Seedance 2.5 vlog case"></a>
 
-**视频署名 / 来源：** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [X 原帖](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 371.7K 播放
+**视频署名 / 来源：** [BubbleBrain](https://x.com/BubbleBrain) · [@BubbleBrain](https://x.com/BubbleBrain) · [X 原帖](https://x.com/BubbleBrain/status/2083659648108990925) · Seedance 2.5 · 2026-08-01 · 373.1K 播放
 
 ### Realism that makes ordinary life feel special
 
 <a href="https://x.com/Just_sharon7/status/2096109540924141746"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2096106543985152000.webp" width="460" alt="Realism that makes ordinary life feel special"></a>
 
-**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2096109540924141746) · Seedance 2.5 · 2026-09-05 · 150.2K 播放
+**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2096109540924141746) · Seedance 2.5 · 2026-09-05 · 150.7K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -6488,7 +6488,7 @@ Authentic TikTok draft accidentally turned cinematic. Real-life imperfections, e
 
 <a href="https://x.com/ShamiWeb3/status/2093133619883913232"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ShamiWeb3_2093126817763020800.webp" width="460" alt="Turned ONE perfume bottle photo into a full cinematic commercial, sunset, silk, and sparkle…"></a>
 
-**视频署名 / 来源：** [Shami](https://x.com/ShamiWeb3) · [@ShamiWeb3](https://x.com/ShamiWeb3) · [X 原帖](https://x.com/ShamiWeb3/status/2093133619883913232) · Seedance 2.5 · 2026-08-28 · 39.4K 播放
+**视频署名 / 来源：** [Shami](https://x.com/ShamiWeb3) · [@ShamiWeb3](https://x.com/ShamiWeb3) · [X 原帖](https://x.com/ShamiWeb3/status/2093133619883913232) · Seedance 2.5 · 2026-08-28 · 39.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -6558,7 +6558,7 @@ https://github.com/user-attachments/assets/e776e3a5-cee5-43e6-a403-cbe20fae133c
 
 <a href="https://x.com/oggii_0/status/2092472241254814024"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2092471671064313856.webp" width="460" alt="Made with Seedance 2.5"></a>
 
-**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2092472241254814024) · Seedance 2.5 · 2026-08-26 · 35.5K 播放
+**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2092472241254814024) · Seedance 2.5 · 2026-08-26 · 35.6K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -6851,7 +6851,7 @@ NEGATIVE PROMPT: No CGI look, synthetic skin, beauty filter, excessive sharpenin
 
 <a href="https://x.com/SimplyAnnisa/status/2087078357595009085"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/SimplyAnnisa_2087078164849692672.webp" width="460" alt="Made with seedance 2.5"></a>
 
-**视频署名 / 来源：** [Anissa](https://x.com/SimplyAnnisa) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [X 原帖](https://x.com/SimplyAnnisa/status/2087078357595009085) · Seedance 2.5 · 2026-08-11 · 29.5K 播放
+**视频署名 / 来源：** [Anissa](https://x.com/SimplyAnnisa) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [X 原帖](https://x.com/SimplyAnnisa/status/2087078357595009085) · Seedance 2.5 · 2026-08-11 · 29.6K 播放
 
 ### A day in a life of Korean Girl
 
@@ -7189,7 +7189,7 @@ Keep the entire sequence fast, casual, spontaneous, and realistic, with natural 
 
 <a href="https://x.com/oggii_0/status/2097170131105550517"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2097170047982780416.webp" width="460" alt="Made with seedance 2.5 on Higgsfield"></a>
 
-**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2097170131105550517) · Seedance 2.5 · 2026-09-08 · 19.2K 播放
+**视频署名 / 来源：** [Oogie](https://x.com/oggii_0) · [@oggii_0](https://x.com/oggii_0) · [X 原帖](https://x.com/oggii_0/status/2097170131105550517) · Seedance 2.5 · 2026-09-08 · 19.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -7268,7 +7268,7 @@ Warm natural daylight, realistic South Asian woman, modern home, detailed clothi
 
 <a href="https://x.com/viperstudios4/status/2088759170174529887"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/viperstudios4_2088757394566152192.webp" width="460" alt="Trying my own version of these in vertical format"></a>
 
-**视频署名 / 来源：** [Viper Studios](https://x.com/viperstudios4) · [@viperstudios4](https://x.com/viperstudios4) · [X 原帖](https://x.com/viperstudios4/status/2088759170174529887) · Seedance 2.5 · 2026-08-15 · 18.4K 播放
+**视频署名 / 来源：** [Viper Studios](https://x.com/viperstudios4) · [@viperstudios4](https://x.com/viperstudios4) · [X 原帖](https://x.com/viperstudios4/status/2088759170174529887) · Seedance 2.5 · 2026-08-15 · 18.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -7412,7 +7412,7 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 https://github.com/user-attachments/assets/f4ac8f48-9f03-45ef-b992-d47db5c14c25
 
-**视频署名 / 来源：** [Shore Lyn](https://x.com/Shorelyn_) · [@Shorelyn_](https://x.com/Shorelyn_) · [X 原帖](https://x.com/Shorelyn_/status/2077345203049148886) · Seedance 2.0 · 2026-07-15 · 15K 播放
+**视频署名 / 来源：** [Ziha](https://x.com/Ziha_ai) · [@Ziha_ai](https://x.com/Ziha_ai) · [X 原帖](https://x.com/Ziha_ai/status/2077345203049148886) · Seedance 2.0 · 2026-07-15 · 15.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -7428,7 +7428,7 @@ SCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Eleg
 
 </details>
 
-**提示词署名 / 来源：** [@Shorelyn_](https://x.com/Shorelyn_) · [X 原帖](https://x.com/Shorelyn_/status/2077345203049148886)
+**提示词署名 / 来源：** [@Ziha_ai](https://x.com/Ziha_ai) · [X 原帖](https://x.com/Ziha_ai/status/2077345203049148886)
 
 ### From frozen fries and seasoned chicken to a perfectly golden, crispy meal in just one air fryer
 
@@ -7513,7 +7513,7 @@ Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.
 
 <a href="https://x.com/rovvmut_/status/2089235882226471105"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rovvmut__2089234802465742848.webp" width="460" alt="Seedance 2.5 on @itsPolloAI"></a>
 
-**视频署名 / 来源：** [Heisenberg](https://x.com/rovvmut_) · [@rovvmut_](https://x.com/rovvmut_) · [X 原帖](https://x.com/rovvmut_/status/2089235882226471105) · Seedance 2.5 · 2026-08-17 · 13.1K 播放
+**视频署名 / 来源：** [Heisenberg](https://x.com/rovvmut_) · [@rovvmut_](https://x.com/rovvmut_) · [X 原帖](https://x.com/rovvmut_/status/2089235882226471105) · Seedance 2.5 · 2026-08-17 · 13.3K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -7611,7 +7611,7 @@ Avoid identity changes, face distortion, flickering, unnatural expressions, extr
 
 <a href="https://x.com/Emmma___0/status/2094996412593537295"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Emmma___0_2094996251435728896.webp" width="460" alt="Made with Seedance 2.5"></a>
 
-**视频署名 / 来源：** [Emma](https://x.com/Emmma___0) · [@Emmma___0](https://x.com/Emmma___0) · [X 原帖](https://x.com/Emmma___0/status/2094996412593537295) · Seedance 2.5 · 2026-09-02 · 12.4K 播放
+**视频署名 / 来源：** [Emma](https://x.com/Emmma___0) · [@Emmma___0](https://x.com/Emmma___0) · [X 原帖](https://x.com/Emmma___0/status/2094996412593537295) · Seedance 2.5 · 2026-09-02 · 12.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -7942,7 +7942,7 @@ PRODUCT LOCK: Keep the attached product visually identical in every shot. Do not
 
 <a href="https://x.com/AIwithSynthia/status/2084852008448905417"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2084851978673455104.webp" width="460" alt="Seedance 2.5 is too spicy 🥵"></a>
 
-**视频署名 / 来源：** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [X 原帖](https://x.com/AIwithSynthia/status/2084852008448905417) · Seedance 2.5 · 2026-08-05 · 8.7K 播放
+**视频署名 / 来源：** [Synthia](https://x.com/AIwithSynthia) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [X 原帖](https://x.com/AIwithSynthia/status/2084852008448905417) · Seedance 2.5 · 2026-08-05 · 8.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -8144,7 +8144,7 @@ Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A
 
 <a href="https://x.com/JMSvid/status/2083210992343756893"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/JMSvid_2083209862419259393.webp" width="460" alt="The cinematic qualities of Seedance 2.5 are mad... wth man 😮‍💨"></a>
 
-**视频署名 / 来源：** [JMS.vid](https://x.com/JMSvid) · [@JMSvid](https://x.com/JMSvid) · [X 原帖](https://x.com/JMSvid/status/2083210992343756893) · Seedance 2.5 · 2026-07-31 · 804 播放
+**视频署名 / 来源：** [JMS.vid](https://x.com/JMSvid) · [@JMSvid](https://x.com/JMSvid) · [X 原帖](https://x.com/JMSvid/status/2083210992343756893) · Seedance 2.5 · 2026-07-31 · 821 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -8180,7 +8180,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 <a href="https://x.com/noman23761/status/2083238369493164148"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/noman23761_2083093991860379648.webp" width="460" alt="Seedance 2.5 on"></a>
 
-**视频署名 / 来源：** [Noman | AI Filmmaker](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [X 原帖](https://x.com/noman23761/status/2083238369493164148) · Seedance 2.5 · 2026-07-31 · 137 播放
+**视频署名 / 来源：** [Noman | AI Filmmaker](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [X 原帖](https://x.com/noman23761/status/2083238369493164148) · Seedance 2.5 · 2026-07-31 · 140 播放
 
 
 ## 提示词与工作流
@@ -8191,13 +8191,13 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 <a href="https://x.com/Just_sharon7/status/2091401520915030279"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2091266552645799936.webp" width="460" alt="Made with GPT Image 2 + Seedance 2.5 on @Flovaai"></a>
 
-**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2091401520915030279) · Seedance 2.5 · 2026-08-23 · 600.8K 播放
+**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2091401520915030279) · Seedance 2.5 · 2026-08-23 · 600.9K 播放
 
 ### Blender previs pushed through Seedance 2.0 for an ambush scene
 
 https://github.com/user-attachments/assets/cdebab9f-3553-48e7-a2c7-7cb5be498e68
 
-**视频署名 / 来源：** [Reid Hannaford](https://x.com/reidhannaford) · [@reidhannaford](https://x.com/reidhannaford) · [X 原帖](https://x.com/reidhannaford/status/2071595581508563168) · Seedance 2.0 · 2026-06-29 · 228K 播放
+**视频署名 / 来源：** [Reid Hannaford](https://x.com/reidhannaford) · [@reidhannaford](https://x.com/reidhannaford) · [X 原帖](https://x.com/reidhannaford/status/2071595581508563168) · Seedance 2.0 · 2026-06-29 · 228.6K 播放
 
 ### AI video creation is getting way more controllable
 
@@ -8209,7 +8209,7 @@ https://github.com/user-attachments/assets/cdebab9f-3553-48e7-a2c7-7cb5be498e68
 
 https://github.com/user-attachments/assets/b8842268-6562-4b20-ab20-80e70e50472d
 
-**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2048654096794538316) · Seedance 2.0 · 2026-04-27 · 167.2K 播放
+**视频署名 / 来源：** [Kōda](https://x.com/aimikoda) · [@aimikoda](https://x.com/aimikoda) · [X 原帖](https://x.com/aimikoda/status/2048654096794538316) · Seedance 2.0 · 2026-04-27 · 167.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -8461,7 +8461,7 @@ AUDIO: No dialogue. Diegetic sound only — ball impact, sneaker squeak, breathi
 
 https://github.com/user-attachments/assets/1e3a94b4-4305-4513-b250-32c48542c2ba
 
-**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 26.9K 播放
+**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2080322001722294370) · Seedance · 2026-07-23 · 27K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -8526,7 +8526,7 @@ https://github.com/user-attachments/assets/b57b8706-007f-4ee7-9f7b-df6ab06042fd
 
 <a href="https://x.com/MadMax_Series/status/2094808243063165109"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MadMax_Series_2094807721681784832.webp" width="460" alt="gm gm AI video creators"></a>
 
-**视频署名 / 来源：** [MadMax](https://x.com/MadMax_Series) · [@MadMax_Series](https://x.com/MadMax_Series) · [X 原帖](https://x.com/MadMax_Series/status/2094808243063165109) · Seedance 2.5 · 2026-09-01 · 9.7K 播放
+**视频署名 / 来源：** [MadMax](https://x.com/MadMax_Series) · [@MadMax_Series](https://x.com/MadMax_Series) · [X 原帖](https://x.com/MadMax_Series/status/2094808243063165109) · Seedance 2.5 · 2026-09-01 · 9.8K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -8568,7 +8568,7 @@ https://github.com/user-attachments/assets/b57b8706-007f-4ee7-9f7b-df6ab06042fd
 
 <a href="https://x.com/AIwithWania/status/2097927068973662397"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithWania_2097927032680390656.webp" width="460" alt="Seedance 2.5 brought Korea’s forgotten everyday moments back to life... glimpse into how…"></a>
 
-**视频署名 / 来源：** [Wania](https://x.com/AIwithWania) · [@AIwithWania](https://x.com/AIwithWania) · [X 原帖](https://x.com/AIwithWania/status/2097927068973662397) · Seedance 2.5 · 2026-09-10 · 9K 播放
+**视频署名 / 来源：** [Wania](https://x.com/AIwithWania) · [@AIwithWania](https://x.com/AIwithWania) · [X 原帖](https://x.com/AIwithWania/status/2097927068973662397) · Seedance 2.5 · 2026-09-10 · 9.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -9093,7 +9093,7 @@ Exactly one HANA in every shot. Same face, same hooded eye shape, same hair orna
 
 <a href="https://x.com/Sairah_0/status/2094636604237213941"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Sairah_0_2094636542455427073.webp" width="460" alt="GPT Image 2 and Seedance 2.5"></a>
 
-**视频署名 / 来源：** [Sairah](https://x.com/Sairah_0) · [@Sairah_0](https://x.com/Sairah_0) · [X 原帖](https://x.com/Sairah_0/status/2094636604237213941) · Seedance 2.5 · 2026-09-01 · 3.1K 播放
+**视频署名 / 来源：** [Sairah](https://x.com/Sairah_0) · [@Sairah_0](https://x.com/Sairah_0) · [X 原帖](https://x.com/Sairah_0/status/2094636604237213941) · Seedance 2.5 · 2026-09-01 · 3.2K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -9238,7 +9238,7 @@ The video ends on the held profile of the rider stopped at the cliff edge, facin
 
 https://github.com/user-attachments/assets/acd3185e-c14c-4109-961b-1064d01c98db
 
-**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2080323396865241237) · Seedance · 2026-07-23 · 1.3K 播放
+**视频署名 / 来源：** [Larus Canus](https://x.com/MrLarus) · [@MrLarus](https://x.com/MrLarus) · [X 原帖](https://x.com/MrLarus/status/2080323396865241237) · Seedance · 2026-07-23 · 1.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -9270,7 +9270,7 @@ Avoid deformation, missing limbs, face changes, disappearing objects, broken str
 
 <a href="https://x.com/opener_ai/status/2083542433078624470"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/opener_ai_2083539764578537472.webp" width="460" alt="30 seconds can feel like a long time, or kind of short, depending on the moment"></a>
 
-**视频署名 / 来源：** [Jin.B](https://x.com/opener_ai) · [@opener_ai](https://x.com/opener_ai) · [X 原帖](https://x.com/opener_ai/status/2083542433078624470) · Seedance 2.5 · 2026-08-01 · 959 播放
+**视频署名 / 来源：** [Jin.B](https://x.com/opener_ai) · [@opener_ai](https://x.com/opener_ai) · [X 原帖](https://x.com/opener_ai/status/2083542433078624470) · Seedance 2.5 · 2026-08-01 · 960 播放
 
 ### Higgsfield MCP — driving Seedance video generation from Claude
 
@@ -9282,7 +9282,7 @@ https://github.com/user-attachments/assets/72d6dc58-905c-4bcc-bc6d-bff1454ecc47
 
 <a href="https://x.com/digitalwindai/status/2083281155286085911"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/digitalwindai_2083281059773292544.webp" width="460" alt="☕ Dialogues about the eternal in Seedance 2.5"></a>
 
-**视频署名 / 来源：** [Ai Hidden Space | Serge Green](https://x.com/digitalwindai) · [@digitalwindai](https://x.com/digitalwindai) · [X 原帖](https://x.com/digitalwindai/status/2083281155286085911) · Seedance 2.5 · 2026-07-31 · 445 播放
+**视频署名 / 来源：** [Ai Hidden Space | Serge Green](https://x.com/digitalwindai) · [@digitalwindai](https://x.com/digitalwindai) · [X 原帖](https://x.com/digitalwindai/status/2083281155286085911) · Seedance 2.5 · 2026-07-31 · 449 播放
 
 > [X 帖子串](https://x.com/digitalwindai/status/2083281155286085911)提到了提示词，但尚未索引到准确回复。
 
@@ -9311,7 +9311,7 @@ https://github.com/user-attachments/assets/72d6dc58-905c-4bcc-bc6d-bff1454ecc47
 
 <a href="https://x.com/Caden_Flux/status/2089154775829074074"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Caden_Flux_2089154268754558976.webp" width="460" alt="Maybe it was never about the five minutes. It was about wanting to spend them together. ❤️"></a>
 
-**视频署名 / 来源：** [Caden Flux](https://x.com/Caden_Flux) · [@Caden_Flux](https://x.com/Caden_Flux) · [X 原帖](https://x.com/Caden_Flux/status/2089154775829074074) · Seedance 2.5 · 2026-08-17 · 34.2K 播放
+**视频署名 / 来源：** [Caden Flux](https://x.com/Caden_Flux) · [@Caden_Flux](https://x.com/Caden_Flux) · [X 原帖](https://x.com/Caden_Flux/status/2089154775829074074) · Seedance 2.5 · 2026-08-17 · 34.4K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -9701,7 +9701,7 @@ https://github.com/user-attachments/assets/bf540e4e-6ddf-4b3c-a2ca-841f96f2418b
 
 <a href="https://x.com/saniaspeaks_/status/2096079939518763481"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/saniaspeaks__2096079719011946496.webp" width="460" alt="Just two people one bike and a beautiful day together"></a>
 
-**视频署名 / 来源：** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [X 原帖](https://x.com/saniaspeaks_/status/2096079939518763481) · Seedance 2.5 · 2026-09-05 · 21.8K 播放
+**视频署名 / 来源：** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [X 原帖](https://x.com/saniaspeaks_/status/2096079939518763481) · Seedance 2.5 · 2026-09-05 · 21.9K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -9767,7 +9767,7 @@ Create a 15-second ultra-realistic cinematic action sequence featuring a female 
 
 <a href="https://x.com/higgsfield_ai/status/2083130063382597778"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/higgsfield_ai_2083128504053534721.webp" width="460" alt="Seedance 2.5 vs Seedance 2.0"></a>
 
-**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083130063382597778) · Seedance 2.5 · 2026-07-31 · 21.4K 播放
+**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083130063382597778) · Seedance 2.5 · 2026-07-31 · 21.5K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -9893,7 +9893,7 @@ Ultra-realistic cinematic sci-fi horror scene of a massive armored alien creatur
 
 <a href="https://x.com/bmx_ai13/status/2092370860082680234"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/bmx_ai13_2092370670223335424.webp" width="460" alt="This video created with Seedance 2.5 on @Flovaai @Flovaai_Japan"></a>
 
-**视频署名 / 来源：** [BMX](https://x.com/bmx_ai13) · [@bmx_ai13](https://x.com/bmx_ai13) · [X 原帖](https://x.com/bmx_ai13/status/2092370860082680234) · Seedance 2.5 · 2026-08-25 · 3.7K 播放
+**视频署名 / 来源：** [BMX](https://x.com/bmx_ai13) · [@bmx_ai13](https://x.com/bmx_ai13) · [X 原帖](https://x.com/bmx_ai13/status/2092370860082680234) · Seedance 2.5 · 2026-08-25 · 3.9K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -9981,25 +9981,25 @@ https://github.com/user-attachments/assets/da3b1914-c62f-4321-a211-7557fa2ad7c6
 
 https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9
 
-**视频署名 / 来源：** [Deedy](https://x.com/deedydas) · [@deedydas](https://x.com/deedydas) · [X 原帖](https://x.com/deedydas/status/2020911900968767976) · Seedance 2.0 · 2026-02-09 · 782.9K 播放
+**视频署名 / 来源：** [Deedy](https://x.com/deedydas) · [@deedydas](https://x.com/deedydas) · [X 原帖](https://x.com/deedydas/status/2020911900968767976) · Seedance 2.0 · 2026-02-09 · 783.2K 播放
 
 ### 🎬 Global Launch: Dreamina Seedance 2.5 is now live!
 
 https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8
 
-**视频署名 / 来源：** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [X 原帖](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 647K 播放
+**视频署名 / 来源：** [Dreamina AI](https://x.com/dreamina_ai) · [@dreamina_ai](https://x.com/dreamina_ai) · [X 原帖](https://x.com/dreamina_ai/status/2083056471147958714) · Seedance 2.5 · 2026-07-31 · 651.4K 播放
 
 ### Seedance 2.0 from China will be the SOTA
 
 https://github.com/user-attachments/assets/812114c2-d718-4d5d-aba1-6f470cf64131
 
-**视频署名 / 来源：** [Dorksense](https://x.com/Dork_sense) · [@Dork_sense](https://x.com/Dork_sense) · [X 原帖](https://x.com/Dork_sense/status/2020179955511116082) · Seedance 2.0 · 2026-02-07 · 389.8K 播放
+**视频署名 / 来源：** [Dorksense](https://x.com/Dork_sense) · [@Dork_sense](https://x.com/Dork_sense) · [X 原帖](https://x.com/Dork_sense/status/2020179955511116082) · Seedance 2.0 · 2026-02-07 · 389.9K 播放
 
 ### Seedance 2.5 for AI UGC
 
 https://github.com/user-attachments/assets/c2129e78-b558-41be-9f25-59a2ddb8b3a8
 
-**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 326.4K 播放
+**视频署名 / 来源：** [Higgsfield AI 🧩](https://x.com/higgsfield_ai) · [@higgsfield_ai](https://x.com/higgsfield_ai) · [X 原帖](https://x.com/higgsfield_ai/status/2083138301083693295) · Seedance 2.5 · 2026-07-31 · 326.7K 播放
 
 ### BYTEDANCE 🔥: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0
 
@@ -10011,13 +10011,13 @@ https://github.com/user-attachments/assets/21eca056-25dc-4b3e-b409-e306b56f61f6
 
 https://github.com/user-attachments/assets/3ecf7372-0641-4571-8389-2cff79b7c07b
 
-**视频署名 / 来源：** [shirish](https://x.com/shiri_shh) · [@shiri_shh](https://x.com/shiri_shh) · [X 原帖](https://x.com/shiri_shh/status/2083144487870611828) · Seedance 2.5 · 2026-07-31 · 109.2K 播放
+**视频署名 / 来源：** [shirish](https://x.com/shiri_shh) · [@shiri_shh](https://x.com/shiri_shh) · [X 原帖](https://x.com/shiri_shh/status/2083144487870611828) · Seedance 2.5 · 2026-07-31 · 109.3K 播放
 
 ### Pippit @pippitofficial just dropped Story Studio + Seedance 2.5 and it’s a game-changer for…
 
 <a href="https://x.com/Just_sharon7/status/2083122179693232612"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2083121628616044544.webp" width="460" alt="Pippit @pippitofficial just dropped Story Studio + Seedance 2.5 and it’s a game-changer for…"></a>
 
-**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2083122179693232612) · Seedance 2.5 · 2026-07-31 · 45.9K 播放
+**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2083122179693232612) · Seedance 2.5 · 2026-07-31 · 46K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -10035,7 +10035,7 @@ A 30-second vertical 9:16 photorealistic fantasy palace romance drama about Prin
 
 <a href="https://x.com/Just_sharon7/status/2084238339469615320"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2084238008266493952.webp" width="460" alt="Every destination becomes magical when you slow down and experience it"></a>
 
-**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2084238339469615320) · Seedance 2.5 · 2026-08-03 · 36.1K 播放
+**视频署名 / 来源：** [Sharon Riley](https://x.com/Just_sharon7) · [@Just_sharon7](https://x.com/Just_sharon7) · [X 原帖](https://x.com/Just_sharon7/status/2084238339469615320) · Seedance 2.5 · 2026-08-03 · 36.2K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -10081,7 +10081,7 @@ https://github.com/user-attachments/assets/9436dba7-2419-4523-8045-7ddba184cf15
 
 <a href="https://x.com/adilinthewild/status/2083120787737972851"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/adilinthewild_2083120647191031809.webp" width="460" alt="Seedance 2.5, a mythos level video model, is finally here. Coming soon to Higgsfield"></a>
 
-**视频署名 / 来源：** [Adil Alimzhanov](https://x.com/adilinthewild) · [@adilinthewild](https://x.com/adilinthewild) · [X 原帖](https://x.com/adilinthewild/status/2083120787737972851) · Seedance 2.5 · 2026-07-31 · 11K 播放
+**视频署名 / 来源：** [Adil Alimzhanov](https://x.com/adilinthewild) · [@adilinthewild](https://x.com/adilinthewild) · [X 原帖](https://x.com/adilinthewild/status/2083120787737972851) · Seedance 2.5 · 2026-07-31 · 11.1K 播放
 
 <details><summary><b>提示词</b></summary>
 
@@ -10146,7 +10146,7 @@ https://github.com/user-attachments/assets/f6c97fcc-525a-4d22-acb6-38d63947fbbb
 
 <a href="https://x.com/noman23761/status/2083235536530202710"><img src="https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/noman23761_2083165874983424000.webp" width="460" alt="Seedance 2.5 excels at VLOG-style videos"></a>
 
-**视频署名 / 来源：** [Noman | AI Filmmaker](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [X 原帖](https://x.com/noman23761/status/2083235536530202710) · Seedance 2.5 · 2026-07-31 · 559 播放
+**视频署名 / 来源：** [Noman | AI Filmmaker](https://x.com/noman23761) · [@noman23761](https://x.com/noman23761) · [X 原帖](https://x.com/noman23761/status/2083235536530202710) · Seedance 2.5 · 2026-07-31 · 560 播放
 
 <details><summary><b>提示词</b></summary>
 
