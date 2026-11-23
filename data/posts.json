@@ -55,9 +55,9 @@
       ]
     },
     "stats": {
-      "views": 15751187,
-      "likes": 2404,
-      "retweets": 709
+      "views": 15751719,
+      "likes": 2379,
+      "retweets": 699
     }
   },
   {
@@ -110,9 +110,9 @@
       ]
     },
     "stats": {
-      "views": 15405726,
-      "likes": 18043,
-      "retweets": 2142
+      "views": 15409600,
+      "likes": 18021,
+      "retweets": 2133
     }
   },
   {
@@ -165,9 +165,9 @@
       ]
     },
     "stats": {
-      "views": 7792435,
+      "views": 7792625,
       "likes": 1444,
-      "retweets": 97
+      "retweets": 95
     }
   },
   {
@@ -214,9 +214,9 @@
       ]
     },
     "stats": {
-      "views": 5356355,
-      "likes": 7028,
-      "retweets": 380
+      "views": 5358375,
+      "likes": 7019,
+      "retweets": 379
     }
   },
   {
@@ -263,9 +263,9 @@
       ]
     },
     "stats": {
-      "views": 3669928,
-      "likes": 4717,
-      "retweets": 414
+      "views": 3670962,
+      "likes": 4699,
+      "retweets": 413
     }
   },
   {
@@ -324,9 +324,9 @@
       ]
     },
     "stats": {
-      "views": 1284369,
-      "likes": 2267,
-      "retweets": 59
+      "views": 1284764,
+      "likes": 2251,
+      "retweets": 58
     }
   },
   {
@@ -379,8 +379,8 @@
       ]
     },
     "stats": {
-      "views": 1129992,
-      "likes": 7235,
+      "views": 1130018,
+      "likes": 7150,
       "retweets": 21
     }
   },
@@ -428,64 +428,9 @@
       ]
     },
     "stats": {
-      "views": 784244,
-      "likes": 4138,
+      "views": 784451,
+      "likes": 4132,
       "retweets": 548
-    }
-  },
-  {
-    "id": "2092008235075084363",
-    "url": "https://x.com/buraktuyan/status/2092008235075084363",
-    "title": "Here's my 30-second spec ad for WinRAR (that nobody asked for)",
-    "text": "Here's my 30-second spec ad for WinRAR (that nobody asked for).\n\nOkay, perhaps Rourke Heath did.\n\nHe shared this fun brief with his GenHQ community last week, and I took it on.\n\nIn this experimental project, I wanted to turn one of the internet's longest-running jokes into a subtle family drama about WinRAR's 40-day trial that somehow lasted almost three decades.\n\nHere's how I made it:\n\nAfter writing the script (the old school way), I worked with ChatGPT 5.6 Sol Max to turn it into a 14,000-character prompt for Seedance 2.5 (yes, Dreamina allows prompts that long).\n\nI used GPT Image 2 to create the reference image for WinRAR's trial screen, while Seed Audio 1.0 generated the audio reference for the full voiceover and dialogue. After 20+ Seedance 2.5 tests at 480p, with the prompt evolving throughout, I generated the final versions at 720p. \n\nI then lightly edited the video and upscaled it to 1080p with Topaz Labs Astra Starlight Precision 2.6. However, the screenshot text didn't survive the upscale (I should have used  Astra's scene detection feature and selected a different model for that particular shot), so I recreated it using Seedance 2.0 at 1080p. (I also tried Hailuo H3 and Kling 3.0, but in this particular case, Seedance 2.0 gave me the best overall result in one go.) \n\nFor the sound, I selected a solo-instrument soundtrack from Epidemic Sound and added extra sound effects to improve the overall sound design.\n\nAnd here's the result. \n\nI'm curious to hear what you think.\n\nDid this bring back memories, or is this genuinely your first time hearing about WinRAR? I’d love to know.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Ads, UGC & Product",
-    "date": "2026-08-24",
-    "author": {
-      "name": "Burak Tuyan",
-      "handle": "buraktuyan",
-      "url": "https://x.com/buraktuyan",
-      "avatar": "https://pbs.twimg.com/profile_images/2004701128026472448/X2R1vyOP_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1920x1080/wD5k5Yv26yOTlXxP.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092006069383950336/img/2xfU9Xwto45-XKik.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 29.96,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/480x270/VFN2wE-ll-Evpqlp.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/640x360/VJcArf1h23PEfudw.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1280x720/PEhtD9UvOfGbqdda.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1920x1080/wD5k5Yv26yOTlXxP.mp4?tag=29",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 680802,
-      "likes": 2015,
-      "retweets": 221
     }
   },
   {
@@ -538,9 +483,64 @@
       ]
     },
     "stats": {
-      "views": 675277,
-      "likes": 3426,
-      "retweets": 827
+      "views": 682711,
+      "likes": 3456,
+      "retweets": 826
+    }
+  },
+  {
+    "id": "2092008235075084363",
+    "url": "https://x.com/buraktuyan/status/2092008235075084363",
+    "title": "Here's my 30-second spec ad for WinRAR (that nobody asked for)",
+    "text": "Here's my 30-second spec ad for WinRAR (that nobody asked for).\n\nOkay, perhaps Rourke Heath did.\n\nHe shared this fun brief with his GenHQ community last week, and I took it on.\n\nIn this experimental project, I wanted to turn one of the internet's longest-running jokes into a subtle family drama about WinRAR's 40-day trial that somehow lasted almost three decades.\n\nHere's how I made it:\n\nAfter writing the script (the old school way), I worked with ChatGPT 5.6 Sol Max to turn it into a 14,000-character prompt for Seedance 2.5 (yes, Dreamina allows prompts that long).\n\nI used GPT Image 2 to create the reference image for WinRAR's trial screen, while Seed Audio 1.0 generated the audio reference for the full voiceover and dialogue. After 20+ Seedance 2.5 tests at 480p, with the prompt evolving throughout, I generated the final versions at 720p. \n\nI then lightly edited the video and upscaled it to 1080p with Topaz Labs Astra Starlight Precision 2.6. However, the screenshot text didn't survive the upscale (I should have used  Astra's scene detection feature and selected a different model for that particular shot), so I recreated it using Seedance 2.0 at 1080p. (I also tried Hailuo H3 and Kling 3.0, but in this particular case, Seedance 2.0 gave me the best overall result in one go.) \n\nFor the sound, I selected a solo-instrument soundtrack from Epidemic Sound and added extra sound effects to improve the overall sound design.\n\nAnd here's the result. \n\nI'm curious to hear what you think.\n\nDid this bring back memories, or is this genuinely your first time hearing about WinRAR? I’d love to know.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Ads, UGC & Product",
+    "date": "2026-08-24",
+    "author": {
+      "name": "Burak Tuyan",
+      "handle": "buraktuyan",
+      "url": "https://x.com/buraktuyan",
+      "avatar": "https://pbs.twimg.com/profile_images/2004701128026472448/X2R1vyOP_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1920x1080/wD5k5Yv26yOTlXxP.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092006069383950336/img/2xfU9Xwto45-XKik.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 29.96,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/480x270/VFN2wE-ll-Evpqlp.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/640x360/VJcArf1h23PEfudw.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1280x720/PEhtD9UvOfGbqdda.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1920x1080/wD5k5Yv26yOTlXxP.mp4?tag=29",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 681121,
+      "likes": 2015,
+      "retweets": 221
     }
   },
   {
@@ -599,9 +599,9 @@
       ]
     },
     "stats": {
-      "views": 601386,
-      "likes": 609,
-      "retweets": 22
+      "views": 601456,
+      "likes": 599,
+      "retweets": 21
     }
   },
   {
@@ -648,8 +648,8 @@
       ]
     },
     "stats": {
-      "views": 527420,
-      "likes": 2365,
+      "views": 527434,
+      "likes": 2364,
       "retweets": 184
     }
   },
@@ -703,8 +703,8 @@
       ]
     },
     "stats": {
-      "views": 516674,
-      "likes": 518,
+      "views": 516688,
+      "likes": 517,
       "retweets": 59
     }
   },
@@ -752,8 +752,8 @@
       ]
     },
     "stats": {
-      "views": 509506,
-      "likes": 2520,
+      "views": 509554,
+      "likes": 2516,
       "retweets": 167
     }
   },
@@ -801,9 +801,9 @@
       ]
     },
     "stats": {
-      "views": 413919,
-      "likes": 3208,
-      "retweets": 197
+      "views": 414115,
+      "likes": 3197,
+      "retweets": 195
     }
   },
   {
@@ -850,8 +850,8 @@
       ]
     },
     "stats": {
-      "views": 391439,
-      "likes": 1234,
+      "views": 391460,
+      "likes": 1231,
       "retweets": 124
     },
     "prompt_source_urls": [
@@ -908,8 +908,8 @@
       ]
     },
     "stats": {
-      "views": 390161,
-      "likes": 2696,
+      "views": 390211,
+      "likes": 2695,
       "retweets": 282
     }
   },
@@ -957,9 +957,9 @@
       ]
     },
     "stats": {
-      "views": 378557,
-      "likes": 931,
-      "retweets": 115
+      "views": 379980,
+      "likes": 941,
+      "retweets": 114
     }
   },
   {
@@ -1000,7 +1000,7 @@
       ]
     },
     "stats": {
-      "views": 353607,
+      "views": 354075,
       "likes": 44,
       "retweets": 4
     }
@@ -1055,8 +1055,8 @@
       ]
     },
     "stats": {
-      "views": 338153,
-      "likes": 432,
+      "views": 338169,
+      "likes": 424,
       "retweets": 14
     }
   },
@@ -1110,8 +1110,8 @@
       ]
     },
     "stats": {
-      "views": 327508,
-      "likes": 578,
+      "views": 327680,
+      "likes": 574,
       "retweets": 56
     }
   },
@@ -1165,9 +1165,9 @@
       ]
     },
     "stats": {
-      "views": 324102,
-      "likes": 7167,
-      "retweets": 829
+      "views": 324312,
+      "likes": 7163,
+      "retweets": 825
     }
   },
   {
@@ -1214,9 +1214,9 @@
       ]
     },
     "stats": {
-      "views": 283822,
+      "views": 287244,
       "likes": 880,
-      "retweets": 38
+      "retweets": 39
     }
   },
   {
@@ -1263,9 +1263,9 @@
       ]
     },
     "stats": {
-      "views": 278942,
+      "views": 280299,
       "likes": 453,
-      "retweets": 49
+      "retweets": 47
     }
   },
   {
@@ -1312,8 +1312,8 @@
       ]
     },
     "stats": {
-      "views": 267668,
-      "likes": 1406,
+      "views": 267872,
+      "likes": 1405,
       "retweets": 130
     }
   },
@@ -1361,8 +1361,8 @@
       ]
     },
     "stats": {
-      "views": 233136,
-      "likes": 1027,
+      "views": 233228,
+      "likes": 1022,
       "retweets": 68
     }
   },
@@ -1422,7 +1422,7 @@
       ]
     },
     "stats": {
-      "views": 231664,
+      "views": 231687,
       "likes": 713,
       "retweets": 410
     }
@@ -1477,8 +1477,8 @@
       ]
     },
     "stats": {
-      "views": 230365,
-      "likes": 1622,
+      "views": 230735,
+      "likes": 1623,
       "retweets": 201
     }
   },
@@ -1538,8 +1538,8 @@
       ]
     },
     "stats": {
-      "views": 208767,
-      "likes": 1867,
+      "views": 208784,
+      "likes": 1864,
       "retweets": 109
     }
   },
@@ -1599,9 +1599,9 @@
       ]
     },
     "stats": {
-      "views": 198845,
-      "likes": 3328,
-      "retweets": 316
+      "views": 199025,
+      "likes": 3324,
+      "retweets": 315
     }
   },
   {
@@ -1648,8 +1648,8 @@
       ]
     },
     "stats": {
-      "views": 180710,
-      "likes": 310,
+      "views": 180908,
+      "likes": 311,
       "retweets": 10
     }
   },
@@ -1703,8 +1703,8 @@
       ]
     },
     "stats": {
-      "views": 174906,
-      "likes": 820,
+      "views": 175145,
+      "likes": 818,
       "retweets": 116
     }
   },
@@ -1752,7 +1752,7 @@
       ]
     },
     "stats": {
-      "views": 173450,
+      "views": 173451,
       "likes": 84,
       "retweets": 21
     }
@@ -1801,9 +1801,9 @@
       ]
     },
     "stats": {
-      "views": 168584,
-      "likes": 2163,
-      "retweets": 277
+      "views": 168848,
+      "likes": 2162,
+      "retweets": 278
     },
     "prompt_source_urls": [
       "https://x.com/aimikoda/status/2048654612257816798",
@@ -1860,9 +1860,9 @@
       ]
     },
     "stats": {
-      "views": 165495,
-      "likes": 3568,
-      "retweets": 359
+      "views": 165616,
+      "likes": 3567,
+      "retweets": 357
     }
   },
   {
@@ -1915,9 +1915,9 @@
       ]
     },
     "stats": {
-      "views": 157229,
-      "likes": 583,
-      "retweets": 110
+      "views": 157315,
+      "likes": 582,
+      "retweets": 109
     }
   },
   {
@@ -1964,8 +1964,8 @@
       ]
     },
     "stats": {
-      "views": 153754,
-      "likes": 166,
+      "views": 153757,
+      "likes": 163,
       "retweets": 14
     }
   },
@@ -2013,8 +2013,8 @@
       ]
     },
     "stats": {
-      "views": 151861,
-      "likes": 295,
+      "views": 152135,
+      "likes": 294,
       "retweets": 41
     }
   },
@@ -2062,7 +2062,7 @@
       ]
     },
     "stats": {
-      "views": 142721,
+      "views": 142734,
       "likes": 1301,
       "retweets": 114
     }
@@ -2117,8 +2117,8 @@
       ]
     },
     "stats": {
-      "views": 140587,
-      "likes": 379,
+      "views": 140652,
+      "likes": 377,
       "retweets": 30
     }
   },
@@ -2166,9 +2166,9 @@
       ]
     },
     "stats": {
-      "views": 124505,
-      "likes": 664,
-      "retweets": 43
+      "views": 124593,
+      "likes": 660,
+      "retweets": 42
     }
   },
   {
@@ -2215,7 +2215,7 @@
       ]
     },
     "stats": {
-      "views": 122328,
+      "views": 122329,
       "likes": 75,
       "retweets": 6
     }
@@ -2264,9 +2264,9 @@
       ]
     },
     "stats": {
-      "views": 122123,
-      "likes": 75,
-      "retweets": 49
+      "views": 122139,
+      "likes": 73,
+      "retweets": 48
     }
   },
   {
@@ -2319,9 +2319,9 @@
       ]
     },
     "stats": {
-      "views": 118553,
-      "likes": 430,
-      "retweets": 21
+      "views": 118590,
+      "likes": 429,
+      "retweets": 20
     }
   },
   {
@@ -2374,8 +2374,8 @@
       ]
     },
     "stats": {
-      "views": 117933,
-      "likes": 417,
+      "views": 117970,
+      "likes": 415,
       "retweets": 28
     }
   },
@@ -2429,8 +2429,8 @@
       ]
     },
     "stats": {
-      "views": 114965,
-      "likes": 115,
+      "views": 114995,
+      "likes": 114,
       "retweets": 5
     }
   },
@@ -2490,8 +2490,8 @@
       ]
     },
     "stats": {
-      "views": 112339,
-      "likes": 20,
+      "views": 112340,
+      "likes": 19,
       "retweets": 0
     }
   },
@@ -2539,8 +2539,8 @@
       ]
     },
     "stats": {
-      "views": 109447,
-      "likes": 840,
+      "views": 109497,
+      "likes": 839,
       "retweets": 63
     }
   },
@@ -2588,8 +2588,8 @@
       ]
     },
     "stats": {
-      "views": 109105,
-      "likes": 115,
+      "views": 109108,
+      "likes": 114,
       "retweets": 5
     }
   },
@@ -2638,7 +2638,7 @@
     },
     "stats": {
       "views": 102194,
-      "likes": 98,
+      "likes": 97,
       "retweets": 7
     }
   },
@@ -2686,9 +2686,9 @@
       ]
     },
     "stats": {
-      "views": 94502,
+      "views": 94942,
       "likes": 117,
-      "retweets": 6
+      "retweets": 5
     }
   },
   {
@@ -2741,8 +2741,8 @@
       ]
     },
     "stats": {
-      "views": 92797,
-      "likes": 222,
+      "views": 92970,
+      "likes": 223,
       "retweets": 19
     }
   },
@@ -2796,8 +2796,8 @@
       ]
     },
     "stats": {
-      "views": 91508,
-      "likes": 661,
+      "views": 91518,
+      "likes": 662,
       "retweets": 74
     }
   },
@@ -2851,9 +2851,9 @@
       ]
     },
     "stats": {
-      "views": 88895,
-      "likes": 879,
-      "retweets": 72
+      "views": 89094,
+      "likes": 880,
+      "retweets": 70
     }
   },
   {
@@ -2906,58 +2906,9 @@
       ]
     },
     "stats": {
-      "views": 88019,
-      "likes": 1350,
-      "retweets": 184
-    }
-  },
-  {
-    "id": "2083173807896817876",
-    "url": "https://x.com/yachimat_manga/status/2083173807896817876",
-    "title": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！",
-    "text": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！\nつまりここを追いかけておけばとりあえず問題ない\n #DreaminaSeedance25 #DreaminaAI\n\nというわけで噂の５０リファレンスの実力というものをテストするためにボリウッドダンス踊ってもらっています\n（もともとは みんみんさんのプロンプトから拝借してますが、公開されていたやつなのでここでも共有します）\n\nさて、５０といえども安定して出力できるのは何個なのか？聞いてみたところ・・・",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Showcase",
-    "date": "2026-07-31",
-    "author": {
-      "name": "yachimat - AI Short Anime",
-      "handle": "yachimat_manga",
-      "url": "https://x.com/yachimat_manga",
-      "avatar": "https://pbs.twimg.com/profile_images/1800905718997864448/qdHxO3Qu_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/1280x720/j3lg1Pvq_iMfrHyu.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083172151062847488/img/sT6saDb0iXnkFDY6.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 33.13,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/480x270/MEI2aE3F1oeFxNJ5.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/640x360/LnoqTKIV7r_FqBhh.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/1280x720/j3lg1Pvq_iMfrHyu.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 83295,
-      "likes": 292,
-      "retweets": 49
+      "views": 88156,
+      "likes": 1346,
+      "retweets": 183
     }
   },
   {
@@ -3010,9 +2961,58 @@
       ]
     },
     "stats": {
-      "views": 83239,
+      "views": 83447,
       "likes": 178,
       "retweets": 12
+    }
+  },
+  {
+    "id": "2083173807896817876",
+    "url": "https://x.com/yachimat_manga/status/2083173807896817876",
+    "title": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！",
+    "text": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！\nつまりここを追いかけておけばとりあえず問題ない\n #DreaminaSeedance25 #DreaminaAI\n\nというわけで噂の５０リファレンスの実力というものをテストするためにボリウッドダンス踊ってもらっています\n（もともとは みんみんさんのプロンプトから拝借してますが、公開されていたやつなのでここでも共有します）\n\nさて、５０といえども安定して出力できるのは何個なのか？聞いてみたところ・・・",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Showcase",
+    "date": "2026-07-31",
+    "author": {
+      "name": "yachimat - AI Short Anime",
+      "handle": "yachimat_manga",
+      "url": "https://x.com/yachimat_manga",
+      "avatar": "https://pbs.twimg.com/profile_images/1800905718997864448/qdHxO3Qu_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/1280x720/j3lg1Pvq_iMfrHyu.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083172151062847488/img/sT6saDb0iXnkFDY6.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 33.13,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/480x270/MEI2aE3F1oeFxNJ5.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/640x360/LnoqTKIV7r_FqBhh.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/1280x720/j3lg1Pvq_iMfrHyu.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 83384,
+      "likes": 292,
+      "retweets": 49
     }
   },
   {
@@ -3059,7 +3059,7 @@
       ]
     },
     "stats": {
-      "views": 80745,
+      "views": 80784,
       "likes": 985,
       "retweets": 64
     }
@@ -3114,9 +3114,9 @@
       ]
     },
     "stats": {
-      "views": 79862,
-      "likes": 2739,
-      "retweets": 128
+      "views": 80270,
+      "likes": 2718,
+      "retweets": 126
     }
   },
   {
@@ -3163,9 +3163,9 @@
       ]
     },
     "stats": {
-      "views": 77722,
+      "views": 77724,
       "likes": 591,
-      "retweets": 31
+      "retweets": 30
     }
   },
   {
@@ -3218,7 +3218,7 @@
       ]
     },
     "stats": {
-      "views": 75307,
+      "views": 75425,
       "likes": 279,
       "retweets": 18
     }
@@ -3267,7 +3267,7 @@
       ]
     },
     "stats": {
-      "views": 74445,
+      "views": 74648,
       "likes": 145,
       "retweets": 18
     }
@@ -3316,8 +3316,8 @@
       ]
     },
     "stats": {
-      "views": 70895,
-      "likes": 662,
+      "views": 70916,
+      "likes": 659,
       "retweets": 85
     }
   },
@@ -3365,8 +3365,8 @@
       ]
     },
     "stats": {
-      "views": 68644,
-      "likes": 331,
+      "views": 68742,
+      "likes": 332,
       "retweets": 24
     }
   },
@@ -3420,8 +3420,8 @@
       ]
     },
     "stats": {
-      "views": 66583,
-      "likes": 104,
+      "views": 66595,
+      "likes": 103,
       "retweets": 4
     }
   },
@@ -3475,7 +3475,7 @@
       ]
     },
     "stats": {
-      "views": 65357,
+      "views": 65380,
       "likes": 120,
       "retweets": 4
     }
@@ -3536,55 +3536,6 @@
     }
   },
   {
-    "id": "2089001978781368374",
-    "url": "https://x.com/EXM7777/status/2089001978781368374",
-    "title": "i just open sourced the workflow behind $2M AI video productions",
-    "text": "i just open sourced the workflow behind $2M AI video productions...\n\ni built 7 skills that run the pipeline end to end, built for Seedance 2.5 and they work in Claude Code, Codex, Hermes or any harness (works best with 1080p using Higgsfield CLI)\n\nhere's how to use them, in order:\n\n/setup writes which image and video models you run into your project, once, so every skill reads the same stack\n\n/studio-init scaffolds the whole studio as a file tree from one question, the project name\n\n/film-breakdown walks your script scene by scene and writes a 22-field card for every shot\n\n/reference-board locks your references into a visual bible, a caption on every image and a ban list for the rest\n\n/asset-passport writes the exhaustive descriptor every later prompt will quote word for word\n\n/stress-test combat-tests each asset and flips it to locked only at 10 out of 10 repeatability\n\n/shot-prompt refuses to run until everything in frame is locked, then writes the 15-block prompt and logs every attempt\n\nget access to the skills and full breakdown of the pipeline in the article below:",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Action & VFX",
-    "date": "2026-08-16",
-    "author": {
-      "name": "Machina",
-      "handle": "EXM7777",
-      "url": "https://x.com/EXM7777",
-      "avatar": "https://pbs.twimg.com/profile_images/1922574051580563456/-OFXIxnm_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/1184x720/Ax-ASzfyfw49y7bI.mp4?tag=14",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089001937106821120/img/DOHRPHXhBwNbamNs.jpg",
-      "width": 3552,
-      "height": 2160,
-      "duration": 12.38,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/444x270/72WujyLJQZan__ep.mp4?tag=14",
-          "bitrate": 288000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/592x360/mS1nuOiaIXVqQBhL.mp4?tag=14",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/1184x720/Ax-ASzfyfw49y7bI.mp4?tag=14",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 62512,
-      "likes": 510,
-      "retweets": 43
-    }
-  },
-  {
     "id": "2095083714120229230",
     "url": "https://x.com/The_Kremlinn/status/2095083714120229230",
     "title": "Tried Seedance 2.5 on @videoduck_ai for this short action film",
@@ -3628,9 +3579,58 @@
       ]
     },
     "stats": {
-      "views": 62442,
-      "likes": 78,
-      "retweets": 3
+      "views": 62682,
+      "likes": 80,
+      "retweets": 4
+    }
+  },
+  {
+    "id": "2089001978781368374",
+    "url": "https://x.com/EXM7777/status/2089001978781368374",
+    "title": "i just open sourced the workflow behind $2M AI video productions",
+    "text": "i just open sourced the workflow behind $2M AI video productions...\n\ni built 7 skills that run the pipeline end to end, built for Seedance 2.5 and they work in Claude Code, Codex, Hermes or any harness (works best with 1080p using Higgsfield CLI)\n\nhere's how to use them, in order:\n\n/setup writes which image and video models you run into your project, once, so every skill reads the same stack\n\n/studio-init scaffolds the whole studio as a file tree from one question, the project name\n\n/film-breakdown walks your script scene by scene and writes a 22-field card for every shot\n\n/reference-board locks your references into a visual bible, a caption on every image and a ban list for the rest\n\n/asset-passport writes the exhaustive descriptor every later prompt will quote word for word\n\n/stress-test combat-tests each asset and flips it to locked only at 10 out of 10 repeatability\n\n/shot-prompt refuses to run until everything in frame is locked, then writes the 15-block prompt and logs every attempt\n\nget access to the skills and full breakdown of the pipeline in the article below:",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Action & VFX",
+    "date": "2026-08-16",
+    "author": {
+      "name": "Machina",
+      "handle": "EXM7777",
+      "url": "https://x.com/EXM7777",
+      "avatar": "https://pbs.twimg.com/profile_images/1922574051580563456/-OFXIxnm_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/1184x720/Ax-ASzfyfw49y7bI.mp4?tag=14",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089001937106821120/img/DOHRPHXhBwNbamNs.jpg",
+      "width": 3552,
+      "height": 2160,
+      "duration": 12.38,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/444x270/72WujyLJQZan__ep.mp4?tag=14",
+          "bitrate": 288000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/592x360/mS1nuOiaIXVqQBhL.mp4?tag=14",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/1184x720/Ax-ASzfyfw49y7bI.mp4?tag=14",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 62539,
+      "likes": 510,
+      "retweets": 43
     }
   },
   {
@@ -3683,9 +3683,9 @@
       ]
     },
     "stats": {
-      "views": 61481,
-      "likes": 559,
-      "retweets": 67
+      "views": 61525,
+      "likes": 558,
+      "retweets": 65
     }
   },
   {
@@ -3738,8 +3738,8 @@
       ]
     },
     "stats": {
-      "views": 57234,
-      "likes": 155,
+      "views": 57306,
+      "likes": 153,
       "retweets": 9
     }
   },
@@ -3787,8 +3787,8 @@
       ]
     },
     "stats": {
-      "views": 56751,
-      "likes": 121,
+      "views": 56765,
+      "likes": 120,
       "retweets": 9
     }
   },
@@ -3842,7 +3842,7 @@
       ]
     },
     "stats": {
-      "views": 56413,
+      "views": 56417,
       "likes": 243,
       "retweets": 6
     }
@@ -3897,8 +3897,8 @@
       ]
     },
     "stats": {
-      "views": 56208,
-      "likes": 215,
+      "views": 56217,
+      "likes": 212,
       "retweets": 24
     }
   },
@@ -3952,9 +3952,9 @@
       ]
     },
     "stats": {
-      "views": 55525,
-      "likes": 769,
-      "retweets": 108
+      "views": 55578,
+      "likes": 768,
+      "retweets": 107
     }
   },
   {
@@ -4002,7 +4002,7 @@
     },
     "stats": {
       "views": 55508,
-      "likes": 390,
+      "likes": 387,
       "retweets": 121
     }
   },
@@ -4050,8 +4050,8 @@
       ]
     },
     "stats": {
-      "views": 55163,
-      "likes": 795,
+      "views": 55195,
+      "likes": 794,
       "retweets": 58
     }
   },
@@ -4099,8 +4099,8 @@
       ]
     },
     "stats": {
-      "views": 55115,
-      "likes": 466,
+      "views": 55146,
+      "likes": 464,
       "retweets": 44
     }
   },
@@ -4154,9 +4154,9 @@
       ]
     },
     "stats": {
-      "views": 54325,
-      "likes": 43,
-      "retweets": 32
+      "views": 54328,
+      "likes": 42,
+      "retweets": 31
     }
   },
   {
@@ -4209,9 +4209,9 @@
       ]
     },
     "stats": {
-      "views": 54270,
-      "likes": 114,
-      "retweets": 16
+      "views": 54274,
+      "likes": 112,
+      "retweets": 15
     }
   },
   {
@@ -4264,8 +4264,63 @@
       ]
     },
     "stats": {
-      "views": 54172,
+      "views": 54256,
       "likes": 189,
+      "retweets": 15
+    }
+  },
+  {
+    "id": "2093568957727064554",
+    "url": "https://x.com/oggii_0/status/2093568957727064554",
+    "title": "Meme Vlog using Seedance 2.5",
+    "text": "Meme Vlog using Seedance 2.5 \n\nPrompt: Vertical 9:16 smartphone vlog, shot on iPhone 17 Pro. ONE SINGLE UNINTERRUPTED HANDHELD TAKE, ~30 seconds, no cuts, no editing — every transition happens only through the vlogger panning, tilting, zooming or walking. Brisk, snappy pacing: quick whip pans, each beat lands in a few seconds, the camera never lingers. Sunny daytime New York City street <<<image_2>>> — brick facades, fire escapes, a sidewalk café, parked cars. The filming style is the core of the video: natural hand micro-shake and walking bounce, slightly floaty digital stabilization, deep focus with everything sharp — no cinematic bokeh, no film look, no color grading. Natural HDR daylight, sky highlights slightly clipped, auto exposure and white balance visibly re-adjusting on every pan between shade and sun, quick autofocus hunting on fast pans, digital zoom bringing a slight quality drop and extra shake. Audio: raw street ambience only — traffic, distant horns, footsteps, chatter, wind brushing the mic, plus the live sounds written into the scenes. No music track, no captions, no watermark. The vlogger's phone IS the camera — it never appears on screen, and she never holds a second phone or any other device. Spontaneous amateur vlog energy.\n\n0:00–0:05 — Front camera, selfie mode: the vlogger <<<image_1>>> films herself at arm's length while walking down the sidewalk, her face a touch overexposed by daylight. She starts excitedly: \"Guys! I just—\" — behind her shoulder, a couple <<<image_3>>>walking the opposite way passes right beside her; a beat later the guy stops and turns back, head over his shoulder, staring straight at her — the exact reference pose — while his girlfriend , gripping his hand, glares at him in outraged disbelief, mouth open. They hold the exact reference tableau; his stare reads odd and unreadable, not flirty. She catches them in her own selfie frame, cuts off mid-word and reacts instantly, without breaking stride: \"...What was that?\" — and keeps walking.\n\n0:05–0:09 — Same take, no cut: she flips the phone to the rear camera and whips it to the RIGHT — a sidewalk café. By the entrance, a guy <<<image_4>>> stands at a microphone on a stand, a small speaker beside it looping a soft instrumental backing. He leans in, takes a breath to sing the first line — and bursts out laughing instead, turning away and covering his mouth, then waves it off and resets toward the mic. The vlogger laughs quietly behind the camera.\n\n0:09–0:13 — Without cutting, the camera slides and zooms further RIGHT along the same café terrace: at one table a woman <<<image_5>>> is mid-meltdown — crying, shouting, jabbing an accusing finger across the terrace — while her friend <<<image_5>>> leans in, holding her back. Quick punch-in digital zoom to the opposite table: the cat <<<image_5>>> sits upright behind a plate of salad, perfectly calm and unimpressed. Autofocus hunts for a split second on the zoom.\n\n0:13–0:17 — Without cutting, the camera TILTS UP the facade directly above the café awning: a second-floor open window of the same brick building, a fire escape beside it. Quick digital zoom in — the image gets slightly softer and shakier — the dog <<<image_6>>> sits in the window with its eyes closed, chin lifted, blissfully soaking up the warm golden sunlight hitting the facade. She melts behind the camera: \"Awww, look at him...\"\n\n0:17–0:21 — The camera drops back down and swings FORWARD — a few steps ahead of her on the same sidewalk stands a couple in office attire, mid-argument. The guy <<<image_7>>> leans in toward the woman, talking heatedly, both hands raised mid-gesture; the woman <<<image_7>>> doesn't even glance at him — she smiles down at the phone in her hand, her other arm extended toward his face, flat palm raised in a firm \"stop, talk to the hand\" gesture, exactly matching the reference poses. The vlogger steps around them, the camera holding on the pair as she half-laughs: \"What is going on?\"\n\n0:21–0:25 — Same take: she whips the camera to the LEFT, across the two-lane road — a sedan parked at the opposite curb. Shaky digital zoom onto the driver's window: a man <<<image_8>>> sits behind the wheel, one hand draped over the top of the steering wheel, staring straight into the lens with a heavy, unblinking suspicious look, his eyes slowly tracking her as she passes. She says flatly: \"...What is his problem?\"\n\n0:25–0:30 — The camera swings back forward: ahead at the corner of the block, a guy <<<image_9>>> stands in profile by a red brick wall, heatedly arguing with the wall itself — both hands gesturing, leaning in, making his case to the bricks like a real debate. Quick shaky digital zoom toward him as she approaches, his agitated voice rising under the street noise. She flips to the front camera — her speechless, wide-eyed face fills the frame — then flips back to the rear camera: he's still going at it. The take ends mid-argument, no cut.",
+    "prompt": "Vertical 9:16 smartphone vlog, shot on iPhone 17 Pro. ONE SINGLE UNINTERRUPTED HANDHELD TAKE, ~30 seconds, no cuts, no editing — every transition happens only through the vlogger panning, tilting, zooming or walking. Brisk, snappy pacing: quick whip pans, each beat lands in a few seconds, the camera never lingers. Sunny daytime New York City street <<<image_2>>> — brick facades, fire escapes, a sidewalk café, parked cars. The filming style is the core of the video: natural hand micro-shake and walking bounce, slightly floaty digital stabilization, deep focus with everything sharp — no cinematic bokeh, no film look, no color grading. Natural HDR daylight, sky highlights slightly clipped, auto exposure and white balance visibly re-adjusting on every pan between shade and sun, quick autofocus hunting on fast pans, digital zoom bringing a slight quality drop and extra shake. Audio: raw street ambience only — traffic, distant horns, footsteps, chatter, wind brushing the mic, plus the live sounds written into the scenes. No music track, no captions, no watermark. The vlogger's phone IS the camera — it never appears on screen, and she never holds a second phone or any other device. Spontaneous amateur vlog energy.\n\n0:00–0:05 — Front camera, selfie mode: the vlogger <<<image_1>>> films herself at arm's length while walking down the sidewalk, her face a touch overexposed by daylight. She starts excitedly: \"Guys! I just—\" — behind her shoulder, a couple <<<image_3>>>walking the opposite way passes right beside her; a beat later the guy stops and turns back, head over his shoulder, staring straight at her — the exact reference pose — while his girlfriend , gripping his hand, glares at him in outraged disbelief, mouth open. They hold the exact reference tableau; his stare reads odd and unreadable, not flirty. She catches them in her own selfie frame, cuts off mid-word and reacts instantly, without breaking stride: \"...What was that?\" — and keeps walking.\n\n0:05–0:09 — Same take, no cut: she flips the phone to the rear camera and whips it to the RIGHT — a sidewalk café. By the entrance, a guy <<<image_4>>> stands at a microphone on a stand, a small speaker beside it looping a soft instrumental backing. He leans in, takes a breath to sing the first line — and bursts out laughing instead, turning away and covering his mouth, then waves it off and resets toward the mic. The vlogger laughs quietly behind the camera.\n\n0:09–0:13 — Without cutting, the camera slides and zooms further RIGHT along the same café terrace: at one table a woman <<<image_5>>> is mid-meltdown — crying, shouting, jabbing an accusing finger across the terrace — while her friend <<<image_5>>> leans in, holding her back. Quick punch-in digital zoom to the opposite table: the cat <<<image_5>>> sits upright behind a plate of salad, perfectly calm and unimpressed. Autofocus hunts for a split second on the zoom.\n\n0:13–0:17 — Without cutting, the camera TILTS UP the facade directly above the café awning: a second-floor open window of the same brick building, a fire escape beside it. Quick digital zoom in — the image gets slightly softer and shakier — the dog <<<image_6>>> sits in the window with its eyes closed, chin lifted, blissfully soaking up the warm golden sunlight hitting the facade. She melts behind the camera: \"Awww, look at him...\"\n\n0:17–0:21 — The camera drops back down and swings FORWARD — a few steps ahead of her on the same sidewalk stands a couple in office attire, mid-argument. The guy <<<image_7>>> leans in toward the woman, talking heatedly, both hands raised mid-gesture; the woman <<<image_7>>> doesn't even glance at him — she smiles down at the phone in her hand, her other arm extended toward his face, flat palm raised in a firm \"stop, talk to the hand\" gesture, exactly matching the reference poses. The vlogger steps around them, the camera holding on the pair as she half-laughs: \"What is going on?\"\n\n0:21–0:25 — Same take: she whips the camera to the LEFT, across the two-lane road — a sedan parked at the opposite curb. Shaky digital zoom onto the driver's window: a man <<<image_8>>> sits behind the wheel, one hand draped over the top of the steering wheel, staring straight into the lens with a heavy, unblinking suspicious look, his eyes slowly tracking her as she passes. She says flatly: \"...What is his problem?\"\n\n0:25–0:30 — The camera swings back forward: ahead at the corner of the block, a guy <<<image_9>>> stands in profile by a red brick wall, heatedly arguing with the wall itself — both hands gesturing, leaning in, making his case to the bricks like a real debate. Quick shaky digital zoom toward him as she approaches, his agitated voice rising under the street noise. She flips to the front camera — her speechless, wide-eyed face fills the frame — then flips back to the rear camera: he's still going at it. The take ends mid-argument, no cut.",
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Action & VFX",
+    "date": "2026-08-29",
+    "author": {
+      "name": "Oogie",
+      "handle": "oggii_0",
+      "url": "https://x.com/oggii_0",
+      "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/1920x1080/QwypO-NXRR4r-2Go.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093568824511709184/img/5hsF-sfPLQ0YXzM_.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.08,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/480x270/2AvEAKeT_2T8YJJb.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/640x360/4UNov1Trk08DMpHg.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/1280x720/iem6Y2VD5sYhhocc.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/1920x1080/QwypO-NXRR4r-2Go.mp4?tag=29",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 53029,
+      "likes": 285,
       "retweets": 15
     }
   },
@@ -4320,63 +4375,8 @@
     },
     "stats": {
       "views": 52268,
-      "likes": 94,
-      "retweets": 5
-    }
-  },
-  {
-    "id": "2093568957727064554",
-    "url": "https://x.com/oggii_0/status/2093568957727064554",
-    "title": "Meme Vlog using Seedance 2.5",
-    "text": "Meme Vlog using Seedance 2.5 \n\nPrompt: Vertical 9:16 smartphone vlog, shot on iPhone 17 Pro. ONE SINGLE UNINTERRUPTED HANDHELD TAKE, ~30 seconds, no cuts, no editing — every transition happens only through the vlogger panning, tilting, zooming or walking. Brisk, snappy pacing: quick whip pans, each beat lands in a few seconds, the camera never lingers. Sunny daytime New York City street <<<image_2>>> — brick facades, fire escapes, a sidewalk café, parked cars. The filming style is the core of the video: natural hand micro-shake and walking bounce, slightly floaty digital stabilization, deep focus with everything sharp — no cinematic bokeh, no film look, no color grading. Natural HDR daylight, sky highlights slightly clipped, auto exposure and white balance visibly re-adjusting on every pan between shade and sun, quick autofocus hunting on fast pans, digital zoom bringing a slight quality drop and extra shake. Audio: raw street ambience only — traffic, distant horns, footsteps, chatter, wind brushing the mic, plus the live sounds written into the scenes. No music track, no captions, no watermark. The vlogger's phone IS the camera — it never appears on screen, and she never holds a second phone or any other device. Spontaneous amateur vlog energy.\n\n0:00–0:05 — Front camera, selfie mode: the vlogger <<<image_1>>> films herself at arm's length while walking down the sidewalk, her face a touch overexposed by daylight. She starts excitedly: \"Guys! I just—\" — behind her shoulder, a couple <<<image_3>>>walking the opposite way passes right beside her; a beat later the guy stops and turns back, head over his shoulder, staring straight at her — the exact reference pose — while his girlfriend , gripping his hand, glares at him in outraged disbelief, mouth open. They hold the exact reference tableau; his stare reads odd and unreadable, not flirty. She catches them in her own selfie frame, cuts off mid-word and reacts instantly, without breaking stride: \"...What was that?\" — and keeps walking.\n\n0:05–0:09 — Same take, no cut: she flips the phone to the rear camera and whips it to the RIGHT — a sidewalk café. By the entrance, a guy <<<image_4>>> stands at a microphone on a stand, a small speaker beside it looping a soft instrumental backing. He leans in, takes a breath to sing the first line — and bursts out laughing instead, turning away and covering his mouth, then waves it off and resets toward the mic. The vlogger laughs quietly behind the camera.\n\n0:09–0:13 — Without cutting, the camera slides and zooms further RIGHT along the same café terrace: at one table a woman <<<image_5>>> is mid-meltdown — crying, shouting, jabbing an accusing finger across the terrace — while her friend <<<image_5>>> leans in, holding her back. Quick punch-in digital zoom to the opposite table: the cat <<<image_5>>> sits upright behind a plate of salad, perfectly calm and unimpressed. Autofocus hunts for a split second on the zoom.\n\n0:13–0:17 — Without cutting, the camera TILTS UP the facade directly above the café awning: a second-floor open window of the same brick building, a fire escape beside it. Quick digital zoom in — the image gets slightly softer and shakier — the dog <<<image_6>>> sits in the window with its eyes closed, chin lifted, blissfully soaking up the warm golden sunlight hitting the facade. She melts behind the camera: \"Awww, look at him...\"\n\n0:17–0:21 — The camera drops back down and swings FORWARD — a few steps ahead of her on the same sidewalk stands a couple in office attire, mid-argument. The guy <<<image_7>>> leans in toward the woman, talking heatedly, both hands raised mid-gesture; the woman <<<image_7>>> doesn't even glance at him — she smiles down at the phone in her hand, her other arm extended toward his face, flat palm raised in a firm \"stop, talk to the hand\" gesture, exactly matching the reference poses. The vlogger steps around them, the camera holding on the pair as she half-laughs: \"What is going on?\"\n\n0:21–0:25 — Same take: she whips the camera to the LEFT, across the two-lane road — a sedan parked at the opposite curb. Shaky digital zoom onto the driver's window: a man <<<image_8>>> sits behind the wheel, one hand draped over the top of the steering wheel, staring straight into the lens with a heavy, unblinking suspicious look, his eyes slowly tracking her as she passes. She says flatly: \"...What is his problem?\"\n\n0:25–0:30 — The camera swings back forward: ahead at the corner of the block, a guy <<<image_9>>> stands in profile by a red brick wall, heatedly arguing with the wall itself — both hands gesturing, leaning in, making his case to the bricks like a real debate. Quick shaky digital zoom toward him as she approaches, his agitated voice rising under the street noise. She flips to the front camera — her speechless, wide-eyed face fills the frame — then flips back to the rear camera: he's still going at it. The take ends mid-argument, no cut.",
-    "prompt": "Vertical 9:16 smartphone vlog, shot on iPhone 17 Pro. ONE SINGLE UNINTERRUPTED HANDHELD TAKE, ~30 seconds, no cuts, no editing — every transition happens only through the vlogger panning, tilting, zooming or walking. Brisk, snappy pacing: quick whip pans, each beat lands in a few seconds, the camera never lingers. Sunny daytime New York City street <<<image_2>>> — brick facades, fire escapes, a sidewalk café, parked cars. The filming style is the core of the video: natural hand micro-shake and walking bounce, slightly floaty digital stabilization, deep focus with everything sharp — no cinematic bokeh, no film look, no color grading. Natural HDR daylight, sky highlights slightly clipped, auto exposure and white balance visibly re-adjusting on every pan between shade and sun, quick autofocus hunting on fast pans, digital zoom bringing a slight quality drop and extra shake. Audio: raw street ambience only — traffic, distant horns, footsteps, chatter, wind brushing the mic, plus the live sounds written into the scenes. No music track, no captions, no watermark. The vlogger's phone IS the camera — it never appears on screen, and she never holds a second phone or any other device. Spontaneous amateur vlog energy.\n\n0:00–0:05 — Front camera, selfie mode: the vlogger <<<image_1>>> films herself at arm's length while walking down the sidewalk, her face a touch overexposed by daylight. She starts excitedly: \"Guys! I just—\" — behind her shoulder, a couple <<<image_3>>>walking the opposite way passes right beside her; a beat later the guy stops and turns back, head over his shoulder, staring straight at her — the exact reference pose — while his girlfriend , gripping his hand, glares at him in outraged disbelief, mouth open. They hold the exact reference tableau; his stare reads odd and unreadable, not flirty. She catches them in her own selfie frame, cuts off mid-word and reacts instantly, without breaking stride: \"...What was that?\" — and keeps walking.\n\n0:05–0:09 — Same take, no cut: she flips the phone to the rear camera and whips it to the RIGHT — a sidewalk café. By the entrance, a guy <<<image_4>>> stands at a microphone on a stand, a small speaker beside it looping a soft instrumental backing. He leans in, takes a breath to sing the first line — and bursts out laughing instead, turning away and covering his mouth, then waves it off and resets toward the mic. The vlogger laughs quietly behind the camera.\n\n0:09–0:13 — Without cutting, the camera slides and zooms further RIGHT along the same café terrace: at one table a woman <<<image_5>>> is mid-meltdown — crying, shouting, jabbing an accusing finger across the terrace — while her friend <<<image_5>>> leans in, holding her back. Quick punch-in digital zoom to the opposite table: the cat <<<image_5>>> sits upright behind a plate of salad, perfectly calm and unimpressed. Autofocus hunts for a split second on the zoom.\n\n0:13–0:17 — Without cutting, the camera TILTS UP the facade directly above the café awning: a second-floor open window of the same brick building, a fire escape beside it. Quick digital zoom in — the image gets slightly softer and shakier — the dog <<<image_6>>> sits in the window with its eyes closed, chin lifted, blissfully soaking up the warm golden sunlight hitting the facade. She melts behind the camera: \"Awww, look at him...\"\n\n0:17–0:21 — The camera drops back down and swings FORWARD — a few steps ahead of her on the same sidewalk stands a couple in office attire, mid-argument. The guy <<<image_7>>> leans in toward the woman, talking heatedly, both hands raised mid-gesture; the woman <<<image_7>>> doesn't even glance at him — she smiles down at the phone in her hand, her other arm extended toward his face, flat palm raised in a firm \"stop, talk to the hand\" gesture, exactly matching the reference poses. The vlogger steps around them, the camera holding on the pair as she half-laughs: \"What is going on?\"\n\n0:21–0:25 — Same take: she whips the camera to the LEFT, across the two-lane road — a sedan parked at the opposite curb. Shaky digital zoom onto the driver's window: a man <<<image_8>>> sits behind the wheel, one hand draped over the top of the steering wheel, staring straight into the lens with a heavy, unblinking suspicious look, his eyes slowly tracking her as she passes. She says flatly: \"...What is his problem?\"\n\n0:25–0:30 — The camera swings back forward: ahead at the corner of the block, a guy <<<image_9>>> stands in profile by a red brick wall, heatedly arguing with the wall itself — both hands gesturing, leaning in, making his case to the bricks like a real debate. Quick shaky digital zoom toward him as she approaches, his agitated voice rising under the street noise. She flips to the front camera — her speechless, wide-eyed face fills the frame — then flips back to the rear camera: he's still going at it. The take ends mid-argument, no cut.",
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Action & VFX",
-    "date": "2026-08-29",
-    "author": {
-      "name": "Oogie",
-      "handle": "oggii_0",
-      "url": "https://x.com/oggii_0",
-      "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/1920x1080/QwypO-NXRR4r-2Go.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093568824511709184/img/5hsF-sfPLQ0YXzM_.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 30.08,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/480x270/2AvEAKeT_2T8YJJb.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/640x360/4UNov1Trk08DMpHg.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/1280x720/iem6Y2VD5sYhhocc.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/1920x1080/QwypO-NXRR4r-2Go.mp4?tag=29",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 52220,
-      "likes": 283,
-      "retweets": 15
+      "likes": 93,
+      "retweets": 4
     }
   },
   {
@@ -4429,9 +4429,9 @@
       ]
     },
     "stats": {
-      "views": 51932,
-      "likes": 90,
-      "retweets": 4
+      "views": 51933,
+      "likes": 89,
+      "retweets": 3
     }
   },
   {
@@ -4478,8 +4478,8 @@
       ]
     },
     "stats": {
-      "views": 51683,
-      "likes": 824,
+      "views": 51731,
+      "likes": 821,
       "retweets": 79
     }
   },
@@ -4534,8 +4534,8 @@
     },
     "stats": {
       "views": 51478,
-      "likes": 86,
-      "retweets": 4
+      "likes": 84,
+      "retweets": 3
     }
   },
   {
@@ -4588,8 +4588,8 @@
       ]
     },
     "stats": {
-      "views": 50394,
-      "likes": 276,
+      "views": 50900,
+      "likes": 285,
       "retweets": 11
     }
   },
@@ -4643,8 +4643,8 @@
       ]
     },
     "stats": {
-      "views": 48508,
-      "likes": 298,
+      "views": 48552,
+      "likes": 297,
       "retweets": 19
     }
   },
@@ -4704,8 +4704,8 @@
       ]
     },
     "stats": {
-      "views": 48395,
-      "likes": 329,
+      "views": 48397,
+      "likes": 328,
       "retweets": 34
     }
   },
@@ -4759,8 +4759,8 @@
       ]
     },
     "stats": {
-      "views": 46194,
-      "likes": 119,
+      "views": 46230,
+      "likes": 117,
       "retweets": 11
     }
   },
@@ -4814,9 +4814,9 @@
       ]
     },
     "stats": {
-      "views": 44901,
-      "likes": 125,
-      "retweets": 14
+      "views": 45332,
+      "likes": 124,
+      "retweets": 13
     }
   },
   {
@@ -4863,8 +4863,8 @@
       ]
     },
     "stats": {
-      "views": 44425,
-      "likes": 184,
+      "views": 44438,
+      "likes": 181,
       "retweets": 12
     }
   },
@@ -4918,8 +4918,8 @@
       ]
     },
     "stats": {
-      "views": 43861,
-      "likes": 430,
+      "views": 43910,
+      "likes": 427,
       "retweets": 34
     }
   },
@@ -4973,7 +4973,7 @@
       ]
     },
     "stats": {
-      "views": 43832,
+      "views": 43834,
       "likes": 222,
       "retweets": 5
     }
@@ -5022,8 +5022,8 @@
       ]
     },
     "stats": {
-      "views": 43374,
-      "likes": 410,
+      "views": 43401,
+      "likes": 411,
       "retweets": 37
     }
   },
@@ -5071,9 +5071,9 @@
       ]
     },
     "stats": {
-      "views": 43255,
-      "likes": 464,
-      "retweets": 46
+      "views": 43289,
+      "likes": 455,
+      "retweets": 44
     }
   },
   {
@@ -5132,8 +5132,8 @@
       ]
     },
     "stats": {
-      "views": 42956,
-      "likes": 209,
+      "views": 42983,
+      "likes": 207,
       "retweets": 12
     }
   },
@@ -5187,9 +5187,9 @@
       ]
     },
     "stats": {
-      "views": 42783,
-      "likes": 379,
-      "retweets": 32
+      "views": 42828,
+      "likes": 380,
+      "retweets": 31
     }
   },
   {
@@ -5236,7 +5236,7 @@
       ]
     },
     "stats": {
-      "views": 42507,
+      "views": 42508,
       "likes": 33,
       "retweets": 11
     }
@@ -5285,8 +5285,8 @@
       ]
     },
     "stats": {
-      "views": 41568,
-      "likes": 196,
+      "views": 41573,
+      "likes": 192,
       "retweets": 8
     }
   },
@@ -5334,7 +5334,7 @@
       ]
     },
     "stats": {
-      "views": 40511,
+      "views": 40533,
       "likes": 268,
       "retweets": 26
     }
@@ -5383,8 +5383,8 @@
       ]
     },
     "stats": {
-      "views": 40306,
-      "likes": 170,
+      "views": 40310,
+      "likes": 167,
       "retweets": 6
     }
   },
@@ -5432,8 +5432,8 @@
       ]
     },
     "stats": {
-      "views": 39625,
-      "likes": 97,
+      "views": 39652,
+      "likes": 95,
       "retweets": 4
     }
   },
@@ -5481,9 +5481,9 @@
       ]
     },
     "stats": {
-      "views": 39584,
-      "likes": 108,
-      "retweets": 32
+      "views": 39591,
+      "likes": 107,
+      "retweets": 31
     }
   },
   {
@@ -5530,8 +5530,8 @@
       ]
     },
     "stats": {
-      "views": 39535,
-      "likes": 146,
+      "views": 39554,
+      "likes": 143,
       "retweets": 3
     }
   },
@@ -5579,8 +5579,8 @@
       ]
     },
     "stats": {
-      "views": 39252,
-      "likes": 442,
+      "views": 39262,
+      "likes": 443,
       "retweets": 24
     }
   },
@@ -5629,7 +5629,7 @@
     },
     "stats": {
       "views": 38181,
-      "likes": 55,
+      "likes": 56,
       "retweets": 2
     }
   },
@@ -5683,8 +5683,8 @@
       ]
     },
     "stats": {
-      "views": 37263,
-      "likes": 147,
+      "views": 37273,
+      "likes": 144,
       "retweets": 2
     }
   },
@@ -5732,7 +5732,7 @@
       ]
     },
     "stats": {
-      "views": 37213,
+      "views": 37217,
       "likes": 302,
       "retweets": 21
     }
@@ -5781,58 +5781,9 @@
       ]
     },
     "stats": {
-      "views": 36589,
-      "likes": 119,
+      "views": 36597,
+      "likes": 116,
       "retweets": 1
-    }
-  },
-  {
-    "id": "2084238339469615320",
-    "url": "https://x.com/Just_sharon7/status/2084238339469615320",
-    "title": "Every destination becomes magical when you slow down and experience it",
-    "text": "Every destination becomes magical when you slow down and experience it.\n\nSeedance 2.5 is live on @SJinn_Agent \n\nhttps://sjinn.ai/tool-mode/seedance25-video\n\nprompt\n\nA cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Hawaii during a dreamy summer vacation. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style. Scene 1 (0-4s) — Arrival & City Walk: A beautiful Hawaiian morning. The woman walks through a bright tropical city street wearing a flowing floral summer dress and sunglasses. Palm trees line the sidewalk, sunlight reflects off colorful buildings, people walk casually in the background. Camera follows from behind, then transitions into a close-up of her smiling face as wind moves through her hair. Scene 2 (4-8s) — Beach Discovery: She steps onto a wide sandy beach with crystal blue ocean waves behind her. She walks barefoot along the shoreline, holding her dress slightly as waves touch her feet. Low-angle cinematic shots of footsteps in wet sand, ocean reflections, distant volcanic mountains under a clear sky. Scene 3 (8-12s) — Tropical Nature Moments: A cinematic worm's-eye view looking upward through towering palm trees. Golden sunlight streams between the leaves with beautiful lens flares. Cut to a close-up of her standing near a rocky ocean cliff, wind blowing through her hair while she looks peacefully toward the sea. Scene 4 (12-16s) — Beachfront Cafe & Slow Living: She sits alone at a cozy beachfront cafe near the window, drinking a tropical drink while watching waves outside. Soft sunlight enters through the glass. Close-up shots of her hands, coffee cup, ocean view, and thoughtful expression create an intimate travel diary feeling. Scene 5 (16-20s) — Ocean Adventure: She floats peacefully on a surfboard in calm turquoise ocean water. Camera moves around her from water level, showing gentle waves, sunlight sparkling on the sea surface, tropical coastline and mountains in the distance. She laughs naturally while looking toward the camera. Scene 6 (20-24s) — Night Market Exploration: A vibrant Hawaiian night market filled with warm lights, food stalls, and colorful decorations. She walks through the crowd, trying tropical fruit skewers and local street food. Cinematic close-ups of her reaction, glowing lanterns, neon bokeh, and bustling atmosphere. Scene 7 (24-27s) — Golden Sunset Ending: Wide cinematic silhouette shot of her standing on the ocean shore during sunset. Orange and pink skies reflect on the water. Waves gently move around her feet as she watches the sun disappear behind the horizon. Emotional travel film ending. Scene 8 (27-30s) — Hotel Night Reflection: Nighttime high-rise hotel balcony overlooking sparkling tropical city lights. She wears a simple white dress, leaning against the balcony while a warm breeze moves the curtains behind her. Final intimate close-up of her lying on the hotel bed, looking warmly into the camera lens with a peaceful smile. Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural movement, occasional POV shots, realistic autofocus adjustments, subtle motion blur. Visual Style: Dreamy Hawaii vacation film, luxury travel advertisement aesthetic, soft golden sunlight, realistic skin texture, cinematic depth of field, nostalgic 35mm film look, warm atmospheric colors, natural expressions, emotional storytelling. Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.",
-    "prompt": "A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Hawaii during a dreamy summer vacation. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style. Scene 1 (0-4s) — Arrival & City Walk: A beautiful Hawaiian morning. The woman walks through a bright tropical city street wearing a flowing floral summer dress and sunglasses. Palm trees line the sidewalk, sunlight reflects off colorful buildings, people walk casually in the background. Camera follows from behind, then transitions into a close-up of her smiling face as wind moves through her hair. Scene 2 (4-8s) — Beach Discovery: She steps onto a wide sandy beach with crystal blue ocean waves behind her. She walks barefoot along the shoreline, holding her dress slightly as waves touch her feet. Low-angle cinematic shots of footsteps in wet sand, ocean reflections, distant volcanic mountains under a clear sky. Scene 3 (8-12s) — Tropical Nature Moments: A cinematic worm's-eye view looking upward through towering palm trees. Golden sunlight streams between the leaves with beautiful lens flares. Cut to a close-up of her standing near a rocky ocean cliff, wind blowing through her hair while she looks peacefully toward the sea. Scene 4 (12-16s) — Beachfront Cafe & Slow Living: She sits alone at a cozy beachfront cafe near the window, drinking a tropical drink while watching waves outside. Soft sunlight enters through the glass. Close-up shots of her hands, coffee cup, ocean view, and thoughtful expression create an intimate travel diary feeling. Scene 5 (16-20s) — Ocean Adventure: She floats peacefully on a surfboard in calm turquoise ocean water. Camera moves around her from water level, showing gentle waves, sunlight sparkling on the sea surface, tropical coastline and mountains in the distance. She laughs naturally while looking toward the camera. Scene 6 (20-24s) — Night Market Exploration: A vibrant Hawaiian night market filled with warm lights, food stalls, and colorful decorations. She walks through the crowd, trying tropical fruit skewers and local street food. Cinematic close-ups of her reaction, glowing lanterns, neon bokeh, and bustling atmosphere. Scene 7 (24-27s) — Golden Sunset Ending: Wide cinematic silhouette shot of her standing on the ocean shore during sunset. Orange and pink skies reflect on the water. Waves gently move around her feet as she watches the sun disappear behind the horizon. Emotional travel film ending. Scene 8 (27-30s) — Hotel Night Reflection: Nighttime high-rise hotel balcony overlooking sparkling tropical city lights. She wears a simple white dress, leaning against the balcony while a warm breeze moves the curtains behind her. Final intimate close-up of her lying on the hotel bed, looking warmly into the camera lens with a peaceful smile. Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural movement, occasional POV shots, realistic autofocus adjustments, subtle motion blur. Visual Style: Dreamy Hawaii vacation film, luxury travel advertisement aesthetic, soft golden sunlight, realistic skin texture, cinematic depth of field, nostalgic 35mm film look, warm atmospheric colors, natural expressions, emotional storytelling. Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.",
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Launch & Announcements",
-    "date": "2026-08-03",
-    "author": {
-      "name": "Sharon Riley",
-      "handle": "Just_sharon7",
-      "url": "https://x.com/Just_sharon7",
-      "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/1280x720/9n4ATo5xaBU_x1vP.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084238008266493952/img/hmRCH9_UZ7aXhaeO.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 30.04,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/480x270/ZRd7f89-Q6OYFFgi.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/640x360/0ymLL7ypjCMAMAjN.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/1280x720/9n4ATo5xaBU_x1vP.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 36395,
-      "likes": 176,
-      "retweets": 10
     }
   },
   {
@@ -5879,9 +5830,58 @@
       ]
     },
     "stats": {
-      "views": 36380,
+      "views": 36467,
       "likes": 129,
       "retweets": 15
+    }
+  },
+  {
+    "id": "2084238339469615320",
+    "url": "https://x.com/Just_sharon7/status/2084238339469615320",
+    "title": "Every destination becomes magical when you slow down and experience it",
+    "text": "Every destination becomes magical when you slow down and experience it.\n\nSeedance 2.5 is live on @SJinn_Agent \n\nhttps://sjinn.ai/tool-mode/seedance25-video\n\nprompt\n\nA cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Hawaii during a dreamy summer vacation. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style. Scene 1 (0-4s) — Arrival & City Walk: A beautiful Hawaiian morning. The woman walks through a bright tropical city street wearing a flowing floral summer dress and sunglasses. Palm trees line the sidewalk, sunlight reflects off colorful buildings, people walk casually in the background. Camera follows from behind, then transitions into a close-up of her smiling face as wind moves through her hair. Scene 2 (4-8s) — Beach Discovery: She steps onto a wide sandy beach with crystal blue ocean waves behind her. She walks barefoot along the shoreline, holding her dress slightly as waves touch her feet. Low-angle cinematic shots of footsteps in wet sand, ocean reflections, distant volcanic mountains under a clear sky. Scene 3 (8-12s) — Tropical Nature Moments: A cinematic worm's-eye view looking upward through towering palm trees. Golden sunlight streams between the leaves with beautiful lens flares. Cut to a close-up of her standing near a rocky ocean cliff, wind blowing through her hair while she looks peacefully toward the sea. Scene 4 (12-16s) — Beachfront Cafe & Slow Living: She sits alone at a cozy beachfront cafe near the window, drinking a tropical drink while watching waves outside. Soft sunlight enters through the glass. Close-up shots of her hands, coffee cup, ocean view, and thoughtful expression create an intimate travel diary feeling. Scene 5 (16-20s) — Ocean Adventure: She floats peacefully on a surfboard in calm turquoise ocean water. Camera moves around her from water level, showing gentle waves, sunlight sparkling on the sea surface, tropical coastline and mountains in the distance. She laughs naturally while looking toward the camera. Scene 6 (20-24s) — Night Market Exploration: A vibrant Hawaiian night market filled with warm lights, food stalls, and colorful decorations. She walks through the crowd, trying tropical fruit skewers and local street food. Cinematic close-ups of her reaction, glowing lanterns, neon bokeh, and bustling atmosphere. Scene 7 (24-27s) — Golden Sunset Ending: Wide cinematic silhouette shot of her standing on the ocean shore during sunset. Orange and pink skies reflect on the water. Waves gently move around her feet as she watches the sun disappear behind the horizon. Emotional travel film ending. Scene 8 (27-30s) — Hotel Night Reflection: Nighttime high-rise hotel balcony overlooking sparkling tropical city lights. She wears a simple white dress, leaning against the balcony while a warm breeze moves the curtains behind her. Final intimate close-up of her lying on the hotel bed, looking warmly into the camera lens with a peaceful smile. Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural movement, occasional POV shots, realistic autofocus adjustments, subtle motion blur. Visual Style: Dreamy Hawaii vacation film, luxury travel advertisement aesthetic, soft golden sunlight, realistic skin texture, cinematic depth of field, nostalgic 35mm film look, warm atmospheric colors, natural expressions, emotional storytelling. Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.",
+    "prompt": "A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Hawaii during a dreamy summer vacation. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style. Scene 1 (0-4s) — Arrival & City Walk: A beautiful Hawaiian morning. The woman walks through a bright tropical city street wearing a flowing floral summer dress and sunglasses. Palm trees line the sidewalk, sunlight reflects off colorful buildings, people walk casually in the background. Camera follows from behind, then transitions into a close-up of her smiling face as wind moves through her hair. Scene 2 (4-8s) — Beach Discovery: She steps onto a wide sandy beach with crystal blue ocean waves behind her. She walks barefoot along the shoreline, holding her dress slightly as waves touch her feet. Low-angle cinematic shots of footsteps in wet sand, ocean reflections, distant volcanic mountains under a clear sky. Scene 3 (8-12s) — Tropical Nature Moments: A cinematic worm's-eye view looking upward through towering palm trees. Golden sunlight streams between the leaves with beautiful lens flares. Cut to a close-up of her standing near a rocky ocean cliff, wind blowing through her hair while she looks peacefully toward the sea. Scene 4 (12-16s) — Beachfront Cafe & Slow Living: She sits alone at a cozy beachfront cafe near the window, drinking a tropical drink while watching waves outside. Soft sunlight enters through the glass. Close-up shots of her hands, coffee cup, ocean view, and thoughtful expression create an intimate travel diary feeling. Scene 5 (16-20s) — Ocean Adventure: She floats peacefully on a surfboard in calm turquoise ocean water. Camera moves around her from water level, showing gentle waves, sunlight sparkling on the sea surface, tropical coastline and mountains in the distance. She laughs naturally while looking toward the camera. Scene 6 (20-24s) — Night Market Exploration: A vibrant Hawaiian night market filled with warm lights, food stalls, and colorful decorations. She walks through the crowd, trying tropical fruit skewers and local street food. Cinematic close-ups of her reaction, glowing lanterns, neon bokeh, and bustling atmosphere. Scene 7 (24-27s) — Golden Sunset Ending: Wide cinematic silhouette shot of her standing on the ocean shore during sunset. Orange and pink skies reflect on the water. Waves gently move around her feet as she watches the sun disappear behind the horizon. Emotional travel film ending. Scene 8 (27-30s) — Hotel Night Reflection: Nighttime high-rise hotel balcony overlooking sparkling tropical city lights. She wears a simple white dress, leaning against the balcony while a warm breeze moves the curtains behind her. Final intimate close-up of her lying on the hotel bed, looking warmly into the camera lens with a peaceful smile. Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural movement, occasional POV shots, realistic autofocus adjustments, subtle motion blur. Visual Style: Dreamy Hawaii vacation film, luxury travel advertisement aesthetic, soft golden sunlight, realistic skin texture, cinematic depth of field, nostalgic 35mm film look, warm atmospheric colors, natural expressions, emotional storytelling. Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.",
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Launch & Announcements",
+    "date": "2026-08-03",
+    "author": {
+      "name": "Sharon Riley",
+      "handle": "Just_sharon7",
+      "url": "https://x.com/Just_sharon7",
+      "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/1280x720/9n4ATo5xaBU_x1vP.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084238008266493952/img/hmRCH9_UZ7aXhaeO.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 30.04,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/480x270/ZRd7f89-Q6OYFFgi.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/640x360/0ymLL7ypjCMAMAjN.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/1280x720/9n4ATo5xaBU_x1vP.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 36432,
+      "likes": 174,
+      "retweets": 10
     }
   },
   {
@@ -5934,14 +5934,14 @@
       ]
     },
     "stats": {
-      "views": 35796,
-      "likes": 391,
+      "views": 35836,
+      "likes": 390,
       "retweets": 42
     }
   },
   {
     "id": "2093429159460786590",
-    "url": "https://x.com/AskVenice/status/2093429159460786590",
+    "url": "https://x.com/VeniceAI/status/2093429159460786590",
     "title": "Seedance 2.5 vs MiniMax H3 Max",
     "text": "Seedance 2.5 vs MiniMax H3 Max\n\nSame prompt. Both models at max specs.\n\nSeedance 2.5\n1080p · 15s \ngenerated in 4m 56s\n\nMiniMax H3 Max\n768p · 15s \ngenerated in 18s",
     "prompt": null,
@@ -5951,8 +5951,8 @@
     "date": "2026-08-28",
     "author": {
       "name": "Venice",
-      "handle": "AskVenice",
-      "url": "https://x.com/AskVenice",
+      "handle": "VeniceAI",
+      "url": "https://x.com/VeniceAI",
       "avatar": "https://pbs.twimg.com/profile_images/2063006544615120896/yzx4UbK7_200x200.png"
     },
     "video": {
@@ -5989,8 +5989,8 @@
       ]
     },
     "stats": {
-      "views": 35531,
-      "likes": 319,
+      "views": 35573,
+      "likes": 318,
       "retweets": 23
     }
   },
@@ -6044,8 +6044,8 @@
       ]
     },
     "stats": {
-      "views": 34969,
-      "likes": 155,
+      "views": 35076,
+      "likes": 153,
       "retweets": 5
     }
   },
@@ -6099,7 +6099,7 @@
       ]
     },
     "stats": {
-      "views": 34443,
+      "views": 34455,
       "likes": 201,
       "retweets": 1
     }
@@ -6148,8 +6148,8 @@
       ]
     },
     "stats": {
-      "views": 34293,
-      "likes": 125,
+      "views": 34332,
+      "likes": 123,
       "retweets": 18
     }
   },
@@ -6197,7 +6197,7 @@
       ]
     },
     "stats": {
-      "views": 34123,
+      "views": 34236,
       "likes": 96,
       "retweets": 3
     }
@@ -6246,8 +6246,8 @@
       ]
     },
     "stats": {
-      "views": 33729,
-      "likes": 377,
+      "views": 33747,
+      "likes": 376,
       "retweets": 30
     }
   },
@@ -6301,8 +6301,8 @@
       ]
     },
     "stats": {
-      "views": 32570,
-      "likes": 197,
+      "views": 32578,
+      "likes": 195,
       "retweets": 36
     }
   },
@@ -6350,162 +6350,9 @@
       ]
     },
     "stats": {
-      "views": 32524,
-      "likes": 174,
+      "views": 32527,
+      "likes": 173,
       "retweets": 1
-    }
-  },
-  {
-    "id": "2092143249251242115",
-    "url": "https://x.com/Arzoo12sh/status/2092143249251242115",
-    "title": "OAI video is no longer just a collection of random clips it is moving from generation to…",
-    "text": "OAI video is no longer just a collection of random clips it is moving from generation to delivery\n\nI used Flova AI and Seedance 2 5 to create a complete cohesive 30 second GRWM narrative video\n\nFrom prompt roulette to reference driven creation Flova Skills make it effortless to turn your creative concepts into repeatable workflows\n\nSeedance 2 5 Super Savings Month is LIVE\nGet Up to 74% OFF Limited Time Only\nUp to 2x Credits and 60% OFF 480p Generation As low as $0 02 per sec\n\nStop copying prompts start running Skill\n[ Video add]\n\nThread Reply 1 (Workflow Breakdown & Concept):\nThe Concept\nAn authentic DV camcorder POV Get Ready With Me vlog featuring CHASE a Korean creator in her 20s\n\nWhy Flova and Seedance 2 5\n1 Complete Narrative Instead of stitching broken clips Flova Agent planned the storyboard and script for a cohesive 30s video\n2 Character and Visual Consistency Supported by multimodal references keeping character identity warm vanity lighting and realistic DV texture consistent throughout\n3 Precision Editing Fine tuned details without discarding the entire sequence or wasting credits\n\nThread Reply 2 (CTA):\nWant to reproduce this exact workflow for your own videos or brand ads\n\nInstead of copying a single prompt line run the full Flova Skill to preserve the visual style shot rhythm and storytelling structure\n\nTry the Skill on Flova AI today\n\nhttps://www.flova.ai/en/skill/?id=469192d36a374325a33ea599d0f4b890",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.0",
-    "category": "Launch & Announcements",
-    "date": "2026-08-25",
-    "author": {
-      "name": "Arzoo Ai",
-      "handle": "Arzoo12sh",
-      "url": "https://x.com/Arzoo12sh",
-      "avatar": "https://pbs.twimg.com/profile_images/2116904025761386496/ul6eYpLN_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2092141903538188288/vid/avc1/478x850/sD7j1dZrmgZCQ-cV.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092141903538188288/img/2XGsjtmG2tz2-l-i.jpg",
-      "width": 478,
-      "height": 850,
-      "duration": 30.29,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2092141903538188288/vid/avc1/320x568/lBH9Ni_l66TPdo8p.mp4?tag=29",
-          "bitrate": 632000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2092141903538188288/vid/avc1/478x850/sD7j1dZrmgZCQ-cV.mp4?tag=29",
-          "bitrate": 950000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 32395,
-      "likes": 110,
-      "retweets": 33
-    }
-  },
-  {
-    "id": "2093200782887657696",
-    "url": "https://x.com/Ciri_ai/status/2093200782887657696",
-    "title": "If this is AI slop, the slop is getting ridiculously realistic",
-    "text": "If this is AI slop, the slop is getting ridiculously realistic\n\nMade with seedance 2.5\n\nPrompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Japanese woman. No reference image.\nMAIN SUBJECT\nYoung Japanese woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, soft and cheerful personality.\nShoulder-length dark brown hair worn down with a simple clip pinning back one side, a few loose strands framing her face. Wearing an oversized light-yellow short-sleeve shirt, denim shorts, white canvas sneakers and a thin gold anklet.\nMaintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.\nSETTING\nA quiet older residential neighborhood in Kyoto during a warm summer evening. Narrow paved streets, low wooden houses, hanging laundry, vending machines, telephone poles, tangled overhead wires, a small corner convenience store, a shrine gate visible in the distance, cicadas humming in the trees, and long tree shadows stretching across the road.\nEverything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.\nCAMERA / VISUAL AESTHETIC\nRaw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.\nStrong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.\nNo stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.\n— OUTSIDE THE HOUSE\nShe steps outside holding a small paper fan. She slides the door shut, glances at her reflection in a window, and looks toward the camera with a shy laugh.\nA warm evening breeze rustles the nearby wind chimes as she starts walking down the street.\n— CONVENIENCE STORE STOP\nShe reaches the small corner store and buys a popsicle.\nShe steps outside, unwraps it, takes her first bite and scrunches her face happily at the taste.\nShe notices her friend filming and waves the popsicle toward the camera with a grin before taking another bite.\n— WALKING HOME\nShe continues down the quiet street while eating.\nA small dog tied outside a shop barks softly and wags its tail. She kneels down and gently scratches behind its ears.\nThe dog's owner calls it back and she stands, giggling as she walks on.\n— SMALL ACCIDENT\nShe walks past a low hanging laundry line when a stray sheet brushes against her head.\nShe stops, startled, then realizes what happened and bursts out laughing.\nShe pats down her hair while her friend zooms clumsily toward her face.\nShe looks directly into the camera and says:\n\"Mou, yamete!\" (\"Come on, stop it!\")\n— QUIET MOMENT\nShe reaches a small stone step near a shrine gate and sits down for a moment.\nShe finishes the popsicle while watching fireflies begin to flicker faintly near the bushes.\nA gentle breeze moves her hair. She tucks a loose strand behind her ear and looks around peacefully.\n— FINAL MOMENT\nShe stands up and continues walking home.\nAfter a few steps, she turns back toward the camera with a soft playful smile and says:\n\"Hayaku kite.\" (\"Come on, hurry up.\")\nShe keeps walking down the dim lane as the streetlights flicker on, while the camera follows behind.\nShe disappears around the corner and the recording abruptly cuts to black.\nAUDIO\nNatural location sound only: cicadas, wind chimes, footsteps, distant bicycle bells, a vending machine hum, sliding doors, rustling laundry, faint conversations and subtle camera-handling noise.\nNo music. No narration. No artificial sound effects.\nOnly the two spoken lines specified above.\nFINAL FEEL\nThe entire video should feel like a forgotten summer recording from the early 2000s.\nWarm, gentle, casual, slightly playful, intimate and nostalgic.\nNo dramatic events, no exaggerated acting, no model poses and no polished cinematic shots.\nThe realism should come from ordinary surroundings, natural expressions, small accidents, realistic environmental movement and imperfect camcorder operation.",
-    "prompt": "Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Japanese woman. No reference image.\nMAIN SUBJECT\nYoung Japanese woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, soft and cheerful personality.\nShoulder-length dark brown hair worn down with a simple clip pinning back one side, a few loose strands framing her face. Wearing an oversized light-yellow short-sleeve shirt, denim shorts, white canvas sneakers and a thin gold anklet.\nMaintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.\nSETTING\nA quiet older residential neighborhood in Kyoto during a warm summer evening. Narrow paved streets, low wooden houses, hanging laundry, vending machines, telephone poles, tangled overhead wires, a small corner convenience store, a shrine gate visible in the distance, cicadas humming in the trees, and long tree shadows stretching across the road.\nEverything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.\nCAMERA / VISUAL AESTHETIC\nRaw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.\nStrong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.\nNo stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.\n— OUTSIDE THE HOUSE\nShe steps outside holding a small paper fan. She slides the door shut, glances at her reflection in a window, and looks toward the camera with a shy laugh.\nA warm evening breeze rustles the nearby wind chimes as she starts walking down the street.\n— CONVENIENCE STORE STOP\nShe reaches the small corner store and buys a popsicle.\nShe steps outside, unwraps it, takes her first bite and scrunches her face happily at the taste.\nShe notices her friend filming and waves the popsicle toward the camera with a grin before taking another bite.\n— WALKING HOME\nShe continues down the quiet street while eating.\nA small dog tied outside a shop barks softly and wags its tail. She kneels down and gently scratches behind its ears.\nThe dog's owner calls it back and she stands, giggling as she walks on.\n— SMALL ACCIDENT\nShe walks past a low hanging laundry line when a stray sheet brushes against her head.\nShe stops, startled, then realizes what happened and bursts out laughing.\nShe pats down her hair while her friend zooms clumsily toward her face.\nShe looks directly into the camera and says:\n\"Mou, yamete!\" (\"Come on, stop it!\")\n— QUIET MOMENT\nShe reaches a small stone step near a shrine gate and sits down for a moment.\nShe finishes the popsicle while watching fireflies begin to flicker faintly near the bushes.\nA gentle breeze moves her hair. She tucks a loose strand behind her ear and looks around peacefully.\n— FINAL MOMENT\nShe stands up and continues walking home.\nAfter a few steps, she turns back toward the camera with a soft playful smile and says:\n\"Hayaku kite.\" (\"Come on, hurry up.\")\nShe keeps walking down the dim lane as the streetlights flicker on, while the camera follows behind.\nShe disappears around the corner and the recording abruptly cuts to black.\nAUDIO\nNatural location sound only: cicadas, wind chimes, footsteps, distant bicycle bells, a vending machine hum, sliding doors, rustling laundry, faint conversations and subtle camera-handling noise.\nNo music. No narration. No artificial sound effects.\nOnly the two spoken lines specified above.\nFINAL FEEL\nThe entire video should feel like a forgotten summer recording from the early 2000s.\nWarm, gentle, casual, slightly playful, intimate and nostalgic.\nNo dramatic events, no exaggerated acting, no model poses and no polished cinematic shots.\nThe realism should come from ordinary surroundings, natural expressions, small accidents, realistic environmental movement and imperfect camcorder operation.",
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Ads, UGC & Product",
-    "date": "2026-08-28",
-    "author": {
-      "name": "Ciri",
-      "handle": "Ciri_ai",
-      "url": "https://x.com/Ciri_ai",
-      "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/1920x1080/Odb_Bn9oqPiceBAQ.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093200668656037888/img/LVC1e7nPWVDGk8bw.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 30.08,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/480x270/S6fm9WC5TKtF_7H3.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/640x360/KVKPtb40R1r0YFQL.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/1280x720/QLEp4HxG8WaNRDEH.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/1920x1080/Odb_Bn9oqPiceBAQ.mp4?tag=29",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 32346,
-      "likes": 236,
-      "retweets": 12
-    }
-  },
-  {
-    "id": "2089962212727353529",
-    "url": "https://x.com/aiwithothoi/status/2089962212727353529",
-    "title": "A successful AI Influencer isn't built with a single prompt",
-    "text": "A successful AI Influencer isn't built with a single prompt.\n\nIt's built through identity, continuity, movement, and storytelling.\n\nSeedance 2.5 brings those elements together beautifully.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Showcase",
-    "date": "2026-08-19",
-    "author": {
-      "name": "Othoi Khan",
-      "handle": "aiwithothoi",
-      "url": "https://x.com/aiwithothoi",
-      "avatar": "https://pbs.twimg.com/profile_images/2069683353536921600/J_z5bvBl_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/1180x786/dxnpfN_LLFmy3w59.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089962150442004480/img/RfBzivOadQpMmeis.jpg",
-      "width": 1180,
-      "height": 786,
-      "duration": 30.05,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/404x270/6yjEdkSY9WRZpXpm.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/540x360/vbVbX7kB6bMtCbCQ.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/1080x720/D-Y465si5XBfc4uH.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/1180x786/dxnpfN_LLFmy3w59.mp4?tag=29",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 31984,
-      "likes": 45,
-      "retweets": 29
     }
   },
   {
@@ -6564,9 +6411,162 @@
       ]
     },
     "stats": {
-      "views": 31759,
+      "views": 32426,
       "likes": 13,
       "retweets": 0
+    }
+  },
+  {
+    "id": "2092143249251242115",
+    "url": "https://x.com/Arzoo12sh/status/2092143249251242115",
+    "title": "OAI video is no longer just a collection of random clips it is moving from generation to…",
+    "text": "OAI video is no longer just a collection of random clips it is moving from generation to delivery\n\nI used Flova AI and Seedance 2 5 to create a complete cohesive 30 second GRWM narrative video\n\nFrom prompt roulette to reference driven creation Flova Skills make it effortless to turn your creative concepts into repeatable workflows\n\nSeedance 2 5 Super Savings Month is LIVE\nGet Up to 74% OFF Limited Time Only\nUp to 2x Credits and 60% OFF 480p Generation As low as $0 02 per sec\n\nStop copying prompts start running Skill\n[ Video add]\n\nThread Reply 1 (Workflow Breakdown & Concept):\nThe Concept\nAn authentic DV camcorder POV Get Ready With Me vlog featuring CHASE a Korean creator in her 20s\n\nWhy Flova and Seedance 2 5\n1 Complete Narrative Instead of stitching broken clips Flova Agent planned the storyboard and script for a cohesive 30s video\n2 Character and Visual Consistency Supported by multimodal references keeping character identity warm vanity lighting and realistic DV texture consistent throughout\n3 Precision Editing Fine tuned details without discarding the entire sequence or wasting credits\n\nThread Reply 2 (CTA):\nWant to reproduce this exact workflow for your own videos or brand ads\n\nInstead of copying a single prompt line run the full Flova Skill to preserve the visual style shot rhythm and storytelling structure\n\nTry the Skill on Flova AI today\n\nhttps://www.flova.ai/en/skill/?id=469192d36a374325a33ea599d0f4b890",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Launch & Announcements",
+    "date": "2026-08-25",
+    "author": {
+      "name": "Arzoo Ai",
+      "handle": "Arzoo12sh",
+      "url": "https://x.com/Arzoo12sh",
+      "avatar": "https://pbs.twimg.com/profile_images/2116904025761386496/ul6eYpLN_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2092141903538188288/vid/avc1/478x850/sD7j1dZrmgZCQ-cV.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092141903538188288/img/2XGsjtmG2tz2-l-i.jpg",
+      "width": 478,
+      "height": 850,
+      "duration": 30.29,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2092141903538188288/vid/avc1/320x568/lBH9Ni_l66TPdo8p.mp4?tag=29",
+          "bitrate": 632000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2092141903538188288/vid/avc1/478x850/sD7j1dZrmgZCQ-cV.mp4?tag=29",
+          "bitrate": 950000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 32411,
+      "likes": 109,
+      "retweets": 33
+    }
+  },
+  {
+    "id": "2093200782887657696",
+    "url": "https://x.com/Ciri_ai/status/2093200782887657696",
+    "title": "If this is AI slop, the slop is getting ridiculously realistic",
+    "text": "If this is AI slop, the slop is getting ridiculously realistic\n\nMade with seedance 2.5\n\nPrompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Japanese woman. No reference image.\nMAIN SUBJECT\nYoung Japanese woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, soft and cheerful personality.\nShoulder-length dark brown hair worn down with a simple clip pinning back one side, a few loose strands framing her face. Wearing an oversized light-yellow short-sleeve shirt, denim shorts, white canvas sneakers and a thin gold anklet.\nMaintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.\nSETTING\nA quiet older residential neighborhood in Kyoto during a warm summer evening. Narrow paved streets, low wooden houses, hanging laundry, vending machines, telephone poles, tangled overhead wires, a small corner convenience store, a shrine gate visible in the distance, cicadas humming in the trees, and long tree shadows stretching across the road.\nEverything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.\nCAMERA / VISUAL AESTHETIC\nRaw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.\nStrong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.\nNo stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.\n— OUTSIDE THE HOUSE\nShe steps outside holding a small paper fan. She slides the door shut, glances at her reflection in a window, and looks toward the camera with a shy laugh.\nA warm evening breeze rustles the nearby wind chimes as she starts walking down the street.\n— CONVENIENCE STORE STOP\nShe reaches the small corner store and buys a popsicle.\nShe steps outside, unwraps it, takes her first bite and scrunches her face happily at the taste.\nShe notices her friend filming and waves the popsicle toward the camera with a grin before taking another bite.\n— WALKING HOME\nShe continues down the quiet street while eating.\nA small dog tied outside a shop barks softly and wags its tail. She kneels down and gently scratches behind its ears.\nThe dog's owner calls it back and she stands, giggling as she walks on.\n— SMALL ACCIDENT\nShe walks past a low hanging laundry line when a stray sheet brushes against her head.\nShe stops, startled, then realizes what happened and bursts out laughing.\nShe pats down her hair while her friend zooms clumsily toward her face.\nShe looks directly into the camera and says:\n\"Mou, yamete!\" (\"Come on, stop it!\")\n— QUIET MOMENT\nShe reaches a small stone step near a shrine gate and sits down for a moment.\nShe finishes the popsicle while watching fireflies begin to flicker faintly near the bushes.\nA gentle breeze moves her hair. She tucks a loose strand behind her ear and looks around peacefully.\n— FINAL MOMENT\nShe stands up and continues walking home.\nAfter a few steps, she turns back toward the camera with a soft playful smile and says:\n\"Hayaku kite.\" (\"Come on, hurry up.\")\nShe keeps walking down the dim lane as the streetlights flicker on, while the camera follows behind.\nShe disappears around the corner and the recording abruptly cuts to black.\nAUDIO\nNatural location sound only: cicadas, wind chimes, footsteps, distant bicycle bells, a vending machine hum, sliding doors, rustling laundry, faint conversations and subtle camera-handling noise.\nNo music. No narration. No artificial sound effects.\nOnly the two spoken lines specified above.\nFINAL FEEL\nThe entire video should feel like a forgotten summer recording from the early 2000s.\nWarm, gentle, casual, slightly playful, intimate and nostalgic.\nNo dramatic events, no exaggerated acting, no model poses and no polished cinematic shots.\nThe realism should come from ordinary surroundings, natural expressions, small accidents, realistic environmental movement and imperfect camcorder operation.",
+    "prompt": "Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Japanese woman. No reference image.\nMAIN SUBJECT\nYoung Japanese woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, soft and cheerful personality.\nShoulder-length dark brown hair worn down with a simple clip pinning back one side, a few loose strands framing her face. Wearing an oversized light-yellow short-sleeve shirt, denim shorts, white canvas sneakers and a thin gold anklet.\nMaintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.\nSETTING\nA quiet older residential neighborhood in Kyoto during a warm summer evening. Narrow paved streets, low wooden houses, hanging laundry, vending machines, telephone poles, tangled overhead wires, a small corner convenience store, a shrine gate visible in the distance, cicadas humming in the trees, and long tree shadows stretching across the road.\nEverything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.\nCAMERA / VISUAL AESTHETIC\nRaw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.\nStrong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.\nNo stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.\n— OUTSIDE THE HOUSE\nShe steps outside holding a small paper fan. She slides the door shut, glances at her reflection in a window, and looks toward the camera with a shy laugh.\nA warm evening breeze rustles the nearby wind chimes as she starts walking down the street.\n— CONVENIENCE STORE STOP\nShe reaches the small corner store and buys a popsicle.\nShe steps outside, unwraps it, takes her first bite and scrunches her face happily at the taste.\nShe notices her friend filming and waves the popsicle toward the camera with a grin before taking another bite.\n— WALKING HOME\nShe continues down the quiet street while eating.\nA small dog tied outside a shop barks softly and wags its tail. She kneels down and gently scratches behind its ears.\nThe dog's owner calls it back and she stands, giggling as she walks on.\n— SMALL ACCIDENT\nShe walks past a low hanging laundry line when a stray sheet brushes against her head.\nShe stops, startled, then realizes what happened and bursts out laughing.\nShe pats down her hair while her friend zooms clumsily toward her face.\nShe looks directly into the camera and says:\n\"Mou, yamete!\" (\"Come on, stop it!\")\n— QUIET MOMENT\nShe reaches a small stone step near a shrine gate and sits down for a moment.\nShe finishes the popsicle while watching fireflies begin to flicker faintly near the bushes.\nA gentle breeze moves her hair. She tucks a loose strand behind her ear and looks around peacefully.\n— FINAL MOMENT\nShe stands up and continues walking home.\nAfter a few steps, she turns back toward the camera with a soft playful smile and says:\n\"Hayaku kite.\" (\"Come on, hurry up.\")\nShe keeps walking down the dim lane as the streetlights flicker on, while the camera follows behind.\nShe disappears around the corner and the recording abruptly cuts to black.\nAUDIO\nNatural location sound only: cicadas, wind chimes, footsteps, distant bicycle bells, a vending machine hum, sliding doors, rustling laundry, faint conversations and subtle camera-handling noise.\nNo music. No narration. No artificial sound effects.\nOnly the two spoken lines specified above.\nFINAL FEEL\nThe entire video should feel like a forgotten summer recording from the early 2000s.\nWarm, gentle, casual, slightly playful, intimate and nostalgic.\nNo dramatic events, no exaggerated acting, no model poses and no polished cinematic shots.\nThe realism should come from ordinary surroundings, natural expressions, small accidents, realistic environmental movement and imperfect camcorder operation.",
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Ads, UGC & Product",
+    "date": "2026-08-28",
+    "author": {
+      "name": "Ciri",
+      "handle": "Ciri_ai",
+      "url": "https://x.com/Ciri_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/1920x1080/Odb_Bn9oqPiceBAQ.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093200668656037888/img/LVC1e7nPWVDGk8bw.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.08,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/480x270/S6fm9WC5TKtF_7H3.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/640x360/KVKPtb40R1r0YFQL.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/1280x720/QLEp4HxG8WaNRDEH.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093200668656037888/vid/avc1/1920x1080/Odb_Bn9oqPiceBAQ.mp4?tag=29",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 32371,
+      "likes": 235,
+      "retweets": 12
+    }
+  },
+  {
+    "id": "2089962212727353529",
+    "url": "https://x.com/aiwithothoi/status/2089962212727353529",
+    "title": "A successful AI Influencer isn't built with a single prompt",
+    "text": "A successful AI Influencer isn't built with a single prompt.\n\nIt's built through identity, continuity, movement, and storytelling.\n\nSeedance 2.5 brings those elements together beautifully.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Showcase",
+    "date": "2026-08-19",
+    "author": {
+      "name": "Othoi Khan",
+      "handle": "aiwithothoi",
+      "url": "https://x.com/aiwithothoi",
+      "avatar": "https://pbs.twimg.com/profile_images/2069683353536921600/J_z5bvBl_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/1180x786/dxnpfN_LLFmy3w59.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089962150442004480/img/RfBzivOadQpMmeis.jpg",
+      "width": 1180,
+      "height": 786,
+      "duration": 30.05,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/404x270/6yjEdkSY9WRZpXpm.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/540x360/vbVbX7kB6bMtCbCQ.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/1080x720/D-Y465si5XBfc4uH.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/1180x786/dxnpfN_LLFmy3w59.mp4?tag=29",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 31987,
+      "likes": 45,
+      "retweets": 29
     }
   },
   {
@@ -6613,7 +6613,7 @@
       ]
     },
     "stats": {
-      "views": 31606,
+      "views": 31685,
       "likes": 295,
       "retweets": 39
     }
@@ -6662,8 +6662,8 @@
       ]
     },
     "stats": {
-      "views": 31572,
-      "likes": 288,
+      "views": 31588,
+      "likes": 286,
       "retweets": 18
     }
   },
@@ -6711,7 +6711,7 @@
       ]
     },
     "stats": {
-      "views": 31466,
+      "views": 31491,
       "likes": 317,
       "retweets": 23
     }
@@ -6766,7 +6766,7 @@
       ]
     },
     "stats": {
-      "views": 30973,
+      "views": 30982,
       "likes": 163,
       "retweets": 5
     }
@@ -6822,8 +6822,8 @@
     },
     "stats": {
       "views": 30672,
-      "likes": 60,
-      "retweets": 26
+      "likes": 59,
+      "retweets": 25
     }
   },
   {
@@ -6876,7 +6876,7 @@
       ]
     },
     "stats": {
-      "views": 30656,
+      "views": 30665,
       "likes": 43,
       "retweets": 3
     }
@@ -6980,7 +6980,7 @@
       ]
     },
     "stats": {
-      "views": 30595,
+      "views": 30617,
       "likes": 121,
       "retweets": 3
     }
@@ -7029,8 +7029,8 @@
       ]
     },
     "stats": {
-      "views": 30465,
-      "likes": 288,
+      "views": 30478,
+      "likes": 287,
       "retweets": 26
     }
   },
@@ -7084,7 +7084,7 @@
       ]
     },
     "stats": {
-      "views": 30259,
+      "views": 30260,
       "likes": 101,
       "retweets": 7
     }
@@ -7139,7 +7139,7 @@
       ]
     },
     "stats": {
-      "views": 30213,
+      "views": 30218,
       "likes": 104,
       "retweets": 2
     }
@@ -7188,7 +7188,7 @@
       ]
     },
     "stats": {
-      "views": 29821,
+      "views": 29855,
       "likes": 135,
       "retweets": 6
     }
@@ -7237,8 +7237,8 @@
       ]
     },
     "stats": {
-      "views": 29704,
-      "likes": 373,
+      "views": 29734,
+      "likes": 372,
       "retweets": 32
     }
   },
@@ -7292,9 +7292,9 @@
       ]
     },
     "stats": {
-      "views": 29557,
+      "views": 29570,
       "likes": 138,
-      "retweets": 10
+      "retweets": 11
     }
   },
   {
@@ -7341,8 +7341,8 @@
       ]
     },
     "stats": {
-      "views": 29313,
-      "likes": 120,
+      "views": 29314,
+      "likes": 118,
       "retweets": 3
     }
   },
@@ -7396,7 +7396,7 @@
       ]
     },
     "stats": {
-      "views": 29117,
+      "views": 29139,
       "likes": 251,
       "retweets": 34
     }
@@ -7445,7 +7445,7 @@
       ]
     },
     "stats": {
-      "views": 28991,
+      "views": 29016,
       "likes": 68,
       "retweets": 9
     }
@@ -7494,9 +7494,9 @@
       ]
     },
     "stats": {
-      "views": 28932,
-      "likes": 121,
-      "retweets": 10
+      "views": 28945,
+      "likes": 119,
+      "retweets": 8
     }
   },
   {
@@ -7543,8 +7543,8 @@
       ]
     },
     "stats": {
-      "views": 28333,
-      "likes": 273,
+      "views": 28347,
+      "likes": 271,
       "retweets": 40
     }
   },
@@ -7592,8 +7592,8 @@
       ]
     },
     "stats": {
-      "views": 28092,
-      "likes": 217,
+      "views": 28100,
+      "likes": 216,
       "retweets": 4
     }
   },
@@ -7647,8 +7647,8 @@
       ]
     },
     "stats": {
-      "views": 27487,
-      "likes": 140,
+      "views": 27494,
+      "likes": 136,
       "retweets": 6
     }
   },
@@ -7702,8 +7702,8 @@
       ]
     },
     "stats": {
-      "views": 27440,
-      "likes": 225,
+      "views": 27472,
+      "likes": 224,
       "retweets": 22
     }
   },
@@ -7757,7 +7757,7 @@
       ]
     },
     "stats": {
-      "views": 27234,
+      "views": 27267,
       "likes": 113,
       "retweets": 10
     },
@@ -7809,8 +7809,8 @@
       ]
     },
     "stats": {
-      "views": 27081,
-      "likes": 132,
+      "views": 27084,
+      "likes": 128,
       "retweets": 3
     }
   },
@@ -7858,7 +7858,7 @@
       ]
     },
     "stats": {
-      "views": 27015,
+      "views": 27025,
       "likes": 235,
       "retweets": 15
     }
@@ -7913,9 +7913,9 @@
       ]
     },
     "stats": {
-      "views": 26539,
-      "likes": 170,
-      "retweets": 12
+      "views": 26577,
+      "likes": 172,
+      "retweets": 13
     }
   },
   {
@@ -7962,8 +7962,8 @@
       ]
     },
     "stats": {
-      "views": 26384,
-      "likes": 214,
+      "views": 26392,
+      "likes": 212,
       "retweets": 8
     }
   },
@@ -8017,7 +8017,7 @@
       ]
     },
     "stats": {
-      "views": 26141,
+      "views": 26166,
       "likes": 187,
       "retweets": 7
     }
@@ -8072,8 +8072,8 @@
       ]
     },
     "stats": {
-      "views": 26110,
-      "likes": 123,
+      "views": 26143,
+      "likes": 122,
       "retweets": 7
     }
   },
@@ -8121,8 +8121,8 @@
       ]
     },
     "stats": {
-      "views": 25692,
-      "likes": 305,
+      "views": 25722,
+      "likes": 304,
       "retweets": 23
     }
   },
@@ -8176,8 +8176,8 @@
       ]
     },
     "stats": {
-      "views": 25423,
-      "likes": 303,
+      "views": 25450,
+      "likes": 302,
       "retweets": 29
     }
   },
@@ -8225,8 +8225,8 @@
       ]
     },
     "stats": {
-      "views": 25397,
-      "likes": 187,
+      "views": 25417,
+      "likes": 186,
       "retweets": 20
     }
   },
@@ -8274,8 +8274,8 @@
       ]
     },
     "stats": {
-      "views": 25362,
-      "likes": 221,
+      "views": 25374,
+      "likes": 220,
       "retweets": 6
     }
   },
@@ -8323,58 +8323,9 @@
       ]
     },
     "stats": {
-      "views": 24853,
+      "views": 24863,
       "likes": 151,
-      "retweets": 11
-    }
-  },
-  {
-    "id": "2088499769614483721",
-    "url": "https://x.com/AIwithSynthia/status/2088499769614483721",
-    "title": "I change vibe with just flick of my fingers",
-    "text": "I change vibe with just flick of my fingers \n\nSeedance 2.5 on @itsPolloAI \n\nPrompt :\n\nUse the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
-    "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Cinematic & Film",
-    "date": "2026-08-15",
-    "author": {
-      "name": "Synthia",
-      "handle": "AIwithSynthia",
-      "url": "https://x.com/AIwithSynthia",
-      "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/1076x620/8YlRPc47-klKj94j.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088499722546024449/img/6aZ6Ie_xgeOfbd1N.jpg",
-      "width": 1076,
-      "height": 620,
-      "duration": 25.69,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/468x270/35EQURrDkhd36pY1.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/624x360/KzJ_l_cnvLtX4yQc.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/1076x620/8YlRPc47-klKj94j.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 23971,
-      "likes": 118,
-      "retweets": 3
+      "retweets": 10
     }
   },
   {
@@ -8421,48 +8372,48 @@
       ]
     },
     "stats": {
-      "views": 23948,
-      "likes": 757,
+      "views": 23985,
+      "likes": 755,
       "retweets": 69
     }
   },
   {
-    "id": "2021496696115736746",
-    "url": "https://x.com/heydin_ai/status/2021496696115736746",
-    "title": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…",
-    "text": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can instantly turn it into a full cinematic scene.",
-    "prompt": null,
+    "id": "2088499769614483721",
+    "url": "https://x.com/AIwithSynthia/status/2088499769614483721",
+    "title": "I change vibe with just flick of my fingers",
+    "text": "I change vibe with just flick of my fingers \n\nSeedance 2.5 on @itsPolloAI \n\nPrompt :\n\nUse the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
+    "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
     "prompt_in_thread": false,
-    "model": "Seedance 2.0",
+    "model": "Seedance 2.5",
     "category": "Cinematic & Film",
-    "date": "2026-02-11",
+    "date": "2026-08-15",
     "author": {
-      "name": "Dinda Prasetyo",
-      "handle": "heydin_ai",
-      "url": "https://x.com/heydin_ai",
-      "avatar": "https://pbs.twimg.com/profile_images/1898412161569005568/JF5_QOaZ_200x200.jpg"
+      "name": "Synthia",
+      "handle": "AIwithSynthia",
+      "url": "https://x.com/AIwithSynthia",
+      "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
     },
     "video": {
-      "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/1280x720/5rp61UnlZzwvUsnd.mp4?tag=12",
-      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2021475954321915910/pu/img/b6iofAmgGr7WfVCg.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 72.66,
+      "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/1076x620/8YlRPc47-klKj94j.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088499722546024449/img/6aZ6Ie_xgeOfbd1N.jpg",
+      "width": 1076,
+      "height": 620,
+      "duration": 25.69,
       "formats": [
         {
-          "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/480x270/tIiyGsiJIk4uAjNL.mp4?tag=12",
+          "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/468x270/35EQURrDkhd36pY1.mp4?tag=29",
           "bitrate": 256000,
           "container": "mp4",
           "codec": "h264"
         },
         {
-          "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/640x360/a94M-7X574lfOJQ0.mp4?tag=12",
+          "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/624x360/KzJ_l_cnvLtX4yQc.mp4?tag=29",
           "bitrate": 832000,
           "container": "mp4",
           "codec": "h264"
         },
         {
-          "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/1280x720/5rp61UnlZzwvUsnd.mp4?tag=12",
+          "url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/1076x620/8YlRPc47-klKj94j.mp4?tag=29",
           "bitrate": 2176000,
           "container": "mp4",
           "codec": "h264"
@@ -8470,9 +8421,9 @@
       ]
     },
     "stats": {
-      "views": 23851,
-      "likes": 213,
-      "retweets": 16
+      "views": 23978,
+      "likes": 115,
+      "retweets": 3
     }
   },
   {
@@ -8531,9 +8482,58 @@
       ]
     },
     "stats": {
-      "views": 23640,
+      "views": 23956,
       "likes": 11,
       "retweets": 1
+    }
+  },
+  {
+    "id": "2021496696115736746",
+    "url": "https://x.com/heydin_ai/status/2021496696115736746",
+    "title": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…",
+    "text": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can instantly turn it into a full cinematic scene.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.0",
+    "category": "Cinematic & Film",
+    "date": "2026-02-11",
+    "author": {
+      "name": "Dinda Prasetyo",
+      "handle": "heydin_ai",
+      "url": "https://x.com/heydin_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/1898412161569005568/JF5_QOaZ_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/1280x720/5rp61UnlZzwvUsnd.mp4?tag=12",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2021475954321915910/pu/img/b6iofAmgGr7WfVCg.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 72.66,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/480x270/tIiyGsiJIk4uAjNL.mp4?tag=12",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/640x360/a94M-7X574lfOJQ0.mp4?tag=12",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/1280x720/5rp61UnlZzwvUsnd.mp4?tag=12",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 23852,
+      "likes": 213,
+      "retweets": 16
     }
   },
   {
@@ -8580,8 +8580,8 @@
       ]
     },
     "stats": {
-      "views": 23214,
-      "likes": 204,
+      "views": 23220,
+      "likes": 202,
       "retweets": 17
     }
   },
@@ -8629,8 +8629,8 @@
       ]
     },
     "stats": {
-      "views": 22855,
-      "likes": 76,
+      "views": 22861,
+      "likes": 75,
       "retweets": 8
     }
   },
@@ -8684,8 +8684,8 @@
       ]
     },
     "stats": {
-      "views": 22853,
-      "likes": 217,
+      "views": 22861,
+      "likes": 216,
       "retweets": 7
     }
   },
@@ -8739,8 +8739,8 @@
       ]
     },
     "stats": {
-      "views": 22845,
-      "likes": 33,
+      "views": 22852,
+      "likes": 32,
       "retweets": 2
     }
   },
@@ -8788,8 +8788,8 @@
       ]
     },
     "stats": {
-      "views": 22640,
-      "likes": 325,
+      "views": 22647,
+      "likes": 323,
       "retweets": 24
     }
   },
@@ -8837,7 +8837,7 @@
       ]
     },
     "stats": {
-      "views": 22108,
+      "views": 22152,
       "likes": 163,
       "retweets": 10
     }
@@ -8892,8 +8892,8 @@
       ]
     },
     "stats": {
-      "views": 22052,
-      "likes": 249,
+      "views": 22062,
+      "likes": 248,
       "retweets": 34
     }
   },
@@ -8947,8 +8947,8 @@
       ]
     },
     "stats": {
-      "views": 21799,
-      "likes": 82,
+      "views": 21856,
+      "likes": 81,
       "retweets": 16
     }
   },
@@ -8996,8 +8996,8 @@
       ]
     },
     "stats": {
-      "views": 21699,
-      "likes": 207,
+      "views": 21709,
+      "likes": 206,
       "retweets": 9
     }
   },
@@ -9045,9 +9045,58 @@
       ]
     },
     "stats": {
-      "views": 21220,
-      "likes": 222,
+      "views": 21228,
+      "likes": 221,
       "retweets": 12
+    }
+  },
+  {
+    "id": "2083558691895209987",
+    "url": "https://x.com/MrLarus/status/2083558691895209987",
+    "title": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！",
+    "text": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！\n\n🌟生成要点：\n1. Depth 视频控制核心舞蹈\n2. 多视角头像和全身图锁定主角\n3. 九宫格按编号调用妆造、乐器和剪影镜头\n4. 场景图统一整个古风雅室\n5. 参考 BGM 控制节奏、切镜和情绪推进\n\n人物、动作、场景、镜头和音乐都沿着同一条时间轴推进\n画面每一次切换基本踩着 BGM 往前走，视觉和听觉衔接得非常流畅！\n\n🌟很适合生成人物小传、角色主题 MV、短剧片头和角色登场短片！\n\n工作流 + 提示词在评论区 👇",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Music & Dance",
+    "date": "2026-08-01",
+    "author": {
+      "name": "Larus Canus",
+      "handle": "MrLarus",
+      "url": "https://x.com/MrLarus",
+      "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/720x1280/SS0a53hc6kdiy8KI.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083557234240344064/img/CsDST9o2RdImA-ig.jpg",
+      "width": 720,
+      "height": 1280,
+      "duration": 30.05,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/320x568/g42XMQW6Ipjm7kTm.mp4?tag=29",
+          "bitrate": 632000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/480x852/J79rbukXx1X5agiw.mp4?tag=29",
+          "bitrate": 950000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/720x1280/SS0a53hc6kdiy8KI.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 20818,
+      "likes": 70,
+      "retweets": 8
     }
   },
   {
@@ -9100,58 +9149,9 @@
       ]
     },
     "stats": {
-      "views": 20784,
-      "likes": 33,
+      "views": 20785,
+      "likes": 31,
       "retweets": 4
-    }
-  },
-  {
-    "id": "2083558691895209987",
-    "url": "https://x.com/MrLarus/status/2083558691895209987",
-    "title": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！",
-    "text": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！\n\n🌟生成要点：\n1. Depth 视频控制核心舞蹈\n2. 多视角头像和全身图锁定主角\n3. 九宫格按编号调用妆造、乐器和剪影镜头\n4. 场景图统一整个古风雅室\n5. 参考 BGM 控制节奏、切镜和情绪推进\n\n人物、动作、场景、镜头和音乐都沿着同一条时间轴推进\n画面每一次切换基本踩着 BGM 往前走，视觉和听觉衔接得非常流畅！\n\n🌟很适合生成人物小传、角色主题 MV、短剧片头和角色登场短片！\n\n工作流 + 提示词在评论区 👇",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Music & Dance",
-    "date": "2026-08-01",
-    "author": {
-      "name": "Larus Canus",
-      "handle": "MrLarus",
-      "url": "https://x.com/MrLarus",
-      "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/720x1280/SS0a53hc6kdiy8KI.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083557234240344064/img/CsDST9o2RdImA-ig.jpg",
-      "width": 720,
-      "height": 1280,
-      "duration": 30.05,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/320x568/g42XMQW6Ipjm7kTm.mp4?tag=29",
-          "bitrate": 632000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/480x852/J79rbukXx1X5agiw.mp4?tag=29",
-          "bitrate": 950000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/720x1280/SS0a53hc6kdiy8KI.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 20770,
-      "likes": 71,
-      "retweets": 8
     }
   },
   {
@@ -9204,8 +9204,8 @@
       ]
     },
     "stats": {
-      "views": 20475,
-      "likes": 113,
+      "views": 20489,
+      "likes": 111,
       "retweets": 2
     }
   },
@@ -9259,7 +9259,7 @@
       ]
     },
     "stats": {
-      "views": 20275,
+      "views": 20293,
       "likes": 101,
       "retweets": 8
     }
@@ -9314,7 +9314,7 @@
       ]
     },
     "stats": {
-      "views": 19907,
+      "views": 19935,
       "likes": 236,
       "retweets": 18
     }
@@ -9369,7 +9369,7 @@
       ]
     },
     "stats": {
-      "views": 19520,
+      "views": 19527,
       "likes": 68,
       "retweets": 6
     }
@@ -9424,7 +9424,7 @@
       ]
     },
     "stats": {
-      "views": 19488,
+      "views": 19511,
       "likes": 154,
       "retweets": 17
     }
@@ -9473,8 +9473,8 @@
       ]
     },
     "stats": {
-      "views": 19487,
-      "likes": 124,
+      "views": 19495,
+      "likes": 123,
       "retweets": 12
     }
   },
@@ -9577,7 +9577,7 @@
       ]
     },
     "stats": {
-      "views": 19329,
+      "views": 19342,
       "likes": 47,
       "retweets": 4
     }
@@ -9632,7 +9632,7 @@
       ]
     },
     "stats": {
-      "views": 19294,
+      "views": 19301,
       "likes": 101,
       "retweets": 4
     }
@@ -9681,7 +9681,7 @@
       ]
     },
     "stats": {
-      "views": 18719,
+      "views": 18753,
       "likes": 80,
       "retweets": 7
     }
@@ -9736,8 +9736,8 @@
       ]
     },
     "stats": {
-      "views": 18540,
-      "likes": 175,
+      "views": 18545,
+      "likes": 172,
       "retweets": 6
     }
   },
@@ -9785,8 +9785,8 @@
       ]
     },
     "stats": {
-      "views": 18281,
-      "likes": 84,
+      "views": 18290,
+      "likes": 85,
       "retweets": 1
     }
   },
@@ -9840,7 +9840,7 @@
       ]
     },
     "stats": {
-      "views": 17792,
+      "views": 17825,
       "likes": 173,
       "retweets": 12
     }
@@ -9895,8 +9895,8 @@
       ]
     },
     "stats": {
-      "views": 17619,
-      "likes": 83,
+      "views": 17726,
+      "likes": 84,
       "retweets": 6
     }
   },
@@ -9944,8 +9944,8 @@
       ]
     },
     "stats": {
-      "views": 17161,
-      "likes": 99,
+      "views": 17331,
+      "likes": 100,
       "retweets": 20
     }
   },
@@ -9999,7 +9999,7 @@
       ]
     },
     "stats": {
-      "views": 17033,
+      "views": 17042,
       "likes": 101,
       "retweets": 3
     }
@@ -10048,8 +10048,8 @@
       ]
     },
     "stats": {
-      "views": 16890,
-      "likes": 141,
+      "views": 16900,
+      "likes": 140,
       "retweets": 10
     }
   },
@@ -10103,7 +10103,7 @@
       ]
     },
     "stats": {
-      "views": 16592,
+      "views": 16603,
       "likes": 140,
       "retweets": 9
     }
@@ -10152,8 +10152,8 @@
       ]
     },
     "stats": {
-      "views": 16494,
-      "likes": 169,
+      "views": 16496,
+      "likes": 167,
       "retweets": 5
     }
   },
@@ -10207,8 +10207,8 @@
       ]
     },
     "stats": {
-      "views": 16258,
-      "likes": 152,
+      "views": 16287,
+      "likes": 151,
       "retweets": 19
     }
   },
@@ -10256,9 +10256,9 @@
       ]
     },
     "stats": {
-      "views": 15794,
+      "views": 15812,
       "likes": 135,
-      "retweets": 5
+      "retweets": 4
     }
   },
   {
@@ -10305,8 +10305,8 @@
       ]
     },
     "stats": {
-      "views": 15707,
-      "likes": 202,
+      "views": 15727,
+      "likes": 203,
       "retweets": 19
     }
   },
@@ -10354,7 +10354,7 @@
       ]
     },
     "stats": {
-      "views": 15541,
+      "views": 15545,
       "likes": 90,
       "retweets": 18
     }
@@ -10403,7 +10403,7 @@
       ]
     },
     "stats": {
-      "views": 15502,
+      "views": 15509,
       "likes": 76,
       "retweets": 46
     }
@@ -10458,7 +10458,7 @@
       ]
     },
     "stats": {
-      "views": 15297,
+      "views": 15333,
       "likes": 242,
       "retweets": 17
     }
@@ -10513,8 +10513,8 @@
       ]
     },
     "stats": {
-      "views": 15207,
-      "likes": 188,
+      "views": 15230,
+      "likes": 187,
       "retweets": 20
     }
   },
@@ -10568,7 +10568,7 @@
       ]
     },
     "stats": {
-      "views": 14964,
+      "views": 14977,
       "likes": 55,
       "retweets": 5
     }
@@ -10617,8 +10617,8 @@
       ]
     },
     "stats": {
-      "views": 14858,
-      "likes": 169,
+      "views": 14868,
+      "likes": 166,
       "retweets": 9
     }
   },
@@ -10666,8 +10666,8 @@
       ]
     },
     "stats": {
-      "views": 14740,
-      "likes": 92,
+      "views": 14750,
+      "likes": 91,
       "retweets": 5
     }
   },
@@ -10715,7 +10715,7 @@
       ]
     },
     "stats": {
-      "views": 14738,
+      "views": 14744,
       "likes": 147,
       "retweets": 16
     }
@@ -10770,7 +10770,7 @@
       ]
     },
     "stats": {
-      "views": 14469,
+      "views": 14472,
       "likes": 241,
       "retweets": 18
     }
@@ -10825,9 +10825,9 @@
       ]
     },
     "stats": {
-      "views": 13807,
-      "likes": 161,
-      "retweets": 26
+      "views": 13834,
+      "likes": 160,
+      "retweets": 25
     }
   },
   {
@@ -10874,7 +10874,7 @@
       ]
     },
     "stats": {
-      "views": 13799,
+      "views": 13823,
       "likes": 108,
       "retweets": 6
     }
@@ -10923,7 +10923,7 @@
       ]
     },
     "stats": {
-      "views": 13710,
+      "views": 13723,
       "likes": 152,
       "retweets": 8
     }
@@ -10978,9 +10978,9 @@
       ]
     },
     "stats": {
-      "views": 13591,
+      "views": 13633,
       "likes": 239,
-      "retweets": 24
+      "retweets": 23
     }
   },
   {
@@ -11033,7 +11033,7 @@
       ]
     },
     "stats": {
-      "views": 13562,
+      "views": 13574,
       "likes": 118,
       "retweets": 12
     }
@@ -11088,7 +11088,7 @@
       ]
     },
     "stats": {
-      "views": 13359,
+      "views": 13366,
       "likes": 99,
       "retweets": 7
     }
@@ -11143,8 +11143,8 @@
       ]
     },
     "stats": {
-      "views": 12771,
-      "likes": 143,
+      "views": 12777,
+      "likes": 142,
       "retweets": 1
     }
   },
@@ -11204,9 +11204,9 @@
       ]
     },
     "stats": {
-      "views": 12717,
-      "likes": 107,
-      "retweets": 34
+      "views": 12724,
+      "likes": 106,
+      "retweets": 33
     }
   },
   {
@@ -11259,7 +11259,7 @@
       ]
     },
     "stats": {
-      "views": 12614,
+      "views": 12707,
       "likes": 30,
       "retweets": 1
     }
@@ -11308,7 +11308,7 @@
       ]
     },
     "stats": {
-      "views": 12528,
+      "views": 12535,
       "likes": 27,
       "retweets": 0
     }
@@ -11357,9 +11357,9 @@
       ]
     },
     "stats": {
-      "views": 12398,
-      "likes": 90,
-      "retweets": 8
+      "views": 12407,
+      "likes": 87,
+      "retweets": 7
     }
   },
   {
@@ -11455,8 +11455,8 @@
       ]
     },
     "stats": {
-      "views": 11753,
-      "likes": 96,
+      "views": 11762,
+      "likes": 95,
       "retweets": 8
     }
   },
@@ -11510,8 +11510,8 @@
       ]
     },
     "stats": {
-      "views": 11710,
-      "likes": 66,
+      "views": 11716,
+      "likes": 65,
       "retweets": 1
     }
   },
@@ -11565,8 +11565,8 @@
       ]
     },
     "stats": {
-      "views": 11647,
-      "likes": 122,
+      "views": 11652,
+      "likes": 121,
       "retweets": 9
     },
     "prompt_source_urls": [
@@ -11617,8 +11617,8 @@
       ]
     },
     "stats": {
-      "views": 11364,
-      "likes": 170,
+      "views": 11372,
+      "likes": 169,
       "retweets": 5
     }
   },
@@ -11672,7 +11672,7 @@
       ]
     },
     "stats": {
-      "views": 11306,
+      "views": 11357,
       "likes": 43,
       "retweets": 4
     }
@@ -11721,8 +11721,8 @@
       ]
     },
     "stats": {
-      "views": 11207,
-      "likes": 119,
+      "views": 11218,
+      "likes": 118,
       "retweets": 12
     },
     "prompt_source_urls": [
@@ -11774,8 +11774,8 @@
       ]
     },
     "stats": {
-      "views": 11179,
-      "likes": 70,
+      "views": 11207,
+      "likes": 69,
       "retweets": 12
     }
   },
@@ -11829,7 +11829,7 @@
       ]
     },
     "stats": {
-      "views": 10853,
+      "views": 10855,
       "likes": 57,
       "retweets": 2
     }
@@ -11890,9 +11890,9 @@
       ]
     },
     "stats": {
-      "views": 10755,
-      "likes": 101,
-      "retweets": 91
+      "views": 10762,
+      "likes": 99,
+      "retweets": 89
     }
   },
   {
@@ -11945,7 +11945,7 @@
       ]
     },
     "stats": {
-      "views": 10244,
+      "views": 10323,
       "likes": 30,
       "retweets": 0
     }
@@ -11994,7 +11994,7 @@
       ]
     },
     "stats": {
-      "views": 10159,
+      "views": 10163,
       "likes": 168,
       "retweets": 13
     }
@@ -12043,7 +12043,7 @@
       ]
     },
     "stats": {
-      "views": 9453,
+      "views": 9464,
       "likes": 31,
       "retweets": 1
     }
@@ -12098,7 +12098,7 @@
       ]
     },
     "stats": {
-      "views": 9419,
+      "views": 9434,
       "likes": 156,
       "retweets": 14
     }
@@ -12153,7 +12153,7 @@
       ]
     },
     "stats": {
-      "views": 9357,
+      "views": 9385,
       "likes": 48,
       "retweets": 5
     }
@@ -12196,9 +12196,9 @@
       ]
     },
     "stats": {
-      "views": 9279,
-      "likes": 114,
-      "retweets": 13
+      "views": 9310,
+      "likes": 111,
+      "retweets": 12
     }
   },
   {
@@ -12251,7 +12251,7 @@
       ]
     },
     "stats": {
-      "views": 9072,
+      "views": 9080,
       "likes": 61,
       "retweets": 2
     }
@@ -12300,8 +12300,8 @@
       ]
     },
     "stats": {
-      "views": 8870,
-      "likes": 179,
+      "views": 8873,
+      "likes": 178,
       "retweets": 9
     },
     "prompt_source_urls": [
@@ -12353,7 +12353,7 @@
       ]
     },
     "stats": {
-      "views": 8814,
+      "views": 8821,
       "likes": 84,
       "retweets": 5
     }
@@ -12409,7 +12409,7 @@
     },
     "stats": {
       "views": 8728,
-      "likes": 146,
+      "likes": 143,
       "retweets": 8
     }
   },
@@ -12457,7 +12457,7 @@
       ]
     },
     "stats": {
-      "views": 8653,
+      "views": 8654,
       "likes": 95,
       "retweets": 5
     },
@@ -12515,7 +12515,7 @@
       ]
     },
     "stats": {
-      "views": 8146,
+      "views": 8162,
       "likes": 126,
       "retweets": 9
     }
@@ -12570,7 +12570,7 @@
       ]
     },
     "stats": {
-      "views": 8037,
+      "views": 8046,
       "likes": 16,
       "retweets": 2
     }
@@ -12619,7 +12619,7 @@
       ]
     },
     "stats": {
-      "views": 7994,
+      "views": 8004,
       "likes": 52,
       "retweets": 5
     }
@@ -12668,7 +12668,7 @@
       ]
     },
     "stats": {
-      "views": 7814,
+      "views": 7820,
       "likes": 64,
       "retweets": 2
     }
@@ -12717,7 +12717,7 @@
       ]
     },
     "stats": {
-      "views": 7139,
+      "views": 7197,
       "likes": 11,
       "retweets": 2
     }
@@ -12772,8 +12772,8 @@
       ]
     },
     "stats": {
-      "views": 6811,
-      "likes": 93,
+      "views": 6824,
+      "likes": 92,
       "retweets": 7
     }
   },
@@ -12827,7 +12827,7 @@
       ]
     },
     "stats": {
-      "views": 6644,
+      "views": 6652,
       "likes": 143,
       "retweets": 10
     }
@@ -12876,7 +12876,7 @@
       ]
     },
     "stats": {
-      "views": 6454,
+      "views": 6455,
       "likes": 27,
       "retweets": 2
     }
@@ -12925,7 +12925,7 @@
       ]
     },
     "stats": {
-      "views": 6441,
+      "views": 6445,
       "likes": 33,
       "retweets": 1
     }
@@ -12974,7 +12974,7 @@
       ]
     },
     "stats": {
-      "views": 6024,
+      "views": 6063,
       "likes": 72,
       "retweets": 5
     }
@@ -13023,7 +13023,7 @@
       ]
     },
     "stats": {
-      "views": 4877,
+      "views": 4898,
       "likes": 20,
       "retweets": 3
     }
@@ -13072,7 +13072,7 @@
       ]
     },
     "stats": {
-      "views": 4530,
+      "views": 4532,
       "likes": 100,
       "retweets": 3
     }
@@ -13127,7 +13127,7 @@
       ]
     },
     "stats": {
-      "views": 4514,
+      "views": 4522,
       "likes": 81,
       "retweets": 6
     }
@@ -13176,7 +13176,7 @@
       ]
     },
     "stats": {
-      "views": 4463,
+      "views": 4466,
       "likes": 61,
       "retweets": 1
     }
@@ -13231,7 +13231,7 @@
       ]
     },
     "stats": {
-      "views": 4247,
+      "views": 4302,
       "likes": 15,
       "retweets": 0
     }
@@ -13335,7 +13335,7 @@
       ]
     },
     "stats": {
-      "views": 4122,
+      "views": 4125,
       "likes": 57,
       "retweets": 2
     }
@@ -13384,7 +13384,7 @@
       ]
     },
     "stats": {
-      "views": 3938,
+      "views": 3941,
       "likes": 43,
       "retweets": 2
     }
@@ -13439,7 +13439,7 @@
       ]
     },
     "stats": {
-      "views": 3923,
+      "views": 3927,
       "likes": 71,
       "retweets": 1
     }
@@ -13488,7 +13488,7 @@
       ]
     },
     "stats": {
-      "views": 3903,
+      "views": 3905,
       "likes": 31,
       "retweets": 3
     }
@@ -13537,7 +13537,7 @@
       ]
     },
     "stats": {
-      "views": 3807,
+      "views": 3823,
       "likes": 41,
       "retweets": 1
     }
@@ -13586,9 +13586,58 @@
       ]
     },
     "stats": {
-      "views": 3783,
-      "likes": 68,
+      "views": 3793,
+      "likes": 67,
       "retweets": 4
+    }
+  },
+  {
+    "id": "2083140946640916720",
+    "url": "https://x.com/tanabe_fragm/status/2083140946640916720",
+    "title": "Seedance 2.5の強み、2つ目を発見❗️",
+    "text": "Seedance 2.5の強み、2つ目を発見❗️\n\n1つ目は「多人数のキャラ」が登場するシーン。\nそして2つ目は「スポーツ」のシーンです⚽️🏸\n\nバドミントンのような球技は、動画生成AIが特に苦手なジャンル。\nSeedance 2.0も優秀でしたが、細かい破綻はたくさん残っていました。\n\nでも、Seedance 2.5は15秒のプレーをほぼ破綻なく生成できました👍\nここまで自然に球技を描けるのはかなり驚きです😳\n\nもちろん、今回はバドミントンだけなので、サッカーやテニスなど他のスポーツでも検証してみようと思います。\n\n左：Seedance 2.5（480p）\n右：Seedance 2.0（720p）\n\n以下の2つを比べても、クオリティは段違いですね！\nこれは本当に素晴らしいです😌\n\nプロンプト↓\n---------------------\nA cinematic slow-motion shot of a professional Caucasian male badminton player competing in the Olympic finals. He leaps high into the air with explosive power for a powerful smash. Focus on the intense facial expression and the flexed muscles of his arm. As he hits the shuttlecock, a subtle motion blur and wind effect are visible. The background shows a packed Olympic arena with blurred crowds and bright stadium lights. Smooth camera tracking following his jump. 4K, ultra-realistic, high frame rate, vivid colors, athletic anatomy, professional sports photography style.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Cinematic & Film",
+    "date": "2026-07-31",
+    "author": {
+      "name": "タナベ | AI動画 × マーケティング",
+      "handle": "tanabe_fragm",
+      "url": "https://x.com/tanabe_fragm",
+      "avatar": "https://pbs.twimg.com/profile_images/2046030035241607168/148F4m4X_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/1280x720/qSK7sZTibuzcSwkq.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083140395119394816/img/ADTcVZEgWjBym3sE.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 15.07,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/480x270/gLY2VHhiwRi6U1EJ.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/640x360/koTk28ywg9lSLDtT.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/1280x720/qSK7sZTibuzcSwkq.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 3778,
+      "likes": 8,
+      "retweets": 1
     }
   },
   {
@@ -13647,58 +13696,9 @@
       ]
     },
     "stats": {
-      "views": 3773,
-      "likes": 145,
+      "views": 3776,
+      "likes": 146,
       "retweets": 42
-    }
-  },
-  {
-    "id": "2083140946640916720",
-    "url": "https://x.com/tanabe_fragm/status/2083140946640916720",
-    "title": "Seedance 2.5の強み、2つ目を発見❗️",
-    "text": "Seedance 2.5の強み、2つ目を発見❗️\n\n1つ目は「多人数のキャラ」が登場するシーン。\nそして2つ目は「スポーツ」のシーンです⚽️🏸\n\nバドミントンのような球技は、動画生成AIが特に苦手なジャンル。\nSeedance 2.0も優秀でしたが、細かい破綻はたくさん残っていました。\n\nでも、Seedance 2.5は15秒のプレーをほぼ破綻なく生成できました👍\nここまで自然に球技を描けるのはかなり驚きです😳\n\nもちろん、今回はバドミントンだけなので、サッカーやテニスなど他のスポーツでも検証してみようと思います。\n\n左：Seedance 2.5（480p）\n右：Seedance 2.0（720p）\n\n以下の2つを比べても、クオリティは段違いですね！\nこれは本当に素晴らしいです😌\n\nプロンプト↓\n---------------------\nA cinematic slow-motion shot of a professional Caucasian male badminton player competing in the Olympic finals. He leaps high into the air with explosive power for a powerful smash. Focus on the intense facial expression and the flexed muscles of his arm. As he hits the shuttlecock, a subtle motion blur and wind effect are visible. The background shows a packed Olympic arena with blurred crowds and bright stadium lights. Smooth camera tracking following his jump. 4K, ultra-realistic, high frame rate, vivid colors, athletic anatomy, professional sports photography style.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Cinematic & Film",
-    "date": "2026-07-31",
-    "author": {
-      "name": "タナベ | AI動画 × マーケティング",
-      "handle": "tanabe_fragm",
-      "url": "https://x.com/tanabe_fragm",
-      "avatar": "https://pbs.twimg.com/profile_images/2046030035241607168/148F4m4X_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/1280x720/qSK7sZTibuzcSwkq.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083140395119394816/img/ADTcVZEgWjBym3sE.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 15.07,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/480x270/gLY2VHhiwRi6U1EJ.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/640x360/koTk28ywg9lSLDtT.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/1280x720/qSK7sZTibuzcSwkq.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 3758,
-      "likes": 8,
-      "retweets": 1
     }
   },
   {
@@ -13794,7 +13794,7 @@
       ]
     },
     "stats": {
-      "views": 3410,
+      "views": 3413,
       "likes": 52,
       "retweets": 5
     }
@@ -13843,7 +13843,7 @@
       ]
     },
     "stats": {
-      "views": 3341,
+      "views": 3352,
       "likes": 31,
       "retweets": 4
     }
@@ -13947,7 +13947,7 @@
       ]
     },
     "stats": {
-      "views": 3312,
+      "views": 3325,
       "likes": 65,
       "retweets": 2
     }
@@ -14002,7 +14002,7 @@
       ]
     },
     "stats": {
-      "views": 3256,
+      "views": 3272,
       "likes": 17,
       "retweets": 1
     }
@@ -14051,7 +14051,7 @@
       ]
     },
     "stats": {
-      "views": 3164,
+      "views": 3166,
       "likes": 131,
       "retweets": 16
     }
@@ -14100,7 +14100,7 @@
       ]
     },
     "stats": {
-      "views": 3111,
+      "views": 3120,
       "likes": 23,
       "retweets": 2
     }
@@ -14155,7 +14155,7 @@
       ]
     },
     "stats": {
-      "views": 3088,
+      "views": 3091,
       "likes": 56,
       "retweets": 3
     }
@@ -14204,7 +14204,7 @@
       ]
     },
     "stats": {
-      "views": 2807,
+      "views": 2820,
       "likes": 11,
       "retweets": 1
     }
@@ -14253,7 +14253,7 @@
       ]
     },
     "stats": {
-      "views": 2749,
+      "views": 2751,
       "likes": 40,
       "retweets": 2
     }
@@ -14314,9 +14314,64 @@
       ]
     },
     "stats": {
-      "views": 2518,
+      "views": 2522,
       "likes": 35,
       "retweets": 3
+    }
+  },
+  {
+    "id": "2091944472007622694",
+    "url": "https://x.com/Naiknelofar788/status/2091944472007622694",
+    "title": "Create an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the…",
+    "text": "Seedance 2.5\n\nPrompt:\n30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
+    "prompt": "30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Prompting & Workflow",
+    "date": "2026-08-24",
+    "author": {
+      "name": "simeon-sanai",
+      "handle": "Naiknelofar788",
+      "url": "https://x.com/Naiknelofar788",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1920x1080/fwbA2SvspHu-ze2y.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091944398015918080/img/o-cjCe6ohLr8aF3p.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.08,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/480x270/l46f4VwrWfjI_-sh.mp4?tag=29",
+          "bitrate": 256000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/640x360/cxgLbiWwFVLlHyga.mp4?tag=29",
+          "bitrate": 832000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1280x720/dQ3VK4_2ykRquzFY.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1920x1080/fwbA2SvspHu-ze2y.mp4?tag=29",
+          "bitrate": 10368000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 2502,
+      "likes": 35,
+      "retweets": 0
     }
   },
   {
@@ -14382,61 +14437,6 @@
     "prompt_source_urls": [
       "https://x.com/rafalors/status/2083119532202418489"
     ]
-  },
-  {
-    "id": "2091944472007622694",
-    "url": "https://x.com/Naiknelofar788/status/2091944472007622694",
-    "title": "Create an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the…",
-    "text": "Seedance 2.5\n\nPrompt:\n30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
-    "prompt": "30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Prompting & Workflow",
-    "date": "2026-08-24",
-    "author": {
-      "name": "simeon-sanai",
-      "handle": "Naiknelofar788",
-      "url": "https://x.com/Naiknelofar788",
-      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1920x1080/fwbA2SvspHu-ze2y.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091944398015918080/img/o-cjCe6ohLr8aF3p.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 30.08,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/480x270/l46f4VwrWfjI_-sh.mp4?tag=29",
-          "bitrate": 256000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/640x360/cxgLbiWwFVLlHyga.mp4?tag=29",
-          "bitrate": 832000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1280x720/dQ3VK4_2ykRquzFY.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1920x1080/fwbA2SvspHu-ze2y.mp4?tag=29",
-          "bitrate": 10368000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 2491,
-      "likes": 35,
-      "retweets": 0
-    }
   },
   {
     "id": "2083976170932989982",
@@ -14543,7 +14543,7 @@
       ]
     },
     "stats": {
-      "views": 2440,
+      "views": 2444,
       "likes": 45,
       "retweets": 2
     }
@@ -14592,7 +14592,7 @@
       ]
     },
     "stats": {
-      "views": 2373,
+      "views": 2382,
       "likes": 43,
       "retweets": 4
     }
@@ -14641,8 +14641,8 @@
       ]
     },
     "stats": {
-      "views": 2349,
-      "likes": 36,
+      "views": 2352,
+      "likes": 35,
       "retweets": 9
     }
   },
@@ -14690,7 +14690,7 @@
       ]
     },
     "stats": {
-      "views": 2343,
+      "views": 2349,
       "likes": 54,
       "retweets": 1
     }
@@ -14739,7 +14739,7 @@
       ]
     },
     "stats": {
-      "views": 2231,
+      "views": 2256,
       "likes": 74,
       "retweets": 4
     }
@@ -14800,7 +14800,7 @@
       ]
     },
     "stats": {
-      "views": 2179,
+      "views": 2181,
       "likes": 23,
       "retweets": 2
     }
@@ -14898,58 +14898,9 @@
       ]
     },
     "stats": {
-      "views": 1977,
+      "views": 1984,
       "likes": 28,
       "retweets": 4
-    }
-  },
-  {
-    "id": "2083361106027061344",
-    "url": "https://x.com/blocktom/status/2083361106027061344",
-    "title": "用 Seedance 2.5 做了条甜酷风连续换装视频。 一条视频里直接切了运动装、吊带装、牛仔装、古风装。",
-    "text": "模特真的要失业了吗？\n\n用 Seedance 2.5 做了条甜酷风连续换装视频。 一条视频里直接切了运动装、吊带装、牛仔装、古风装。\n不需要真人模特、不需要摄影、不需要化妆、不需要场地。 一张拼贴参考图 + 一段提示词，就能一镜到底生成。\n\n效果我自己都有点震惊。 完整制作方法我放在下面🧵",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "model": "Seedance 2.5",
-    "category": "Showcase",
-    "date": "2026-08-01",
-    "author": {
-      "name": "blocktom",
-      "handle": "blocktom",
-      "url": "https://x.com/blocktom",
-      "avatar": "https://pbs.twimg.com/profile_images/2048497805829025792/7olbBqu4_200x200.jpg"
-    },
-    "video": {
-      "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/720x1280/eQ34HxmhbVAAS8Ee.mp4?tag=29",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083360583345487872/img/FGa6V8_7JOneNdhi.jpg",
-      "width": 720,
-      "height": 1280,
-      "duration": 8.06,
-      "formats": [
-        {
-          "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/320x568/4HjaBUaUVnCYba3j.mp4?tag=29",
-          "bitrate": 632000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/480x852/LHP4SeC1yL2257aM.mp4?tag=29",
-          "bitrate": 950000,
-          "container": "mp4",
-          "codec": "h264"
-        },
-        {
-          "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/720x1280/eQ34HxmhbVAAS8Ee.mp4?tag=29",
-          "bitrate": 2176000,
-          "container": "mp4",
-          "codec": "h264"
-        }
-      ]
-    },
-    "stats": {
-      "views": 1818,
-      "likes": 2,
-      "retweets": 0
     }
   },
   {
@@ -15002,9 +14953,58 @@
       ]
     },
     "stats": {
-      "views": 1816,
+      "views": 1832,
       "likes": 31,
       "retweets": 7
+    }
+  },
+  {
+    "id": "2083361106027061344",
+    "url": "https://x.com/blocktom/status/2083361106027061344",
+    "title": "用 Seedance 2.5 做了条甜酷风连续换装视频。 一条视频里直接切了运动装、吊带装、牛仔装、古风装。",
+    "text": "模特真的要失业了吗？\n\n用 Seedance 2.5 做了条甜酷风连续换装视频。 一条视频里直接切了运动装、吊带装、牛仔装、古风装。\n不需要真人模特、不需要摄影、不需要化妆、不需要场地。 一张拼贴参考图 + 一段提示词，就能一镜到底生成。\n\n效果我自己都有点震惊。 完整制作方法我放在下面🧵",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "model": "Seedance 2.5",
+    "category": "Showcase",
+    "date": "2026-08-01",
+    "author": {
+      "name": "blocktom",
+      "handle": "blocktom",
+      "url": "https://x.com/blocktom",
+      "avatar": "https://pbs.twimg.com/profile_images/2048497805829025792/7olbBqu4_200x200.jpg"
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/720x1280/eQ34HxmhbVAAS8Ee.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083360583345487872/img/FGa6V8_7JOneNdhi.jpg",
+      "width": 720,
+      "height": 1280,
+      "duration": 8.06,
+      "formats": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/320x568/4HjaBUaUVnCYba3j.mp4?tag=29",
+          "bitrate": 632000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/480x852/LHP4SeC1yL2257aM.mp4?tag=29",
+          "bitrate": 950000,
+          "container": "mp4",
+          "codec": "h264"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2083360583345487872/vid/avc1/720x1280/eQ34HxmhbVAAS8Ee.mp4?tag=29",
+          "bitrate": 2176000,
+          "container": "mp4",
+          "codec": "h264"
+        }
+      ]
+    },
+    "stats": {
+      "views": 1818,
+      "likes": 2,
+      "retweets": 0
     }
   },
   {
@@ -15057,8 +15057,8 @@
       ]
     },
     "stats": {
-      "views": 1667,
-      "likes": 102,
+      "views": 1670,
+      "likes": 101,
       "retweets": 16
     }
   },
@@ -15112,7 +15112,7 @@
       ]
     },
     "stats": {
-      "views": 1602,
+      "views": 1610,
       "likes": 23,
       "retweets": 1
     }
@@ -15216,7 +15216,7 @@
       ]
     },
     "stats": {
-      "views": 1549,
+      "views": 1554,
       "likes": 28,
       "retweets": 2
     }
@@ -15314,7 +15314,7 @@
       ]
     },
     "stats": {
-      "views": 1501,
+      "views": 1509,
       "likes": 26,
       "retweets": 3
     }
@@ -15412,8 +15412,8 @@
       ]
     },
     "stats": {
-      "views": 1417,
-      "likes": 89,
+      "views": 1419,
+      "likes": 88,
       "retweets": 1
     }
   },
@@ -15461,7 +15461,7 @@
       ]
     },
     "stats": {
-      "views": 1408,
+      "views": 1414,
       "likes": 33,
       "retweets": 0
     }
@@ -15510,7 +15510,7 @@
       ]
     },
     "stats": {
-      "views": 1392,
+      "views": 1394,
       "likes": 32,
       "retweets": 1
     }
@@ -15559,7 +15559,7 @@
       ]
     },
     "stats": {
-      "views": 1382,
+      "views": 1386,
       "likes": 6,
       "retweets": 1
     }
@@ -15608,7 +15608,7 @@
       ]
     },
     "stats": {
-      "views": 1361,
+      "views": 1363,
       "likes": 2,
       "retweets": 0
     },
@@ -15666,7 +15666,7 @@
       ]
     },
     "stats": {
-      "views": 1299,
+      "views": 1322,
       "likes": 4,
       "retweets": 1
     }
@@ -15715,7 +15715,7 @@
       ]
     },
     "stats": {
-      "views": 1234,
+      "views": 1240,
       "likes": 26,
       "retweets": 2
     }
@@ -15764,7 +15764,7 @@
       ]
     },
     "stats": {
-      "views": 1208,
+      "views": 1211,
       "likes": 39,
       "retweets": 1
     }
@@ -15807,7 +15807,7 @@
       ]
     },
     "stats": {
-      "views": 1154,
+      "views": 1159,
       "likes": 7,
       "retweets": 1
     }
@@ -15862,8 +15862,8 @@
       ]
     },
     "stats": {
-      "views": 1139,
-      "likes": 6,
+      "views": 1141,
+      "likes": 5,
       "retweets": 2
     }
   },
@@ -15917,7 +15917,7 @@
       ]
     },
     "stats": {
-      "views": 1088,
+      "views": 1092,
       "likes": 14,
       "retweets": 2
     }
@@ -15972,7 +15972,7 @@
       ]
     },
     "stats": {
-      "views": 1034,
+      "views": 1036,
       "likes": 2,
       "retweets": 0
     }
@@ -16021,7 +16021,7 @@
       ]
     },
     "stats": {
-      "views": 983,
+      "views": 984,
       "likes": 6,
       "retweets": 0
     }
@@ -16070,7 +16070,7 @@
       ]
     },
     "stats": {
-      "views": 981,
+      "views": 982,
       "likes": 3,
       "retweets": 1
     }
@@ -16125,7 +16125,7 @@
       ]
     },
     "stats": {
-      "views": 970,
+      "views": 971,
       "likes": 23,
       "retweets": 0
     }
@@ -16174,7 +16174,7 @@
       ]
     },
     "stats": {
-      "views": 968,
+      "views": 969,
       "likes": 27,
       "retweets": 0
     }
@@ -16223,7 +16223,7 @@
       ]
     },
     "stats": {
-      "views": 927,
+      "views": 928,
       "likes": 6,
       "retweets": 0
     }
@@ -16278,7 +16278,7 @@
       ]
     },
     "stats": {
-      "views": 858,
+      "views": 876,
       "likes": 8,
       "retweets": 1
     }
@@ -16572,7 +16572,7 @@
       ]
     },
     "stats": {
-      "views": 537,
+      "views": 538,
       "likes": 12,
       "retweets": 1
     }
@@ -16627,7 +16627,7 @@
       ]
     },
     "stats": {
-      "views": 457,
+      "views": 458,
       "likes": 1,
       "retweets": 0
     }
@@ -16676,7 +16676,7 @@
       ]
     },
     "stats": {
-      "views": 417,
+      "views": 418,
       "likes": 1,
       "retweets": 0
     }
@@ -16731,7 +16731,7 @@
       ]
     },
     "stats": {
-      "views": 212,
+      "views": 214,
       "likes": 1,
       "retweets": 0
     }
@@ -16750,7 +16750,7 @@
       "name": "Faith.Aifilm",
       "handle": "FaithAifilm",
       "url": "https://x.com/FaithAifilm",
-      "avatar": "https://pbs.twimg.com/profile_images/2087555299645575168/rk3ozvi0_200x200.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/2123390642764255232/61GgwtJg_200x200.jpg"
     },
     "video": {
       "url": "https://video.twimg.com/amplify_video/2083202379923722240/vid/avc1/2160x3840/IJ2OIW79yxDs0aLf.mp4?tag=29",

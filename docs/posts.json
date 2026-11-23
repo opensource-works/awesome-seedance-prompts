@@ -17,9 +17,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2076879408246493184/APDqyR2i_200x200.jpg"
     },
     "stats": {
-      "views": 15751187,
-      "likes": 2404,
-      "retweets": 709
+      "views": 15751719,
+      "likes": 2379,
+      "retweets": 699
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BytePlusGlobal_2083066957230915584.mp4",
@@ -51,9 +51,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2027024268723458053/iZHVefAG_200x200.jpg"
     },
     "stats": {
-      "views": 15405726,
-      "likes": 18043,
-      "retweets": 2142
+      "views": 15409600,
+      "likes": 18021,
+      "retweets": 2133
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/techhalla_2093363136875171840.mp4",
@@ -85,9 +85,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2084322756145889280/fUiWnUl8_200x200.jpg"
     },
     "stats": {
-      "views": 7792435,
+      "views": 7792625,
       "likes": 1444,
-      "retweets": 97
+      "retweets": 95
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/0xKarmi_2094820437473570817.mp4",
@@ -121,9 +121,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1979606053672157184/-o_spHcQ_200x200.jpg"
     },
     "stats": {
-      "views": 5356355,
-      "likes": 7028,
-      "retweets": 380
+      "views": 5358375,
+      "likes": 7019,
+      "retweets": 379
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Sheldon056_2091396374864748544.mp4",
@@ -157,9 +157,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105880950790144000/gk10W4fh_200x200.jpg"
     },
     "stats": {
-      "views": 3669928,
-      "likes": 4717,
-      "retweets": 414
+      "views": 3670962,
+      "likes": 4699,
+      "retweets": 413
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/RishuaVR_2089204070997532672.mp4",
@@ -191,9 +191,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058920864444547072/945Ledzd_200x200.jpg"
     },
     "stats": {
-      "views": 1284369,
-      "likes": 2267,
-      "retweets": 59
+      "views": 1284764,
+      "likes": 2251,
+      "retweets": 58
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Chengzilhy_2093568404246687744.mp4",
@@ -227,8 +227,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2102364729671077889/vmvxY-Qx_200x200.jpg"
     },
     "stats": {
-      "views": 1129992,
-      "likes": 7235,
+      "views": 1130018,
+      "likes": 7150,
       "retweets": 21
     },
     "video": {
@@ -261,8 +261,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2016718977960120320/a3F0LOz6_200x200.jpg"
     },
     "stats": {
-      "views": 784244,
-      "likes": 4138,
+      "views": 784451,
+      "likes": 4132,
       "retweets": 548
     },
     "video": {
@@ -275,40 +275,6 @@
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/deedydas_2020911840960880640.poster.webp",
       "attachment": "https://github.com/user-attachments/assets/926900f6-c947-4f70-9ad9-3ed8559289c9"
-    }
-  },
-  {
-    "id": "2092008235075084363",
-    "url": "https://x.com/buraktuyan/status/2092008235075084363",
-    "title": "Here's my 30-second spec ad for WinRAR (that nobody asked for)",
-    "text": "Here's my 30-second spec ad for WinRAR (that nobody asked for).\n\nOkay, perhaps Rourke Heath did.\n\nHe shared this fun brief with his GenHQ community last week, and I took it on.\n\nIn this experimental project, I wanted to turn one of the internet's longest-running jokes into a subtle family drama about WinRAR's 40-day trial that somehow lasted almost three decades.\n\nHere's how I made it:\n\nAfter writing the script (the old school way), I worked with ChatGPT 5.6 Sol Max to turn it into a 14,000-character prompt for Seedance 2.5 (yes, Dreamina allows prompts that long).\n\nI used GPT Image 2 to create the reference image for WinRAR's trial screen, while Seed Audio 1.0 generated the audio reference for the full voiceover and dialogue. After 20+ Seedance 2.5 tests at 480p, with the prompt evolving throughout, I generated the final versions at 720p. \n\nI then lightly edited the video and upscaled it to 1080p with Topaz Labs Astra Starlight Precision 2.6. However, the screenshot text didn't survive the upscale (I should have used  Astra's scene detection feature and selected a different model for that particular shot), so I recreated it using Seedance 2.0 at 1080p. (I also tried Hailuo H3 and Kling 3.0, but in this particular case, Seedance 2.0 gave me the best overall result in one go.) \n\nFor the sound, I selected a solo-instrument soundtrack from Epidemic Sound and added extra sound effects to improve the overall sound design.\n\nAnd here's the result. \n\nI'm curious to hear what you think.\n\nDid this bring back memories, or is this genuinely your first time hearing about WinRAR? I’d love to know.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.5",
-    "category": "Ads, UGC & Product",
-    "date": "2026-08-24",
-    "author": {
-      "name": "Burak Tuyan",
-      "handle": "buraktuyan",
-      "url": "https://x.com/buraktuyan",
-      "avatar": "https://pbs.twimg.com/profile_images/2004701128026472448/X2R1vyOP_200x200.jpg"
-    },
-    "stats": {
-      "views": 680802,
-      "likes": 2015,
-      "retweets": 221
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092006069383950336/img/2xfU9Xwto45-XKik.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 29.96,
-      "source_url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1920x1080/wD5k5Yv26yOTlXxP.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.poster.webp",
-      "attachment": null
     }
   },
   {
@@ -329,9 +295,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2036336259707314177/mqRCJ-mH_200x200.jpg"
     },
     "stats": {
-      "views": 675277,
-      "likes": 3426,
-      "retweets": 827
+      "views": 682711,
+      "likes": 3456,
+      "retweets": 826
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.mp4",
@@ -343,6 +309,40 @@
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/dreamina_ai_2083005997065633792.poster.webp",
       "attachment": "https://github.com/user-attachments/assets/8b605745-666b-41cb-b5de-25164c7312d8"
+    }
+  },
+  {
+    "id": "2092008235075084363",
+    "url": "https://x.com/buraktuyan/status/2092008235075084363",
+    "title": "Here's my 30-second spec ad for WinRAR (that nobody asked for)",
+    "text": "Here's my 30-second spec ad for WinRAR (that nobody asked for).\n\nOkay, perhaps Rourke Heath did.\n\nHe shared this fun brief with his GenHQ community last week, and I took it on.\n\nIn this experimental project, I wanted to turn one of the internet's longest-running jokes into a subtle family drama about WinRAR's 40-day trial that somehow lasted almost three decades.\n\nHere's how I made it:\n\nAfter writing the script (the old school way), I worked with ChatGPT 5.6 Sol Max to turn it into a 14,000-character prompt for Seedance 2.5 (yes, Dreamina allows prompts that long).\n\nI used GPT Image 2 to create the reference image for WinRAR's trial screen, while Seed Audio 1.0 generated the audio reference for the full voiceover and dialogue. After 20+ Seedance 2.5 tests at 480p, with the prompt evolving throughout, I generated the final versions at 720p. \n\nI then lightly edited the video and upscaled it to 1080p with Topaz Labs Astra Starlight Precision 2.6. However, the screenshot text didn't survive the upscale (I should have used  Astra's scene detection feature and selected a different model for that particular shot), so I recreated it using Seedance 2.0 at 1080p. (I also tried Hailuo H3 and Kling 3.0, but in this particular case, Seedance 2.0 gave me the best overall result in one go.) \n\nFor the sound, I selected a solo-instrument soundtrack from Epidemic Sound and added extra sound effects to improve the overall sound design.\n\nAnd here's the result. \n\nI'm curious to hear what you think.\n\nDid this bring back memories, or is this genuinely your first time hearing about WinRAR? I’d love to know.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.5",
+    "category": "Ads, UGC & Product",
+    "date": "2026-08-24",
+    "author": {
+      "name": "Burak Tuyan",
+      "handle": "buraktuyan",
+      "url": "https://x.com/buraktuyan",
+      "avatar": "https://pbs.twimg.com/profile_images/2004701128026472448/X2R1vyOP_200x200.jpg"
+    },
+    "stats": {
+      "views": 681121,
+      "likes": 2015,
+      "retweets": 221
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092006069383950336/img/2xfU9Xwto45-XKik.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 29.96,
+      "source_url": "https://video.twimg.com/amplify_video/2092006069383950336/vid/avc1/1920x1080/wD5k5Yv26yOTlXxP.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/buraktuyan_2092006069383950336.poster.webp",
+      "attachment": null
     }
   },
   {
@@ -363,9 +363,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 601386,
-      "likes": 609,
-      "retweets": 22
+      "views": 601456,
+      "likes": 599,
+      "retweets": 21
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2091266552645799936.mp4",
@@ -397,8 +397,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1583586611517919239/iU-EoCz1_200x200.jpg"
     },
     "stats": {
-      "views": 527420,
-      "likes": 2365,
+      "views": 527434,
+      "likes": 2364,
       "retweets": 184
     },
     "video": {
@@ -431,8 +431,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1793460098867838976/hoeoWt9M_200x200.jpg"
     },
     "stats": {
-      "views": 516674,
-      "likes": 518,
+      "views": 516688,
+      "likes": 517,
       "retweets": 59
     },
     "video": {
@@ -465,8 +465,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1762527050055942144/N3Z8QwmX_200x200.jpg"
     },
     "stats": {
-      "views": 509506,
-      "likes": 2520,
+      "views": 509554,
+      "likes": 2516,
       "retweets": 167
     },
     "video": {
@@ -501,9 +501,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2043791038528331776/rcl0HoZd_200x200.jpg"
     },
     "stats": {
-      "views": 413919,
-      "likes": 3208,
-      "retweets": 197
+      "views": 414115,
+      "likes": 3197,
+      "retweets": 195
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2096095525942792192.mp4",
@@ -537,8 +537,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_200x200.jpg"
     },
     "stats": {
-      "views": 391439,
-      "likes": 1234,
+      "views": 391460,
+      "likes": 1231,
       "retweets": 124
     },
     "video": {
@@ -571,8 +571,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2076432106004283392/KYizS111_200x200.jpg"
     },
     "stats": {
-      "views": 390161,
-      "likes": 2696,
+      "views": 390211,
+      "likes": 2695,
       "retweets": 282
     },
     "video": {
@@ -605,9 +605,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1794391433706635264/Lrg1VKED_200x200.jpg"
     },
     "stats": {
-      "views": 378557,
-      "likes": 931,
-      "retweets": 115
+      "views": 379980,
+      "likes": 941,
+      "retweets": 114
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/BubbleBrain_2083659140178857984.mp4",
@@ -641,7 +641,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_200x200.jpg"
     },
     "stats": {
-      "views": 353607,
+      "views": 354075,
       "likes": 44,
       "retweets": 4
     },
@@ -675,8 +675,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2102364729671077889/vmvxY-Qx_200x200.jpg"
     },
     "stats": {
-      "views": 338153,
-      "likes": 432,
+      "views": 338169,
+      "likes": 424,
       "retweets": 14
     },
     "video": {
@@ -709,8 +709,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
     },
     "stats": {
-      "views": 327508,
-      "likes": 578,
+      "views": 327680,
+      "likes": 574,
       "retweets": 56
     },
     "video": {
@@ -743,9 +743,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1933182609758052352/k_CZpuNi_200x200.jpg"
     },
     "stats": {
-      "views": 324102,
-      "likes": 7167,
-      "retweets": 829
+      "views": 324312,
+      "likes": 7163,
+      "retweets": 825
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TechieBySA_2094793021657059329.mp4",
@@ -779,9 +779,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1943371475370610688/CBxGxHmt_200x200.jpg"
     },
     "stats": {
-      "views": 283822,
+      "views": 287244,
       "likes": 880,
-      "retweets": 38
+      "retweets": 39
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2097487090565156864.mp4",
@@ -815,9 +815,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_200x200.jpg"
     },
     "stats": {
-      "views": 278942,
+      "views": 280299,
       "likes": 453,
-      "retweets": 49
+      "retweets": 47
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/johnAGI168_2095025208868397062.mp4",
@@ -849,8 +849,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2084298040383275008/Ptu2Ulik_200x200.jpg"
     },
     "stats": {
-      "views": 267668,
-      "likes": 1406,
+      "views": 267872,
+      "likes": 1405,
       "retweets": 130
     },
     "video": {
@@ -885,8 +885,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2043791038528331776/rcl0HoZd_200x200.jpg"
     },
     "stats": {
-      "views": 233136,
-      "likes": 1027,
+      "views": 233228,
+      "likes": 1022,
       "retweets": 68
     },
     "video": {
@@ -919,7 +919,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2080749613934682112/RGAD73oR_200x200.jpg"
     },
     "stats": {
-      "views": 231664,
+      "views": 231687,
       "likes": 713,
       "retweets": 410
     },
@@ -953,8 +953,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1933510938994302977/D0LvT95z_200x200.jpg"
     },
     "stats": {
-      "views": 230365,
-      "likes": 1622,
+      "views": 230735,
+      "likes": 1623,
       "retweets": 201
     },
     "video": {
@@ -987,8 +987,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg"
     },
     "stats": {
-      "views": 208767,
-      "likes": 1867,
+      "views": 208784,
+      "likes": 1864,
       "retweets": 109
     },
     "video": {
@@ -1021,9 +1021,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2005751303662645249/HbZ-95uX_200x200.jpg"
     },
     "stats": {
-      "views": 198845,
-      "likes": 3328,
-      "retweets": 316
+      "views": 199025,
+      "likes": 3324,
+      "retweets": 315
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Framer_X_2091937135335018496.mp4",
@@ -1055,8 +1055,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058920864444547072/945Ledzd_200x200.jpg"
     },
     "stats": {
-      "views": 180710,
-      "likes": 310,
+      "views": 180908,
+      "likes": 311,
       "retweets": 10
     },
     "video": {
@@ -1089,8 +1089,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058447780331544576/2jWrKjez_200x200.jpg"
     },
     "stats": {
-      "views": 174906,
-      "likes": 820,
+      "views": 175145,
+      "likes": 818,
       "retweets": 116
     },
     "video": {
@@ -1123,7 +1123,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2023593102985031680/xDuI5Nf6_200x200.jpg"
     },
     "stats": {
-      "views": 173450,
+      "views": 173451,
       "likes": 84,
       "retweets": 21
     },
@@ -1160,9 +1160,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105370789683879936/uRffy6XD_200x200.jpg"
     },
     "stats": {
-      "views": 168584,
-      "likes": 2163,
-      "retweets": 277
+      "views": 168848,
+      "likes": 2162,
+      "retweets": 278
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2048653698419884032.mp4",
@@ -1194,9 +1194,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1933182609758052352/k_CZpuNi_200x200.jpg"
     },
     "stats": {
-      "views": 165495,
-      "likes": 3568,
-      "retweets": 359
+      "views": 165616,
+      "likes": 3567,
+      "retweets": 357
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TechieBySA_2094474156251226113.mp4",
@@ -1230,9 +1230,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2047587292928524288/ocf-T57x_200x200.jpg"
     },
     "stats": {
-      "views": 157229,
-      "likes": 583,
-      "retweets": 110
+      "views": 157315,
+      "likes": 582,
+      "retweets": 109
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mrdejie_2083432413649350656.mp4",
@@ -1264,8 +1264,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2026229328909148160/THujiwCQ_200x200.jpg"
     },
     "stats": {
-      "views": 153754,
-      "likes": 166,
+      "views": 153757,
+      "likes": 163,
       "retweets": 14
     },
     "video": {
@@ -1300,8 +1300,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 151861,
-      "likes": 295,
+      "views": 152135,
+      "likes": 294,
       "retweets": 41
     },
     "video": {
@@ -1334,7 +1334,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_200x200.jpg"
     },
     "stats": {
-      "views": 142721,
+      "views": 142734,
       "likes": 1301,
       "retweets": 114
     },
@@ -1368,8 +1368,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2027024268723458053/iZHVefAG_200x200.jpg"
     },
     "stats": {
-      "views": 140587,
-      "likes": 379,
+      "views": 140652,
+      "likes": 377,
       "retweets": 30
     },
     "video": {
@@ -1404,9 +1404,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2043791038528331776/rcl0HoZd_200x200.jpg"
     },
     "stats": {
-      "views": 124505,
-      "likes": 664,
-      "retweets": 43
+      "views": 124593,
+      "likes": 660,
+      "retweets": 42
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithkhan_2094997804003557376.mp4",
@@ -1438,7 +1438,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1929469000523632640/YTolwnk7_200x200.jpg"
     },
     "stats": {
-      "views": 122328,
+      "views": 122329,
       "likes": 75,
       "retweets": 6
     },
@@ -1472,9 +1472,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2005755302478761984/lVftm2tK_200x200.jpg"
     },
     "stats": {
-      "views": 122123,
-      "likes": 75,
-      "retweets": 49
+      "views": 122139,
+      "likes": 73,
+      "retweets": 48
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/XMonetizationC__2093358937232039936.mp4",
@@ -1508,9 +1508,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2011073742378549248/vYtcYdKM_200x200.jpg"
     },
     "stats": {
-      "views": 118553,
-      "likes": 430,
-      "retweets": 21
+      "views": 118590,
+      "likes": 429,
+      "retweets": 20
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/doctorwasif_2089933387809406976.mp4",
@@ -1544,8 +1544,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2011073742378549248/vYtcYdKM_200x200.jpg"
     },
     "stats": {
-      "views": 117933,
-      "likes": 417,
+      "views": 117970,
+      "likes": 415,
       "retweets": 28
     },
     "video": {
@@ -1578,8 +1578,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2042181738361700352/UtjOvw5w_200x200.jpg"
     },
     "stats": {
-      "views": 114965,
-      "likes": 115,
+      "views": 114995,
+      "likes": 114,
       "retweets": 5
     },
     "video": {
@@ -1612,8 +1612,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2001674066445385728/b2zrzn2q_200x200.jpg"
     },
     "stats": {
-      "views": 112339,
-      "likes": 20,
+      "views": 112340,
+      "likes": 19,
       "retweets": 0
     },
     "video": {
@@ -1646,8 +1646,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1974911302347665408/o7rg01rJ_200x200.jpg"
     },
     "stats": {
-      "views": 109447,
-      "likes": 840,
+      "views": 109497,
+      "likes": 839,
       "retweets": 63
     },
     "video": {
@@ -1680,8 +1680,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075068735019249664/8CPQFQhC_200x200.jpg"
     },
     "stats": {
-      "views": 109105,
-      "likes": 115,
+      "views": 109108,
+      "likes": 114,
       "retweets": 5
     },
     "video": {
@@ -1715,7 +1715,7 @@
     },
     "stats": {
       "views": 102194,
-      "likes": 98,
+      "likes": 97,
       "retweets": 7
     },
     "video": {
@@ -1750,9 +1750,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1943371475370610688/CBxGxHmt_200x200.jpg"
     },
     "stats": {
-      "views": 94502,
+      "views": 94942,
       "likes": 117,
-      "retweets": 6
+      "retweets": 5
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john87445528_2092027983955480576.mp4",
@@ -1784,8 +1784,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1618624394380840961/1ZddKIg3_200x200.png"
     },
     "stats": {
-      "views": 92797,
-      "likes": 222,
+      "views": 92970,
+      "likes": 223,
       "retweets": 19
     },
     "video": {
@@ -1818,8 +1818,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2068056912403542016/cbRcKhfn_200x200.jpg"
     },
     "stats": {
-      "views": 91508,
-      "likes": 661,
+      "views": 91518,
+      "likes": 662,
       "retweets": 74
     },
     "video": {
@@ -1852,9 +1852,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2027024268723458053/iZHVefAG_200x200.jpg"
     },
     "stats": {
-      "views": 88895,
-      "likes": 879,
-      "retweets": 72
+      "views": 89094,
+      "likes": 880,
+      "retweets": 70
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/techhalla_2094475691832033280.mp4",
@@ -1886,9 +1886,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2060380336501190656/OPs0nWuI_200x200.jpg"
     },
     "stats": {
-      "views": 88019,
-      "likes": 1350,
-      "retweets": 184
+      "views": 88156,
+      "likes": 1346,
+      "retweets": 183
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/beginnersblog1_2088679542206742528.mp4",
@@ -1899,40 +1899,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2088679542206742528/vid/avc1/1286x1608/smlvGBvU4gCZNhQ7.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/beginnersblog1_2088679542206742528.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/beginnersblog1_2088679542206742528.poster.webp",
-      "attachment": null
-    }
-  },
-  {
-    "id": "2083173807896817876",
-    "url": "https://x.com/yachimat_manga/status/2083173807896817876",
-    "title": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！",
-    "text": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！\nつまりここを追いかけておけばとりあえず問題ない\n #DreaminaSeedance25 #DreaminaAI\n\nというわけで噂の５０リファレンスの実力というものをテストするためにボリウッドダンス踊ってもらっています\n（もともとは みんみんさんのプロンプトから拝借してますが、公開されていたやつなのでここでも共有します）\n\nさて、５０といえども安定して出力できるのは何個なのか？聞いてみたところ・・・",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.5",
-    "category": "Showcase",
-    "date": "2026-07-31",
-    "author": {
-      "name": "yachimat - AI Short Anime",
-      "handle": "yachimat_manga",
-      "url": "https://x.com/yachimat_manga",
-      "avatar": "https://pbs.twimg.com/profile_images/1800905718997864448/qdHxO3Qu_200x200.jpg"
-    },
-    "stats": {
-      "views": 83295,
-      "likes": 292,
-      "retweets": 49
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083172151062847488/img/sT6saDb0iXnkFDY6.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 33.13,
-      "source_url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/1280x720/j3lg1Pvq_iMfrHyu.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.poster.webp",
       "attachment": null
     }
   },
@@ -1956,7 +1922,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2054535636728623105/Bv0-RKgv_200x200.png"
     },
     "stats": {
-      "views": 83239,
+      "views": 83447,
       "likes": 178,
       "retweets": 12
     },
@@ -1969,6 +1935,40 @@
       "source_url": "https://video.twimg.com/amplify_video/2092315136434286592/vid/avc1/1920x1080/X32zieXtGKL7Gxq5.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/YourAlphaMom_2092315136434286592.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/YourAlphaMom_2092315136434286592.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2083173807896817876",
+    "url": "https://x.com/yachimat_manga/status/2083173807896817876",
+    "title": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！",
+    "text": "重要：DreaminaがDreamina Seedance2.5の公式プラットフォームです！\nつまりここを追いかけておけばとりあえず問題ない\n #DreaminaSeedance25 #DreaminaAI\n\nというわけで噂の５０リファレンスの実力というものをテストするためにボリウッドダンス踊ってもらっています\n（もともとは みんみんさんのプロンプトから拝借してますが、公開されていたやつなのでここでも共有します）\n\nさて、５０といえども安定して出力できるのは何個なのか？聞いてみたところ・・・",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.5",
+    "category": "Showcase",
+    "date": "2026-07-31",
+    "author": {
+      "name": "yachimat - AI Short Anime",
+      "handle": "yachimat_manga",
+      "url": "https://x.com/yachimat_manga",
+      "avatar": "https://pbs.twimg.com/profile_images/1800905718997864448/qdHxO3Qu_200x200.jpg"
+    },
+    "stats": {
+      "views": 83384,
+      "likes": 292,
+      "retweets": 49
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083172151062847488/img/sT6saDb0iXnkFDY6.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 33.13,
+      "source_url": "https://video.twimg.com/amplify_video/2083172151062847488/vid/avc1/1280x720/j3lg1Pvq_iMfrHyu.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/yachimat_manga_2083172151062847488.poster.webp",
       "attachment": null
     }
   },
@@ -1990,7 +1990,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1923873453498646528/wNZGnvlf_200x200.jpg"
     },
     "stats": {
-      "views": 80745,
+      "views": 80784,
       "likes": 985,
       "retweets": 64
     },
@@ -2024,9 +2024,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2063383601748881408/fAIbSQTr_200x200.jpg"
     },
     "stats": {
-      "views": 79862,
-      "likes": 2739,
-      "retweets": 128
+      "views": 80270,
+      "likes": 2718,
+      "retweets": 126
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/stellarprtcol_2091743450073059328.mp4",
@@ -2058,9 +2058,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_200x200.jpg"
     },
     "stats": {
-      "views": 77722,
+      "views": 77724,
       "likes": 591,
-      "retweets": 31
+      "retweets": 30
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/testingcatalog_2076043046462857216.mp4",
@@ -2092,7 +2092,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1562599888759574533/rkGoD8Vk_200x200.jpg"
     },
     "stats": {
-      "views": 75307,
+      "views": 75425,
       "likes": 279,
       "retweets": 18
     },
@@ -2126,7 +2126,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2054811117185310720/ZvVS3O8T_200x200.jpg"
     },
     "stats": {
-      "views": 74445,
+      "views": 74648,
       "likes": 145,
       "retweets": 18
     },
@@ -2160,8 +2160,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1793460098867838976/hoeoWt9M_200x200.jpg"
     },
     "stats": {
-      "views": 70895,
-      "likes": 662,
+      "views": 70916,
+      "likes": 659,
       "retweets": 85
     },
     "video": {
@@ -2196,8 +2196,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1794391433706635264/Lrg1VKED_200x200.jpg"
     },
     "stats": {
-      "views": 68644,
-      "likes": 331,
+      "views": 68742,
+      "likes": 332,
       "retweets": 24
     },
     "video": {
@@ -2232,8 +2232,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/900242543778029568/tkqfzUmR_200x200.jpg"
     },
     "stats": {
-      "views": 66583,
-      "likes": 104,
+      "views": 66595,
+      "likes": 103,
       "retweets": 4
     },
     "video": {
@@ -2268,7 +2268,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2068364252990369792/zg5A34Ph_200x200.jpg"
     },
     "stats": {
-      "views": 65357,
+      "views": 65380,
       "likes": 120,
       "retweets": 4
     },
@@ -2319,40 +2319,6 @@
     }
   },
   {
-    "id": "2089001978781368374",
-    "url": "https://x.com/EXM7777/status/2089001978781368374",
-    "title": "i just open sourced the workflow behind $2M AI video productions",
-    "text": "i just open sourced the workflow behind $2M AI video productions...\n\ni built 7 skills that run the pipeline end to end, built for Seedance 2.5 and they work in Claude Code, Codex, Hermes or any harness (works best with 1080p using Higgsfield CLI)\n\nhere's how to use them, in order:\n\n/setup writes which image and video models you run into your project, once, so every skill reads the same stack\n\n/studio-init scaffolds the whole studio as a file tree from one question, the project name\n\n/film-breakdown walks your script scene by scene and writes a 22-field card for every shot\n\n/reference-board locks your references into a visual bible, a caption on every image and a ban list for the rest\n\n/asset-passport writes the exhaustive descriptor every later prompt will quote word for word\n\n/stress-test combat-tests each asset and flips it to locked only at 10 out of 10 repeatability\n\n/shot-prompt refuses to run until everything in frame is locked, then writes the 15-block prompt and logs every attempt\n\nget access to the skills and full breakdown of the pipeline in the article below:",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.5",
-    "category": "Action & VFX",
-    "date": "2026-08-16",
-    "author": {
-      "name": "Machina",
-      "handle": "EXM7777",
-      "url": "https://x.com/EXM7777",
-      "avatar": "https://pbs.twimg.com/profile_images/1922574051580563456/-OFXIxnm_200x200.jpg"
-    },
-    "stats": {
-      "views": 62512,
-      "likes": 510,
-      "retweets": 43
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089001937106821120/img/DOHRPHXhBwNbamNs.jpg",
-      "width": 3552,
-      "height": 2160,
-      "duration": 12.38,
-      "source_url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/1184x720/Ax-ASzfyfw49y7bI.mp4?tag=14",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.poster.webp",
-      "attachment": null
-    }
-  },
-  {
     "id": "2095083714120229230",
     "url": "https://x.com/The_Kremlinn/status/2095083714120229230",
     "title": "Tried Seedance 2.5 on @videoduck_ai for this short action film",
@@ -2372,9 +2338,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2064040458335010816/BGu2ZYBN_200x200.jpg"
     },
     "stats": {
-      "views": 62442,
-      "likes": 78,
-      "retweets": 3
+      "views": 62682,
+      "likes": 80,
+      "retweets": 4
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/The_Kremlinn_2095083598990778370.mp4",
@@ -2385,6 +2351,40 @@
       "source_url": "https://video.twimg.com/amplify_video/2095083598990778370/vid/avc1/854x480/NEy6kirwgIVrpM90.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/The_Kremlinn_2095083598990778370.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/The_Kremlinn_2095083598990778370.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2089001978781368374",
+    "url": "https://x.com/EXM7777/status/2089001978781368374",
+    "title": "i just open sourced the workflow behind $2M AI video productions",
+    "text": "i just open sourced the workflow behind $2M AI video productions...\n\ni built 7 skills that run the pipeline end to end, built for Seedance 2.5 and they work in Claude Code, Codex, Hermes or any harness (works best with 1080p using Higgsfield CLI)\n\nhere's how to use them, in order:\n\n/setup writes which image and video models you run into your project, once, so every skill reads the same stack\n\n/studio-init scaffolds the whole studio as a file tree from one question, the project name\n\n/film-breakdown walks your script scene by scene and writes a 22-field card for every shot\n\n/reference-board locks your references into a visual bible, a caption on every image and a ban list for the rest\n\n/asset-passport writes the exhaustive descriptor every later prompt will quote word for word\n\n/stress-test combat-tests each asset and flips it to locked only at 10 out of 10 repeatability\n\n/shot-prompt refuses to run until everything in frame is locked, then writes the 15-block prompt and logs every attempt\n\nget access to the skills and full breakdown of the pipeline in the article below:",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.5",
+    "category": "Action & VFX",
+    "date": "2026-08-16",
+    "author": {
+      "name": "Machina",
+      "handle": "EXM7777",
+      "url": "https://x.com/EXM7777",
+      "avatar": "https://pbs.twimg.com/profile_images/1922574051580563456/-OFXIxnm_200x200.jpg"
+    },
+    "stats": {
+      "views": 62539,
+      "likes": 510,
+      "retweets": 43
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089001937106821120/img/DOHRPHXhBwNbamNs.jpg",
+      "width": 3552,
+      "height": 2160,
+      "duration": 12.38,
+      "source_url": "https://video.twimg.com/amplify_video/2089001937106821120/vid/avc1/1184x720/Ax-ASzfyfw49y7bI.mp4?tag=14",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EXM7777_2089001937106821120.poster.webp",
       "attachment": null
     }
   },
@@ -2408,9 +2408,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
     },
     "stats": {
-      "views": 61481,
-      "likes": 559,
-      "retweets": 67
+      "views": 61525,
+      "likes": 558,
+      "retweets": 65
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2075060566352343040.mp4",
@@ -2442,8 +2442,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2111859675901943809/gNsH0aEX_200x200.jpg"
     },
     "stats": {
-      "views": 57234,
-      "likes": 155,
+      "views": 57306,
+      "likes": 153,
       "retweets": 9
     },
     "video": {
@@ -2478,8 +2478,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058848213046579200/qU5kj8IY_200x200.jpg"
     },
     "stats": {
-      "views": 56751,
-      "likes": 121,
+      "views": 56765,
+      "likes": 120,
       "retweets": 9
     },
     "video": {
@@ -2512,7 +2512,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2031789924744126464/5GrgB0m-_200x200.jpg"
     },
     "stats": {
-      "views": 56413,
+      "views": 56417,
       "likes": 243,
       "retweets": 6
     },
@@ -2546,8 +2546,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2072736027610079232/4ciEqy7h_200x200.jpg"
     },
     "stats": {
-      "views": 56208,
-      "likes": 215,
+      "views": 56217,
+      "likes": 212,
       "retweets": 24
     },
     "video": {
@@ -2582,9 +2582,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1967102770500300803/ylHD6oXM_200x200.jpg"
     },
     "stats": {
-      "views": 55525,
-      "likes": 769,
-      "retweets": 108
+      "views": 55578,
+      "likes": 768,
+      "retweets": 107
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/john_my07_2048428337945788416.mp4",
@@ -2617,7 +2617,7 @@
     },
     "stats": {
       "views": 55508,
-      "likes": 390,
+      "likes": 387,
       "retweets": 121
     },
     "video": {
@@ -2650,8 +2650,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2007130975994875905/1nthcvju_200x200.jpg"
     },
     "stats": {
-      "views": 55163,
-      "likes": 795,
+      "views": 55195,
+      "likes": 794,
       "retweets": 58
     },
     "video": {
@@ -2686,8 +2686,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2043791038528331776/rcl0HoZd_200x200.jpg"
     },
     "stats": {
-      "views": 55115,
-      "likes": 466,
+      "views": 55146,
+      "likes": 464,
       "retweets": 44
     },
     "video": {
@@ -2720,9 +2720,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2089845866219589632/aEdG2e1-_200x200.jpg"
     },
     "stats": {
-      "views": 54325,
-      "likes": 43,
-      "retweets": 32
+      "views": 54328,
+      "likes": 42,
+      "retweets": 31
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/SirGlavan__2095100601650536454.mp4",
@@ -2754,9 +2754,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1977155592130011136/h03zAiRr_200x200.jpg"
     },
     "stats": {
-      "views": 54270,
-      "likes": 114,
-      "retweets": 16
+      "views": 54274,
+      "likes": 112,
+      "retweets": 15
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/copyelpadrino_2092008602223669248.mp4",
@@ -2790,7 +2790,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2099167075503874048/ZlBreeHm_200x200.jpg"
     },
     "stats": {
-      "views": 54172,
+      "views": 54256,
       "likes": 189,
       "retweets": 15
     },
@@ -2803,40 +2803,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2088762265302601728/vid/avc1/1920x1080/VRy-hDNJrSfXpeY_.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AI__TSUBAKI_2088762265302601728.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AI__TSUBAKI_2088762265302601728.poster.webp",
-      "attachment": null
-    }
-  },
-  {
-    "id": "2092007863421895110",
-    "url": "https://x.com/Handllex/status/2092007863421895110",
-    "title": "Seedance 2.5 is now available in Flova, bringing more controllable multi-shot video…",
-    "text": "Seedance 2.5 is now available in Flova, bringing more controllable multi-shot video generation into one workflow.\n\nThe prompt era is giving way to agent-native creation, with Flova linking the entire video-making process.\n\nFlova Agent and Direct Model receive the same interview scene with takeout boxes, noodles, and a final neuralyzer gag, making the difference in story control easy to see.\n\nFlova is not just a place to access models like Seedance 2.5. It turns them into a complete AI video creation workflow.\n\n1. You can ask the Agent to write the script and storyboard, review the Prompt Draft before generating, then create video, images, music, and voice step by step.\n2. If something doesn’t feel right, you can leave comments to revise specific parts. You can also save characters and assets you like for future projects.\n3. So AI generation is no longer just a one-time prompt, it becomes a controllable, editable, and reusable creative process.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.5",
-    "category": "Prompting & Workflow",
-    "date": "2026-08-24",
-    "author": {
-      "name": "Arcane Matrix | AI",
-      "handle": "Handllex",
-      "url": "https://x.com/Handllex",
-      "avatar": "https://pbs.twimg.com/profile_images/2054489594549153792/JmWM3mxQ_200x200.jpg"
-    },
-    "stats": {
-      "views": 52268,
-      "likes": 94,
-      "retweets": 5
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Handllex_2092007820619026432.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092007820619026432/img/y-0mz_mN4vRfzSOE.jpg",
-      "width": 1344,
-      "height": 2390,
-      "duration": 14.9,
-      "source_url": "https://video.twimg.com/amplify_video/2092007820619026432/vid/avc1/1344x2390/A-UXBJq_zlPb3C-a.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Handllex_2092007820619026432.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Handllex_2092007820619026432.poster.webp",
       "attachment": null
     }
   },
@@ -2860,8 +2826,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
     },
     "stats": {
-      "views": 52220,
-      "likes": 283,
+      "views": 53029,
+      "likes": 285,
       "retweets": 15
     },
     "video": {
@@ -2873,6 +2839,40 @@
       "source_url": "https://video.twimg.com/amplify_video/2093568824511709184/vid/avc1/1920x1080/QwypO-NXRR4r-2Go.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2093568824511709184.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/oggii_0_2093568824511709184.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2092007863421895110",
+    "url": "https://x.com/Handllex/status/2092007863421895110",
+    "title": "Seedance 2.5 is now available in Flova, bringing more controllable multi-shot video…",
+    "text": "Seedance 2.5 is now available in Flova, bringing more controllable multi-shot video generation into one workflow.\n\nThe prompt era is giving way to agent-native creation, with Flova linking the entire video-making process.\n\nFlova Agent and Direct Model receive the same interview scene with takeout boxes, noodles, and a final neuralyzer gag, making the difference in story control easy to see.\n\nFlova is not just a place to access models like Seedance 2.5. It turns them into a complete AI video creation workflow.\n\n1. You can ask the Agent to write the script and storyboard, review the Prompt Draft before generating, then create video, images, music, and voice step by step.\n2. If something doesn’t feel right, you can leave comments to revise specific parts. You can also save characters and assets you like for future projects.\n3. So AI generation is no longer just a one-time prompt, it becomes a controllable, editable, and reusable creative process.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.5",
+    "category": "Prompting & Workflow",
+    "date": "2026-08-24",
+    "author": {
+      "name": "Arcane Matrix | AI",
+      "handle": "Handllex",
+      "url": "https://x.com/Handllex",
+      "avatar": "https://pbs.twimg.com/profile_images/2054489594549153792/JmWM3mxQ_200x200.jpg"
+    },
+    "stats": {
+      "views": 52268,
+      "likes": 93,
+      "retweets": 4
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Handllex_2092007820619026432.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092007820619026432/img/y-0mz_mN4vRfzSOE.jpg",
+      "width": 1344,
+      "height": 2390,
+      "duration": 14.9,
+      "source_url": "https://video.twimg.com/amplify_video/2092007820619026432/vid/avc1/1344x2390/A-UXBJq_zlPb3C-a.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Handllex_2092007820619026432.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Handllex_2092007820619026432.poster.webp",
       "attachment": null
     }
   },
@@ -2894,9 +2894,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1946163490055426048/72myMMcG_200x200.jpg"
     },
     "stats": {
-      "views": 51932,
-      "likes": 90,
-      "retweets": 4
+      "views": 51933,
+      "likes": 89,
+      "retweets": 3
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AbretuPotencial_2091977871354990592.mp4",
@@ -2930,8 +2930,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2106434050726752256/n6zbonlU_200x200.jpg"
     },
     "stats": {
-      "views": 51683,
-      "likes": 824,
+      "views": 51731,
+      "likes": 821,
       "retweets": 79
     },
     "video": {
@@ -2965,8 +2965,8 @@
     },
     "stats": {
       "views": 51478,
-      "likes": 86,
-      "retweets": 4
+      "likes": 84,
+      "retweets": 3
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AbretuPotencial_2092010048511676416.mp4",
@@ -2998,8 +2998,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2017014472531927040/PveXzggN_200x200.jpg"
     },
     "stats": {
-      "views": 50394,
-      "likes": 276,
+      "views": 50900,
+      "likes": 285,
       "retweets": 11
     },
     "video": {
@@ -3032,8 +3032,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1967102770500300803/ylHD6oXM_200x200.jpg"
     },
     "stats": {
-      "views": 48508,
-      "likes": 298,
+      "views": 48552,
+      "likes": 297,
       "retweets": 19
     },
     "video": {
@@ -3066,8 +3066,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1898412161569005568/JF5_QOaZ_200x200.jpg"
     },
     "stats": {
-      "views": 48395,
-      "likes": 329,
+      "views": 48397,
+      "likes": 328,
       "retweets": 34
     },
     "video": {
@@ -3102,8 +3102,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 46194,
-      "likes": 119,
+      "views": 46230,
+      "likes": 117,
       "retweets": 11
     },
     "video": {
@@ -3138,9 +3138,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2063045023831408640/rYtp1s5V_200x200.jpg"
     },
     "stats": {
-      "views": 44901,
-      "likes": 125,
-      "retweets": 14
+      "views": 45332,
+      "likes": 124,
+      "retweets": 13
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/pyona_ai_2090084592149794816.mp4",
@@ -3174,8 +3174,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 44425,
-      "likes": 184,
+      "views": 44438,
+      "likes": 181,
       "retweets": 12
     },
     "video": {
@@ -3210,8 +3210,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 43861,
-      "likes": 430,
+      "views": 43910,
+      "likes": 427,
       "retweets": 34
     },
     "video": {
@@ -3244,7 +3244,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2072803108003184640/-TM0tlCW_200x200.jpg"
     },
     "stats": {
-      "views": 43832,
+      "views": 43834,
       "likes": 222,
       "retweets": 5
     },
@@ -3278,8 +3278,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2102996881127493632/8Qd_DYwb_200x200.jpg"
     },
     "stats": {
-      "views": 43374,
-      "likes": 410,
+      "views": 43401,
+      "likes": 411,
       "retweets": 37
     },
     "video": {
@@ -3314,9 +3314,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 43255,
-      "likes": 464,
-      "retweets": 46
+      "views": 43289,
+      "likes": 455,
+      "retweets": 44
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2088877510008373248.mp4",
@@ -3350,8 +3350,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 42956,
-      "likes": 209,
+      "views": 42983,
+      "likes": 207,
       "retweets": 12
     },
     "video": {
@@ -3384,9 +3384,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105370789683879936/uRffy6XD_200x200.jpg"
     },
     "stats": {
-      "views": 42783,
-      "likes": 379,
-      "retweets": 32
+      "views": 42828,
+      "likes": 380,
+      "retweets": 31
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aimikoda_2083181242929790976.mp4",
@@ -3418,7 +3418,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1766105344697069568/cBroChO3_200x200.jpg"
     },
     "stats": {
-      "views": 42507,
+      "views": 42508,
       "likes": 33,
       "retweets": 11
     },
@@ -3452,8 +3452,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2038642690037067776/ol3XyDR1_200x200.jpg"
     },
     "stats": {
-      "views": 41568,
-      "likes": 196,
+      "views": 41573,
+      "likes": 192,
       "retweets": 8
     },
     "video": {
@@ -3486,7 +3486,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095534540525903873/q3A8G-dZ_200x200.jpg"
     },
     "stats": {
-      "views": 40511,
+      "views": 40533,
       "likes": 268,
       "retweets": 26
     },
@@ -3520,8 +3520,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2064329467166957568/_FJD6maG_200x200.jpg"
     },
     "stats": {
-      "views": 40306,
-      "likes": 170,
+      "views": 40310,
+      "likes": 167,
       "retweets": 6
     },
     "video": {
@@ -3556,8 +3556,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2074821812513656832/cGUQcH1w_200x200.jpg"
     },
     "stats": {
-      "views": 39625,
-      "likes": 97,
+      "views": 39652,
+      "likes": 95,
       "retweets": 4
     },
     "video": {
@@ -3592,9 +3592,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2084189190179438592/6k6YB0zA_200x200.jpg"
     },
     "stats": {
-      "views": 39584,
-      "likes": 108,
-      "retweets": 32
+      "views": 39591,
+      "likes": 107,
+      "retweets": 31
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/mimu_ai1_2091215392400392192.mp4",
@@ -3628,8 +3628,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2038642690037067776/ol3XyDR1_200x200.jpg"
     },
     "stats": {
-      "views": 39535,
-      "likes": 146,
+      "views": 39554,
+      "likes": 143,
       "retweets": 3
     },
     "video": {
@@ -3662,8 +3662,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2082546817833783296/USfmt9HM_200x200.jpg"
     },
     "stats": {
-      "views": 39252,
-      "likes": 442,
+      "views": 39262,
+      "likes": 443,
       "retweets": 24
     },
     "video": {
@@ -3697,7 +3697,7 @@
     },
     "stats": {
       "views": 38181,
-      "likes": 55,
+      "likes": 56,
       "retweets": 2
     },
     "video": {
@@ -3730,8 +3730,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2010759957185249283/Sn-qu5bW_200x200.jpg"
     },
     "stats": {
-      "views": 37263,
-      "likes": 147,
+      "views": 37273,
+      "likes": 144,
       "retweets": 2
     },
     "video": {
@@ -3764,7 +3764,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2080756230893838336/q4VqZuw2_200x200.jpg"
     },
     "stats": {
-      "views": 37213,
+      "views": 37217,
       "likes": 302,
       "retweets": 21
     },
@@ -3800,8 +3800,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2102364729671077889/vmvxY-Qx_200x200.jpg"
     },
     "stats": {
-      "views": 36589,
-      "likes": 119,
+      "views": 36597,
+      "likes": 116,
       "retweets": 1
     },
     "video": {
@@ -3813,6 +3813,40 @@
       "source_url": "https://video.twimg.com/amplify_video/2093126623721902080/vid/avc1/1280x720/PvZ9DdJjFZIYqqSt.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithJessica_2093126623721902080.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithJessica_2093126623721902080.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2083109850985468125",
+    "url": "https://x.com/TanLuAI/status/2083109850985468125",
+    "title": "Seedance 2.5 的动作迁移和风格转化能力有点强",
+    "text": "Seedance 2.5 的动作迁移和风格转化能力有点强\n\n操作流程：\n1.Codex 生成深度视频\n2.Codex 生成 同一个人物不同场景的图片\n\n3.Seedance 2.5 参考 深度视频+人物图片\n4.选择480P（生成以后再超分720P）\n\n5.输入提示词👇👇👇",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.5",
+    "category": "Showcase",
+    "date": "2026-07-31",
+    "author": {
+      "name": "探路AI",
+      "handle": "TanLuAI",
+      "url": "https://x.com/TanLuAI",
+      "avatar": "https://pbs.twimg.com/profile_images/2031250772860731392/py9rDauU_200x200.jpg"
+    },
+    "stats": {
+      "views": 36467,
+      "likes": 129,
+      "retweets": 15
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083108456140337152/img/RTsSIL6DhYWlVWBk.jpg",
+      "width": 960,
+      "height": 720,
+      "duration": 15.07,
+      "source_url": "https://video.twimg.com/amplify_video/2083108456140337152/vid/avc1/960x720/h1BDm7h3WVWR-QKR.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.poster.webp",
       "attachment": null
     }
   },
@@ -3836,8 +3870,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_200x200.jpg"
     },
     "stats": {
-      "views": 36395,
-      "likes": 176,
+      "views": 36432,
+      "likes": 174,
       "retweets": 10
     },
     "video": {
@@ -3849,40 +3883,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2084238008266493952/vid/avc1/1280x720/9n4ATo5xaBU_x1vP.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2084238008266493952.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Just_sharon7_2084238008266493952.poster.webp",
-      "attachment": null
-    }
-  },
-  {
-    "id": "2083109850985468125",
-    "url": "https://x.com/TanLuAI/status/2083109850985468125",
-    "title": "Seedance 2.5 的动作迁移和风格转化能力有点强",
-    "text": "Seedance 2.5 的动作迁移和风格转化能力有点强\n\n操作流程：\n1.Codex 生成深度视频\n2.Codex 生成 同一个人物不同场景的图片\n\n3.Seedance 2.5 参考 深度视频+人物图片\n4.选择480P（生成以后再超分720P）\n\n5.输入提示词👇👇👇",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.5",
-    "category": "Showcase",
-    "date": "2026-07-31",
-    "author": {
-      "name": "探路AI",
-      "handle": "TanLuAI",
-      "url": "https://x.com/TanLuAI",
-      "avatar": "https://pbs.twimg.com/profile_images/2031250772860731392/py9rDauU_200x200.jpg"
-    },
-    "stats": {
-      "views": 36380,
-      "likes": 129,
-      "retweets": 15
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083108456140337152/img/RTsSIL6DhYWlVWBk.jpg",
-      "width": 960,
-      "height": 720,
-      "duration": 15.07,
-      "source_url": "https://video.twimg.com/amplify_video/2083108456140337152/vid/avc1/960x720/h1BDm7h3WVWR-QKR.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/TanLuAI_2083108456140337152.poster.webp",
       "attachment": null
     }
   },
@@ -3906,8 +3906,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
     },
     "stats": {
-      "views": 35796,
-      "likes": 391,
+      "views": 35836,
+      "likes": 390,
       "retweets": 42
     },
     "video": {
@@ -3924,7 +3924,7 @@
   },
   {
     "id": "2093429159460786590",
-    "url": "https://x.com/AskVenice/status/2093429159460786590",
+    "url": "https://x.com/VeniceAI/status/2093429159460786590",
     "title": "Seedance 2.5 vs MiniMax H3 Max",
     "text": "Seedance 2.5 vs MiniMax H3 Max\n\nSame prompt. Both models at max specs.\n\nSeedance 2.5\n1080p · 15s \ngenerated in 4m 56s\n\nMiniMax H3 Max\n768p · 15s \ngenerated in 18s",
     "prompt": null,
@@ -3935,24 +3935,24 @@
     "date": "2026-08-28",
     "author": {
       "name": "Venice",
-      "handle": "AskVenice",
-      "url": "https://x.com/AskVenice",
+      "handle": "VeniceAI",
+      "url": "https://x.com/VeniceAI",
       "avatar": "https://pbs.twimg.com/profile_images/2063006544615120896/yzx4UbK7_200x200.png"
     },
     "stats": {
-      "views": 35531,
-      "likes": 319,
+      "views": 35573,
+      "likes": 318,
       "retweets": 23
     },
     "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AskVenice_2093406246120374272.mp4",
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/VeniceAI_2093406246120374272.mp4",
       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093406246120374272/img/OIsZ471rc5yFqmMv.jpg",
       "width": 1920,
       "height": 1080,
       "duration": 36.02,
       "source_url": "https://video.twimg.com/amplify_video/2093406246120374272/vid/avc1/1920x1080/2kUp8m7-5Wb4ao4Y.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AskVenice_2093406246120374272.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AskVenice_2093406246120374272.poster.webp",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/VeniceAI_2093406246120374272.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/VeniceAI_2093406246120374272.poster.webp",
       "attachment": null
     }
   },
@@ -3976,8 +3976,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2068364252990369792/zg5A34Ph_200x200.jpg"
     },
     "stats": {
-      "views": 34969,
-      "likes": 155,
+      "views": 35076,
+      "likes": 153,
       "retweets": 5
     },
     "video": {
@@ -4012,7 +4012,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2050483594041434112/ubZMY0oR_200x200.jpg"
     },
     "stats": {
-      "views": 34443,
+      "views": 34455,
       "likes": 201,
       "retweets": 1
     },
@@ -4048,8 +4048,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2047587292928524288/ocf-T57x_200x200.jpg"
     },
     "stats": {
-      "views": 34293,
-      "likes": 125,
+      "views": 34332,
+      "likes": 123,
       "retweets": 18
     },
     "video": {
@@ -4084,7 +4084,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1943371475370610688/CBxGxHmt_200x200.jpg"
     },
     "stats": {
-      "views": 34123,
+      "views": 34236,
       "likes": 96,
       "retweets": 3
     },
@@ -4120,8 +4120,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2100631432469340160/P18ogXMl_200x200.jpg"
     },
     "stats": {
-      "views": 33729,
-      "likes": 377,
+      "views": 33747,
+      "likes": 376,
       "retweets": 30
     },
     "video": {
@@ -4154,8 +4154,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
     },
     "stats": {
-      "views": 32570,
-      "likes": 197,
+      "views": 32578,
+      "likes": 195,
       "retweets": 36
     },
     "video": {
@@ -4188,8 +4188,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2102364729671077889/vmvxY-Qx_200x200.jpg"
     },
     "stats": {
-      "views": 32524,
-      "likes": 174,
+      "views": 32527,
+      "likes": 173,
       "retweets": 1
     },
     "video": {
@@ -4201,6 +4201,42 @@
       "source_url": "https://video.twimg.com/amplify_video/2088851413308952577/vid/avc1/1280x720/w5tgt_LS8H3g-DZo.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithJessica_2088851413308952577.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithJessica_2088851413308952577.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2088819020564930606",
+    "url": "https://x.com/sailorv321/status/2088819020564930606",
+    "title": "「……決まったでしょ？👁️🐻」",
+    "text": "「……決まったでしょ？👁️🐻」\n「どこが！？🤣」\n\n30sの遊びは、15s遊びより2倍楽しい。\nそして負担も2倍🥹\n\n@capcutapp_jp \n#CapCutCPP #CapCut生成AI\n\nSeedance 2.5 Prompt:📷⬇️\n\n【参照画像】を30秒間の唯一の主人公＋ベア参照として固定使用する。Seedance 2.5向け、16:9・30秒・60fps。映像全体を一本の連続した超高速AAAファンタジー・シネマティックとして生成する。今回の映像は前作の「高高度から地下へ落下し続ける構造」を使用せず、舞台、進行方向、生物、映像展開を全面的に変更する。核は「主人公とベアが巨大な異世界都市を逃げ回り、飛び、乗り換え、世界そのものを横断する30秒」。主人公とベアは常に一本の運動線上で移動し、通常編集カット、暗転、フェード、突然の場所変更、ポータル、ワープ穴は禁止。カメラは主人公の横を追うだけではなく、正面迎撃、背面追跡、頭上越し、地面すれすれ、巨大生物の翼下、主人公とベアの間、狭い建築物内部などを高速で行き来し、30秒間ほぼ同じ位置に留まらない。\n\n【最重要：参照画像のAAA化】 【参照画像】の主人公を、写実人間や通常の美少女へ置換せず、参照画像固有の「一つ目の異形キャラクター」として最高品質AAA 3Dキャラクターへ再構築する。成人女性として扱うが、人間の顔へ矯正しない。顔中央に存在する巨大な一つ目、白い眼球、紫〜青〜赤の虹彩、黒い瞳孔、非常に大きな歯を見せる特徴的な笑顔を完全維持。目を二つに増やさない。普通の人間顔にしない。赤〜深いワイン色の丸いヘルメット、黒い縁、ヘルメット上の黒い小さな丸装飾、黒いボディスーツ／ジャケット、白い骨格モチーフ、赤いコード状装飾、黒いボリュームのある下衣装、濃紺〜黒の靴を参照画像から取得する。水彩の赤、青、紫、緑、黒の色ムラは消さず、AAA化した素材表面へ手塗り染料、擦れた顔料、微細な色移りとして残す。皮膚をリアルな人間肌にし過ぎず、実在素材感を持つ高品質stylized AAA characterとして処理する。表面には細かな粗さ、塗装ムラ、縫製、金属、ゴム、布、革、微細な傷を持たせる。参照画像の黒いインク輪郭は完全な2D線として残さず、衣装の黒い縁取り、ヘルメットの厚いエッジ、陰影の輪郭設計へ3D的に翻訳する。ゲーム画面のような安いCGにはしない。Unreal Engine級AAAシネマティック、長編アニメ映画級の材質、GI、反射、体積光、レンズ表現を使う。\n\n【ベア固定】 【参照画像】で主人公が抱えているピンク〜紫系のベアを、今回は主人公と並ぶ第二キャラクターとして30秒間常時維持する。単なるぬいぐるみではなく、主人公と会話し、自分で走り、自分で空を飛び、主人公と同速度で移動できる小型の生きたベア。参照画像の丸い耳、黒い目、黒い鼻、白〜クリーム色の口周り、ピンク、紫、青、緑、淡黄色が水彩のように混ざる身体、縫い目、柔らかな丸い手足を維持する。AAA化では高級ぬいぐるみ＋幻想生物の中間。短く柔らかな繊維、縫い糸、少し擦れた布地、柔らかい圧縮変形、耳や手足の慣性を表現する。ベアは主人公のコピーでもペットでもなく、少し生意気な相棒。主人公と別の声を持つ。主人公とベアのサイズ差を維持し、ベアを巨大化させない。主人公が必要な場面では片腕で抱えることができる大きさ。\n\n【舞台】 開始地点は、夕暮れの巨大な「浮遊メガシティ」。普通のビル街ではなく、赤錆色の巨大鉄骨、ガラスの高架回廊、空中を走る磁気列車、上下逆向きに建つ建築群、巨大風車、浮遊広告板のフレームだけが残る廃未来都市、雲を突き抜ける高層塔、遠方で回転する巨大なリング状都市構造を持つ。色は夕焼けのオレンジ、深い群青、赤紫、冷たいシアン。過剰なネオンは禁止。すべて最高品質AAA 3Dシネマティック。後半では都市→雲海→空中水路→巨大ガラス森林→夜の浮遊市場へ連続移動するが、どれも突然切り替えない。建築物、天候、生物、地形の物理的な連続によって次の領域へ入る。\n\n【カメラ基本設計】 18〜24mm広角を高速移動の基本とし、会話や表情では28〜40mmへ自然に寄せる。60fps。カメラはドローンのように平行追跡し続けない。0.4〜1.2秒ごとに高さ、距離、角度、速度を変える。主人公とベアの前を後退→主人公の肩すれすれを通過→ベアの下を潜る→巨大生物より先に進む→正面へ回る→地面すれすれで後退→建築の穴を先に通り抜ける、といった三次元移動を連続させる。意味のない360度ロールは禁止。ただし巨大生物の旋回、重力方向変化、建築物の曲面に合わせた短い15〜70度のバンクは積極的に使う。高速運動部分だけ自然な方向性モーションブラーを入れ、主人公の一つ目、笑顔、ベアの表情は読める程度に保持する。\n\n【0.00〜3.20秒｜いきなり空中列車の屋根を全力疾走】 第1フレームから強烈な速度。主人公とベアは、夕暮れの浮遊都市を時速数百kmで走る黒い磁気列車の屋根を全力疾走している。主人公が前、ベアが1〜2m後ろを短い脚で必死に走る。主人公の赤いコード、黒い衣装、ヘルメット装飾が風圧で揺れ、ベアの耳と腕が激しく後方へ流れる。開始カメラは列車前方約4m、屋根すれすれ20mmで後退しながら二人を正面から捉える。0.5秒でカメラが主人公の足元へ急降下し、列車屋根の金属継ぎ目がレンズ下を猛烈に流れる。0.9秒で主人公の右脚の外側から一気に上昇し、巨大な一つ目と歯を見せる笑顔へ24mmで接近。主人公は走りながら振り返り、後ろのベアへ「遅いよ〜！」と楽しそうに叫ぶ。ベアは息を切らしながら「脚の長さ考えてよ！」と返す。完全リップシンク。1.5秒、前方に途切れたレールと巨大な空中ギャップが見える。主人公は速度を落とさず「じゃ、飛ぶよ！」。ベアが「聞いてない！」。2.3秒、主人公が列車屋根を蹴り、ベアも直後にジャンプ。カメラは二人の間を高速ですり抜け、そのまま先に空中へ飛び出して振り返り、背後から迫る主人公とベアを正面から受ける。\n\n【3.20〜6.30秒｜巨大白鴉へ飛び乗る】 都市上空には数十羽の黒い鳥が飛んでいるが、その奥から翼長15m以上の巨大な白銀の鴉が高速下降してくる。突然召喚しない。2秒台から遠方に小さな白い影として存在させ、3.5秒で翼、嘴、白銀羽根、青黒い眼が明確になる。主人公とベアは自由飛行せず、ジャンプ後は重力で落下。巨大鴉がその下を斜めに横切る。主人公が空中で身体を90度捻り、4.2秒に鴉の背へ片膝で動的着地。片手で羽根を掴み衝撃を吸収。ベアは着地位置を外し、「うわぁぁ！」と小さく叫びながら鴉の翼端へ落ちるが、主人公が即座に片手を伸ばしてベアの腕を掴み、振り子のように引き上げる。カメラは鴉の翼下をすり抜け、下方から主人公がベアを引き上げる姿を見上げる。5.0秒、ベアが背へ転がり込み「最初から抱えててよ！」、主人公は大笑いして「それじゃ面白くないじゃん！」。鴉は翼を一度強く打ち、都市の建築群の間へ急降下。カメラは頭部前方へ先回りして後退し、白銀鴉、主人公、ベア、その後ろを高速で流れる都市を一画面へ入れる。\n\n【6.30〜9.30秒｜高層都市内部を白鴉で超高速突破】 白鴉は水平巡航せず、高層建築の間を下降と上昇を組み合わせて蛇行する。6.5秒、巨大ガラス塔の二本の梁の間を翼を畳んで通過。主人公は身体を低く伏せ、ベアを胸元へ引き寄せる。カメラは鴉より先に狭い隙間へ飛び込み、ガラスと金属が左右10cm程度まで迫る18mm超広角。その直後、鴉がレンズ方向へ猛烈に突入し、カメラは後方へ加速して回避。7.2秒、鴉は翼を再展開して左へ急旋回。カメラは右翼上面を滑るように移動し、そのまま主人公の肩越しに前方を見る。前方には都市中央を流れる巨大な透明「空中水路」。水が巨大な帯のように空中へ保持され、建築物の間を蛇行している。白鴉が水路へ向かって下降。主人公が「え、そこ入るの？」。ベアが青ざめたような表情で「絶対入る顔してる！」。鴉はそのまま透明水流へ突入する。\n\n【9.30〜12.40秒｜空中水路へ突入→巨大天空鯉へ乗り換え】 鴉が水へ入る瞬間、画面をフラッシュさせず、水面の屈折、泡、水圧、羽根への水の付着を物理的に連続させる。AAA質感は維持。鴉の羽根は濡れて重くなり、速度が急減。主人公とベアは慣性で前方へ放り出される。主人公は鴉の首を一度軽く撫で、「ありがと！」と言いながら水流内を前方へ泳ぐ。ベアは泳ぐのではなく、丸い身体の浮力でくるくる回転して主人公の横へ流れてくる。「ぼく泳げないんだけど！」。主人公は「浮いてるから大丈夫！」。10.4秒、下流側から巨大な半透明の天空鯉が水流に沿って高速で迫る。体長12m、乳白色と淡いシアン、透明なヒレ、金色の細い鱗、内部に柔らかな光を持つ。鯉は魔法的に出現せず、最初から水路遠方を泳いでいる。主人公が水中で身体を反転し、鯉の背へ手を伸ばす。11.2秒、鯉が主人公の下を通過する瞬間に背鰭基部を掴み、身体を引き寄せる。ベアは鯉の頭上へぽすっと着地。カメラは鯉の口元すれすれから後方へ走り、巨大な目、頭上のベア、背中へ移る主人公を一度に見せる。12.0秒、鯉が空中水路から大きく跳び出す。水滴が数秒残らず、重力に従って下へ落ちる。\n\n【12.40〜15.60秒｜空飛ぶ天空鯉＋雲海ジャンプ】 水路を飛び出した巨大鯉は魚のように空中を自由飛行するのではなく、水路出口から射出された勢いと巨大ヒレの揚力で短時間グライドする。主人公とベアはその背に乗ったまま、都市外縁の雲海へ向かう。カメラは鯉の真下へ潜り、透明な腹部越しに上の主人公とベアを屈折させて見せる。13.0秒、カメラが鯉の尾より後ろへ抜け、そのまま上昇して背後上空へ。前方に巨大なガラス森林が見え始める。高さ数百メートルの透明樹木群、枝がプリズムのように分岐し、その間を風が高速で抜ける。鯉の飛行速度が徐々に低下。主人公が前方を指差して「次、あそこ！」。ベア「次って何！？」。主人公「考えてない！」。ベア「知ってた！」。14.3秒、鯉がガラス森林上部へ接近するが、枝間が狭く巨大鯉は入れない。主人公は鯉の背を一度撫で、ベアを片腕で抱えたまま枝の一本へ飛び移る。鯉は下方の別水路へ自然に落下し離脱。主人公の靴が透明枝へ接触し、ガラス音とともに滑走開始。\n\n【15.60〜18.60秒｜ガラス森林を高速滑走＋ベアが自力飛行開始】 主人公は透明巨大枝の上をスケートのように高速滑走。ベアを左腕に抱える。枝は真っ直ぐではなく下方向へ大きくカーブし、主人公は重力で加速。カメラは枝の裏側を逆さ向きに高速移動し、透明ガラス越しに主人公の足裏とベアを捉え、そのまま枝の側面へ回り込む。16.3秒、枝が二股に分岐。主人公が右へ身体を傾けて高速ターン。ベアが「ちょっと待って、ぼくも飛べる気がする！」。主人公が「今！？」。ベアは主人公の腕から自分で飛び出す。背中から小さな二枚の布製ウイングがぱっと開くのではなく、身体側面の縫い目がほどけるように伸び、元々内蔵されていた柔らかな翼になる。翼は参照画像の色調と素材を保つ。ベアが主人公の横をぎこちなく飛び始め「飛べた！」。直後に透明枝へ軽くぶつかりそうになり「危なっ！」。主人公が笑いながら身体を低くして次の枝をジャンプ。カメラは主人公より先に枝間の狭い穴へ突入し、180度向きを変えず後退しながらジャンプしてくる主人公と飛ぶベアを正面から追う。\n\n【18.60〜21.80秒｜巨大角兎の背へ飛び乗って地上疾走】 ガラス森林の下方に、琥珀色の草原と巨大な移動獣群が見える。森林の透明枝は高度を下げ、最後に巨大な曲面滑り台のように地上近くへ続く。主人公は枝上を加速し、ベアは横を飛行。前方下では全長8mほどの巨大角兎が草原を猛スピードで走っている。白〜薄灰色の長い毛、鹿のように分岐した黒銀の角、巨大な後脚、青い瞳。突然出さず17秒台から遠景の群れとして見せる。19.2秒、主人公は透明枝の終端からジャンプし、角兎の背へ空中で向きを合わせる。カメラは角兎の耳の間から真後ろを向き、上方から迫る主人公を捉える。19.7秒、主人公が背へ着地、両膝で衝撃吸収。ベアも横から飛んできて主人公の肩へぶつかるように着地。角兎は速度を落とさない。主人公は毛を片手で掴み、もう片手で首の横を一度撫でる。角兎が耳を主人公側へ少し倒して反応。20.4秒、主人公「速い速い！」。ベア「さっきもっと速くって言ってたでしょ！」。主人公「これは速すぎ！」。角兎は巨大な岩を後脚で蹴って跳び越え、カメラは地面すれすれを先行して巨大な足がレンズ上を通過する迫力を出す。\n\n【21.80〜24.70秒｜夜の浮遊市場へ突入、主人公とベアが並走】 草原の先に、地面から離れて浮く夜の巨大市場都市が連続して現れる。最初は遠景の暖色光、次に屋根、布、吊り橋、立体路地が判別できる。角兎が巨大な傾斜橋を駆け上がり、市場の外周へ入る。市場はAAA級異世界都市。濡れた石、木、真鍮、布製の日除け、浮遊ランタン、蒸気を出す屋台、巨大な機械時計。文字や読める看板は生成しない。主人公は22.2秒に角兎の背から横の屋根へジャンプ。ベアも自力飛行で追従。角兎はそのまま路地へ走り去る。主人公は屋根上を全力疾走、ベアは肩の高さで並んで飛ぶ。カメラは主人公の左横から開始し、22.7秒に主人公より前へ加速、180度向きを保ったまま後退して顔とベアを捉える。そのまま狭い吊り橋の下へ急降下し、橋の隙間から二人を見上げ、すぐに再上昇して屋根上へ戻る。23.5秒、主人公が屋台の巨大布屋根へ踏み込み、布が沈んだ反発で次の屋根へ跳ね上がる。ベアが横で「ねえ、そろそろ目的地どこ？」。主人公は走りながら一瞬ベアを見る。「目的地？」。0.2秒だけ間。「……ないよ？」。ベアが無言で主人公を見る。\n\n【24.70〜27.50秒｜巨大時計塔を駆け上がり、二人で空へ飛び出す】 前方に巨大な傾いた時計塔。市場の屋根から巨大歯車が外壁まで露出している。主人公が屋根端から時計塔の回転歯車へジャンプし、歯車の歯を足場にして上方向へ駆け上がる。ベアは横を飛ぶ。カメラは時計塔壁面へ90度近く傾け、主人公を下から追うが、世界座標の重力は維持する。25.2秒、回転歯車の穴をカメラが先に通過し、主人公が同じ穴を飛び抜ける。25.6秒、カメラが主人公の背後から頭上を越えて前へ回り、28mmで巨大な一つ目と笑顔へ接近。主人公「最後、飛ぶよ！」。ベア「それ今日何回目！？」。26.0秒、主人公が時計塔最上部の針へ飛び乗り、回転する巨大な長針を走る。ベアも横を飛行。26.6秒、長針先端が最上点へ近づいた瞬間、主人公は反動を使って大ジャンプ。ベアも翼を強く打って同時に上昇。カメラは塔上空へ先行し、都市全体を背景に二人がこちらへ飛び出してくる構図。\n\n【27.50〜30.00秒｜二人で空中コミカル決めポーズ】 主人公とベアは時計塔から飛び出した慣性で短時間上昇し、その後自然に落下へ移る。背景には夜の浮遊市場、遠方のガラス森林、巨大リング都市、夕暮れから夜へ変わる空。主人公は空中で身体を半回転してカメラ正面へ。ベアも隣で飛びながら主人公のポーズを真似ようとする。主人公は右手を大きく広げ、左手を腰へ、片脚を曲げて参照画像の大胆でコミカルな雰囲気を残した決めポーズ。ベアも片腕を上げるが翼操作を忘れて少しずつ下へ落ち始める。主人公は気づかず最高に得意そうな顔でカメラへ向かい、「完璧〜！ ……って、ベアどこ？」。直後、画面下からベアが落ちながら「完璧じゃなーーい！」と叫ぶ。主人公の巨大な一つ目が下へ動き、初めてベアが落ちていることに気づく。29.2秒、主人公が「うそっ！」と笑いながら急降下してベアの脚を片手で掴む。二人が逆さ気味にぶら下がった状態でカメラ正面へ戻り、ベアはむすっとした顔、主人公は歯を見せて大笑い。29.6秒、主人公が片手でベアをぶら下げたままもう片方の手でVサイン。主人公：「……決まったでしょ？」。ベア：「どこが！？」。最後の「どこが！？」へ完全同期して主人公がさらに大笑い。カメラは二人へ高速接近し、巨大な一つ目、主人公の笑顔、怒ったベアを画面いっぱいへ。背後の都市は高速で上方向へ流れ、二人がまだ落下中であることを維持。30.00秒、主人公がベアを片手で掴み、二人とも空中で動き続けているコミカルな瞬間を鮮明な最終フレームとして終了。黒フェード、暗転、静止画化は禁止。\n\n【会話・声】 主人公は成人女性。少し低めで明るく、いたずら好き、テンションが高くても甲高すぎない。ベアは小型キャラクターらしい少し高めの声だが幼児声にしない。声質を混同しない。指定セリフ以外を勝手に追加しない。同じ台詞を複数回発声しない。口の動きと完全同期。高速アクション中も会話のたびに主人公やベアを停止させない。セリフ：「遅いよ〜！」「脚の長さ考えてよ！」「じゃ、飛ぶよ！」「聞いてない！」「最初から抱えててよ！」「それじゃ面白くないじゃん！」「え、そこ入るの？」「絶対入る顔してる！」「ありがと！」「ぼく泳げないんだけど！」「浮いてるから大丈夫！」「次、あそこ！」「次って何！？」「考えてない！」「知ってた！」「ちょっと待って、ぼくも飛べる気がする！」「今！？」「飛べた！」「危なっ！」「速い速い！」「さっきもっと速くって言ってたでしょ！」「これは速すぎ！」「ねえ、そろそろ目的地どこ？」「目的地？……ないよ？」「最後、飛ぶよ！」「それ今日何回目！？」「完璧〜！ ……って、ベアどこ？」「完璧じゃなーーい！」「うそっ！」「……決まったでしょ？」「どこが！？」。\n\n【音楽・SFX】 音楽はhigh-speed quirky cinematic electro × orchestral breakbeat。135〜145 BPM程度。低域はタイト、軽快なドラム、短いブラス、弦のスタッカート、木管のコミカルなアクセント、clean sub、digital percussion、短いシンセ。重いEDM dropは禁止。列車屋根では金属振動と強風、ジャンプ時は空気圧、白鴉は巨大翼の羽ばたきと羽根の風切り、空中水路では水圧、泡、低い共鳴、天空鯉では水膜と巨大尾の振動、ガラス森林では透明枝の高い共鳴音、角兎では巨大な足音、毛の擦れ、地面振動、浮遊市場では布、木、金属、遠い群衆の環境音、時計塔では巨大歯車の金属噛み合わせを入れる。会話がある瞬間だけ音楽を不自然に止めず、1〜2dB程度自然に下げて声を前へ出す。最後の「どこが！？」直前に音楽を0.15秒だけ抜き、セリフ後に短いコミカルな打楽器アクセント。笑い声は自然に残す。\n\n【絶対優先事項】 【参照画像】の主人公をAAA化しても一つ目、巨大な笑顔、ヘルメット、黒い骨格モチーフ衣装、赤いコード、色彩を維持。二つ目の普通の女性へ変えない。ベアも【参照画像】のデザインを維持し、新規の相棒キャラクターとして常に同一個体。主人公とベアを30秒間別キャラクターへ置換しない。映像全体は最高品質AAAシネマティックで統一し、途中で実写、2Dアニメ、水彩へ質感変更しない。今回の魅力は質感変化ではなく、異常なカメラ運動、場所変化、乗り換え、主人公とベアの掛け合いに置く。都市→空中水路→ガラス森林→草原→浮遊市場の変化はすべて実際の移動で成立させる。登場大型生物は巨大白銀鴉、天空鯉、巨大角兎。ドラゴン、マンタ、グリフォンは今回登場させない。主人公とベアは動物を道具として扱わず、乗り換え時に短く触れたり撫でたりして自然な交流を持たせる。主人公とベアが一緒に走る、一緒に落ちる、一緒に乗る、ベアが自力飛行する、並んで会話する、最後に主人公がベアを助けるという関係性を30秒の中で明確に見せる。\n\n【禁止】 主人公の二つ目化、普通の人間顔化、一つ目消失、ヘルメット消失、黒い衣装消失、骨格模様消失、赤いコード消失、参照画像と無関係な美少女化、ベアの別デザイン化、ベア巨大化、ベア消失、主人公複製、ベア複製、追加人間主人公、子供化、老人化、顔変更、衣装変更、余分な腕、余分な脚、6本指、融合した指、身体ねじれ、関節破綻、低品質ゲームCG、プラスチック質感、安価なトゥーンシェーダー、2D化、実写化、途中の映像媒体変更、通常編集カット、暗転、フェード、ワープ、ポータル、魔法陣、意味のない発光ゲート、巨大爆発、レーザー、過剰な火花、画面を覆う粒子、常時Bloom、白飛び、読める文字、字幕、UI、ロゴ、広告、意味のない360度回転、長時間の横固定カメラ、低速歩行、停止ポーズ、スローモーション、主人公だけが自由飛行する表現、乗り物や生物が突然出現する表現、ドラゴン、巨大マンタ、グリフォンの再使用、最後の黒フェードを禁止する。",
+    "prompt": "📷⬇️\n\n【参照画像】を30秒間の唯一の主人公＋ベア参照として固定使用する。Seedance 2.5向け、16:9・30秒・60fps。映像全体を一本の連続した超高速AAAファンタジー・シネマティックとして生成する。今回の映像は前作の「高高度から地下へ落下し続ける構造」を使用せず、舞台、進行方向、生物、映像展開を全面的に変更する。核は「主人公とベアが巨大な異世界都市を逃げ回り、飛び、乗り換え、世界そのものを横断する30秒」。主人公とベアは常に一本の運動線上で移動し、通常編集カット、暗転、フェード、突然の場所変更、ポータル、ワープ穴は禁止。カメラは主人公の横を追うだけではなく、正面迎撃、背面追跡、頭上越し、地面すれすれ、巨大生物の翼下、主人公とベアの間、狭い建築物内部などを高速で行き来し、30秒間ほぼ同じ位置に留まらない。\n\n【最重要：参照画像のAAA化】 【参照画像】の主人公を、写実人間や通常の美少女へ置換せず、参照画像固有の「一つ目の異形キャラクター」として最高品質AAA 3Dキャラクターへ再構築する。成人女性として扱うが、人間の顔へ矯正しない。顔中央に存在する巨大な一つ目、白い眼球、紫〜青〜赤の虹彩、黒い瞳孔、非常に大きな歯を見せる特徴的な笑顔を完全維持。目を二つに増やさない。普通の人間顔にしない。赤〜深いワイン色の丸いヘルメット、黒い縁、ヘルメット上の黒い小さな丸装飾、黒いボディスーツ／ジャケット、白い骨格モチーフ、赤いコード状装飾、黒いボリュームのある下衣装、濃紺〜黒の靴を参照画像から取得する。水彩の赤、青、紫、緑、黒の色ムラは消さず、AAA化した素材表面へ手塗り染料、擦れた顔料、微細な色移りとして残す。皮膚をリアルな人間肌にし過ぎず、実在素材感を持つ高品質stylized AAA characterとして処理する。表面には細かな粗さ、塗装ムラ、縫製、金属、ゴム、布、革、微細な傷を持たせる。参照画像の黒いインク輪郭は完全な2D線として残さず、衣装の黒い縁取り、ヘルメットの厚いエッジ、陰影の輪郭設計へ3D的に翻訳する。ゲーム画面のような安いCGにはしない。Unreal Engine級AAAシネマティック、長編アニメ映画級の材質、GI、反射、体積光、レンズ表現を使う。\n\n【ベア固定】 【参照画像】で主人公が抱えているピンク〜紫系のベアを、今回は主人公と並ぶ第二キャラクターとして30秒間常時維持する。単なるぬいぐるみではなく、主人公と会話し、自分で走り、自分で空を飛び、主人公と同速度で移動できる小型の生きたベア。参照画像の丸い耳、黒い目、黒い鼻、白〜クリーム色の口周り、ピンク、紫、青、緑、淡黄色が水彩のように混ざる身体、縫い目、柔らかな丸い手足を維持する。AAA化では高級ぬいぐるみ＋幻想生物の中間。短く柔らかな繊維、縫い糸、少し擦れた布地、柔らかい圧縮変形、耳や手足の慣性を表現する。ベアは主人公のコピーでもペットでもなく、少し生意気な相棒。主人公と別の声を持つ。主人公とベアのサイズ差を維持し、ベアを巨大化させない。主人公が必要な場面では片腕で抱えることができる大きさ。\n\n【舞台】 開始地点は、夕暮れの巨大な「浮遊メガシティ」。普通のビル街ではなく、赤錆色の巨大鉄骨、ガラスの高架回廊、空中を走る磁気列車、上下逆向きに建つ建築群、巨大風車、浮遊広告板のフレームだけが残る廃未来都市、雲を突き抜ける高層塔、遠方で回転する巨大なリング状都市構造を持つ。色は夕焼けのオレンジ、深い群青、赤紫、冷たいシアン。過剰なネオンは禁止。すべて最高品質AAA 3Dシネマティック。後半では都市→雲海→空中水路→巨大ガラス森林→夜の浮遊市場へ連続移動するが、どれも突然切り替えない。建築物、天候、生物、地形の物理的な連続によって次の領域へ入る。\n\n【カメラ基本設計】 18〜24mm広角を高速移動の基本とし、会話や表情では28〜40mmへ自然に寄せる。60fps。カメラはドローンのように平行追跡し続けない。0.4〜1.2秒ごとに高さ、距離、角度、速度を変える。主人公とベアの前を後退→主人公の肩すれすれを通過→ベアの下を潜る→巨大生物より先に進む→正面へ回る→地面すれすれで後退→建築の穴を先に通り抜ける、といった三次元移動を連続させる。意味のない360度ロールは禁止。ただし巨大生物の旋回、重力方向変化、建築物の曲面に合わせた短い15〜70度のバンクは積極的に使う。高速運動部分だけ自然な方向性モーションブラーを入れ、主人公の一つ目、笑顔、ベアの表情は読める程度に保持する。\n\n【0.00〜3.20秒｜いきなり空中列車の屋根を全力疾走】 第1フレームから強烈な速度。主人公とベアは、夕暮れの浮遊都市を時速数百kmで走る黒い磁気列車の屋根を全力疾走している。主人公が前、ベアが1〜2m後ろを短い脚で必死に走る。主人公の赤いコード、黒い衣装、ヘルメット装飾が風圧で揺れ、ベアの耳と腕が激しく後方へ流れる。開始カメラは列車前方約4m、屋根すれすれ20mmで後退しながら二人を正面から捉える。0.5秒でカメラが主人公の足元へ急降下し、列車屋根の金属継ぎ目がレンズ下を猛烈に流れる。0.9秒で主人公の右脚の外側から一気に上昇し、巨大な一つ目と歯を見せる笑顔へ24mmで接近。主人公は走りながら振り返り、後ろのベアへ「遅いよ〜！」と楽しそうに叫ぶ。ベアは息を切らしながら「脚の長さ考えてよ！」と返す。完全リップシンク。1.5秒、前方に途切れたレールと巨大な空中ギャップが見える。主人公は速度を落とさず「じゃ、飛ぶよ！」。ベアが「聞いてない！」。2.3秒、主人公が列車屋根を蹴り、ベアも直後にジャンプ。カメラは二人の間を高速ですり抜け、そのまま先に空中へ飛び出して振り返り、背後から迫る主人公とベアを正面から受ける。\n\n【3.20〜6.30秒｜巨大白鴉へ飛び乗る】 都市上空には数十羽の黒い鳥が飛んでいるが、その奥から翼長15m以上の巨大な白銀の鴉が高速下降してくる。突然召喚しない。2秒台から遠方に小さな白い影として存在させ、3.5秒で翼、嘴、白銀羽根、青黒い眼が明確になる。主人公とベアは自由飛行せず、ジャンプ後は重力で落下。巨大鴉がその下を斜めに横切る。主人公が空中で身体を90度捻り、4.2秒に鴉の背へ片膝で動的着地。片手で羽根を掴み衝撃を吸収。ベアは着地位置を外し、「うわぁぁ！」と小さく叫びながら鴉の翼端へ落ちるが、主人公が即座に片手を伸ばしてベアの腕を掴み、振り子のように引き上げる。カメラは鴉の翼下をすり抜け、下方から主人公がベアを引き上げる姿を見上げる。5.0秒、ベアが背へ転がり込み「最初から抱えててよ！」、主人公は大笑いして「それじゃ面白くないじゃん！」。鴉は翼を一度強く打ち、都市の建築群の間へ急降下。カメラは頭部前方へ先回りして後退し、白銀鴉、主人公、ベア、その後ろを高速で流れる都市を一画面へ入れる。\n\n【6.30〜9.30秒｜高層都市内部を白鴉で超高速突破】 白鴉は水平巡航せず、高層建築の間を下降と上昇を組み合わせて蛇行する。6.5秒、巨大ガラス塔の二本の梁の間を翼を畳んで通過。主人公は身体を低く伏せ、ベアを胸元へ引き寄せる。カメラは鴉より先に狭い隙間へ飛び込み、ガラスと金属が左右10cm程度まで迫る18mm超広角。その直後、鴉がレンズ方向へ猛烈に突入し、カメラは後方へ加速して回避。7.2秒、鴉は翼を再展開して左へ急旋回。カメラは右翼上面を滑るように移動し、そのまま主人公の肩越しに前方を見る。前方には都市中央を流れる巨大な透明「空中水路」。水が巨大な帯のように空中へ保持され、建築物の間を蛇行している。白鴉が水路へ向かって下降。主人公が「え、そこ入るの？」。ベアが青ざめたような表情で「絶対入る顔してる！」。鴉はそのまま透明水流へ突入する。\n\n【9.30〜12.40秒｜空中水路へ突入→巨大天空鯉へ乗り換え】 鴉が水へ入る瞬間、画面をフラッシュさせず、水面の屈折、泡、水圧、羽根への水の付着を物理的に連続させる。AAA質感は維持。鴉の羽根は濡れて重くなり、速度が急減。主人公とベアは慣性で前方へ放り出される。主人公は鴉の首を一度軽く撫で、「ありがと！」と言いながら水流内を前方へ泳ぐ。ベアは泳ぐのではなく、丸い身体の浮力でくるくる回転して主人公の横へ流れてくる。「ぼく泳げないんだけど！」。主人公は「浮いてるから大丈夫！」。10.4秒、下流側から巨大な半透明の天空鯉が水流に沿って高速で迫る。体長12m、乳白色と淡いシアン、透明なヒレ、金色の細い鱗、内部に柔らかな光を持つ。鯉は魔法的に出現せず、最初から水路遠方を泳いでいる。主人公が水中で身体を反転し、鯉の背へ手を伸ばす。11.2秒、鯉が主人公の下を通過する瞬間に背鰭基部を掴み、身体を引き寄せる。ベアは鯉の頭上へぽすっと着地。カメラは鯉の口元すれすれから後方へ走り、巨大な目、頭上のベア、背中へ移る主人公を一度に見せる。12.0秒、鯉が空中水路から大きく跳び出す。水滴が数秒残らず、重力に従って下へ落ちる。\n\n【12.40〜15.60秒｜空飛ぶ天空鯉＋雲海ジャンプ】 水路を飛び出した巨大鯉は魚のように空中を自由飛行するのではなく、水路出口から射出された勢いと巨大ヒレの揚力で短時間グライドする。主人公とベアはその背に乗ったまま、都市外縁の雲海へ向かう。カメラは鯉の真下へ潜り、透明な腹部越しに上の主人公とベアを屈折させて見せる。13.0秒、カメラが鯉の尾より後ろへ抜け、そのまま上昇して背後上空へ。前方に巨大なガラス森林が見え始める。高さ数百メートルの透明樹木群、枝がプリズムのように分岐し、その間を風が高速で抜ける。鯉の飛行速度が徐々に低下。主人公が前方を指差して「次、あそこ！」。ベア「次って何！？」。主人公「考えてない！」。ベア「知ってた！」。14.3秒、鯉がガラス森林上部へ接近するが、枝間が狭く巨大鯉は入れない。主人公は鯉の背を一度撫で、ベアを片腕で抱えたまま枝の一本へ飛び移る。鯉は下方の別水路へ自然に落下し離脱。主人公の靴が透明枝へ接触し、ガラス音とともに滑走開始。\n\n【15.60〜18.60秒｜ガラス森林を高速滑走＋ベアが自力飛行開始】 主人公は透明巨大枝の上をスケートのように高速滑走。ベアを左腕に抱える。枝は真っ直ぐではなく下方向へ大きくカーブし、主人公は重力で加速。カメラは枝の裏側を逆さ向きに高速移動し、透明ガラス越しに主人公の足裏とベアを捉え、そのまま枝の側面へ回り込む。16.3秒、枝が二股に分岐。主人公が右へ身体を傾けて高速ターン。ベアが「ちょっと待って、ぼくも飛べる気がする！」。主人公が「今！？」。ベアは主人公の腕から自分で飛び出す。背中から小さな二枚の布製ウイングがぱっと開くのではなく、身体側面の縫い目がほどけるように伸び、元々内蔵されていた柔らかな翼になる。翼は参照画像の色調と素材を保つ。ベアが主人公の横をぎこちなく飛び始め「飛べた！」。直後に透明枝へ軽くぶつかりそうになり「危なっ！」。主人公が笑いながら身体を低くして次の枝をジャンプ。カメラは主人公より先に枝間の狭い穴へ突入し、180度向きを変えず後退しながらジャンプしてくる主人公と飛ぶベアを正面から追う。\n\n【18.60〜21.80秒｜巨大角兎の背へ飛び乗って地上疾走】 ガラス森林の下方に、琥珀色の草原と巨大な移動獣群が見える。森林の透明枝は高度を下げ、最後に巨大な曲面滑り台のように地上近くへ続く。主人公は枝上を加速し、ベアは横を飛行。前方下では全長8mほどの巨大角兎が草原を猛スピードで走っている。白〜薄灰色の長い毛、鹿のように分岐した黒銀の角、巨大な後脚、青い瞳。突然出さず17秒台から遠景の群れとして見せる。19.2秒、主人公は透明枝の終端からジャンプし、角兎の背へ空中で向きを合わせる。カメラは角兎の耳の間から真後ろを向き、上方から迫る主人公を捉える。19.7秒、主人公が背へ着地、両膝で衝撃吸収。ベアも横から飛んできて主人公の肩へぶつかるように着地。角兎は速度を落とさない。主人公は毛を片手で掴み、もう片手で首の横を一度撫でる。角兎が耳を主人公側へ少し倒して反応。20.4秒、主人公「速い速い！」。ベア「さっきもっと速くって言ってたでしょ！」。主人公「これは速すぎ！」。角兎は巨大な岩を後脚で蹴って跳び越え、カメラは地面すれすれを先行して巨大な足がレンズ上を通過する迫力を出す。\n\n【21.80〜24.70秒｜夜の浮遊市場へ突入、主人公とベアが並走】 草原の先に、地面から離れて浮く夜の巨大市場都市が連続して現れる。最初は遠景の暖色光、次に屋根、布、吊り橋、立体路地が判別できる。角兎が巨大な傾斜橋を駆け上がり、市場の外周へ入る。市場はAAA級異世界都市。濡れた石、木、真鍮、布製の日除け、浮遊ランタン、蒸気を出す屋台、巨大な機械時計。文字や読める看板は生成しない。主人公は22.2秒に角兎の背から横の屋根へジャンプ。ベアも自力飛行で追従。角兎はそのまま路地へ走り去る。主人公は屋根上を全力疾走、ベアは肩の高さで並んで飛ぶ。カメラは主人公の左横から開始し、22.7秒に主人公より前へ加速、180度向きを保ったまま後退して顔とベアを捉える。そのまま狭い吊り橋の下へ急降下し、橋の隙間から二人を見上げ、すぐに再上昇して屋根上へ戻る。23.5秒、主人公が屋台の巨大布屋根へ踏み込み、布が沈んだ反発で次の屋根へ跳ね上がる。ベアが横で「ねえ、そろそろ目的地どこ？」。主人公は走りながら一瞬ベアを見る。「目的地？」。0.2秒だけ間。「……ないよ？」。ベアが無言で主人公を見る。\n\n【24.70〜27.50秒｜巨大時計塔を駆け上がり、二人で空へ飛び出す】 前方に巨大な傾いた時計塔。市場の屋根から巨大歯車が外壁まで露出している。主人公が屋根端から時計塔の回転歯車へジャンプし、歯車の歯を足場にして上方向へ駆け上がる。ベアは横を飛ぶ。カメラは時計塔壁面へ90度近く傾け、主人公を下から追うが、世界座標の重力は維持する。25.2秒、回転歯車の穴をカメラが先に通過し、主人公が同じ穴を飛び抜ける。25.6秒、カメラが主人公の背後から頭上を越えて前へ回り、28mmで巨大な一つ目と笑顔へ接近。主人公「最後、飛ぶよ！」。ベア「それ今日何回目！？」。26.0秒、主人公が時計塔最上部の針へ飛び乗り、回転する巨大な長針を走る。ベアも横を飛行。26.6秒、長針先端が最上点へ近づいた瞬間、主人公は反動を使って大ジャンプ。ベアも翼を強く打って同時に上昇。カメラは塔上空へ先行し、都市全体を背景に二人がこちらへ飛び出してくる構図。\n\n【27.50〜30.00秒｜二人で空中コミカル決めポーズ】 主人公とベアは時計塔から飛び出した慣性で短時間上昇し、その後自然に落下へ移る。背景には夜の浮遊市場、遠方のガラス森林、巨大リング都市、夕暮れから夜へ変わる空。主人公は空中で身体を半回転してカメラ正面へ。ベアも隣で飛びながら主人公のポーズを真似ようとする。主人公は右手を大きく広げ、左手を腰へ、片脚を曲げて参照画像の大胆でコミカルな雰囲気を残した決めポーズ。ベアも片腕を上げるが翼操作を忘れて少しずつ下へ落ち始める。主人公は気づかず最高に得意そうな顔でカメラへ向かい、「完璧〜！ ……って、ベアどこ？」。直後、画面下からベアが落ちながら「完璧じゃなーーい！」と叫ぶ。主人公の巨大な一つ目が下へ動き、初めてベアが落ちていることに気づく。29.2秒、主人公が「うそっ！」と笑いながら急降下してベアの脚を片手で掴む。二人が逆さ気味にぶら下がった状態でカメラ正面へ戻り、ベアはむすっとした顔、主人公は歯を見せて大笑い。29.6秒、主人公が片手でベアをぶら下げたままもう片方の手でVサイン。主人公：「……決まったでしょ？」。ベア：「どこが！？」。最後の「どこが！？」へ完全同期して主人公がさらに大笑い。カメラは二人へ高速接近し、巨大な一つ目、主人公の笑顔、怒ったベアを画面いっぱいへ。背後の都市は高速で上方向へ流れ、二人がまだ落下中であることを維持。30.00秒、主人公がベアを片手で掴み、二人とも空中で動き続けているコミカルな瞬間を鮮明な最終フレームとして終了。黒フェード、暗転、静止画化は禁止。\n\n【会話・声】 主人公は成人女性。少し低めで明るく、いたずら好き、テンションが高くても甲高すぎない。ベアは小型キャラクターらしい少し高めの声だが幼児声にしない。声質を混同しない。指定セリフ以外を勝手に追加しない。同じ台詞を複数回発声しない。口の動きと完全同期。高速アクション中も会話のたびに主人公やベアを停止させない。セリフ：「遅いよ〜！」「脚の長さ考えてよ！」「じゃ、飛ぶよ！」「聞いてない！」「最初から抱えててよ！」「それじゃ面白くないじゃん！」「え、そこ入るの？」「絶対入る顔してる！」「ありがと！」「ぼく泳げないんだけど！」「浮いてるから大丈夫！」「次、あそこ！」「次って何！？」「考えてない！」「知ってた！」「ちょっと待って、ぼくも飛べる気がする！」「今！？」「飛べた！」「危なっ！」「速い速い！」「さっきもっと速くって言ってたでしょ！」「これは速すぎ！」「ねえ、そろそろ目的地どこ？」「目的地？……ないよ？」「最後、飛ぶよ！」「それ今日何回目！？」「完璧〜！ ……って、ベアどこ？」「完璧じゃなーーい！」「うそっ！」「……決まったでしょ？」「どこが！？」。\n\n【音楽・SFX】 音楽はhigh-speed quirky cinematic electro × orchestral breakbeat。135〜145 BPM程度。低域はタイト、軽快なドラム、短いブラス、弦のスタッカート、木管のコミカルなアクセント、clean sub、digital percussion、短いシンセ。重いEDM dropは禁止。列車屋根では金属振動と強風、ジャンプ時は空気圧、白鴉は巨大翼の羽ばたきと羽根の風切り、空中水路では水圧、泡、低い共鳴、天空鯉では水膜と巨大尾の振動、ガラス森林では透明枝の高い共鳴音、角兎では巨大な足音、毛の擦れ、地面振動、浮遊市場では布、木、金属、遠い群衆の環境音、時計塔では巨大歯車の金属噛み合わせを入れる。会話がある瞬間だけ音楽を不自然に止めず、1〜2dB程度自然に下げて声を前へ出す。最後の「どこが！？」直前に音楽を0.15秒だけ抜き、セリフ後に短いコミカルな打楽器アクセント。笑い声は自然に残す。\n\n【絶対優先事項】 【参照画像】の主人公をAAA化しても一つ目、巨大な笑顔、ヘルメット、黒い骨格モチーフ衣装、赤いコード、色彩を維持。二つ目の普通の女性へ変えない。ベアも【参照画像】のデザインを維持し、新規の相棒キャラクターとして常に同一個体。主人公とベアを30秒間別キャラクターへ置換しない。映像全体は最高品質AAAシネマティックで統一し、途中で実写、2Dアニメ、水彩へ質感変更しない。今回の魅力は質感変化ではなく、異常なカメラ運動、場所変化、乗り換え、主人公とベアの掛け合いに置く。都市→空中水路→ガラス森林→草原→浮遊市場の変化はすべて実際の移動で成立させる。登場大型生物は巨大白銀鴉、天空鯉、巨大角兎。ドラゴン、マンタ、グリフォンは今回登場させない。主人公とベアは動物を道具として扱わず、乗り換え時に短く触れたり撫でたりして自然な交流を持たせる。主人公とベアが一緒に走る、一緒に落ちる、一緒に乗る、ベアが自力飛行する、並んで会話する、最後に主人公がベアを助けるという関係性を30秒の中で明確に見せる。\n\n【禁止】 主人公の二つ目化、普通の人間顔化、一つ目消失、ヘルメット消失、黒い衣装消失、骨格模様消失、赤いコード消失、参照画像と無関係な美少女化、ベアの別デザイン化、ベア巨大化、ベア消失、主人公複製、ベア複製、追加人間主人公、子供化、老人化、顔変更、衣装変更、余分な腕、余分な脚、6本指、融合した指、身体ねじれ、関節破綻、低品質ゲームCG、プラスチック質感、安価なトゥーンシェーダー、2D化、実写化、途中の映像媒体変更、通常編集カット、暗転、フェード、ワープ、ポータル、魔法陣、意味のない発光ゲート、巨大爆発、レーザー、過剰な火花、画面を覆う粒子、常時Bloom、白飛び、読める文字、字幕、UI、ロゴ、広告、意味のない360度回転、長時間の横固定カメラ、低速歩行、停止ポーズ、スローモーション、主人公だけが自由飛行する表現、乗り物や生物が突然出現する表現、ドラゴン、巨大マンタ、グリフォンの再使用、最後の黒フェードを禁止する。",
+    "prompt_in_thread": false,
+    "prompt_source_urls": [
+      "https://x.com/sailorv321/status/2088819020564930606"
+    ],
+    "model": "Seedance 2.5",
+    "category": "Cinematic & Film",
+    "date": "2026-08-16",
+    "author": {
+      "name": "C’est La Vie🦋",
+      "handle": "sailorv321",
+      "url": "https://x.com/sailorv321",
+      "avatar": "https://pbs.twimg.com/profile_images/2100351964026724352/tdO3OmtG_200x200.jpg"
+    },
+    "stats": {
+      "views": 32426,
+      "likes": 13,
+      "retweets": 0
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088816924851613696/img/c7EzyY046oUhUuWe.jpg",
+      "width": 3840,
+      "height": 2160,
+      "duration": 30.07,
+      "source_url": "https://video.twimg.com/amplify_video/2088816924851613696/vid/avc1/3840x2160/FyqopqVST3faDzNu.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.poster.webp",
       "attachment": null
     }
   },
@@ -4222,8 +4258,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2116904025761386496/ul6eYpLN_200x200.jpg"
     },
     "stats": {
-      "views": 32395,
-      "likes": 110,
+      "views": 32411,
+      "likes": 109,
       "retweets": 33
     },
     "video": {
@@ -4258,8 +4294,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_200x200.jpg"
     },
     "stats": {
-      "views": 32346,
-      "likes": 236,
+      "views": 32371,
+      "likes": 235,
       "retweets": 12
     },
     "video": {
@@ -4292,7 +4328,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069683353536921600/J_z5bvBl_200x200.jpg"
     },
     "stats": {
-      "views": 31984,
+      "views": 31987,
       "likes": 45,
       "retweets": 29
     },
@@ -4305,42 +4341,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2089962150442004480/vid/avc1/1180x786/dxnpfN_LLFmy3w59.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aiwithothoi_2089962150442004480.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/aiwithothoi_2089962150442004480.poster.webp",
-      "attachment": null
-    }
-  },
-  {
-    "id": "2088819020564930606",
-    "url": "https://x.com/sailorv321/status/2088819020564930606",
-    "title": "「……決まったでしょ？👁️🐻」",
-    "text": "「……決まったでしょ？👁️🐻」\n「どこが！？🤣」\n\n30sの遊びは、15s遊びより2倍楽しい。\nそして負担も2倍🥹\n\n@capcutapp_jp \n#CapCutCPP #CapCut生成AI\n\nSeedance 2.5 Prompt:📷⬇️\n\n【参照画像】を30秒間の唯一の主人公＋ベア参照として固定使用する。Seedance 2.5向け、16:9・30秒・60fps。映像全体を一本の連続した超高速AAAファンタジー・シネマティックとして生成する。今回の映像は前作の「高高度から地下へ落下し続ける構造」を使用せず、舞台、進行方向、生物、映像展開を全面的に変更する。核は「主人公とベアが巨大な異世界都市を逃げ回り、飛び、乗り換え、世界そのものを横断する30秒」。主人公とベアは常に一本の運動線上で移動し、通常編集カット、暗転、フェード、突然の場所変更、ポータル、ワープ穴は禁止。カメラは主人公の横を追うだけではなく、正面迎撃、背面追跡、頭上越し、地面すれすれ、巨大生物の翼下、主人公とベアの間、狭い建築物内部などを高速で行き来し、30秒間ほぼ同じ位置に留まらない。\n\n【最重要：参照画像のAAA化】 【参照画像】の主人公を、写実人間や通常の美少女へ置換せず、参照画像固有の「一つ目の異形キャラクター」として最高品質AAA 3Dキャラクターへ再構築する。成人女性として扱うが、人間の顔へ矯正しない。顔中央に存在する巨大な一つ目、白い眼球、紫〜青〜赤の虹彩、黒い瞳孔、非常に大きな歯を見せる特徴的な笑顔を完全維持。目を二つに増やさない。普通の人間顔にしない。赤〜深いワイン色の丸いヘルメット、黒い縁、ヘルメット上の黒い小さな丸装飾、黒いボディスーツ／ジャケット、白い骨格モチーフ、赤いコード状装飾、黒いボリュームのある下衣装、濃紺〜黒の靴を参照画像から取得する。水彩の赤、青、紫、緑、黒の色ムラは消さず、AAA化した素材表面へ手塗り染料、擦れた顔料、微細な色移りとして残す。皮膚をリアルな人間肌にし過ぎず、実在素材感を持つ高品質stylized AAA characterとして処理する。表面には細かな粗さ、塗装ムラ、縫製、金属、ゴム、布、革、微細な傷を持たせる。参照画像の黒いインク輪郭は完全な2D線として残さず、衣装の黒い縁取り、ヘルメットの厚いエッジ、陰影の輪郭設計へ3D的に翻訳する。ゲーム画面のような安いCGにはしない。Unreal Engine級AAAシネマティック、長編アニメ映画級の材質、GI、反射、体積光、レンズ表現を使う。\n\n【ベア固定】 【参照画像】で主人公が抱えているピンク〜紫系のベアを、今回は主人公と並ぶ第二キャラクターとして30秒間常時維持する。単なるぬいぐるみではなく、主人公と会話し、自分で走り、自分で空を飛び、主人公と同速度で移動できる小型の生きたベア。参照画像の丸い耳、黒い目、黒い鼻、白〜クリーム色の口周り、ピンク、紫、青、緑、淡黄色が水彩のように混ざる身体、縫い目、柔らかな丸い手足を維持する。AAA化では高級ぬいぐるみ＋幻想生物の中間。短く柔らかな繊維、縫い糸、少し擦れた布地、柔らかい圧縮変形、耳や手足の慣性を表現する。ベアは主人公のコピーでもペットでもなく、少し生意気な相棒。主人公と別の声を持つ。主人公とベアのサイズ差を維持し、ベアを巨大化させない。主人公が必要な場面では片腕で抱えることができる大きさ。\n\n【舞台】 開始地点は、夕暮れの巨大な「浮遊メガシティ」。普通のビル街ではなく、赤錆色の巨大鉄骨、ガラスの高架回廊、空中を走る磁気列車、上下逆向きに建つ建築群、巨大風車、浮遊広告板のフレームだけが残る廃未来都市、雲を突き抜ける高層塔、遠方で回転する巨大なリング状都市構造を持つ。色は夕焼けのオレンジ、深い群青、赤紫、冷たいシアン。過剰なネオンは禁止。すべて最高品質AAA 3Dシネマティック。後半では都市→雲海→空中水路→巨大ガラス森林→夜の浮遊市場へ連続移動するが、どれも突然切り替えない。建築物、天候、生物、地形の物理的な連続によって次の領域へ入る。\n\n【カメラ基本設計】 18〜24mm広角を高速移動の基本とし、会話や表情では28〜40mmへ自然に寄せる。60fps。カメラはドローンのように平行追跡し続けない。0.4〜1.2秒ごとに高さ、距離、角度、速度を変える。主人公とベアの前を後退→主人公の肩すれすれを通過→ベアの下を潜る→巨大生物より先に進む→正面へ回る→地面すれすれで後退→建築の穴を先に通り抜ける、といった三次元移動を連続させる。意味のない360度ロールは禁止。ただし巨大生物の旋回、重力方向変化、建築物の曲面に合わせた短い15〜70度のバンクは積極的に使う。高速運動部分だけ自然な方向性モーションブラーを入れ、主人公の一つ目、笑顔、ベアの表情は読める程度に保持する。\n\n【0.00〜3.20秒｜いきなり空中列車の屋根を全力疾走】 第1フレームから強烈な速度。主人公とベアは、夕暮れの浮遊都市を時速数百kmで走る黒い磁気列車の屋根を全力疾走している。主人公が前、ベアが1〜2m後ろを短い脚で必死に走る。主人公の赤いコード、黒い衣装、ヘルメット装飾が風圧で揺れ、ベアの耳と腕が激しく後方へ流れる。開始カメラは列車前方約4m、屋根すれすれ20mmで後退しながら二人を正面から捉える。0.5秒でカメラが主人公の足元へ急降下し、列車屋根の金属継ぎ目がレンズ下を猛烈に流れる。0.9秒で主人公の右脚の外側から一気に上昇し、巨大な一つ目と歯を見せる笑顔へ24mmで接近。主人公は走りながら振り返り、後ろのベアへ「遅いよ〜！」と楽しそうに叫ぶ。ベアは息を切らしながら「脚の長さ考えてよ！」と返す。完全リップシンク。1.5秒、前方に途切れたレールと巨大な空中ギャップが見える。主人公は速度を落とさず「じゃ、飛ぶよ！」。ベアが「聞いてない！」。2.3秒、主人公が列車屋根を蹴り、ベアも直後にジャンプ。カメラは二人の間を高速ですり抜け、そのまま先に空中へ飛び出して振り返り、背後から迫る主人公とベアを正面から受ける。\n\n【3.20〜6.30秒｜巨大白鴉へ飛び乗る】 都市上空には数十羽の黒い鳥が飛んでいるが、その奥から翼長15m以上の巨大な白銀の鴉が高速下降してくる。突然召喚しない。2秒台から遠方に小さな白い影として存在させ、3.5秒で翼、嘴、白銀羽根、青黒い眼が明確になる。主人公とベアは自由飛行せず、ジャンプ後は重力で落下。巨大鴉がその下を斜めに横切る。主人公が空中で身体を90度捻り、4.2秒に鴉の背へ片膝で動的着地。片手で羽根を掴み衝撃を吸収。ベアは着地位置を外し、「うわぁぁ！」と小さく叫びながら鴉の翼端へ落ちるが、主人公が即座に片手を伸ばしてベアの腕を掴み、振り子のように引き上げる。カメラは鴉の翼下をすり抜け、下方から主人公がベアを引き上げる姿を見上げる。5.0秒、ベアが背へ転がり込み「最初から抱えててよ！」、主人公は大笑いして「それじゃ面白くないじゃん！」。鴉は翼を一度強く打ち、都市の建築群の間へ急降下。カメラは頭部前方へ先回りして後退し、白銀鴉、主人公、ベア、その後ろを高速で流れる都市を一画面へ入れる。\n\n【6.30〜9.30秒｜高層都市内部を白鴉で超高速突破】 白鴉は水平巡航せず、高層建築の間を下降と上昇を組み合わせて蛇行する。6.5秒、巨大ガラス塔の二本の梁の間を翼を畳んで通過。主人公は身体を低く伏せ、ベアを胸元へ引き寄せる。カメラは鴉より先に狭い隙間へ飛び込み、ガラスと金属が左右10cm程度まで迫る18mm超広角。その直後、鴉がレンズ方向へ猛烈に突入し、カメラは後方へ加速して回避。7.2秒、鴉は翼を再展開して左へ急旋回。カメラは右翼上面を滑るように移動し、そのまま主人公の肩越しに前方を見る。前方には都市中央を流れる巨大な透明「空中水路」。水が巨大な帯のように空中へ保持され、建築物の間を蛇行している。白鴉が水路へ向かって下降。主人公が「え、そこ入るの？」。ベアが青ざめたような表情で「絶対入る顔してる！」。鴉はそのまま透明水流へ突入する。\n\n【9.30〜12.40秒｜空中水路へ突入→巨大天空鯉へ乗り換え】 鴉が水へ入る瞬間、画面をフラッシュさせず、水面の屈折、泡、水圧、羽根への水の付着を物理的に連続させる。AAA質感は維持。鴉の羽根は濡れて重くなり、速度が急減。主人公とベアは慣性で前方へ放り出される。主人公は鴉の首を一度軽く撫で、「ありがと！」と言いながら水流内を前方へ泳ぐ。ベアは泳ぐのではなく、丸い身体の浮力でくるくる回転して主人公の横へ流れてくる。「ぼく泳げないんだけど！」。主人公は「浮いてるから大丈夫！」。10.4秒、下流側から巨大な半透明の天空鯉が水流に沿って高速で迫る。体長12m、乳白色と淡いシアン、透明なヒレ、金色の細い鱗、内部に柔らかな光を持つ。鯉は魔法的に出現せず、最初から水路遠方を泳いでいる。主人公が水中で身体を反転し、鯉の背へ手を伸ばす。11.2秒、鯉が主人公の下を通過する瞬間に背鰭基部を掴み、身体を引き寄せる。ベアは鯉の頭上へぽすっと着地。カメラは鯉の口元すれすれから後方へ走り、巨大な目、頭上のベア、背中へ移る主人公を一度に見せる。12.0秒、鯉が空中水路から大きく跳び出す。水滴が数秒残らず、重力に従って下へ落ちる。\n\n【12.40〜15.60秒｜空飛ぶ天空鯉＋雲海ジャンプ】 水路を飛び出した巨大鯉は魚のように空中を自由飛行するのではなく、水路出口から射出された勢いと巨大ヒレの揚力で短時間グライドする。主人公とベアはその背に乗ったまま、都市外縁の雲海へ向かう。カメラは鯉の真下へ潜り、透明な腹部越しに上の主人公とベアを屈折させて見せる。13.0秒、カメラが鯉の尾より後ろへ抜け、そのまま上昇して背後上空へ。前方に巨大なガラス森林が見え始める。高さ数百メートルの透明樹木群、枝がプリズムのように分岐し、その間を風が高速で抜ける。鯉の飛行速度が徐々に低下。主人公が前方を指差して「次、あそこ！」。ベア「次って何！？」。主人公「考えてない！」。ベア「知ってた！」。14.3秒、鯉がガラス森林上部へ接近するが、枝間が狭く巨大鯉は入れない。主人公は鯉の背を一度撫で、ベアを片腕で抱えたまま枝の一本へ飛び移る。鯉は下方の別水路へ自然に落下し離脱。主人公の靴が透明枝へ接触し、ガラス音とともに滑走開始。\n\n【15.60〜18.60秒｜ガラス森林を高速滑走＋ベアが自力飛行開始】 主人公は透明巨大枝の上をスケートのように高速滑走。ベアを左腕に抱える。枝は真っ直ぐではなく下方向へ大きくカーブし、主人公は重力で加速。カメラは枝の裏側を逆さ向きに高速移動し、透明ガラス越しに主人公の足裏とベアを捉え、そのまま枝の側面へ回り込む。16.3秒、枝が二股に分岐。主人公が右へ身体を傾けて高速ターン。ベアが「ちょっと待って、ぼくも飛べる気がする！」。主人公が「今！？」。ベアは主人公の腕から自分で飛び出す。背中から小さな二枚の布製ウイングがぱっと開くのではなく、身体側面の縫い目がほどけるように伸び、元々内蔵されていた柔らかな翼になる。翼は参照画像の色調と素材を保つ。ベアが主人公の横をぎこちなく飛び始め「飛べた！」。直後に透明枝へ軽くぶつかりそうになり「危なっ！」。主人公が笑いながら身体を低くして次の枝をジャンプ。カメラは主人公より先に枝間の狭い穴へ突入し、180度向きを変えず後退しながらジャンプしてくる主人公と飛ぶベアを正面から追う。\n\n【18.60〜21.80秒｜巨大角兎の背へ飛び乗って地上疾走】 ガラス森林の下方に、琥珀色の草原と巨大な移動獣群が見える。森林の透明枝は高度を下げ、最後に巨大な曲面滑り台のように地上近くへ続く。主人公は枝上を加速し、ベアは横を飛行。前方下では全長8mほどの巨大角兎が草原を猛スピードで走っている。白〜薄灰色の長い毛、鹿のように分岐した黒銀の角、巨大な後脚、青い瞳。突然出さず17秒台から遠景の群れとして見せる。19.2秒、主人公は透明枝の終端からジャンプし、角兎の背へ空中で向きを合わせる。カメラは角兎の耳の間から真後ろを向き、上方から迫る主人公を捉える。19.7秒、主人公が背へ着地、両膝で衝撃吸収。ベアも横から飛んできて主人公の肩へぶつかるように着地。角兎は速度を落とさない。主人公は毛を片手で掴み、もう片手で首の横を一度撫でる。角兎が耳を主人公側へ少し倒して反応。20.4秒、主人公「速い速い！」。ベア「さっきもっと速くって言ってたでしょ！」。主人公「これは速すぎ！」。角兎は巨大な岩を後脚で蹴って跳び越え、カメラは地面すれすれを先行して巨大な足がレンズ上を通過する迫力を出す。\n\n【21.80〜24.70秒｜夜の浮遊市場へ突入、主人公とベアが並走】 草原の先に、地面から離れて浮く夜の巨大市場都市が連続して現れる。最初は遠景の暖色光、次に屋根、布、吊り橋、立体路地が判別できる。角兎が巨大な傾斜橋を駆け上がり、市場の外周へ入る。市場はAAA級異世界都市。濡れた石、木、真鍮、布製の日除け、浮遊ランタン、蒸気を出す屋台、巨大な機械時計。文字や読める看板は生成しない。主人公は22.2秒に角兎の背から横の屋根へジャンプ。ベアも自力飛行で追従。角兎はそのまま路地へ走り去る。主人公は屋根上を全力疾走、ベアは肩の高さで並んで飛ぶ。カメラは主人公の左横から開始し、22.7秒に主人公より前へ加速、180度向きを保ったまま後退して顔とベアを捉える。そのまま狭い吊り橋の下へ急降下し、橋の隙間から二人を見上げ、すぐに再上昇して屋根上へ戻る。23.5秒、主人公が屋台の巨大布屋根へ踏み込み、布が沈んだ反発で次の屋根へ跳ね上がる。ベアが横で「ねえ、そろそろ目的地どこ？」。主人公は走りながら一瞬ベアを見る。「目的地？」。0.2秒だけ間。「……ないよ？」。ベアが無言で主人公を見る。\n\n【24.70〜27.50秒｜巨大時計塔を駆け上がり、二人で空へ飛び出す】 前方に巨大な傾いた時計塔。市場の屋根から巨大歯車が外壁まで露出している。主人公が屋根端から時計塔の回転歯車へジャンプし、歯車の歯を足場にして上方向へ駆け上がる。ベアは横を飛ぶ。カメラは時計塔壁面へ90度近く傾け、主人公を下から追うが、世界座標の重力は維持する。25.2秒、回転歯車の穴をカメラが先に通過し、主人公が同じ穴を飛び抜ける。25.6秒、カメラが主人公の背後から頭上を越えて前へ回り、28mmで巨大な一つ目と笑顔へ接近。主人公「最後、飛ぶよ！」。ベア「それ今日何回目！？」。26.0秒、主人公が時計塔最上部の針へ飛び乗り、回転する巨大な長針を走る。ベアも横を飛行。26.6秒、長針先端が最上点へ近づいた瞬間、主人公は反動を使って大ジャンプ。ベアも翼を強く打って同時に上昇。カメラは塔上空へ先行し、都市全体を背景に二人がこちらへ飛び出してくる構図。\n\n【27.50〜30.00秒｜二人で空中コミカル決めポーズ】 主人公とベアは時計塔から飛び出した慣性で短時間上昇し、その後自然に落下へ移る。背景には夜の浮遊市場、遠方のガラス森林、巨大リング都市、夕暮れから夜へ変わる空。主人公は空中で身体を半回転してカメラ正面へ。ベアも隣で飛びながら主人公のポーズを真似ようとする。主人公は右手を大きく広げ、左手を腰へ、片脚を曲げて参照画像の大胆でコミカルな雰囲気を残した決めポーズ。ベアも片腕を上げるが翼操作を忘れて少しずつ下へ落ち始める。主人公は気づかず最高に得意そうな顔でカメラへ向かい、「完璧〜！ ……って、ベアどこ？」。直後、画面下からベアが落ちながら「完璧じゃなーーい！」と叫ぶ。主人公の巨大な一つ目が下へ動き、初めてベアが落ちていることに気づく。29.2秒、主人公が「うそっ！」と笑いながら急降下してベアの脚を片手で掴む。二人が逆さ気味にぶら下がった状態でカメラ正面へ戻り、ベアはむすっとした顔、主人公は歯を見せて大笑い。29.6秒、主人公が片手でベアをぶら下げたままもう片方の手でVサイン。主人公：「……決まったでしょ？」。ベア：「どこが！？」。最後の「どこが！？」へ完全同期して主人公がさらに大笑い。カメラは二人へ高速接近し、巨大な一つ目、主人公の笑顔、怒ったベアを画面いっぱいへ。背後の都市は高速で上方向へ流れ、二人がまだ落下中であることを維持。30.00秒、主人公がベアを片手で掴み、二人とも空中で動き続けているコミカルな瞬間を鮮明な最終フレームとして終了。黒フェード、暗転、静止画化は禁止。\n\n【会話・声】 主人公は成人女性。少し低めで明るく、いたずら好き、テンションが高くても甲高すぎない。ベアは小型キャラクターらしい少し高めの声だが幼児声にしない。声質を混同しない。指定セリフ以外を勝手に追加しない。同じ台詞を複数回発声しない。口の動きと完全同期。高速アクション中も会話のたびに主人公やベアを停止させない。セリフ：「遅いよ〜！」「脚の長さ考えてよ！」「じゃ、飛ぶよ！」「聞いてない！」「最初から抱えててよ！」「それじゃ面白くないじゃん！」「え、そこ入るの？」「絶対入る顔してる！」「ありがと！」「ぼく泳げないんだけど！」「浮いてるから大丈夫！」「次、あそこ！」「次って何！？」「考えてない！」「知ってた！」「ちょっと待って、ぼくも飛べる気がする！」「今！？」「飛べた！」「危なっ！」「速い速い！」「さっきもっと速くって言ってたでしょ！」「これは速すぎ！」「ねえ、そろそろ目的地どこ？」「目的地？……ないよ？」「最後、飛ぶよ！」「それ今日何回目！？」「完璧〜！ ……って、ベアどこ？」「完璧じゃなーーい！」「うそっ！」「……決まったでしょ？」「どこが！？」。\n\n【音楽・SFX】 音楽はhigh-speed quirky cinematic electro × orchestral breakbeat。135〜145 BPM程度。低域はタイト、軽快なドラム、短いブラス、弦のスタッカート、木管のコミカルなアクセント、clean sub、digital percussion、短いシンセ。重いEDM dropは禁止。列車屋根では金属振動と強風、ジャンプ時は空気圧、白鴉は巨大翼の羽ばたきと羽根の風切り、空中水路では水圧、泡、低い共鳴、天空鯉では水膜と巨大尾の振動、ガラス森林では透明枝の高い共鳴音、角兎では巨大な足音、毛の擦れ、地面振動、浮遊市場では布、木、金属、遠い群衆の環境音、時計塔では巨大歯車の金属噛み合わせを入れる。会話がある瞬間だけ音楽を不自然に止めず、1〜2dB程度自然に下げて声を前へ出す。最後の「どこが！？」直前に音楽を0.15秒だけ抜き、セリフ後に短いコミカルな打楽器アクセント。笑い声は自然に残す。\n\n【絶対優先事項】 【参照画像】の主人公をAAA化しても一つ目、巨大な笑顔、ヘルメット、黒い骨格モチーフ衣装、赤いコード、色彩を維持。二つ目の普通の女性へ変えない。ベアも【参照画像】のデザインを維持し、新規の相棒キャラクターとして常に同一個体。主人公とベアを30秒間別キャラクターへ置換しない。映像全体は最高品質AAAシネマティックで統一し、途中で実写、2Dアニメ、水彩へ質感変更しない。今回の魅力は質感変化ではなく、異常なカメラ運動、場所変化、乗り換え、主人公とベアの掛け合いに置く。都市→空中水路→ガラス森林→草原→浮遊市場の変化はすべて実際の移動で成立させる。登場大型生物は巨大白銀鴉、天空鯉、巨大角兎。ドラゴン、マンタ、グリフォンは今回登場させない。主人公とベアは動物を道具として扱わず、乗り換え時に短く触れたり撫でたりして自然な交流を持たせる。主人公とベアが一緒に走る、一緒に落ちる、一緒に乗る、ベアが自力飛行する、並んで会話する、最後に主人公がベアを助けるという関係性を30秒の中で明確に見せる。\n\n【禁止】 主人公の二つ目化、普通の人間顔化、一つ目消失、ヘルメット消失、黒い衣装消失、骨格模様消失、赤いコード消失、参照画像と無関係な美少女化、ベアの別デザイン化、ベア巨大化、ベア消失、主人公複製、ベア複製、追加人間主人公、子供化、老人化、顔変更、衣装変更、余分な腕、余分な脚、6本指、融合した指、身体ねじれ、関節破綻、低品質ゲームCG、プラスチック質感、安価なトゥーンシェーダー、2D化、実写化、途中の映像媒体変更、通常編集カット、暗転、フェード、ワープ、ポータル、魔法陣、意味のない発光ゲート、巨大爆発、レーザー、過剰な火花、画面を覆う粒子、常時Bloom、白飛び、読める文字、字幕、UI、ロゴ、広告、意味のない360度回転、長時間の横固定カメラ、低速歩行、停止ポーズ、スローモーション、主人公だけが自由飛行する表現、乗り物や生物が突然出現する表現、ドラゴン、巨大マンタ、グリフォンの再使用、最後の黒フェードを禁止する。",
-    "prompt": "📷⬇️\n\n【参照画像】を30秒間の唯一の主人公＋ベア参照として固定使用する。Seedance 2.5向け、16:9・30秒・60fps。映像全体を一本の連続した超高速AAAファンタジー・シネマティックとして生成する。今回の映像は前作の「高高度から地下へ落下し続ける構造」を使用せず、舞台、進行方向、生物、映像展開を全面的に変更する。核は「主人公とベアが巨大な異世界都市を逃げ回り、飛び、乗り換え、世界そのものを横断する30秒」。主人公とベアは常に一本の運動線上で移動し、通常編集カット、暗転、フェード、突然の場所変更、ポータル、ワープ穴は禁止。カメラは主人公の横を追うだけではなく、正面迎撃、背面追跡、頭上越し、地面すれすれ、巨大生物の翼下、主人公とベアの間、狭い建築物内部などを高速で行き来し、30秒間ほぼ同じ位置に留まらない。\n\n【最重要：参照画像のAAA化】 【参照画像】の主人公を、写実人間や通常の美少女へ置換せず、参照画像固有の「一つ目の異形キャラクター」として最高品質AAA 3Dキャラクターへ再構築する。成人女性として扱うが、人間の顔へ矯正しない。顔中央に存在する巨大な一つ目、白い眼球、紫〜青〜赤の虹彩、黒い瞳孔、非常に大きな歯を見せる特徴的な笑顔を完全維持。目を二つに増やさない。普通の人間顔にしない。赤〜深いワイン色の丸いヘルメット、黒い縁、ヘルメット上の黒い小さな丸装飾、黒いボディスーツ／ジャケット、白い骨格モチーフ、赤いコード状装飾、黒いボリュームのある下衣装、濃紺〜黒の靴を参照画像から取得する。水彩の赤、青、紫、緑、黒の色ムラは消さず、AAA化した素材表面へ手塗り染料、擦れた顔料、微細な色移りとして残す。皮膚をリアルな人間肌にし過ぎず、実在素材感を持つ高品質stylized AAA characterとして処理する。表面には細かな粗さ、塗装ムラ、縫製、金属、ゴム、布、革、微細な傷を持たせる。参照画像の黒いインク輪郭は完全な2D線として残さず、衣装の黒い縁取り、ヘルメットの厚いエッジ、陰影の輪郭設計へ3D的に翻訳する。ゲーム画面のような安いCGにはしない。Unreal Engine級AAAシネマティック、長編アニメ映画級の材質、GI、反射、体積光、レンズ表現を使う。\n\n【ベア固定】 【参照画像】で主人公が抱えているピンク〜紫系のベアを、今回は主人公と並ぶ第二キャラクターとして30秒間常時維持する。単なるぬいぐるみではなく、主人公と会話し、自分で走り、自分で空を飛び、主人公と同速度で移動できる小型の生きたベア。参照画像の丸い耳、黒い目、黒い鼻、白〜クリーム色の口周り、ピンク、紫、青、緑、淡黄色が水彩のように混ざる身体、縫い目、柔らかな丸い手足を維持する。AAA化では高級ぬいぐるみ＋幻想生物の中間。短く柔らかな繊維、縫い糸、少し擦れた布地、柔らかい圧縮変形、耳や手足の慣性を表現する。ベアは主人公のコピーでもペットでもなく、少し生意気な相棒。主人公と別の声を持つ。主人公とベアのサイズ差を維持し、ベアを巨大化させない。主人公が必要な場面では片腕で抱えることができる大きさ。\n\n【舞台】 開始地点は、夕暮れの巨大な「浮遊メガシティ」。普通のビル街ではなく、赤錆色の巨大鉄骨、ガラスの高架回廊、空中を走る磁気列車、上下逆向きに建つ建築群、巨大風車、浮遊広告板のフレームだけが残る廃未来都市、雲を突き抜ける高層塔、遠方で回転する巨大なリング状都市構造を持つ。色は夕焼けのオレンジ、深い群青、赤紫、冷たいシアン。過剰なネオンは禁止。すべて最高品質AAA 3Dシネマティック。後半では都市→雲海→空中水路→巨大ガラス森林→夜の浮遊市場へ連続移動するが、どれも突然切り替えない。建築物、天候、生物、地形の物理的な連続によって次の領域へ入る。\n\n【カメラ基本設計】 18〜24mm広角を高速移動の基本とし、会話や表情では28〜40mmへ自然に寄せる。60fps。カメラはドローンのように平行追跡し続けない。0.4〜1.2秒ごとに高さ、距離、角度、速度を変える。主人公とベアの前を後退→主人公の肩すれすれを通過→ベアの下を潜る→巨大生物より先に進む→正面へ回る→地面すれすれで後退→建築の穴を先に通り抜ける、といった三次元移動を連続させる。意味のない360度ロールは禁止。ただし巨大生物の旋回、重力方向変化、建築物の曲面に合わせた短い15〜70度のバンクは積極的に使う。高速運動部分だけ自然な方向性モーションブラーを入れ、主人公の一つ目、笑顔、ベアの表情は読める程度に保持する。\n\n【0.00〜3.20秒｜いきなり空中列車の屋根を全力疾走】 第1フレームから強烈な速度。主人公とベアは、夕暮れの浮遊都市を時速数百kmで走る黒い磁気列車の屋根を全力疾走している。主人公が前、ベアが1〜2m後ろを短い脚で必死に走る。主人公の赤いコード、黒い衣装、ヘルメット装飾が風圧で揺れ、ベアの耳と腕が激しく後方へ流れる。開始カメラは列車前方約4m、屋根すれすれ20mmで後退しながら二人を正面から捉える。0.5秒でカメラが主人公の足元へ急降下し、列車屋根の金属継ぎ目がレンズ下を猛烈に流れる。0.9秒で主人公の右脚の外側から一気に上昇し、巨大な一つ目と歯を見せる笑顔へ24mmで接近。主人公は走りながら振り返り、後ろのベアへ「遅いよ〜！」と楽しそうに叫ぶ。ベアは息を切らしながら「脚の長さ考えてよ！」と返す。完全リップシンク。1.5秒、前方に途切れたレールと巨大な空中ギャップが見える。主人公は速度を落とさず「じゃ、飛ぶよ！」。ベアが「聞いてない！」。2.3秒、主人公が列車屋根を蹴り、ベアも直後にジャンプ。カメラは二人の間を高速ですり抜け、そのまま先に空中へ飛び出して振り返り、背後から迫る主人公とベアを正面から受ける。\n\n【3.20〜6.30秒｜巨大白鴉へ飛び乗る】 都市上空には数十羽の黒い鳥が飛んでいるが、その奥から翼長15m以上の巨大な白銀の鴉が高速下降してくる。突然召喚しない。2秒台から遠方に小さな白い影として存在させ、3.5秒で翼、嘴、白銀羽根、青黒い眼が明確になる。主人公とベアは自由飛行せず、ジャンプ後は重力で落下。巨大鴉がその下を斜めに横切る。主人公が空中で身体を90度捻り、4.2秒に鴉の背へ片膝で動的着地。片手で羽根を掴み衝撃を吸収。ベアは着地位置を外し、「うわぁぁ！」と小さく叫びながら鴉の翼端へ落ちるが、主人公が即座に片手を伸ばしてベアの腕を掴み、振り子のように引き上げる。カメラは鴉の翼下をすり抜け、下方から主人公がベアを引き上げる姿を見上げる。5.0秒、ベアが背へ転がり込み「最初から抱えててよ！」、主人公は大笑いして「それじゃ面白くないじゃん！」。鴉は翼を一度強く打ち、都市の建築群の間へ急降下。カメラは頭部前方へ先回りして後退し、白銀鴉、主人公、ベア、その後ろを高速で流れる都市を一画面へ入れる。\n\n【6.30〜9.30秒｜高層都市内部を白鴉で超高速突破】 白鴉は水平巡航せず、高層建築の間を下降と上昇を組み合わせて蛇行する。6.5秒、巨大ガラス塔の二本の梁の間を翼を畳んで通過。主人公は身体を低く伏せ、ベアを胸元へ引き寄せる。カメラは鴉より先に狭い隙間へ飛び込み、ガラスと金属が左右10cm程度まで迫る18mm超広角。その直後、鴉がレンズ方向へ猛烈に突入し、カメラは後方へ加速して回避。7.2秒、鴉は翼を再展開して左へ急旋回。カメラは右翼上面を滑るように移動し、そのまま主人公の肩越しに前方を見る。前方には都市中央を流れる巨大な透明「空中水路」。水が巨大な帯のように空中へ保持され、建築物の間を蛇行している。白鴉が水路へ向かって下降。主人公が「え、そこ入るの？」。ベアが青ざめたような表情で「絶対入る顔してる！」。鴉はそのまま透明水流へ突入する。\n\n【9.30〜12.40秒｜空中水路へ突入→巨大天空鯉へ乗り換え】 鴉が水へ入る瞬間、画面をフラッシュさせず、水面の屈折、泡、水圧、羽根への水の付着を物理的に連続させる。AAA質感は維持。鴉の羽根は濡れて重くなり、速度が急減。主人公とベアは慣性で前方へ放り出される。主人公は鴉の首を一度軽く撫で、「ありがと！」と言いながら水流内を前方へ泳ぐ。ベアは泳ぐのではなく、丸い身体の浮力でくるくる回転して主人公の横へ流れてくる。「ぼく泳げないんだけど！」。主人公は「浮いてるから大丈夫！」。10.4秒、下流側から巨大な半透明の天空鯉が水流に沿って高速で迫る。体長12m、乳白色と淡いシアン、透明なヒレ、金色の細い鱗、内部に柔らかな光を持つ。鯉は魔法的に出現せず、最初から水路遠方を泳いでいる。主人公が水中で身体を反転し、鯉の背へ手を伸ばす。11.2秒、鯉が主人公の下を通過する瞬間に背鰭基部を掴み、身体を引き寄せる。ベアは鯉の頭上へぽすっと着地。カメラは鯉の口元すれすれから後方へ走り、巨大な目、頭上のベア、背中へ移る主人公を一度に見せる。12.0秒、鯉が空中水路から大きく跳び出す。水滴が数秒残らず、重力に従って下へ落ちる。\n\n【12.40〜15.60秒｜空飛ぶ天空鯉＋雲海ジャンプ】 水路を飛び出した巨大鯉は魚のように空中を自由飛行するのではなく、水路出口から射出された勢いと巨大ヒレの揚力で短時間グライドする。主人公とベアはその背に乗ったまま、都市外縁の雲海へ向かう。カメラは鯉の真下へ潜り、透明な腹部越しに上の主人公とベアを屈折させて見せる。13.0秒、カメラが鯉の尾より後ろへ抜け、そのまま上昇して背後上空へ。前方に巨大なガラス森林が見え始める。高さ数百メートルの透明樹木群、枝がプリズムのように分岐し、その間を風が高速で抜ける。鯉の飛行速度が徐々に低下。主人公が前方を指差して「次、あそこ！」。ベア「次って何！？」。主人公「考えてない！」。ベア「知ってた！」。14.3秒、鯉がガラス森林上部へ接近するが、枝間が狭く巨大鯉は入れない。主人公は鯉の背を一度撫で、ベアを片腕で抱えたまま枝の一本へ飛び移る。鯉は下方の別水路へ自然に落下し離脱。主人公の靴が透明枝へ接触し、ガラス音とともに滑走開始。\n\n【15.60〜18.60秒｜ガラス森林を高速滑走＋ベアが自力飛行開始】 主人公は透明巨大枝の上をスケートのように高速滑走。ベアを左腕に抱える。枝は真っ直ぐではなく下方向へ大きくカーブし、主人公は重力で加速。カメラは枝の裏側を逆さ向きに高速移動し、透明ガラス越しに主人公の足裏とベアを捉え、そのまま枝の側面へ回り込む。16.3秒、枝が二股に分岐。主人公が右へ身体を傾けて高速ターン。ベアが「ちょっと待って、ぼくも飛べる気がする！」。主人公が「今！？」。ベアは主人公の腕から自分で飛び出す。背中から小さな二枚の布製ウイングがぱっと開くのではなく、身体側面の縫い目がほどけるように伸び、元々内蔵されていた柔らかな翼になる。翼は参照画像の色調と素材を保つ。ベアが主人公の横をぎこちなく飛び始め「飛べた！」。直後に透明枝へ軽くぶつかりそうになり「危なっ！」。主人公が笑いながら身体を低くして次の枝をジャンプ。カメラは主人公より先に枝間の狭い穴へ突入し、180度向きを変えず後退しながらジャンプしてくる主人公と飛ぶベアを正面から追う。\n\n【18.60〜21.80秒｜巨大角兎の背へ飛び乗って地上疾走】 ガラス森林の下方に、琥珀色の草原と巨大な移動獣群が見える。森林の透明枝は高度を下げ、最後に巨大な曲面滑り台のように地上近くへ続く。主人公は枝上を加速し、ベアは横を飛行。前方下では全長8mほどの巨大角兎が草原を猛スピードで走っている。白〜薄灰色の長い毛、鹿のように分岐した黒銀の角、巨大な後脚、青い瞳。突然出さず17秒台から遠景の群れとして見せる。19.2秒、主人公は透明枝の終端からジャンプし、角兎の背へ空中で向きを合わせる。カメラは角兎の耳の間から真後ろを向き、上方から迫る主人公を捉える。19.7秒、主人公が背へ着地、両膝で衝撃吸収。ベアも横から飛んできて主人公の肩へぶつかるように着地。角兎は速度を落とさない。主人公は毛を片手で掴み、もう片手で首の横を一度撫でる。角兎が耳を主人公側へ少し倒して反応。20.4秒、主人公「速い速い！」。ベア「さっきもっと速くって言ってたでしょ！」。主人公「これは速すぎ！」。角兎は巨大な岩を後脚で蹴って跳び越え、カメラは地面すれすれを先行して巨大な足がレンズ上を通過する迫力を出す。\n\n【21.80〜24.70秒｜夜の浮遊市場へ突入、主人公とベアが並走】 草原の先に、地面から離れて浮く夜の巨大市場都市が連続して現れる。最初は遠景の暖色光、次に屋根、布、吊り橋、立体路地が判別できる。角兎が巨大な傾斜橋を駆け上がり、市場の外周へ入る。市場はAAA級異世界都市。濡れた石、木、真鍮、布製の日除け、浮遊ランタン、蒸気を出す屋台、巨大な機械時計。文字や読める看板は生成しない。主人公は22.2秒に角兎の背から横の屋根へジャンプ。ベアも自力飛行で追従。角兎はそのまま路地へ走り去る。主人公は屋根上を全力疾走、ベアは肩の高さで並んで飛ぶ。カメラは主人公の左横から開始し、22.7秒に主人公より前へ加速、180度向きを保ったまま後退して顔とベアを捉える。そのまま狭い吊り橋の下へ急降下し、橋の隙間から二人を見上げ、すぐに再上昇して屋根上へ戻る。23.5秒、主人公が屋台の巨大布屋根へ踏み込み、布が沈んだ反発で次の屋根へ跳ね上がる。ベアが横で「ねえ、そろそろ目的地どこ？」。主人公は走りながら一瞬ベアを見る。「目的地？」。0.2秒だけ間。「……ないよ？」。ベアが無言で主人公を見る。\n\n【24.70〜27.50秒｜巨大時計塔を駆け上がり、二人で空へ飛び出す】 前方に巨大な傾いた時計塔。市場の屋根から巨大歯車が外壁まで露出している。主人公が屋根端から時計塔の回転歯車へジャンプし、歯車の歯を足場にして上方向へ駆け上がる。ベアは横を飛ぶ。カメラは時計塔壁面へ90度近く傾け、主人公を下から追うが、世界座標の重力は維持する。25.2秒、回転歯車の穴をカメラが先に通過し、主人公が同じ穴を飛び抜ける。25.6秒、カメラが主人公の背後から頭上を越えて前へ回り、28mmで巨大な一つ目と笑顔へ接近。主人公「最後、飛ぶよ！」。ベア「それ今日何回目！？」。26.0秒、主人公が時計塔最上部の針へ飛び乗り、回転する巨大な長針を走る。ベアも横を飛行。26.6秒、長針先端が最上点へ近づいた瞬間、主人公は反動を使って大ジャンプ。ベアも翼を強く打って同時に上昇。カメラは塔上空へ先行し、都市全体を背景に二人がこちらへ飛び出してくる構図。\n\n【27.50〜30.00秒｜二人で空中コミカル決めポーズ】 主人公とベアは時計塔から飛び出した慣性で短時間上昇し、その後自然に落下へ移る。背景には夜の浮遊市場、遠方のガラス森林、巨大リング都市、夕暮れから夜へ変わる空。主人公は空中で身体を半回転してカメラ正面へ。ベアも隣で飛びながら主人公のポーズを真似ようとする。主人公は右手を大きく広げ、左手を腰へ、片脚を曲げて参照画像の大胆でコミカルな雰囲気を残した決めポーズ。ベアも片腕を上げるが翼操作を忘れて少しずつ下へ落ち始める。主人公は気づかず最高に得意そうな顔でカメラへ向かい、「完璧〜！ ……って、ベアどこ？」。直後、画面下からベアが落ちながら「完璧じゃなーーい！」と叫ぶ。主人公の巨大な一つ目が下へ動き、初めてベアが落ちていることに気づく。29.2秒、主人公が「うそっ！」と笑いながら急降下してベアの脚を片手で掴む。二人が逆さ気味にぶら下がった状態でカメラ正面へ戻り、ベアはむすっとした顔、主人公は歯を見せて大笑い。29.6秒、主人公が片手でベアをぶら下げたままもう片方の手でVサイン。主人公：「……決まったでしょ？」。ベア：「どこが！？」。最後の「どこが！？」へ完全同期して主人公がさらに大笑い。カメラは二人へ高速接近し、巨大な一つ目、主人公の笑顔、怒ったベアを画面いっぱいへ。背後の都市は高速で上方向へ流れ、二人がまだ落下中であることを維持。30.00秒、主人公がベアを片手で掴み、二人とも空中で動き続けているコミカルな瞬間を鮮明な最終フレームとして終了。黒フェード、暗転、静止画化は禁止。\n\n【会話・声】 主人公は成人女性。少し低めで明るく、いたずら好き、テンションが高くても甲高すぎない。ベアは小型キャラクターらしい少し高めの声だが幼児声にしない。声質を混同しない。指定セリフ以外を勝手に追加しない。同じ台詞を複数回発声しない。口の動きと完全同期。高速アクション中も会話のたびに主人公やベアを停止させない。セリフ：「遅いよ〜！」「脚の長さ考えてよ！」「じゃ、飛ぶよ！」「聞いてない！」「最初から抱えててよ！」「それじゃ面白くないじゃん！」「え、そこ入るの？」「絶対入る顔してる！」「ありがと！」「ぼく泳げないんだけど！」「浮いてるから大丈夫！」「次、あそこ！」「次って何！？」「考えてない！」「知ってた！」「ちょっと待って、ぼくも飛べる気がする！」「今！？」「飛べた！」「危なっ！」「速い速い！」「さっきもっと速くって言ってたでしょ！」「これは速すぎ！」「ねえ、そろそろ目的地どこ？」「目的地？……ないよ？」「最後、飛ぶよ！」「それ今日何回目！？」「完璧〜！ ……って、ベアどこ？」「完璧じゃなーーい！」「うそっ！」「……決まったでしょ？」「どこが！？」。\n\n【音楽・SFX】 音楽はhigh-speed quirky cinematic electro × orchestral breakbeat。135〜145 BPM程度。低域はタイト、軽快なドラム、短いブラス、弦のスタッカート、木管のコミカルなアクセント、clean sub、digital percussion、短いシンセ。重いEDM dropは禁止。列車屋根では金属振動と強風、ジャンプ時は空気圧、白鴉は巨大翼の羽ばたきと羽根の風切り、空中水路では水圧、泡、低い共鳴、天空鯉では水膜と巨大尾の振動、ガラス森林では透明枝の高い共鳴音、角兎では巨大な足音、毛の擦れ、地面振動、浮遊市場では布、木、金属、遠い群衆の環境音、時計塔では巨大歯車の金属噛み合わせを入れる。会話がある瞬間だけ音楽を不自然に止めず、1〜2dB程度自然に下げて声を前へ出す。最後の「どこが！？」直前に音楽を0.15秒だけ抜き、セリフ後に短いコミカルな打楽器アクセント。笑い声は自然に残す。\n\n【絶対優先事項】 【参照画像】の主人公をAAA化しても一つ目、巨大な笑顔、ヘルメット、黒い骨格モチーフ衣装、赤いコード、色彩を維持。二つ目の普通の女性へ変えない。ベアも【参照画像】のデザインを維持し、新規の相棒キャラクターとして常に同一個体。主人公とベアを30秒間別キャラクターへ置換しない。映像全体は最高品質AAAシネマティックで統一し、途中で実写、2Dアニメ、水彩へ質感変更しない。今回の魅力は質感変化ではなく、異常なカメラ運動、場所変化、乗り換え、主人公とベアの掛け合いに置く。都市→空中水路→ガラス森林→草原→浮遊市場の変化はすべて実際の移動で成立させる。登場大型生物は巨大白銀鴉、天空鯉、巨大角兎。ドラゴン、マンタ、グリフォンは今回登場させない。主人公とベアは動物を道具として扱わず、乗り換え時に短く触れたり撫でたりして自然な交流を持たせる。主人公とベアが一緒に走る、一緒に落ちる、一緒に乗る、ベアが自力飛行する、並んで会話する、最後に主人公がベアを助けるという関係性を30秒の中で明確に見せる。\n\n【禁止】 主人公の二つ目化、普通の人間顔化、一つ目消失、ヘルメット消失、黒い衣装消失、骨格模様消失、赤いコード消失、参照画像と無関係な美少女化、ベアの別デザイン化、ベア巨大化、ベア消失、主人公複製、ベア複製、追加人間主人公、子供化、老人化、顔変更、衣装変更、余分な腕、余分な脚、6本指、融合した指、身体ねじれ、関節破綻、低品質ゲームCG、プラスチック質感、安価なトゥーンシェーダー、2D化、実写化、途中の映像媒体変更、通常編集カット、暗転、フェード、ワープ、ポータル、魔法陣、意味のない発光ゲート、巨大爆発、レーザー、過剰な火花、画面を覆う粒子、常時Bloom、白飛び、読める文字、字幕、UI、ロゴ、広告、意味のない360度回転、長時間の横固定カメラ、低速歩行、停止ポーズ、スローモーション、主人公だけが自由飛行する表現、乗り物や生物が突然出現する表現、ドラゴン、巨大マンタ、グリフォンの再使用、最後の黒フェードを禁止する。",
-    "prompt_in_thread": false,
-    "prompt_source_urls": [
-      "https://x.com/sailorv321/status/2088819020564930606"
-    ],
-    "model": "Seedance 2.5",
-    "category": "Cinematic & Film",
-    "date": "2026-08-16",
-    "author": {
-      "name": "C’est La Vie🦋",
-      "handle": "sailorv321",
-      "url": "https://x.com/sailorv321",
-      "avatar": "https://pbs.twimg.com/profile_images/2100351964026724352/tdO3OmtG_200x200.jpg"
-    },
-    "stats": {
-      "views": 31759,
-      "likes": 13,
-      "retweets": 0
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088816924851613696/img/c7EzyY046oUhUuWe.jpg",
-      "width": 3840,
-      "height": 2160,
-      "duration": 30.07,
-      "source_url": "https://video.twimg.com/amplify_video/2088816924851613696/vid/avc1/3840x2160/FyqopqVST3faDzNu.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088816924851613696.poster.webp",
       "attachment": null
     }
   },
@@ -4362,7 +4362,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2066791920165404672/rF5t8j-__200x200.jpg"
     },
     "stats": {
-      "views": 31606,
+      "views": 31685,
       "likes": 295,
       "retweets": 39
     },
@@ -4398,8 +4398,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2106434050726752256/n6zbonlU_200x200.jpg"
     },
     "stats": {
-      "views": 31572,
-      "likes": 288,
+      "views": 31588,
+      "likes": 286,
       "retweets": 18
     },
     "video": {
@@ -4434,7 +4434,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2097876655364841472/HKObi4zo_200x200.jpg"
     },
     "stats": {
-      "views": 31466,
+      "views": 31491,
       "likes": 317,
       "retweets": 23
     },
@@ -4470,7 +4470,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2031017478290071552/RE_O4nD7_200x200.jpg"
     },
     "stats": {
-      "views": 30973,
+      "views": 30982,
       "likes": 163,
       "retweets": 5
     },
@@ -4505,8 +4505,8 @@
     },
     "stats": {
       "views": 30672,
-      "likes": 60,
-      "retweets": 26
+      "likes": 59,
+      "retweets": 25
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/_YashalAli_2095087576948621312.mp4",
@@ -4538,7 +4538,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2046030035241607168/148F4m4X_200x200.jpg"
     },
     "stats": {
-      "views": 30656,
+      "views": 30665,
       "likes": 43,
       "retweets": 3
     },
@@ -4608,7 +4608,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2038642690037067776/ol3XyDR1_200x200.jpg"
     },
     "stats": {
-      "views": 30595,
+      "views": 30617,
       "likes": 121,
       "retweets": 3
     },
@@ -4642,8 +4642,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2018081635816599552/ef5OimmH_200x200.jpg"
     },
     "stats": {
-      "views": 30465,
-      "likes": 288,
+      "views": 30478,
+      "likes": 287,
       "retweets": 26
     },
     "video": {
@@ -4676,7 +4676,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2003752693735604224/vHCLO7Z-_200x200.jpg"
     },
     "stats": {
-      "views": 30259,
+      "views": 30260,
       "likes": 101,
       "retweets": 7
     },
@@ -4712,7 +4712,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2078518091449810944/W_KRnlAx_200x200.jpg"
     },
     "stats": {
-      "views": 30213,
+      "views": 30218,
       "likes": 104,
       "retweets": 2
     },
@@ -4748,7 +4748,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2029511617373958144/6Tn2GF7m_200x200.jpg"
     },
     "stats": {
-      "views": 29821,
+      "views": 29855,
       "likes": 135,
       "retweets": 6
     },
@@ -4782,8 +4782,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1958119025436966912/XamzfdS7_200x200.jpg"
     },
     "stats": {
-      "views": 29704,
-      "likes": 373,
+      "views": 29734,
+      "likes": 372,
       "retweets": 32
     },
     "video": {
@@ -4818,9 +4818,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2083496298108628992/ql9dU-Qn_200x200.jpg"
     },
     "stats": {
-      "views": 29557,
+      "views": 29570,
       "likes": 138,
-      "retweets": 10
+      "retweets": 11
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/QAiStudio_2097181923902939137.mp4",
@@ -4854,8 +4854,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058848213046579200/qU5kj8IY_200x200.jpg"
     },
     "stats": {
-      "views": 29313,
-      "likes": 120,
+      "views": 29314,
+      "likes": 118,
       "retweets": 3
     },
     "video": {
@@ -4890,7 +4890,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2011073742378549248/vYtcYdKM_200x200.jpg"
     },
     "stats": {
-      "views": 29117,
+      "views": 29139,
       "likes": 251,
       "retweets": 34
     },
@@ -4924,7 +4924,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2065362770199982082/j1OVqg3i_200x200.jpg"
     },
     "stats": {
-      "views": 28991,
+      "views": 29016,
       "likes": 68,
       "retweets": 9
     },
@@ -4960,9 +4960,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2064329467166957568/_FJD6maG_200x200.jpg"
     },
     "stats": {
-      "views": 28932,
-      "likes": 121,
-      "retweets": 10
+      "views": 28945,
+      "likes": 119,
+      "retweets": 8
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithNatalia_2094275332358410240.mp4",
@@ -4994,8 +4994,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
     },
     "stats": {
-      "views": 28333,
-      "likes": 273,
+      "views": 28347,
+      "likes": 271,
       "retweets": 40
     },
     "video": {
@@ -5030,8 +5030,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2004617697326444544/q_C4I3j-_200x200.jpg"
     },
     "stats": {
-      "views": 28092,
-      "likes": 217,
+      "views": 28100,
+      "likes": 216,
       "retweets": 4
     },
     "video": {
@@ -5066,8 +5066,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2038642690037067776/ol3XyDR1_200x200.jpg"
     },
     "stats": {
-      "views": 27487,
-      "likes": 140,
+      "views": 27494,
+      "likes": 136,
       "retweets": 6
     },
     "video": {
@@ -5102,8 +5102,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1997170504713883651/mr6aPbte_200x200.jpg"
     },
     "stats": {
-      "views": 27440,
-      "likes": 225,
+      "views": 27472,
+      "likes": 224,
       "retweets": 22
     },
     "video": {
@@ -5138,7 +5138,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
     },
     "stats": {
-      "views": 27234,
+      "views": 27267,
       "likes": 113,
       "retweets": 10
     },
@@ -5174,8 +5174,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058848213046579200/qU5kj8IY_200x200.jpg"
     },
     "stats": {
-      "views": 27081,
-      "likes": 132,
+      "views": 27084,
+      "likes": 128,
       "retweets": 3
     },
     "video": {
@@ -5210,7 +5210,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2029511617373958144/6Tn2GF7m_200x200.jpg"
     },
     "stats": {
-      "views": 27015,
+      "views": 27025,
       "likes": 235,
       "retweets": 15
     },
@@ -5246,9 +5246,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2097876655364841472/HKObi4zo_200x200.jpg"
     },
     "stats": {
-      "views": 26539,
-      "likes": 170,
-      "retweets": 12
+      "views": 26577,
+      "likes": 172,
+      "retweets": 13
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/ChillaiKalan___2094280489372938242.mp4",
@@ -5282,8 +5282,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2050483594041434112/ubZMY0oR_200x200.jpg"
     },
     "stats": {
-      "views": 26384,
-      "likes": 214,
+      "views": 26392,
+      "likes": 212,
       "retweets": 8
     },
     "video": {
@@ -5316,7 +5316,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2031017478290071552/RE_O4nD7_200x200.jpg"
     },
     "stats": {
-      "views": 26141,
+      "views": 26166,
       "likes": 187,
       "retweets": 7
     },
@@ -5352,8 +5352,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2049901379653861376/jrcfpmRK_200x200.jpg"
     },
     "stats": {
-      "views": 26110,
-      "likes": 123,
+      "views": 26143,
+      "likes": 122,
       "retweets": 7
     },
     "video": {
@@ -5388,8 +5388,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2053808583872036864/P3N7qL02_200x200.jpg"
     },
     "stats": {
-      "views": 25692,
-      "likes": 305,
+      "views": 25722,
+      "likes": 304,
       "retweets": 23
     },
     "video": {
@@ -5424,8 +5424,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1997170504713883651/mr6aPbte_200x200.jpg"
     },
     "stats": {
-      "views": 25423,
-      "likes": 303,
+      "views": 25450,
+      "likes": 302,
       "retweets": 29
     },
     "video": {
@@ -5460,8 +5460,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
     },
     "stats": {
-      "views": 25397,
-      "likes": 187,
+      "views": 25417,
+      "likes": 186,
       "retweets": 20
     },
     "video": {
@@ -5496,8 +5496,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2071436746815148033/EW0pE-rc_200x200.jpg"
     },
     "stats": {
-      "views": 25362,
-      "likes": 221,
+      "views": 25374,
+      "likes": 220,
       "retweets": 6
     },
     "video": {
@@ -5532,9 +5532,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075554270972370944/YkJBKGwK_200x200.jpg"
     },
     "stats": {
-      "views": 24853,
+      "views": 24863,
       "likes": 151,
-      "retweets": 11
+      "retweets": 10
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2091050242204639232.mp4",
@@ -5545,42 +5545,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2091050242204639232/vid/avc1/1280x720/aDw6WSooHcskoTqe.mp4?tag=14",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2091050242204639232.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2091050242204639232.poster.webp",
-      "attachment": null
-    }
-  },
-  {
-    "id": "2088499769614483721",
-    "url": "https://x.com/AIwithSynthia/status/2088499769614483721",
-    "title": "I change vibe with just flick of my fingers",
-    "text": "I change vibe with just flick of my fingers \n\nSeedance 2.5 on @itsPolloAI \n\nPrompt :\n\nUse the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
-    "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
-    "prompt_in_thread": false,
-    "prompt_source_urls": [
-      "https://x.com/AIwithSynthia/status/2088499769614483721"
-    ],
-    "model": "Seedance 2.5",
-    "category": "Cinematic & Film",
-    "date": "2026-08-15",
-    "author": {
-      "name": "Synthia",
-      "handle": "AIwithSynthia",
-      "url": "https://x.com/AIwithSynthia",
-      "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
-    },
-    "stats": {
-      "views": 23971,
-      "likes": 118,
-      "retweets": 3
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2088499722546024449.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088499722546024449/img/6aZ6Ie_xgeOfbd1N.jpg",
-      "width": 1076,
-      "height": 620,
-      "duration": 25.69,
-      "source_url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/1076x620/8YlRPc47-klKj94j.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2088499722546024449.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2088499722546024449.poster.webp",
       "attachment": null
     }
   },
@@ -5604,8 +5568,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2117655263268544513/Q1I2DiP4_200x200.jpg"
     },
     "stats": {
-      "views": 23948,
-      "likes": 757,
+      "views": 23985,
+      "likes": 755,
       "retweets": 69
     },
     "video": {
@@ -5621,37 +5585,39 @@
     }
   },
   {
-    "id": "2021496696115736746",
-    "url": "https://x.com/heydin_ai/status/2021496696115736746",
-    "title": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…",
-    "text": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can instantly turn it into a full cinematic scene.",
-    "prompt": null,
+    "id": "2088499769614483721",
+    "url": "https://x.com/AIwithSynthia/status/2088499769614483721",
+    "title": "I change vibe with just flick of my fingers",
+    "text": "I change vibe with just flick of my fingers \n\nSeedance 2.5 on @itsPolloAI \n\nPrompt :\n\nUse the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
+    "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.\n\nCreate an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.\n\nShe walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.\n\nOn the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.\n\nShe flicks her fingers again.\n\nThe same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.\n\nThe street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.\n\nFINAL — 0:28–0:30\nShe reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.\n\nStyle: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.\n\nImportant: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.\n\nNegative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.",
     "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.0",
+    "prompt_source_urls": [
+      "https://x.com/AIwithSynthia/status/2088499769614483721"
+    ],
+    "model": "Seedance 2.5",
     "category": "Cinematic & Film",
-    "date": "2026-02-11",
+    "date": "2026-08-15",
     "author": {
-      "name": "Dinda Prasetyo",
-      "handle": "heydin_ai",
-      "url": "https://x.com/heydin_ai",
-      "avatar": "https://pbs.twimg.com/profile_images/1898412161569005568/JF5_QOaZ_200x200.jpg"
+      "name": "Synthia",
+      "handle": "AIwithSynthia",
+      "url": "https://x.com/AIwithSynthia",
+      "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
     },
     "stats": {
-      "views": 23851,
-      "likes": 213,
-      "retweets": 16
+      "views": 23978,
+      "likes": 115,
+      "retweets": 3
     },
     "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021475954321915910.mp4",
-      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2021475954321915910/pu/img/b6iofAmgGr7WfVCg.jpg",
-      "width": 1280,
-      "height": 720,
-      "duration": 72.66,
-      "source_url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/1280x720/5rp61UnlZzwvUsnd.mp4?tag=12",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021475954321915910.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021475954321915910.poster.webp",
-      "attachment": "https://github.com/user-attachments/assets/69f23cf2-da42-49e4-a2f9-7b7d1ce3b131"
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2088499722546024449.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088499722546024449/img/6aZ6Ie_xgeOfbd1N.jpg",
+      "width": 1076,
+      "height": 620,
+      "duration": 25.69,
+      "source_url": "https://video.twimg.com/amplify_video/2088499722546024449/vid/avc1/1076x620/8YlRPc47-klKj94j.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2088499722546024449.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithSynthia_2088499722546024449.poster.webp",
+      "attachment": null
     }
   },
   {
@@ -5674,7 +5640,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2100351964026724352/tdO3OmtG_200x200.jpg"
     },
     "stats": {
-      "views": 23640,
+      "views": 23956,
       "likes": 11,
       "retweets": 1
     },
@@ -5688,6 +5654,40 @@
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088808323303002112.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/sailorv321_2088808323303002112.poster.webp",
       "attachment": null
+    }
+  },
+  {
+    "id": "2021496696115736746",
+    "url": "https://x.com/heydin_ai/status/2021496696115736746",
+    "title": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can…",
+    "text": "Seedance 2.0 is seriously mind-blowing! With just one image and one prompt, you can instantly turn it into a full cinematic scene.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.0",
+    "category": "Cinematic & Film",
+    "date": "2026-02-11",
+    "author": {
+      "name": "Dinda Prasetyo",
+      "handle": "heydin_ai",
+      "url": "https://x.com/heydin_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/1898412161569005568/JF5_QOaZ_200x200.jpg"
+    },
+    "stats": {
+      "views": 23852,
+      "likes": 213,
+      "retweets": 16
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021475954321915910.mp4",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2021475954321915910/pu/img/b6iofAmgGr7WfVCg.jpg",
+      "width": 1280,
+      "height": 720,
+      "duration": 72.66,
+      "source_url": "https://video.twimg.com/ext_tw_video/2021475954321915910/pu/vid/avc1/1280x720/5rp61UnlZzwvUsnd.mp4?tag=12",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021475954321915910.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/heydin_ai_2021475954321915910.poster.webp",
+      "attachment": "https://github.com/user-attachments/assets/69f23cf2-da42-49e4-a2f9-7b7d1ce3b131"
     }
   },
   {
@@ -5710,8 +5710,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105370681005244416/j5QIko36_200x200.jpg"
     },
     "stats": {
-      "views": 23214,
-      "likes": 204,
+      "views": 23220,
+      "likes": 202,
       "retweets": 17
     },
     "video": {
@@ -5744,8 +5744,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2046030035241607168/148F4m4X_200x200.jpg"
     },
     "stats": {
-      "views": 22855,
-      "likes": 76,
+      "views": 22861,
+      "likes": 75,
       "retweets": 8
     },
     "video": {
@@ -5780,8 +5780,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105370681005244416/j5QIko36_200x200.jpg"
     },
     "stats": {
-      "views": 22853,
-      "likes": 217,
+      "views": 22861,
+      "likes": 216,
       "retweets": 7
     },
     "video": {
@@ -5816,8 +5816,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2083496298108628992/ql9dU-Qn_200x200.jpg"
     },
     "stats": {
-      "views": 22845,
-      "likes": 33,
+      "views": 22852,
+      "likes": 32,
       "retweets": 2
     },
     "video": {
@@ -5850,8 +5850,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2049093558435753984/fmXN11gV_200x200.png"
     },
     "stats": {
-      "views": 22640,
-      "likes": 325,
+      "views": 22647,
+      "likes": 323,
       "retweets": 24
     },
     "video": {
@@ -5886,7 +5886,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2029511617373958144/6Tn2GF7m_200x200.jpg"
     },
     "stats": {
-      "views": 22108,
+      "views": 22152,
       "likes": 163,
       "retweets": 10
     },
@@ -5920,8 +5920,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1967102770500300803/ylHD6oXM_200x200.jpg"
     },
     "stats": {
-      "views": 22052,
-      "likes": 249,
+      "views": 22062,
+      "likes": 248,
       "retweets": 34
     },
     "video": {
@@ -5956,8 +5956,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_200x200.jpg"
     },
     "stats": {
-      "views": 21799,
-      "likes": 82,
+      "views": 21856,
+      "likes": 81,
       "retweets": 16
     },
     "video": {
@@ -5992,8 +5992,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2004617697326444544/q_C4I3j-_200x200.jpg"
     },
     "stats": {
-      "views": 21699,
-      "likes": 207,
+      "views": 21709,
+      "likes": 206,
       "retweets": 9
     },
     "video": {
@@ -6026,8 +6026,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1992173726641930241/IPyQDwW4_200x200.jpg"
     },
     "stats": {
-      "views": 21220,
-      "likes": 222,
+      "views": 21228,
+      "likes": 221,
       "retweets": 12
     },
     "video": {
@@ -6039,6 +6039,40 @@
       "source_url": "https://video.twimg.com/amplify_video/2083522282551664640/vid/avc1/1280x720/cMvvP2UQPc7z9pt8.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/CaptainHaHaa_2083522282551664640.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/CaptainHaHaa_2083522282551664640.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2083558691895209987",
+    "url": "https://x.com/MrLarus/status/2083558691895209987",
+    "title": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！",
+    "text": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！\n\n🌟生成要点：\n1. Depth 视频控制核心舞蹈\n2. 多视角头像和全身图锁定主角\n3. 九宫格按编号调用妆造、乐器和剪影镜头\n4. 场景图统一整个古风雅室\n5. 参考 BGM 控制节奏、切镜和情绪推进\n\n人物、动作、场景、镜头和音乐都沿着同一条时间轴推进\n画面每一次切换基本踩着 BGM 往前走，视觉和听觉衔接得非常流畅！\n\n🌟很适合生成人物小传、角色主题 MV、短剧片头和角色登场短片！\n\n工作流 + 提示词在评论区 👇",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.5",
+    "category": "Music & Dance",
+    "date": "2026-08-01",
+    "author": {
+      "name": "Larus Canus",
+      "handle": "MrLarus",
+      "url": "https://x.com/MrLarus",
+      "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
+    },
+    "stats": {
+      "views": 20818,
+      "likes": 70,
+      "retweets": 8
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083557234240344064/img/CsDST9o2RdImA-ig.jpg",
+      "width": 720,
+      "height": 1280,
+      "duration": 30.05,
+      "source_url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/720x1280/SS0a53hc6kdiy8KI.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.poster.webp",
       "attachment": null
     }
   },
@@ -6060,8 +6094,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1819754332826537984/v2wuRiV0_200x200.jpg"
     },
     "stats": {
-      "views": 20784,
-      "likes": 33,
+      "views": 20785,
+      "likes": 31,
       "retweets": 4
     },
     "video": {
@@ -6074,40 +6108,6 @@
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/HeyAmit__2082075946119823360.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/HeyAmit__2082075946119823360.poster.webp",
       "attachment": "https://github.com/user-attachments/assets/6e717050-f00c-4de9-ac50-8051118bf128"
-    }
-  },
-  {
-    "id": "2083558691895209987",
-    "url": "https://x.com/MrLarus/status/2083558691895209987",
-    "title": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！",
-    "text": "🤯Seedance 2.5 全能模式小传工作流，30 秒人物小传一次成片！\n\n🌟生成要点：\n1. Depth 视频控制核心舞蹈\n2. 多视角头像和全身图锁定主角\n3. 九宫格按编号调用妆造、乐器和剪影镜头\n4. 场景图统一整个古风雅室\n5. 参考 BGM 控制节奏、切镜和情绪推进\n\n人物、动作、场景、镜头和音乐都沿着同一条时间轴推进\n画面每一次切换基本踩着 BGM 往前走，视觉和听觉衔接得非常流畅！\n\n🌟很适合生成人物小传、角色主题 MV、短剧片头和角色登场短片！\n\n工作流 + 提示词在评论区 👇",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.5",
-    "category": "Music & Dance",
-    "date": "2026-08-01",
-    "author": {
-      "name": "Larus Canus",
-      "handle": "MrLarus",
-      "url": "https://x.com/MrLarus",
-      "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
-    },
-    "stats": {
-      "views": 20770,
-      "likes": 71,
-      "retweets": 8
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083557234240344064/img/CsDST9o2RdImA-ig.jpg",
-      "width": 720,
-      "height": 1280,
-      "duration": 30.05,
-      "source_url": "https://video.twimg.com/amplify_video/2083557234240344064/vid/avc1/720x1280/SS0a53hc6kdiy8KI.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/MrLarus_2083557234240344064.poster.webp",
-      "attachment": null
     }
   },
   {
@@ -6130,8 +6130,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
     },
     "stats": {
-      "views": 20475,
-      "likes": 113,
+      "views": 20489,
+      "likes": 111,
       "retweets": 2
     },
     "video": {
@@ -6166,7 +6166,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2011073742378549248/vYtcYdKM_200x200.jpg"
     },
     "stats": {
-      "views": 20275,
+      "views": 20293,
       "likes": 101,
       "retweets": 8
     },
@@ -6200,7 +6200,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105370789683879936/uRffy6XD_200x200.jpg"
     },
     "stats": {
-      "views": 19907,
+      "views": 19935,
       "likes": 236,
       "retweets": 18
     },
@@ -6234,7 +6234,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1983959171012685824/xEjQL0RW_200x200.jpg"
     },
     "stats": {
-      "views": 19520,
+      "views": 19527,
       "likes": 68,
       "retweets": 6
     },
@@ -6270,7 +6270,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1997170504713883651/mr6aPbte_200x200.jpg"
     },
     "stats": {
-      "views": 19488,
+      "views": 19511,
       "likes": 154,
       "retweets": 17
     },
@@ -6306,8 +6306,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
     },
     "stats": {
-      "views": 19487,
-      "likes": 124,
+      "views": 19495,
+      "likes": 123,
       "retweets": 12
     },
     "video": {
@@ -6376,7 +6376,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2083496298108628992/ql9dU-Qn_200x200.jpg"
     },
     "stats": {
-      "views": 19329,
+      "views": 19342,
       "likes": 47,
       "retweets": 4
     },
@@ -6412,7 +6412,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_200x200.jpg"
     },
     "stats": {
-      "views": 19294,
+      "views": 19301,
       "likes": 101,
       "retweets": 4
     },
@@ -6448,7 +6448,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2085125212970860544/dKiW9dk7_200x200.jpg"
     },
     "stats": {
-      "views": 18719,
+      "views": 18753,
       "likes": 80,
       "retweets": 7
     },
@@ -6484,8 +6484,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2102800043044712448/aBhERnvb_200x200.jpg"
     },
     "stats": {
-      "views": 18540,
-      "likes": 175,
+      "views": 18545,
+      "likes": 172,
       "retweets": 6
     },
     "video": {
@@ -6520,8 +6520,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2067496907539423232/iINU2emd_200x200.jpg"
     },
     "stats": {
-      "views": 18281,
-      "likes": 84,
+      "views": 18290,
+      "likes": 85,
       "retweets": 1
     },
     "video": {
@@ -6556,7 +6556,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
     },
     "stats": {
-      "views": 17792,
+      "views": 17825,
       "likes": 173,
       "retweets": 12
     },
@@ -6592,8 +6592,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_200x200.jpg"
     },
     "stats": {
-      "views": 17619,
-      "likes": 83,
+      "views": 17726,
+      "likes": 84,
       "retweets": 6
     },
     "video": {
@@ -6628,8 +6628,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_200x200.jpg"
     },
     "stats": {
-      "views": 17161,
-      "likes": 99,
+      "views": 17331,
+      "likes": 100,
       "retweets": 20
     },
     "video": {
@@ -6664,7 +6664,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/900242543778029568/tkqfzUmR_200x200.jpg"
     },
     "stats": {
-      "views": 17033,
+      "views": 17042,
       "likes": 101,
       "retweets": 3
     },
@@ -6700,8 +6700,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2029511617373958144/6Tn2GF7m_200x200.jpg"
     },
     "stats": {
-      "views": 16890,
-      "likes": 141,
+      "views": 16900,
+      "likes": 140,
       "retweets": 10
     },
     "video": {
@@ -6736,7 +6736,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_200x200.jpg"
     },
     "stats": {
-      "views": 16592,
+      "views": 16603,
       "likes": 140,
       "retweets": 9
     },
@@ -6772,8 +6772,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2004617697326444544/q_C4I3j-_200x200.jpg"
     },
     "stats": {
-      "views": 16494,
-      "likes": 169,
+      "views": 16496,
+      "likes": 167,
       "retweets": 5
     },
     "video": {
@@ -6808,8 +6808,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1997170504713883651/mr6aPbte_200x200.jpg"
     },
     "stats": {
-      "views": 16258,
-      "likes": 152,
+      "views": 16287,
+      "likes": 151,
       "retweets": 19
     },
     "video": {
@@ -6844,9 +6844,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075554270972370944/YkJBKGwK_200x200.jpg"
     },
     "stats": {
-      "views": 15794,
+      "views": 15812,
       "likes": 135,
-      "retweets": 5
+      "retweets": 4
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/itsshara_ai_2091004945046913025.mp4",
@@ -6880,8 +6880,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2043791038528331776/rcl0HoZd_200x200.jpg"
     },
     "stats": {
-      "views": 15707,
-      "likes": 202,
+      "views": 15727,
+      "likes": 203,
       "retweets": 19
     },
     "video": {
@@ -6916,7 +6916,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1891147831425298432/5gBAODh1_200x200.jpg"
     },
     "stats": {
-      "views": 15541,
+      "views": 15545,
       "likes": 90,
       "retweets": 18
     },
@@ -6952,7 +6952,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2064040458335010816/BGu2ZYBN_200x200.jpg"
     },
     "stats": {
-      "views": 15502,
+      "views": 15509,
       "likes": 76,
       "retweets": 46
     },
@@ -6986,7 +6986,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105370789683879936/uRffy6XD_200x200.jpg"
     },
     "stats": {
-      "views": 15297,
+      "views": 15333,
       "likes": 242,
       "retweets": 17
     },
@@ -7022,8 +7022,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2111845511917633536/ChbiaDiF_200x200.jpg"
     },
     "stats": {
-      "views": 15207,
-      "likes": 188,
+      "views": 15230,
+      "likes": 187,
       "retweets": 20
     },
     "video": {
@@ -7058,7 +7058,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2021821952319795200/lJXZcelj_200x200.jpg"
     },
     "stats": {
-      "views": 14964,
+      "views": 14977,
       "likes": 55,
       "retweets": 5
     },
@@ -7094,8 +7094,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2052355432820457472/2JFHolfN_200x200.jpg"
     },
     "stats": {
-      "views": 14858,
-      "likes": 169,
+      "views": 14868,
+      "likes": 166,
       "retweets": 9
     },
     "video": {
@@ -7128,8 +7128,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2012998871891296256/J6em9jmn_200x200.jpg"
     },
     "stats": {
-      "views": 14740,
-      "likes": 92,
+      "views": 14750,
+      "likes": 91,
       "retweets": 5
     },
     "video": {
@@ -7164,7 +7164,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2072736027610079232/4ciEqy7h_200x200.jpg"
     },
     "stats": {
-      "views": 14738,
+      "views": 14744,
       "likes": 147,
       "retweets": 16
     },
@@ -7198,7 +7198,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2007792608056311808/ygBYIrQf_200x200.jpg"
     },
     "stats": {
-      "views": 14469,
+      "views": 14472,
       "likes": 241,
       "retweets": 18
     },
@@ -7234,9 +7234,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
     },
     "stats": {
-      "views": 13807,
-      "likes": 161,
-      "retweets": 26
+      "views": 13834,
+      "likes": 160,
+      "retweets": 25
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2077381966698278912.mp4",
@@ -7270,7 +7270,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2043791038528331776/rcl0HoZd_200x200.jpg"
     },
     "stats": {
-      "views": 13799,
+      "views": 13823,
       "likes": 108,
       "retweets": 6
     },
@@ -7304,7 +7304,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1986552149736660992/o4ITW_Ob_200x200.jpg"
     },
     "stats": {
-      "views": 13710,
+      "views": 13723,
       "likes": 152,
       "retweets": 8
     },
@@ -7340,9 +7340,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2061782278959935488/zxfVzXuw_200x200.jpg"
     },
     "stats": {
-      "views": 13591,
+      "views": 13633,
       "likes": 239,
-      "retweets": 24
+      "retweets": 23
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rovvmut__2089234802465742848.mp4",
@@ -7374,7 +7374,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2003752693735604224/vHCLO7Z-_200x200.jpg"
     },
     "stats": {
-      "views": 13562,
+      "views": 13574,
       "likes": 118,
       "retweets": 12
     },
@@ -7410,7 +7410,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2012998871891296256/J6em9jmn_200x200.jpg"
     },
     "stats": {
-      "views": 13359,
+      "views": 13366,
       "likes": 99,
       "retweets": 7
     },
@@ -7446,8 +7446,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2102800043044712448/aBhERnvb_200x200.jpg"
     },
     "stats": {
-      "views": 12771,
-      "likes": 143,
+      "views": 12777,
+      "likes": 142,
       "retweets": 1
     },
     "video": {
@@ -7480,9 +7480,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_200x200.jpg"
     },
     "stats": {
-      "views": 12717,
-      "likes": 107,
-      "retweets": 34
+      "views": 12724,
+      "likes": 106,
+      "retweets": 33
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Gorden_Sun_2022651239364964352.mp4",
@@ -7516,7 +7516,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_200x200.jpg"
     },
     "stats": {
-      "views": 12614,
+      "views": 12707,
       "likes": 30,
       "retweets": 1
     },
@@ -7552,7 +7552,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2103000956791394304/KPjjX-MI_200x200.jpg"
     },
     "stats": {
-      "views": 12528,
+      "views": 12535,
       "likes": 27,
       "retweets": 0
     },
@@ -7588,9 +7588,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/1793460098867838976/hoeoWt9M_200x200.jpg"
     },
     "stats": {
-      "views": 12398,
-      "likes": 90,
-      "retweets": 8
+      "views": 12407,
+      "likes": 87,
+      "retweets": 7
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/EHuanglu_2083245991227248641.mp4",
@@ -7660,8 +7660,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
     },
     "stats": {
-      "views": 11753,
-      "likes": 96,
+      "views": 11762,
+      "likes": 95,
       "retweets": 8
     },
     "video": {
@@ -7696,8 +7696,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1979606053672157184/-o_spHcQ_200x200.jpg"
     },
     "stats": {
-      "views": 11710,
-      "likes": 66,
+      "views": 11716,
+      "likes": 65,
       "retweets": 1
     },
     "video": {
@@ -7732,8 +7732,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1978667782213693440/bB_M8IqU_200x200.jpg"
     },
     "stats": {
-      "views": 11647,
-      "likes": 122,
+      "views": 11652,
+      "likes": 121,
       "retweets": 9
     },
     "video": {
@@ -7768,8 +7768,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2050527077112430592/ioztoXC0_200x200.jpg"
     },
     "stats": {
-      "views": 11364,
-      "likes": 170,
+      "views": 11372,
+      "likes": 169,
       "retweets": 5
     },
     "video": {
@@ -7802,7 +7802,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2031250772860731392/py9rDauU_200x200.jpg"
     },
     "stats": {
-      "views": 11306,
+      "views": 11357,
       "likes": 43,
       "retweets": 4
     },
@@ -7839,8 +7839,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075554270972370944/YkJBKGwK_200x200.jpg"
     },
     "stats": {
-      "views": 11207,
-      "likes": 119,
+      "views": 11218,
+      "likes": 118,
       "retweets": 12
     },
     "video": {
@@ -7875,8 +7875,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2042947369512374274/4xz_sKwW_200x200.jpg"
     },
     "stats": {
-      "views": 11179,
-      "likes": 70,
+      "views": 11207,
+      "likes": 69,
       "retweets": 12
     },
     "video": {
@@ -7911,7 +7911,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058197918759223297/0miDQZrI_200x200.jpg"
     },
     "stats": {
-      "views": 10853,
+      "views": 10855,
       "likes": 57,
       "retweets": 2
     },
@@ -7947,9 +7947,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2092121817905340416/rkjsHKjA_200x200.jpg"
     },
     "stats": {
-      "views": 10755,
-      "likes": 101,
-      "retweets": 91
+      "views": 10762,
+      "likes": 99,
+      "retweets": 89
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Weeleey6_2089243283905978368.mp4",
@@ -7983,7 +7983,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2109460739077414912/1IEhkn66_200x200.jpg"
     },
     "stats": {
-      "views": 10244,
+      "views": 10323,
       "likes": 30,
       "retweets": 0
     },
@@ -8017,7 +8017,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1811715899851964417/uIxksPGs_200x200.jpg"
     },
     "stats": {
-      "views": 10159,
+      "views": 10163,
       "likes": 168,
       "retweets": 13
     },
@@ -8053,7 +8053,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_200x200.jpg"
     },
     "stats": {
-      "views": 9453,
+      "views": 9464,
       "likes": 31,
       "retweets": 1
     },
@@ -8089,7 +8089,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2061782278959935488/zxfVzXuw_200x200.jpg"
     },
     "stats": {
-      "views": 9419,
+      "views": 9434,
       "likes": 156,
       "retweets": 14
     },
@@ -8125,7 +8125,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105370789683879936/uRffy6XD_200x200.jpg"
     },
     "stats": {
-      "views": 9357,
+      "views": 9385,
       "likes": 48,
       "retweets": 5
     },
@@ -8161,9 +8161,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2100947311069392896/OI-iq-eE_200x200.jpg"
     },
     "stats": {
-      "views": 9279,
-      "likes": 114,
-      "retweets": 13
+      "views": 9310,
+      "likes": 111,
+      "retweets": 12
     },
     "video": {
       "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/AIwithWania_2097927032680390656.mp4",
@@ -8195,7 +8195,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2072736027610079232/4ciEqy7h_200x200.jpg"
     },
     "stats": {
-      "views": 9072,
+      "views": 9080,
       "likes": 61,
       "retweets": 2
     },
@@ -8232,8 +8232,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075554270972370944/YkJBKGwK_200x200.jpg"
     },
     "stats": {
-      "views": 8870,
-      "likes": 179,
+      "views": 8873,
+      "likes": 178,
       "retweets": 9
     },
     "video": {
@@ -8268,7 +8268,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2010801415007191042/y6jILtcn_200x200.jpg"
     },
     "stats": {
-      "views": 8814,
+      "views": 8821,
       "likes": 84,
       "retweets": 5
     },
@@ -8305,7 +8305,7 @@
     },
     "stats": {
       "views": 8728,
-      "likes": 146,
+      "likes": 143,
       "retweets": 8
     },
     "video": {
@@ -8340,7 +8340,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1890156284688605184/-A5Q6izz_200x200.jpg"
     },
     "stats": {
-      "views": 8653,
+      "views": 8654,
       "likes": 95,
       "retweets": 5
     },
@@ -8376,7 +8376,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2011073742378549248/vYtcYdKM_200x200.jpg"
     },
     "stats": {
-      "views": 8146,
+      "views": 8162,
       "likes": 126,
       "retweets": 9
     },
@@ -8410,7 +8410,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1927614581754470400/89Mc0pNW_200x200.jpg"
     },
     "stats": {
-      "views": 8037,
+      "views": 8046,
       "likes": 16,
       "retweets": 2
     },
@@ -8444,7 +8444,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1891166582786920448/3zG6a7Pi_200x200.jpg"
     },
     "stats": {
-      "views": 7994,
+      "views": 8004,
       "likes": 52,
       "retweets": 5
     },
@@ -8480,7 +8480,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2071255149272530944/rWZok_ca_200x200.jpg"
     },
     "stats": {
-      "views": 7814,
+      "views": 7820,
       "likes": 64,
       "retweets": 2
     },
@@ -8514,7 +8514,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2100351964026724352/tdO3OmtG_200x200.jpg"
     },
     "stats": {
-      "views": 7139,
+      "views": 7197,
       "likes": 11,
       "retweets": 2
     },
@@ -8550,8 +8550,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2011073742378549248/vYtcYdKM_200x200.jpg"
     },
     "stats": {
-      "views": 6811,
-      "likes": 93,
+      "views": 6824,
+      "likes": 92,
       "retweets": 7
     },
     "video": {
@@ -8584,7 +8584,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1811715899851964417/uIxksPGs_200x200.jpg"
     },
     "stats": {
-      "views": 6644,
+      "views": 6652,
       "likes": 143,
       "retweets": 10
     },
@@ -8618,7 +8618,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1615753720691556375/3IlAzsa0_200x200.jpg"
     },
     "stats": {
-      "views": 6454,
+      "views": 6455,
       "likes": 27,
       "retweets": 2
     },
@@ -8652,7 +8652,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1336906988576452609/u9n5MLzn_200x200.jpg"
     },
     "stats": {
-      "views": 6441,
+      "views": 6445,
       "likes": 33,
       "retweets": 1
     },
@@ -8688,7 +8688,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1666802564002893824/5fF909Jc_200x200.jpg"
     },
     "stats": {
-      "views": 6024,
+      "views": 6063,
       "likes": 72,
       "retweets": 5
     },
@@ -8722,7 +8722,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2046030035241607168/148F4m4X_200x200.jpg"
     },
     "stats": {
-      "views": 4877,
+      "views": 4898,
       "likes": 20,
       "retweets": 3
     },
@@ -8758,7 +8758,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1774920517369335808/SzyeBG2Y_200x200.jpg"
     },
     "stats": {
-      "views": 4530,
+      "views": 4532,
       "likes": 100,
       "retweets": 3
     },
@@ -8794,7 +8794,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2029511617373958144/6Tn2GF7m_200x200.jpg"
     },
     "stats": {
-      "views": 4514,
+      "views": 4522,
       "likes": 81,
       "retweets": 6
     },
@@ -8830,7 +8830,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2105415334174035969/s4vIZUVA_200x200.jpg"
     },
     "stats": {
-      "views": 4463,
+      "views": 4466,
       "likes": 61,
       "retweets": 1
     },
@@ -8866,7 +8866,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 4247,
+      "views": 4302,
       "likes": 15,
       "retweets": 0
     },
@@ -8936,7 +8936,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2003752693735604224/vHCLO7Z-_200x200.jpg"
     },
     "stats": {
-      "views": 4122,
+      "views": 4125,
       "likes": 57,
       "retweets": 2
     },
@@ -8972,7 +8972,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2081142217356259328/nepAJg5p_200x200.jpg"
     },
     "stats": {
-      "views": 3938,
+      "views": 3941,
       "likes": 43,
       "retweets": 2
     },
@@ -9006,7 +9006,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1739256766074908672/RsbzxQ3__200x200.jpg"
     },
     "stats": {
-      "views": 3923,
+      "views": 3927,
       "likes": 71,
       "retweets": 1
     },
@@ -9040,7 +9040,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2112923560171991040/f4vuLpd4_200x200.jpg"
     },
     "stats": {
-      "views": 3903,
+      "views": 3905,
       "likes": 31,
       "retweets": 3
     },
@@ -9074,7 +9074,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1891166582786920448/3zG6a7Pi_200x200.jpg"
     },
     "stats": {
-      "views": 3807,
+      "views": 3823,
       "likes": 41,
       "retweets": 1
     },
@@ -9110,8 +9110,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2043694345749196800/vsv-cxdT_200x200.jpg"
     },
     "stats": {
-      "views": 3783,
-      "likes": 68,
+      "views": 3793,
+      "likes": 67,
       "retweets": 4
     },
     "video": {
@@ -9123,40 +9123,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2091138221493075968/vid/avc1/720x1280/aSx3_28LJFoCt9HO.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/PrometheanAIX_2091138221493075968.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/PrometheanAIX_2091138221493075968.poster.webp",
-      "attachment": null
-    }
-  },
-  {
-    "id": "2083291892163506584",
-    "url": "https://x.com/kantakanta1233/status/2083291892163506584",
-    "title": "#capcutseedance25 #capcutcpp",
-    "text": "#capcutseedance25 #capcutcpp\n\nおはようございます😃\n\nSeedance 2.5製作\n魔法の街を駆け巡る、セレスティア✨\n\nプロンプトはリプ欄にあります。\nアレンジご自由にお使いください😊\n\nストーリーボードあった方がいいかも🤔\n\n@capcutapp_jp",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.5",
-    "category": "Showcase",
-    "date": "2026-07-31",
-    "author": {
-      "name": "Risa",
-      "handle": "kantakanta1233",
-      "url": "https://x.com/kantakanta1233",
-      "avatar": "https://pbs.twimg.com/profile_images/2042215381591568384/Ncl_0an9_200x200.jpg"
-    },
-    "stats": {
-      "views": 3773,
-      "likes": 145,
-      "retweets": 42
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083291759443103745/img/rUAXe1xEGDASwbVc.jpg",
-      "width": 2880,
-      "height": 2160,
-      "duration": 30.17,
-      "source_url": "https://video.twimg.com/amplify_video/2083291759443103745/vid/avc1/2880x2160/3WB4ZqY-2N1aUUid.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.poster.webp",
       "attachment": null
     }
   },
@@ -9178,7 +9144,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2046030035241607168/148F4m4X_200x200.jpg"
     },
     "stats": {
-      "views": 3758,
+      "views": 3778,
       "likes": 8,
       "retweets": 1
     },
@@ -9191,6 +9157,40 @@
       "source_url": "https://video.twimg.com/amplify_video/2083140395119394816/vid/avc1/1280x720/qSK7sZTibuzcSwkq.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/tanabe_fragm_2083140395119394816.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/tanabe_fragm_2083140395119394816.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2083291892163506584",
+    "url": "https://x.com/kantakanta1233/status/2083291892163506584",
+    "title": "#capcutseedance25 #capcutcpp",
+    "text": "#capcutseedance25 #capcutcpp\n\nおはようございます😃\n\nSeedance 2.5製作\n魔法の街を駆け巡る、セレスティア✨\n\nプロンプトはリプ欄にあります。\nアレンジご自由にお使いください😊\n\nストーリーボードあった方がいいかも🤔\n\n@capcutapp_jp",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.5",
+    "category": "Showcase",
+    "date": "2026-07-31",
+    "author": {
+      "name": "Risa",
+      "handle": "kantakanta1233",
+      "url": "https://x.com/kantakanta1233",
+      "avatar": "https://pbs.twimg.com/profile_images/2042215381591568384/Ncl_0an9_200x200.jpg"
+    },
+    "stats": {
+      "views": 3776,
+      "likes": 146,
+      "retweets": 42
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083291759443103745/img/rUAXe1xEGDASwbVc.jpg",
+      "width": 2880,
+      "height": 2160,
+      "duration": 30.17,
+      "source_url": "https://video.twimg.com/amplify_video/2083291759443103745/vid/avc1/2880x2160/3WB4ZqY-2N1aUUid.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/kantakanta1233_2083291759443103745.poster.webp",
       "attachment": null
     }
   },
@@ -9246,7 +9246,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1800905718997864448/qdHxO3Qu_200x200.jpg"
     },
     "stats": {
-      "views": 3410,
+      "views": 3413,
       "likes": 52,
       "retweets": 5
     },
@@ -9280,7 +9280,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1666802564002893824/5fF909Jc_200x200.jpg"
     },
     "stats": {
-      "views": 3341,
+      "views": 3352,
       "likes": 31,
       "retweets": 4
     },
@@ -9352,7 +9352,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2041535697631457280/XYLrrjRJ_200x200.jpg"
     },
     "stats": {
-      "views": 3312,
+      "views": 3325,
       "likes": 65,
       "retweets": 2
     },
@@ -9388,7 +9388,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2099167075503874048/ZlBreeHm_200x200.jpg"
     },
     "stats": {
-      "views": 3256,
+      "views": 3272,
       "likes": 17,
       "retweets": 1
     },
@@ -9422,7 +9422,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1646825232663994368/QM8Iy2m3_200x200.jpg"
     },
     "stats": {
-      "views": 3164,
+      "views": 3166,
       "likes": 131,
       "retweets": 16
     },
@@ -9458,7 +9458,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 3111,
+      "views": 3120,
       "likes": 23,
       "retweets": 2
     },
@@ -9492,7 +9492,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2003752693735604224/vHCLO7Z-_200x200.jpg"
     },
     "stats": {
-      "views": 3088,
+      "views": 3091,
       "likes": 56,
       "retweets": 3
     },
@@ -9528,7 +9528,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2091719872678125568/1HV0p0OK_200x200.jpg"
     },
     "stats": {
-      "views": 2807,
+      "views": 2820,
       "likes": 11,
       "retweets": 1
     },
@@ -9564,7 +9564,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2021821952319795200/lJXZcelj_200x200.jpg"
     },
     "stats": {
-      "views": 2749,
+      "views": 2751,
       "likes": 40,
       "retweets": 2
     },
@@ -9598,7 +9598,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2097014515070349312/Fh6B3Hkf_200x200.jpg"
     },
     "stats": {
-      "views": 2518,
+      "views": 2522,
       "likes": 35,
       "retweets": 3
     },
@@ -9612,6 +9612,42 @@
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/D_studioproject_2055930888769478656.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/D_studioproject_2055930888769478656.poster.webp",
       "attachment": "https://github.com/user-attachments/assets/a5aaea75-d5c8-4eaa-8e39-cf2cd064c667"
+    }
+  },
+  {
+    "id": "2091944472007622694",
+    "url": "https://x.com/Naiknelofar788/status/2091944472007622694",
+    "title": "Create an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the…",
+    "text": "Seedance 2.5\n\nPrompt:\n30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
+    "prompt": "30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
+    "prompt_in_thread": false,
+    "prompt_source_urls": [
+      "https://x.com/Naiknelofar788/status/2091944472007622694"
+    ],
+    "model": "Seedance 2.5",
+    "category": "Prompting & Workflow",
+    "date": "2026-08-24",
+    "author": {
+      "name": "simeon-sanai",
+      "handle": "Naiknelofar788",
+      "url": "https://x.com/Naiknelofar788",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
+    },
+    "stats": {
+      "views": 2502,
+      "likes": 35,
+      "retweets": 0
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2091944398015918080.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091944398015918080/img/o-cjCe6ohLr8aF3p.jpg",
+      "width": 1920,
+      "height": 1080,
+      "duration": 30.08,
+      "source_url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1920x1080/fwbA2SvspHu-ze2y.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2091944398015918080.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2091944398015918080.poster.webp",
+      "attachment": null
     }
   },
   {
@@ -9647,42 +9683,6 @@
       "source_url": "https://video.twimg.com/amplify_video/2083112294704390145/vid/avc1/3840x2160/vkI27wiGv-joxybb.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rafalors_2083112294704390145.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/rafalors_2083112294704390145.poster.webp",
-      "attachment": null
-    }
-  },
-  {
-    "id": "2091944472007622694",
-    "url": "https://x.com/Naiknelofar788/status/2091944472007622694",
-    "title": "Create an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the…",
-    "text": "Seedance 2.5\n\nPrompt:\n30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
-    "prompt": "30s | 16:9\n\nCreate an ultra-photorealistic Chinese historical TV drama. Use Image 1 only for the woman’s face, identity, and hairstyle; maintain strict consistency. She wears an elegant emerald-green silk historical robe with delicate embroidery and hair ornaments.\n\n0–5s: Wide palace courtyard at dusk—red wooden architecture, tiled roofs, lanterns, mist. She walks through a covered corridor as the camera smoothly tracks backward.\n\n5–10s: Medium close-up. She stops beneath a lantern, looks off-camera, and quietly says in Mandarin: “你终于来了。” Natural lip-sync and subtle emotion.\n\n10–20s: Camera moves around her toward a distant figure, then slowly pushes into an extreme close-up. Realistic skin, eyes, hair, fabric, hand movement, and lantern flame.\n\n20–25s: Camera pulls back, revealing the historical environment is actually a film set—lights, camera rigs, green screen, motion-capture equipment, and monitors appear.\n\n25–30s: Continue pulling back to reveal a production monitor showing the exact same photorealistic scene. Cut to black.\n\nFinal text only: “Would you know this was AI?”\n\nPremium cinematic television quality, authentic period detail, natural human motion, realistic physics, consistent identity, seamless continuity, no visible AI artifacts.",
-    "prompt_in_thread": false,
-    "prompt_source_urls": [
-      "https://x.com/Naiknelofar788/status/2091944472007622694"
-    ],
-    "model": "Seedance 2.5",
-    "category": "Prompting & Workflow",
-    "date": "2026-08-24",
-    "author": {
-      "name": "simeon-sanai",
-      "handle": "Naiknelofar788",
-      "url": "https://x.com/Naiknelofar788",
-      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
-    },
-    "stats": {
-      "views": 2491,
-      "likes": 35,
-      "retweets": 0
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2091944398015918080.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091944398015918080/img/o-cjCe6ohLr8aF3p.jpg",
-      "width": 1920,
-      "height": 1080,
-      "duration": 30.08,
-      "source_url": "https://video.twimg.com/amplify_video/2091944398015918080/vid/avc1/1920x1080/fwbA2SvspHu-ze2y.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2091944398015918080.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Naiknelofar788_2091944398015918080.poster.webp",
       "attachment": null
     }
   },
@@ -9740,7 +9740,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2112785736105889792/t_legA6K_200x200.jpg"
     },
     "stats": {
-      "views": 2440,
+      "views": 2444,
       "likes": 45,
       "retweets": 2
     },
@@ -9776,7 +9776,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 2373,
+      "views": 2382,
       "likes": 43,
       "retweets": 4
     },
@@ -9810,8 +9810,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1633773130085814272/kkGt7Su7_200x200.jpg"
     },
     "stats": {
-      "views": 2349,
-      "likes": 36,
+      "views": 2352,
+      "likes": 35,
       "retweets": 9
     },
     "video": {
@@ -9846,7 +9846,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 2343,
+      "views": 2349,
       "likes": 54,
       "retweets": 1
     },
@@ -9882,7 +9882,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1997393120204652544/MOSbWk4n_200x200.jpg"
     },
     "stats": {
-      "views": 2231,
+      "views": 2256,
       "likes": 74,
       "retweets": 4
     },
@@ -9916,7 +9916,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2080213294464249856/-3188mYt_200x200.jpg"
     },
     "stats": {
-      "views": 2179,
+      "views": 2181,
       "likes": 23,
       "retweets": 2
     },
@@ -9984,7 +9984,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2118081702975197184/c_Eam9WP_200x200.jpg"
     },
     "stats": {
-      "views": 1977,
+      "views": 1984,
       "likes": 28,
       "retweets": 4
     },
@@ -9997,6 +9997,40 @@
       "source_url": "https://video.twimg.com/amplify_video/2083252589269860352/vid/avc1/1280x720/ELB_p-UjlqRmarBf.mp4?tag=29",
       "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/maxescu_2083252589269860352.webp",
       "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/maxescu_2083252589269860352.poster.webp",
+      "attachment": null
+    }
+  },
+  {
+    "id": "2083356844941246879",
+    "url": "https://x.com/Vtuber7144/status/2083356844941246879",
+    "title": "『No Ideas....』",
+    "text": "『No Ideas....』\nMade with @capcutapp @capcutapp_jp\ncapcutseedance25  capcutcpp\n\nI drew a blank. Thirty seconds, straight out of the model—just a light color pass. Prompt and references in the replies.",
+    "prompt": null,
+    "prompt_in_thread": false,
+    "prompt_source_urls": [],
+    "model": "Seedance 2.0",
+    "category": "Showcase",
+    "date": "2026-08-01",
+    "author": {
+      "name": "残念院さん 貴方のファンアートを糧にすくすく育つ怪物系教祖",
+      "handle": "Vtuber7144",
+      "url": "https://x.com/Vtuber7144",
+      "avatar": "https://pbs.twimg.com/profile_images/2073979423221780480/pypeTaIY_200x200.jpg"
+    },
+    "stats": {
+      "views": 1832,
+      "likes": 31,
+      "retweets": 7
+    },
+    "video": {
+      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Vtuber7144_2083352336504913920.mp4",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083352336504913920/img/wmYITIpSYtyWbAdE.jpg",
+      "width": 2560,
+      "height": 1440,
+      "duration": 30.08,
+      "source_url": "https://video.twimg.com/amplify_video/2083352336504913920/vid/avc1/2560x1440/TYmkNnDoKu1KCV8M.mp4?tag=29",
+      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Vtuber7144_2083352336504913920.webp",
+      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Vtuber7144_2083352336504913920.poster.webp",
       "attachment": null
     }
   },
@@ -10035,40 +10069,6 @@
     }
   },
   {
-    "id": "2083356844941246879",
-    "url": "https://x.com/Vtuber7144/status/2083356844941246879",
-    "title": "『No Ideas....』",
-    "text": "『No Ideas....』\nMade with @capcutapp @capcutapp_jp\ncapcutseedance25  capcutcpp\n\nI drew a blank. Thirty seconds, straight out of the model—just a light color pass. Prompt and references in the replies.",
-    "prompt": null,
-    "prompt_in_thread": false,
-    "prompt_source_urls": [],
-    "model": "Seedance 2.0",
-    "category": "Showcase",
-    "date": "2026-08-01",
-    "author": {
-      "name": "残念院さん 貴方のファンアートを糧にすくすく育つ怪物系教祖",
-      "handle": "Vtuber7144",
-      "url": "https://x.com/Vtuber7144",
-      "avatar": "https://pbs.twimg.com/profile_images/2073979423221780480/pypeTaIY_200x200.jpg"
-    },
-    "stats": {
-      "views": 1816,
-      "likes": 31,
-      "retweets": 7
-    },
-    "video": {
-      "url": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Vtuber7144_2083352336504913920.mp4",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083352336504913920/img/wmYITIpSYtyWbAdE.jpg",
-      "width": 2560,
-      "height": 1440,
-      "duration": 30.08,
-      "source_url": "https://video.twimg.com/amplify_video/2083352336504913920/vid/avc1/2560x1440/TYmkNnDoKu1KCV8M.mp4?tag=29",
-      "preview": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Vtuber7144_2083352336504913920.webp",
-      "poster": "https://pub-21846f909b8042c98ed40eb94282ba92.r2.dev/Vtuber7144_2083352336504913920.poster.webp",
-      "attachment": null
-    }
-  },
-  {
     "id": "2053362746469814317",
     "url": "https://x.com/Itswsm105f/status/2053362746469814317",
     "title": "Luxury face-lotion commercial montage in a studio",
@@ -10088,8 +10088,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2026229328909148160/THujiwCQ_200x200.jpg"
     },
     "stats": {
-      "views": 1667,
-      "likes": 102,
+      "views": 1670,
+      "likes": 101,
       "retweets": 16
     },
     "video": {
@@ -10122,7 +10122,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1830235227299495937/ALNEgDB2_200x200.jpg"
     },
     "stats": {
-      "views": 1602,
+      "views": 1610,
       "likes": 23,
       "retweets": 1
     },
@@ -10194,7 +10194,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2060710382570979328/trcXbnuV_200x200.jpg"
     },
     "stats": {
-      "views": 1549,
+      "views": 1554,
       "likes": 28,
       "retweets": 2
     },
@@ -10264,7 +10264,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 1501,
+      "views": 1509,
       "likes": 26,
       "retweets": 3
     },
@@ -10334,8 +10334,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2067496907539423232/iINU2emd_200x200.jpg"
     },
     "stats": {
-      "views": 1417,
-      "likes": 89,
+      "views": 1419,
+      "likes": 88,
       "retweets": 1
     },
     "video": {
@@ -10370,7 +10370,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 1408,
+      "views": 1414,
       "likes": 33,
       "retweets": 0
     },
@@ -10406,7 +10406,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 1392,
+      "views": 1394,
       "likes": 32,
       "retweets": 1
     },
@@ -10442,7 +10442,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2115825830253191168/XtDIz9kf_200x200.jpg"
     },
     "stats": {
-      "views": 1382,
+      "views": 1386,
       "likes": 6,
       "retweets": 1
     },
@@ -10478,7 +10478,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_200x200.jpg"
     },
     "stats": {
-      "views": 1361,
+      "views": 1363,
       "likes": 2,
       "retweets": 0
     },
@@ -10514,7 +10514,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2034724367968739329/qCwbI2-e_200x200.jpg"
     },
     "stats": {
-      "views": 1299,
+      "views": 1322,
       "likes": 4,
       "retweets": 1
     },
@@ -10550,7 +10550,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2012703722128744448/nfc7QD3e_200x200.jpg"
     },
     "stats": {
-      "views": 1234,
+      "views": 1240,
       "likes": 26,
       "retweets": 2
     },
@@ -10586,7 +10586,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2069744756079415296/JFd5OtXj_200x200.jpg"
     },
     "stats": {
-      "views": 1208,
+      "views": 1211,
       "likes": 39,
       "retweets": 1
     },
@@ -10620,7 +10620,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1861526479550717952/VjxJF6A2_200x200.jpg"
     },
     "stats": {
-      "views": 1154,
+      "views": 1159,
       "likes": 7,
       "retweets": 1
     },
@@ -10654,8 +10654,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2100351964026724352/tdO3OmtG_200x200.jpg"
     },
     "stats": {
-      "views": 1139,
-      "likes": 6,
+      "views": 1141,
+      "likes": 5,
       "retweets": 2
     },
     "video": {
@@ -10690,7 +10690,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2117396952627171328/HoH1ea3J_200x200.jpg"
     },
     "stats": {
-      "views": 1088,
+      "views": 1092,
       "likes": 14,
       "retweets": 2
     },
@@ -10724,7 +10724,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2076289959301169152/jCSbgz8N_200x200.jpg"
     },
     "stats": {
-      "views": 1034,
+      "views": 1036,
       "likes": 2,
       "retweets": 0
     },
@@ -10758,7 +10758,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2082801867818471425/dPF_TxTq_200x200.jpg"
     },
     "stats": {
-      "views": 983,
+      "views": 984,
       "likes": 6,
       "retweets": 0
     },
@@ -10792,7 +10792,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1952351885878272000/LnP--9CT_200x200.jpg"
     },
     "stats": {
-      "views": 981,
+      "views": 982,
       "likes": 3,
       "retweets": 1
     },
@@ -10826,7 +10826,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2035919510042189824/jB2qxwrj_200x200.jpg"
     },
     "stats": {
-      "views": 970,
+      "views": 971,
       "likes": 23,
       "retweets": 0
     },
@@ -10860,7 +10860,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2031887992416321536/5KGE24On_200x200.jpg"
     },
     "stats": {
-      "views": 968,
+      "views": 969,
       "likes": 27,
       "retweets": 0
     },
@@ -10896,7 +10896,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2080764421207683072/jkEBnXLt_200x200.jpg"
     },
     "stats": {
-      "views": 927,
+      "views": 928,
       "likes": 6,
       "retweets": 0
     },
@@ -10932,7 +10932,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1956110789414133760/c5JPPSBy_200x200.jpg"
     },
     "stats": {
-      "views": 858,
+      "views": 876,
       "likes": 8,
       "retweets": 1
     },
@@ -11138,7 +11138,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1633773130085814272/kkGt7Su7_200x200.jpg"
     },
     "stats": {
-      "views": 537,
+      "views": 538,
       "likes": 12,
       "retweets": 1
     },
@@ -11172,7 +11172,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2071584847814881280/dVjTqxhI_200x200.jpg"
     },
     "stats": {
-      "views": 457,
+      "views": 458,
       "likes": 1,
       "retweets": 0
     },
@@ -11206,7 +11206,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2072959402924290048/_l0c9ay0_200x200.jpg"
     },
     "stats": {
-      "views": 417,
+      "views": 418,
       "likes": 1,
       "retweets": 0
     },
@@ -11240,7 +11240,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2082790560604291073/OMtPGl7U_200x200.jpg"
     },
     "stats": {
-      "views": 212,
+      "views": 214,
       "likes": 1,
       "retweets": 0
     },
@@ -11271,7 +11271,7 @@
       "name": "Faith.Aifilm",
       "handle": "FaithAifilm",
       "url": "https://x.com/FaithAifilm",
-      "avatar": "https://pbs.twimg.com/profile_images/2087555299645575168/rk3ozvi0_200x200.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/2123390642764255232/61GgwtJg_200x200.jpg"
     },
     "stats": {
       "views": 154,
